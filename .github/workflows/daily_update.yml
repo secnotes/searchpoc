@@ -1,0 +1,63 @@
+name: Daily CVE Data Update
+
+on:
+  schedule:
+    # Run at 00:00 UTC daily (8:00 AM Beijing Time)
+    - cron: '0 0 * * *'
+  workflow_dispatch: # Allow manual trigger
+
+permissions:
+  contents: write
+
+jobs:
+  update-cve-data:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.x'
+
+      - name: Install dependencies
+        run: |
+          python -m pip install --upgrade pip
+          pip install requests beautifulsoup4
+
+      - name: Run unsafe CVE scraper
+        run: |
+          python unsafe/cve_poc_scraper_append.py unsafe/cve_poc_unsafe.json
+
+      - name: Run trickest CVE crawler
+        run: |
+          python trickest/crawl_trickest.py trickest/trickest_cve.json
+
+      - name: Generate search HTML
+        run: |
+          python generate_search.py
+
+      - name: Check for changes
+        id: check_changes
+        run: |
+          git diff --quiet || echo "has_changes=true" >> $GITHUB_OUTPUT
+
+      - name: Commit and push changes
+        if: steps.check_changes.outputs.has_changes == 'true'
+        run: |
+          git config --local user.email "github-actions[bot]@users.noreply.github.com"
+          git config --local user.name "github-actions[bot]"
+          git add -A
+          git commit -m "$(cat <<'EOF'
+          chore: daily CVE data update
+
+          - Update unsafe CVE PoC data
+          - Update trickest CVE references
+          - Regenerate index.html
+
+          Co-Authored-By: Claude (glm-5) <noreply@anthropic.com>
+          EOF
+          )"
+          git push
