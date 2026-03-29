@@ -25,14 +25,14 @@ python3 generate_search.py
 
 This will:
 1. Load CVE data from all sources defined in `config.json`
-2. Generate `search/index.html` with embedded data
+2. Generate `index.html` with embedded data
 3. Display statistics (total CVE entries and PoC links)
 
 ### Open the Search Page
 
-Simply open `search/index.html` in your browser:
+Simply open `index.html` in your browser:
 - Double-click the file
-- Or use: `firefox search/index.html`
+- Or use: `firefox index.html`
 
 ### Search for CVE
 

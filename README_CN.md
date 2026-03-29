@@ -23,14 +23,14 @@ python3 generate_search.py
 
 脚本会：
 1. 从 `config.json` 定义的所有数据源加载CVE数据
-2. 生成 `search/index.html`（数据已嵌入）
+2. 生成 `index.html`（数据已嵌入）
 3. 显示统计信息（CVE条目数和PoC链接数）
 
 ### 打开搜索页面
 
-直接在浏览器中打开 `search/index.html`：
+直接在浏览器中打开 `index.html`：
 - 双击文件
-- 或使用命令：`firefox search/index.html`
+- 或使用命令：`firefox index.html`
 
 ### 搜索CVE
 

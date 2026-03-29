@@ -47,11 +47,13 @@ def load_cve_data(config):
     return cve_dict
 
 
-def generate_html(cve_data, output_path="search/index.html"):
+def generate_html(cve_data, output_path="index.html"):
     """Generate modern HTML search engine"""
 
-    # Ensure search directory exists
-    os.makedirs(os.path.dirname(output_path), exist_ok=True)
+    # Ensure output directory exists
+    output_dir = os.path.dirname(output_path)
+    if output_dir:
+        os.makedirs(output_dir, exist_ok=True)
 
     # Convert to compact JSON for JS (no indent, minimal size)
     cve_json = json.dumps(cve_data, ensure_ascii=False, separators=(',', ':'))
