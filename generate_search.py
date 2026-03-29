@@ -386,6 +386,19 @@ def generate_html(cve_data, output_path="index.html"):
             font-size: 0.85rem;
         }
 
+        .footer p {
+            margin: 5px 0;
+        }
+
+        .footer a {
+            color: var(--color-highlight);
+            text-decoration: none;
+        }
+
+        .footer a:hover {
+            text-decoration: underline;
+        }
+
         @media (max-width: 600px) {
             .header h1 {
                 font-size: 1.8rem;
@@ -455,7 +468,8 @@ def generate_html(cve_data, output_path="index.html"):
         <div class="results-container" id="resultsContainer"></div>
 
         <div class="footer">
-            Generated on ''' + datetime.now().strftime('%Y-%m-%d %H:%M:%S') + '''
+            <p>&copy; 2026 <a href="https://github.com/secnotes" target="_blank">Security Notes</a></p>
+            <p>Generated on ''' + datetime.now().strftime('%Y-%m-%d %H:%M:%S') + '''</p>
         </div>
     </div>
 
