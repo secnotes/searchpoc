@@ -351,9 +351,8 @@ def generate_html(cve_data, output_path="index.html"):
         }
 
         .poc-link span {
-            overflow: hidden;
-            text-overflow: ellipsis;
-            white-space: nowrap;
+            word-break: break-all;
+            line-height: 1.4;
         }
 
         .no-results {
@@ -424,6 +423,66 @@ def generate_html(cve_data, output_path="index.html"):
             height: 16px;
         }
 
+        .pagination {
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            gap: 10px;
+            margin-top: 30px;
+            flex-wrap: wrap;
+        }
+
+        .pagination button {
+            padding: 8px 16px;
+            background: var(--bg-stat);
+            border: 1px solid var(--border-stat);
+            border-radius: 8px;
+            color: var(--text-primary);
+            cursor: pointer;
+            transition: all 0.2s ease;
+        }
+
+        .pagination button:hover:not(:disabled) {
+            border-color: var(--color-highlight);
+            color: var(--color-highlight);
+        }
+
+        .pagination button:disabled {
+            opacity: 0.5;
+            cursor: not-allowed;
+        }
+
+        .pagination .page-info {
+            color: var(--text-muted);
+            font-size: 0.9rem;
+        }
+
+        .pagination .page-numbers {
+            display: flex;
+            gap: 5px;
+        }
+
+        .pagination .page-num {
+            padding: 8px 12px;
+            background: var(--bg-stat);
+            border: 1px solid var(--border-stat);
+            border-radius: 6px;
+            color: var(--text-muted);
+            cursor: pointer;
+            transition: all 0.2s ease;
+        }
+
+        .pagination .page-num:hover {
+            border-color: var(--color-highlight);
+            color: var(--color-highlight);
+        }
+
+        .pagination .page-num.active {
+            background: var(--color-highlight);
+            color: #fff;
+            border-color: var(--color-highlight);
+        }
+
         @media (max-width: 600px) {
             .header h1 {
                 font-size: 1.8rem;
@@ -492,6 +551,8 @@ def generate_html(cve_data, output_path="index.html"):
 
         <div class="results-container" id="resultsContainer"></div>
 
+        <div class="pagination" id="pagination"></div>
+
         <div class="footer">
             <p>
                 &copy; 2026 <a href="https://github.com/secnotes" target="_blank">Security Notes</a>
@@ -514,9 +575,15 @@ def generate_html(cve_data, output_path="index.html"):
         const searchBtn = document.getElementById('searchBtn');
         const resultsContainer = document.getElementById('resultsContainer');
         const resultsInfo = document.getElementById('resultsInfo');
+        const paginationContainer = document.getElementById('pagination');
         const themeToggle = document.getElementById('themeToggle');
         const themeIcon = document.getElementById('themeIcon');
         const themeText = document.getElementById('themeText');
+
+        // Pagination settings
+        const ITEMS_PER_PAGE = 20;
+        let currentResults = [];
+        let currentPage = 1;
 
         // Sun icon SVG path
         const sunIcon = '<circle cx="12" cy="12" r="5"></circle><path d="M12 1v2M12 21v2M4.22 4.22l1.42 1.42M18.36 18.36l1.42 1.42M1 12h2M21 12h2M4.22 19.78l1.42-1.42M18.36 5.64l1.42-1.42"></path>';
@@ -554,6 +621,8 @@ def generate_html(cve_data, output_path="index.html"):
             if (!query) {
                 resultsContainer.innerHTML = '';
                 resultsInfo.textContent = '';
+                paginationContainer.innerHTML = '';
+                currentResults = [];
                 return;
             }
 
@@ -568,10 +637,16 @@ def generate_html(cve_data, output_path="index.html"):
             // Sort by CVE ID (newer first)
             results.sort((a, b) => b.cveId.localeCompare(a.cveId));
 
-            displayResults(results, query);
+            currentResults = results;
+            currentPage = 1;
+            displayResults();
+            renderPagination();
         }
 
-        function displayResults(results, query) {
+        function displayResults() {
+            const results = currentResults;
+            const query = searchInput.value.trim().toUpperCase();
+
             if (results.length === 0) {
                 resultsContainer.innerHTML = `
                     <div class="no-results">
@@ -583,10 +658,16 @@ def generate_html(cve_data, output_path="index.html"):
                 return;
             }
 
-            resultsInfo.textContent = results.length + ' result' + (results.length > 1 ? 's' : '') + ' found';
+            const totalPages = Math.ceil(results.length / ITEMS_PER_PAGE);
+            const startIndex = (currentPage - 1) * ITEMS_PER_PAGE;
+            const endIndex = startIndex + ITEMS_PER_PAGE;
+            const pageResults = results.slice(startIndex, endIndex);
+
+            resultsInfo.textContent = results.length + ' result' + (results.length > 1 ? 's' : '') + ' found' +
+                (totalPages > 1 ? ', showing page ' + currentPage + ' of ' + totalPages : '');
 
             let html = '';
-            for (const result of results) {
+            for (const result of pageResults) {
                 const pocCount = result.pocs.length;
                 html += `
                     <div class="result-card">
@@ -606,6 +687,83 @@ def generate_html(cve_data, output_path="index.html"):
             }
 
             resultsContainer.innerHTML = html;
+        }
+
+        function renderPagination() {
+            const totalResults = currentResults.length;
+            if (totalResults <= ITEMS_PER_PAGE) {
+                paginationContainer.innerHTML = '';
+                return;
+            }
+
+            const totalPages = Math.ceil(totalResults / ITEMS_PER_PAGE);
+
+            let html = '<button id="prevPage" ' + (currentPage === 1 ? 'disabled' : '') + '>Previous</button>';
+
+            // Page numbers
+            html += '<div class="page-numbers">';
+            const maxVisible = 5;
+            let startPage = Math.max(1, currentPage - Math.floor(maxVisible / 2));
+            let endPage = Math.min(totalPages, startPage + maxVisible - 1);
+
+            if (endPage - startPage < maxVisible - 1) {
+                startPage = Math.max(1, endPage - maxVisible + 1);
+            }
+
+            if (startPage > 1) {
+                html += '<span class="page-num" data-page="1">1</span>';
+                if (startPage > 2) {
+                    html += '<span class="page-info">...</span>';
+                }
+            }
+
+            for (let i = startPage; i <= endPage; i++) {
+                html += '<span class="page-num' + (i === currentPage ? ' active' : '') + '" data-page="' + i + '">' + i + '</span>';
+            }
+
+            if (endPage < totalPages) {
+                if (endPage < totalPages - 1) {
+                    html += '<span class="page-info">...</span>';
+                }
+                html += '<span class="page-num" data-page="' + totalPages + '">' + totalPages + '</span>';
+            }
+
+            html += '</div>';
+
+            html += '<button id="nextPage" ' + (currentPage === totalPages ? 'disabled' : '') + '>Next</button>';
+
+            paginationContainer.innerHTML = html;
+
+            // Add event listeners
+            document.getElementById('prevPage').addEventListener('click', () => {
+                if (currentPage > 1) {
+                    currentPage--;
+                    displayResults();
+                    renderPagination();
+                    window.scrollTo(0, 0);
+                }
+            });
+
+            document.getElementById('nextPage').addEventListener('click', () => {
+                if (currentPage < totalPages) {
+                    currentPage++;
+                    displayResults();
+                    renderPagination();
+                    window.scrollTo(0, 0);
+                }
+            });
+
+            document.querySelectorAll('.page-num').forEach(btn => {
+                btn.addEventListener('click', () => {
+                    const page = parseInt(btn.dataset.page);
+                    if (page !== currentPage) {
+                        currentPage = page;
+                        displayResults();
+                        renderPagination();
+                        window.scrollTo(0, 0);
+                    }
+                });
+            });
         }
 
         // Search on button click
