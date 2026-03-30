@@ -523,7 +523,7 @@ def generate_html(cve_data, output_path="index.html"):
                 <span id="themeText">Light</span>
             </button>
             <h1>CVE PoC Search Engine</h1>
-            <p>Search for Proof of Concept exploits by CVE ID</p>
+            <p>Almost every publicly available CVE PoC is included</p>
             <div class="stats">
                 <div class="stat-item">
                     <div class="stat-number">''' + f"{total_cves:,}" + '''</div>
