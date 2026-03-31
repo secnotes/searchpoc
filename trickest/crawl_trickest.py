@@ -4,9 +4,8 @@ Trickest CVE References Crawler
 Downloads CVE references from trickest/cve GitHub repository and converts to JSON format.
 
 Usage:
-    python3 crawl_trickest.py <output_filename>
-    python3 crawl_trickest.py trickest_cve.json
-    python3 crawl_trickest.py trickest_cve.json --output-dir trickest
+    python3 crawl_trickest.py <output_file>
+    python3 crawl_trickest.py trickest/trickest_cve.json
 """
 
 import argparse
@@ -121,17 +120,12 @@ def main():
     )
     parser.add_argument(
         'output',
-        help='Output JSON file name (e.g., trickest_cve.json)'
+        help='Output JSON file path (e.g., trickest/trickest_cve.json)'
     )
     parser.add_argument(
         '--url',
         default=DEFAULT_URL,
         help=f'Custom URL for references.txt (default: {DEFAULT_URL})'
-    )
-    parser.add_argument(
-        '--output-dir',
-        default='trickest',
-        help='Output directory (default: trickest)'
     )
     parser.add_argument(
         '--proxy',
@@ -141,8 +135,8 @@ def main():
 
     args = parser.parse_args()
 
-    # Construct full output path
-    output_path = os.path.join(args.output_dir, args.output)
+    # Use output path directly
+    output_path = args.output
 
     # Download
     content = download_references(args.url, args.proxy)
