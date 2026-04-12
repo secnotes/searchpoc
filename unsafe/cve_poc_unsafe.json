@@ -1,5 +1,193 @@
 [
   {
+    "CVE": "CVE-2019-15107",
+    "PoC": "https://github.com/adampawelczyk/cve-2019-15107-webmin-unauthenticated-rce"
+  },
+  {
+    "CVE": "CVE-2026-31900",
+    "PoC": "https://github.com/Batosay1337Lab/cve-2026-31900-lab"
+  },
+  {
+    "CVE": "CVE-2026-33229",
+    "PoC": "https://github.com/azefzafyoussef/CVE-2026-33229"
+  },
+  {
+    "CVE": "CVE-2026-23869",
+    "PoC": "https://github.com/cybertechajju/CVE-2026-23869-Expolit"
+  },
+  {
+    "CVE": "CVE-2026-23869",
+    "PoC": "https://github.com/cybertechajju/CVE-2026-23869-Exploit"
+  },
+  {
+    "CVE": "CVE-2026-4350",
+    "PoC": "https://github.com/whyiamsobusy/CVE-2026-4350"
+  },
+  {
+    "CVE": "CVE-2025-14018",
+    "PoC": "https://github.com/kaleth4/CVE-2025-14018"
+  },
+  {
+    "CVE": "CVE-2026-21857",
+    "PoC": "https://github.com/lukasz-rybak/CVE-2026-21857"
+  },
+  {
+    "CVE": "CVE-2026-25514",
+    "PoC": "https://github.com/lukasz-rybak/CVE-2026-25514"
+  },
+  {
+    "CVE": "CVE-2026-25513",
+    "PoC": "https://github.com/lukasz-rybak/CVE-2026-25513"
+  },
+  {
+    "CVE": "CVE-2026-24419",
+    "PoC": "https://github.com/lukasz-rybak/CVE-2026-24419"
+  },
+  {
+    "CVE": "CVE-2026-24418",
+    "PoC": "https://github.com/lukasz-rybak/CVE-2026-24418"
+  },
+  {
+    "CVE": "CVE-2026-24417",
+    "PoC": "https://github.com/lukasz-rybak/CVE-2026-24417"
+  },
+  {
+    "CVE": "CVE-2026-24416",
+    "PoC": "https://github.com/lukasz-rybak/CVE-2026-24416"
+  },
+  {
+    "CVE": "CVE-2025-69214",
+    "PoC": "https://github.com/lukasz-rybak/CVE-2025-69214"
+  },
+  {
+    "CVE": "CVE-2025-69213",
+    "PoC": "https://github.com/lukasz-rybak/CVE-2025-69213"
+  },
+  {
+    "CVE": "CVE-2025-69215",
+    "PoC": "https://github.com/lukasz-rybak/CVE-2025-69215"
+  },
+  {
+    "CVE": "CVE-2025-69216",
+    "PoC": "https://github.com/lukasz-rybak/CVE-2025-69216"
+  },
+  {
+    "CVE": "CVE-2026-22243",
+    "PoC": "https://github.com/lukasz-rybak/CVE-2026-22243"
+  },
+  {
+    "CVE": "CVE-2025-65950",
+    "PoC": "https://github.com/lukasz-rybak/CVE-2025-65950"
+  },
+  {
+    "CVE": "CVE-2025-68400",
+    "PoC": "https://github.com/lukasz-rybak/CVE-2025-68400"
+  },
+  {
+    "CVE": "CVE-2025-69212",
+    "PoC": "https://github.com/lukasz-rybak/CVE-2025-69212"
+  },
+  {
+    "CVE": "CVE-2023-4911",
+    "PoC": "https://github.com/0xMOGA/CVE-2023-4911-Lab"
+  },
+  {
+    "CVE": "CVE-2026-3296",
+    "PoC": "https://github.com/JJDTrump/CVE-2026-3296"
+  },
+  {
+    "CVE": "CVE-2026-39866",
+    "PoC": "https://github.com/abhayclasher/CVE-2026-39866"
+  },
+  {
+    "CVE": "CVE-2026-22557",
+    "PoC": "https://github.com/ThePotatoOfDoom/CVE-2026-22557-PoC"
+  },
+  {
+    "CVE": "CVE-2017-5638",
+    "PoC": "https://github.com/Kouf320/attacker-lab-cve-2017-5638-cve-2021-41773-paper"
+  },
+  {
+    "CVE": "CVE-2025-58434",
+    "PoC": "https://github.com/AzureADTrent/CVE-2025-58434-59528"
+  },
+  {
+    "CVE": "CVE-2026-4106",
+    "PoC": "https://github.com/ef3tr/CVE-2026-4106"
+  },
+  {
+    "CVE": "CVE-2025-8110",
+    "PoC": "https://github.com/kayl22/cve-2025-8110-GOGS-RCE"
+  },
+  {
+    "CVE": "CVE-2025-8110",
+    "PoC": "https://github.com/Ghxstsec/CVE-2025-8110"
+  },
+  {
+    "CVE": "CVE-2025-81110",
+    "PoC": "https://github.com/BridgerAlderson/CVE-2025-81110-PoC"
+  },
+  {
+    "CVE": "CVE-2025-49113",
+    "PoC": "https://github.com/mooder1/CVE-2025-49113"
+  },
+  {
+    "CVE": "CVE-2025-8110",
+    "PoC": "https://github.com/3jee/CVE-2025-8110"
+  },
+  {
+    "CVE": "CVE-2026-23500",
+    "PoC": "https://github.com/lukasz-rybak/CVE-2026-23500"
+  },
+  {
+    "CVE": "CVE-2026-23498",
+    "PoC": "https://github.com/lukasz-rybak/CVE-2026-23498"
+  },
+  {
+    "CVE": "CVE-2026-1434",
+    "PoC": "https://github.com/lukasz-rybak/CVE-2026-1434"
+  },
+  {
+    "CVE": "CVE-2026-24415",
+    "PoC": "https://github.com/lukasz-rybak/CVE-2026-24415"
+  },
+  {
+    "CVE": "CVE-2026-27621",
+    "PoC": "https://github.com/lukasz-rybak/CVE-2026-27621"
+  },
+  {
+    "CVE": "CVE-2025-66024",
+    "PoC": "https://github.com/lukasz-rybak/CVE-2025-66024"
+  },
+  {
+    "CVE": "CVE-2026-22849",
+    "PoC": "https://github.com/lukasz-rybak/CVE-2026-22849"
+  },
+  {
+    "CVE": "CVE-2026-23499",
+    "PoC": "https://github.com/lukasz-rybak/CVE-2026-23499"
+  },
+  {
+    "CVE": "CVE-2025-66204",
+    "PoC": "https://github.com/lukasz-rybak/CVE-2025-66204"
+  },
+  {
+    "CVE": "CVE-2025-67875",
+    "PoC": "https://github.com/lukasz-rybak/CVE-2025-67875"
+  },
+  {
+    "CVE": "CVE-2025-67876",
+    "PoC": "https://github.com/lukasz-rybak/CVE-2025-67876"
+  },
+  {
+    "CVE": "CVE-2025-65094",
+    "PoC": "https://github.com/lukasz-rybak/CVE-2025-65094"
+  },
+  {
+    "CVE": "CVE-2026-23491",
+    "PoC": "https://github.com/lukasz-rybak/CVE-2026-23491"
+  },
+  {
     "CVE": "CVE-2026-0740",
     "PoC": "https://github.com/whattheslime/CVE-2026-0740"
   },
