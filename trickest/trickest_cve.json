@@ -448,6 +448,10 @@
     "PoC": "http://www.cisco.com/warp/public/707/CBOS-multiple.shtml"
   },
   {
+    "CVE": "CVE-2001-0060",
+    "PoC": "http://www.redhat.com/support/errata/RHSA-2000-129.html"
+  },
+  {
     "CVE": "CVE-2001-0080",
     "PoC": "http://www.cisco.com/warp/public/707/catalyst-ssh-protocolmismatch-pub.shtml"
   },
@@ -100116,6 +100120,10 @@
     "PoC": "https://exchange.xforce.ibmcloud.com/vulnerabilities/79260"
   },
   {
+    "CVE": "CVE-2012-2686",
+    "PoC": "https://support.hpe.com/hpsc/doc/public/display?docLocale=en_US&docId=emr_na-c03883001"
+  },
+  {
     "CVE": "CVE-2012-2687",
     "PoC": "http://www.oracle.com/technetwork/topics/security/cpujuly2013-1899826.html"
   },
@@ -105668,12 +105676,20 @@
     "PoC": "https://bugzilla.redhat.com/show_bug.cgi?id=892983"
   },
   {
+    "CVE": "CVE-2013-0166",
+    "PoC": "https://support.hpe.com/hpsc/doc/public/display?docLocale=en_US&docId=emr_na-c03883001"
+  },
+  {
     "CVE": "CVE-2013-0169",
     "PoC": "http://www-01.ibm.com/support/docview.wss?uid=swg21644047"
   },
   {
     "CVE": "CVE-2013-0169",
     "PoC": "http://www.isg.rhul.ac.uk/tls/TLStiming.pdf"
+  },
+  {
+    "CVE": "CVE-2013-0169",
+    "PoC": "https://support.hpe.com/hpsc/doc/public/display?docLocale=en_US&docId=emr_na-c03883001"
   },
   {
     "CVE": "CVE-2013-0175",
@@ -182758,6 +182774,10 @@
   {
     "CVE": "CVE-2016-4372",
     "PoC": "https://www.exploit-db.com/exploits/42756/"
+  },
+  {
+    "CVE": "CVE-2016-4374",
+    "PoC": "https://h20566.www2.hpe.com/portal/site/hpsc/public/kb/docDisplay?docId=emr_na-c05219560"
   },
   {
     "CVE": "CVE-2016-4384",
@@ -439064,6 +439084,10 @@
     "PoC": "https://www.exploit-db.com/exploits/51542"
   },
   {
+    "CVE": "CVE-2023-34837",
+    "PoC": "https://github.com/sahiloj/CVE-2023-34837/blob/main/README.md"
+  },
+  {
     "CVE": "CVE-2023-34845",
     "PoC": "https://github.com/bludit/bludit/issues/1369#issuecomment-940806199"
   },
@@ -468189,7 +468213,15 @@
   },
   {
     "CVE": "CVE-2024-22493",
+    "PoC": "https://github.com/cui2shark/security/blob/main/%28JFinalcms%20content%20para%29A%20stored%20cross-site%20scripting%20%28XSS%29%20vulnerability%20was%20discovered%20in%20Jfinalcms%20content%20para.md"
+  },
+  {
+    "CVE": "CVE-2024-22493",
     "PoC": "https://github.com/cui2shark/security/blob/main/(JFinalcms%20content%20para)A%20stored%20cross-site%20scripting%20(XSS)%20vulnerability%20was%20discovered%20in%20Jfinalcms%20content%20para.md"
+  },
+  {
+    "CVE": "CVE-2024-22494",
+    "PoC": "https://github.com/cui2shark/security/blob/main/%28JFinalcms%20moblie%20para%29A%20stored%20cross-site%20scripting%20%28XSS%29%20vulnerability%20was%20discovered%20in%20Jfinalcms%20moblie%20para.md"
   },
   {
     "CVE": "CVE-2024-22494",
@@ -468197,7 +468229,15 @@
   },
   {
     "CVE": "CVE-2024-22496",
+    "PoC": "https://github.com/cui2shark/security/blob/main/%28JFinalcms%20admin-login-username%29%20.md"
+  },
+  {
+    "CVE": "CVE-2024-22496",
     "PoC": "https://github.com/cui2shark/security/blob/main/(JFinalcms%20admin-login-username)%20.md"
+  },
+  {
+    "CVE": "CVE-2024-22497",
+    "PoC": "https://github.com/cui2shark/security/blob/main/%28JFinalcms%20admin-login-password%29%20.md"
   },
   {
     "CVE": "CVE-2024-22497",
@@ -469530,6 +469570,10 @@
   {
     "CVE": "CVE-2024-2402",
     "PoC": "https://wpscan.com/vulnerability/98e050cf-5686-4216-bad1-575decf3eaa7/"
+  },
+  {
+    "CVE": "CVE-2024-24029",
+    "PoC": "https://gitee.com/heyewei/JFinalcms/issues/I8VE52"
   },
   {
     "CVE": "CVE-2024-2403",
@@ -502116,6 +502160,10 @@
     "PoC": "https://github.com/wy876/cve/issues/5"
   },
   {
+    "CVE": "CVE-2025-0366",
+    "PoC": "https://sec.stealthcopter.com/jupiterx-chaining-svg-to-rce/"
+  },
+  {
     "CVE": "CVE-2025-0368",
     "PoC": "https://wpscan.com/vulnerability/6a4f7097-082b-4375-9582-945928d765b8/"
   },
@@ -509930,6 +509978,10 @@
   {
     "CVE": "CVE-2025-1436",
     "PoC": "https://wpscan.com/vulnerability/849ed0a0-be17-43cf-a3a1-ad54dfb33d57/"
+  },
+  {
+    "CVE": "CVE-2025-14371",
+    "PoC": "https://research.cleantalk.org/cve-2025-14371/"
   },
   {
     "CVE": "CVE-2025-14372",
@@ -542268,6 +542320,10 @@
     "PoC": "https://youngkevinn.github.io/posts/CVE-2025-70147-OTTTG-Info-Disclosure/"
   },
   {
+    "CVE": "CVE-2025-70148",
+    "PoC": "https://youngkevinn.github.io/posts/CVE-2025-70148-Membership-IDOR/"
+  },
+  {
     "CVE": "CVE-2025-70149",
     "PoC": "https://youngkevinn.github.io/posts/CVE-2025-70149-Membership-SQLi/"
   },
@@ -550133,6 +550189,10 @@
   },
   {
     "CVE": "CVE-2026-1686",
+    "PoC": "https://github.com/SunnyYANGyaya/cuicuishark-sheep-fishIOT/blob/main/ToTolink/A3600R/4959-apcliSsid-setAppEasyWizardConfig.md"
+  },
+  {
+    "CVE": "CVE-2026-1686",
     "PoC": "https://github.com/SunnyYANGyaya/cuicuishark-sheep-fishIOT/blob/main/ToTolink/A3600R/4959-apcliSsid-setAppEasyWizardConfig.md#poc"
   },
   {
@@ -555304,6 +555364,10 @@
     "PoC": "https://bugs.launchpad.net/glance/+bug/2138602"
   },
   {
+    "CVE": "CVE-2026-34933",
+    "PoC": "http://www.openwall.com/lists/oss-security/2026/04/11/9"
+  },
+  {
     "CVE": "CVE-2026-35020",
     "PoC": "https://phoenix.security/critical-ci-cd-nightmare-3-command-injection-flaws-in-claude-code-cli-allow-credential-exfiltration/"
   },
@@ -556388,11 +556452,27 @@
     "PoC": "https://vulnplus-note.wetolink.com/share/3VtzyzYgcS4b"
   },
   {
+    "CVE": "CVE-2026-5704",
+    "PoC": "http://www.openwall.com/lists/oss-security/2026/04/11/10"
+  },
+  {
+    "CVE": "CVE-2026-5704",
+    "PoC": "http://www.openwall.com/lists/oss-security/2026/04/12/2"
+  },
+  {
     "CVE": "CVE-2026-5823",
     "PoC": "https://github.com/ltranquility/cve_submit/issues/14"
   },
   {
     "CVE": "CVE-2026-5844",
     "PoC": "https://files.catbox.moe/ei31k1.zip"
+  },
+  {
+    "CVE": "CVE-2026-6106",
+    "PoC": "https://github.com/AnalogyC0de/public_exp/issues/23"
+  },
+  {
+    "CVE": "CVE-2026-6107",
+    "PoC": "https://github.com/AnalogyC0de/public_exp/issues/24"
   }
 ]
