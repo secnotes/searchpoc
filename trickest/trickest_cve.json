@@ -76200,6 +76200,10 @@
     "PoC": "http://packetstormsecurity.org/1001-exploits/phpmyspace-sql.txt"
   },
   {
+    "CVE": "CVE-2010-0379",
+    "PoC": "https://oval.cisecurity.org/repository/search/definition/oval%3Aorg.mitre.oval%3Adef%3A14146"
+  },
+  {
     "CVE": "CVE-2010-0380",
     "PoC": "http://packetstormsecurity.org/1001-exploits/phpcalendars-xss.txt"
   },
@@ -111992,6 +111996,14 @@
     "PoC": "http://seclists.org/fulldisclosure/2013/Jun/84"
   },
   {
+    "CVE": "CVE-2013-3556",
+    "PoC": "https://bugs.wireshark.org/bugzilla/show_bug.cgi?id=8599"
+  },
+  {
+    "CVE": "CVE-2013-3557",
+    "PoC": "https://bugs.wireshark.org/bugzilla/show_bug.cgi?id=8599"
+  },
+  {
     "CVE": "CVE-2013-3577",
     "PoC": "http://www.kb.cert.org/vuls/id/217836"
   },
@@ -119874,6 +119886,10 @@
   {
     "CVE": "CVE-2014-0792",
     "PoC": "https://support.sonatype.com/entries/37828023-Nexus-Security-Vulnerability"
+  },
+  {
+    "CVE": "CVE-2014-0805",
+    "PoC": "https://play.google.com/store/apps/details?id=com.skyarts.android.neofilerfree"
   },
   {
     "CVE": "CVE-2014-0834",
@@ -163810,6 +163826,10 @@
   {
     "CVE": "CVE-2015-7513",
     "PoC": "http://www.ubuntu.com/usn/USN-2890-3"
+  },
+  {
+    "CVE": "CVE-2015-7513",
+    "PoC": "https://bugzilla.redhat.com/show_bug.cgi?id=1284847"
   },
   {
     "CVE": "CVE-2015-7515",
@@ -209512,6 +209532,10 @@
     "PoC": "https://www.exploit-db.com/exploits/42357"
   },
   {
+    "CVE": "CVE-2017-20239",
+    "PoC": "https://www.exploit-db.com/exploits/46097"
+  },
+  {
     "CVE": "CVE-2017-2096",
     "PoC": "http://jvn.jp/en/jp/JVN50197114/index.html"
   },
@@ -214766,6 +214790,22 @@
   {
     "CVE": "CVE-2017-5817",
     "PoC": "https://www.exploit-db.com/exploits/43492/"
+  },
+  {
+    "CVE": "CVE-2017-5820",
+    "PoC": "https://support.hpe.com/hpsc/doc/public/display?docId=emr_na-hpesbhf03746en_us"
+  },
+  {
+    "CVE": "CVE-2017-5821",
+    "PoC": "https://support.hpe.com/hpsc/doc/public/display?docId=emr_na-hpesbhf03746en_us"
+  },
+  {
+    "CVE": "CVE-2017-5822",
+    "PoC": "https://support.hpe.com/hpsc/doc/public/display?docId=emr_na-hpesbhf03746en_us"
+  },
+  {
+    "CVE": "CVE-2017-5823",
+    "PoC": "https://support.hpe.com/hpsc/doc/public/display?docId=emr_na-hpesbhf03746en_us"
   },
   {
     "CVE": "CVE-2017-5824",
@@ -246864,6 +246904,14 @@
     "PoC": "https://www.exploit-db.com/exploits/46286"
   },
   {
+    "CVE": "CVE-2018-25257",
+    "PoC": "https://www.exploit-db.com/exploits/46217"
+  },
+  {
+    "CVE": "CVE-2018-25258",
+    "PoC": "https://www.exploit-db.com/exploits/46107"
+  },
+  {
     "CVE": "CVE-2018-2560",
     "PoC": "http://www.oracle.com/technetwork/security-advisory/cpujan2018-3236628.html"
   },
@@ -264566,6 +264614,10 @@
   {
     "CVE": "CVE-2019-12181",
     "PoC": "http://packetstormsecurity.com/files/153505/Serv-U-FTP-Server-prepareinstallation-Privilege-Escalation.html"
+  },
+  {
+    "CVE": "CVE-2019-12181",
+    "PoC": "https://blog.vastart.dev/2019/06/cve-2019-12181-serv-u-exploit-writeup.html"
   },
   {
     "CVE": "CVE-2019-12182",
@@ -284768,6 +284820,10 @@
     "PoC": "https://www.exploit-db.com/exploits/46505"
   },
   {
+    "CVE": "CVE-2019-25689",
+    "PoC": "https://www.exploit-db.com/exploits/46279"
+  },
+  {
     "CVE": "CVE-2019-2569",
     "PoC": "http://www.oracle.com/technetwork/security-advisory/cpujul2019-5072835.html"
   },
@@ -284776,20 +284832,40 @@
     "PoC": "https://www.exploit-db.com/exploits/46505"
   },
   {
+    "CVE": "CVE-2019-25691",
+    "PoC": "https://www.exploit-db.com/exploits/46269"
+  },
+  {
     "CVE": "CVE-2019-25692",
     "PoC": "https://www.exploit-db.com/exploits/46505"
+  },
+  {
+    "CVE": "CVE-2019-25693",
+    "PoC": "https://www.exploit-db.com/exploits/46274"
   },
   {
     "CVE": "CVE-2019-25694",
     "PoC": "https://www.exploit-db.com/exploits/46505"
   },
   {
+    "CVE": "CVE-2019-25695",
+    "PoC": "https://www.exploit-db.com/exploits/46265"
+  },
+  {
     "CVE": "CVE-2019-25696",
     "PoC": "https://www.exploit-db.com/exploits/46505"
   },
   {
+    "CVE": "CVE-2019-25697",
+    "PoC": "https://www.exploit-db.com/exploits/46259"
+  },
+  {
     "CVE": "CVE-2019-25698",
     "PoC": "https://www.exploit-db.com/exploits/46505"
+  },
+  {
+    "CVE": "CVE-2019-25699",
+    "PoC": "https://www.exploit-db.com/exploits/46266"
   },
   {
     "CVE": "CVE-2019-2570",
@@ -284800,16 +284876,60 @@
     "PoC": "https://www.exploit-db.com/exploits/46505"
   },
   {
+    "CVE": "CVE-2019-25701",
+    "PoC": "https://www.exploit-db.com/exploits/46255"
+  },
+  {
     "CVE": "CVE-2019-25702",
     "PoC": "https://www.exploit-db.com/exploits/46505"
+  },
+  {
+    "CVE": "CVE-2019-25703",
+    "PoC": "https://www.exploit-db.com/exploits/46239"
   },
   {
     "CVE": "CVE-2019-25704",
     "PoC": "https://www.exploit-db.com/exploits/46505"
   },
   {
+    "CVE": "CVE-2019-25705",
+    "PoC": "https://www.exploit-db.com/exploits/46216"
+  },
+  {
+    "CVE": "CVE-2019-25706",
+    "PoC": "https://www.exploit-db.com/exploits/46132"
+  },
+  {
+    "CVE": "CVE-2019-25707",
+    "PoC": "https://www.exploit-db.com/exploits/46117"
+  },
+  {
+    "CVE": "CVE-2019-25708",
+    "PoC": "https://www.exploit-db.com/exploits/46100"
+  },
+  {
+    "CVE": "CVE-2019-25709",
+    "PoC": "https://www.exploit-db.com/exploits/46094"
+  },
+  {
     "CVE": "CVE-2019-2571",
     "PoC": "http://www.oracle.com/technetwork/security-advisory/cpuapr2019-5072813.html"
+  },
+  {
+    "CVE": "CVE-2019-25710",
+    "PoC": "https://www.exploit-db.com/exploits/46095"
+  },
+  {
+    "CVE": "CVE-2019-25711",
+    "PoC": "https://www.exploit-db.com/exploits/46088"
+  },
+  {
+    "CVE": "CVE-2019-25712",
+    "PoC": "https://www.exploit-db.com/exploits/46087"
+  },
+  {
+    "CVE": "CVE-2019-25713",
+    "PoC": "https://www.exploit-db.com/exploits/46084"
   },
   {
     "CVE": "CVE-2019-2572",
@@ -375629,6 +375749,10 @@
   },
   {
     "CVE": "CVE-2021-47872",
+    "PoC": "https://github.com/seopanel/Seo-Panel/issues/209"
+  },
+  {
+    "CVE": "CVE-2021-47872",
     "PoC": "https://www.exploit-db.com/exploits/49666"
   },
   {
@@ -418708,6 +418832,10 @@
     "PoC": "https://www.exploit-db.com/exploits/50923"
   },
   {
+    "CVE": "CVE-2022-50910",
+    "PoC": "https://www.vulncheck.com/advisories/beehive-forum-account-takeover"
+  },
+  {
     "CVE": "CVE-2022-50911",
     "PoC": "https://www.exploit-db.com/exploits/50898"
   },
@@ -420670,6 +420798,10 @@
   {
     "CVE": "CVE-2023-0784",
     "PoC": "https://vuldb.com/?id.220644"
+  },
+  {
+    "CVE": "CVE-2023-0784",
+    "PoC": "https://youtu.be/V62MSWhLGL4"
   },
   {
     "CVE": "CVE-2023-0787",
@@ -465932,6 +466064,10 @@
     "PoC": "https://github.com/skid-nochizplz/skid-nochizplz/blob/main/TrashBin/CVE/SOURCECODESTER%20Petrol%20pump%20management%20software/Unauthenticated%20Arbitrary%20File%20Upload.md"
   },
   {
+    "CVE": "CVE-2024-2058",
+    "PoC": "https://vuldb.com/?id.255373"
+  },
+  {
     "CVE": "CVE-2024-2059",
     "PoC": "https://github.com/skid-nochizplz/skid-nochizplz/blob/main/TrashBin/CVE/SOURCECODESTER%20Petrol%20pump%20management%20software/service_crud.php%20Unauthenticated%20Arbitrary%20File%20Upload.md"
   },
@@ -468209,6 +468345,10 @@
   },
   {
     "CVE": "CVE-2024-22492",
+    "PoC": "https://github.com/cui2shark/security/blob/main/%28JFinalcms%20contact%20para%29A%20stored%20cross-site%20scripting%20%28XSS%29%20vulnerability%20was%20discovered%20in%20Jfinalcms%20contact%20para.md"
+  },
+  {
+    "CVE": "CVE-2024-22492",
     "PoC": "https://github.com/cui2shark/security/blob/main/(JFinalcms%20contact%20para)A%20stored%20cross-site%20scripting%20(XSS)%20vulnerability%20was%20discovered%20in%20Jfinalcms%20contact%20para.md"
   },
   {
@@ -470234,6 +470374,10 @@
   {
     "CVE": "CVE-2024-24707",
     "PoC": "https://snicco.io/vulnerability-disclosure/cwicly/remote-code-execution-cwicly-1-4-0-2?_s_id=cve"
+  },
+  {
+    "CVE": "CVE-2024-2472",
+    "PoC": "https://websec.nl/blog/critical-idor-vulnerability-in-latepoint-plugin-exposes-sensitive-data-666b78446e63d6dcdb0f73bf"
   },
   {
     "CVE": "CVE-2024-24724",
@@ -511748,6 +511892,10 @@
     "PoC": "https://vuldb.com/?id.296490"
   },
   {
+    "CVE": "CVE-2025-15441",
+    "PoC": "https://wpscan.com/vulnerability/41f69b0a-4d17-4a6b-b803-ea1c370e3cc0/"
+  },
+  {
     "CVE": "CVE-2025-15442",
     "PoC": "https://github.com/En0t5/vul/blob/main/crmeb/crmeb-export-product_list-SQL.md"
   },
@@ -536212,8 +536360,20 @@
     "PoC": "https://github.com/google/security-research/security/advisories/GHSA-6q4x-m86j-gfwj"
   },
   {
+    "CVE": "CVE-2025-59709",
+    "PoC": "https://www.synacktiv.com/en/advisories/remote-code-execution-from-any-domain-account-in-biztalk360"
+  },
+  {
     "CVE": "CVE-2025-5971",
     "PoC": "https://github.com/qingchuana/q1ngchuan/issues/6"
+  },
+  {
+    "CVE": "CVE-2025-59710",
+    "PoC": "https://www.synacktiv.com/en/advisories/remote-code-execution-from-any-domain-account-in-biztalk360"
+  },
+  {
+    "CVE": "CVE-2025-59711",
+    "PoC": "https://www.synacktiv.com/en/advisories/remote-code-execution-from-any-domain-account-in-biztalk360"
   },
   {
     "CVE": "CVE-2025-59716",
@@ -549873,6 +550033,10 @@
   },
   {
     "CVE": "CVE-2026-1203",
+    "PoC": "https://github.com/foeCat/CVE/blob/main/CRMEB/jwt_auth_bypass/remote_register_jwt_bypass.md"
+  },
+  {
+    "CVE": "CVE-2026-1203",
     "PoC": "https://vuldb.com/?id.341789"
   },
   {
@@ -555930,6 +556094,10 @@
   {
     "CVE": "CVE-2026-3817",
     "PoC": "https://gist.github.com/HxH404/c4c8e7ce7fe5cde98aca176fba9d7207"
+  },
+  {
+    "CVE": "CVE-2026-3830",
+    "PoC": "https://wpscan.com/vulnerability/768014fd-0403-4182-b19e-3d46c92d8755/"
   },
   {
     "CVE": "CVE-2026-3877",
