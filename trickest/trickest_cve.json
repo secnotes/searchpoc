@@ -1669,7 +1669,23 @@
   },
   {
     "CVE": "CVE-2002-1357",
+    "PoC": "http://www.cert.org/advisories/CA-2002-36.html"
+  },
+  {
+    "CVE": "CVE-2002-1357",
     "PoC": "http://www.kb.cert.org/vuls/id/389665"
+  },
+  {
+    "CVE": "CVE-2002-1358",
+    "PoC": "http://www.cert.org/advisories/CA-2002-36.html"
+  },
+  {
+    "CVE": "CVE-2002-1359",
+    "PoC": "http://www.cert.org/advisories/CA-2002-36.html"
+  },
+  {
+    "CVE": "CVE-2002-1360",
+    "PoC": "http://www.cert.org/advisories/CA-2002-36.html"
   },
   {
     "CVE": "CVE-2002-1364",
@@ -4872,6 +4888,10 @@
     "PoC": "http://www.redhat.com/support/errata/RHSA-2005-037.html"
   },
   {
+    "CVE": "CVE-2004-1156",
+    "PoC": "http://www.redhat.com/support/errata/RHSA-2005-384.html"
+  },
+  {
     "CVE": "CVE-2004-1165",
     "PoC": "https://oval.cisecurity.org/repository/search/definition/oval%3Aorg.mitre.oval%3Adef%3A9645"
   },
@@ -6621,7 +6641,19 @@
   },
   {
     "CVE": "CVE-2005-0142",
+    "PoC": "http://www.redhat.com/support/errata/RHSA-2005-384.html"
+  },
+  {
+    "CVE": "CVE-2005-0142",
     "PoC": "https://oval.cisecurity.org/repository/search/definition/oval%3Aorg.mitre.oval%3Adef%3A9543"
+  },
+  {
+    "CVE": "CVE-2005-0143",
+    "PoC": "http://www.redhat.com/support/errata/RHSA-2005-384.html"
+  },
+  {
+    "CVE": "CVE-2005-0146",
+    "PoC": "http://www.redhat.com/support/errata/RHSA-2005-384.html"
   },
   {
     "CVE": "CVE-2005-0147",
@@ -6736,12 +6768,24 @@
     "PoC": "http://marc.info/?l=bugtraq&m=110781134617144&w=2"
   },
   {
+    "CVE": "CVE-2005-0231",
+    "PoC": "http://www.redhat.com/support/errata/RHSA-2005-384.html"
+  },
+  {
     "CVE": "CVE-2005-0232",
     "PoC": "http://marc.info/?l=bugtraq&m=110781055630856&w=2"
   },
   {
+    "CVE": "CVE-2005-0232",
+    "PoC": "http://www.redhat.com/support/errata/RHSA-2005-384.html"
+  },
+  {
     "CVE": "CVE-2005-0233",
     "PoC": "http://marc.info/?l=bugtraq&m=110782704923280&w=2"
+  },
+  {
+    "CVE": "CVE-2005-0233",
+    "PoC": "http://www.redhat.com/support/errata/RHSA-2005-384.html"
   },
   {
     "CVE": "CVE-2005-0234",
@@ -7013,6 +7057,10 @@
   },
   {
     "CVE": "CVE-2005-0401",
+    "PoC": "http://www.redhat.com/support/errata/RHSA-2005-384.html"
+  },
+  {
+    "CVE": "CVE-2005-0401",
     "PoC": "https://oval.cisecurity.org/repository/search/definition/oval%3Aorg.mitre.oval%3Adef%3A9650"
   },
   {
@@ -7148,6 +7196,10 @@
     "PoC": "http://marc.info/?l=bugtraq&m=110935267500395&w=2"
   },
   {
+    "CVE": "CVE-2005-0527",
+    "PoC": "http://www.redhat.com/support/errata/RHSA-2005-384.html"
+  },
+  {
     "CVE": "CVE-2005-0529",
     "PoC": "http://www.redhat.com/support/errata/RHSA-2005-366.html"
   },
@@ -7224,8 +7276,32 @@
     "PoC": "http://www.exploit-db.com/exploits/24950"
   },
   {
+    "CVE": "CVE-2005-0578",
+    "PoC": "http://www.redhat.com/support/errata/RHSA-2005-384.html"
+  },
+  {
+    "CVE": "CVE-2005-0584",
+    "PoC": "http://www.redhat.com/support/errata/RHSA-2005-384.html"
+  },
+  {
+    "CVE": "CVE-2005-0585",
+    "PoC": "http://www.redhat.com/support/errata/RHSA-2005-384.html"
+  },
+  {
     "CVE": "CVE-2005-0585",
     "PoC": "https://oval.cisecurity.org/repository/search/definition/oval%3Aorg.mitre.oval%3Adef%3A9924"
+  },
+  {
+    "CVE": "CVE-2005-0586",
+    "PoC": "http://www.redhat.com/support/errata/RHSA-2005-384.html"
+  },
+  {
+    "CVE": "CVE-2005-0588",
+    "PoC": "http://www.redhat.com/support/errata/RHSA-2005-384.html"
+  },
+  {
+    "CVE": "CVE-2005-0590",
+    "PoC": "http://www.redhat.com/support/errata/RHSA-2005-384.html"
   },
   {
     "CVE": "CVE-2005-0591",
@@ -7241,7 +7317,15 @@
   },
   {
     "CVE": "CVE-2005-0591",
+    "PoC": "http://www.redhat.com/support/errata/RHSA-2005-384.html"
+  },
+  {
+    "CVE": "CVE-2005-0591",
     "PoC": "https://bugzilla.mozilla.org/show_bug.cgi?id=260560"
+  },
+  {
+    "CVE": "CVE-2005-0593",
+    "PoC": "http://www.redhat.com/support/errata/RHSA-2005-384.html"
   },
   {
     "CVE": "CVE-2005-0593",
@@ -7713,6 +7797,10 @@
   },
   {
     "CVE": "CVE-2005-0989",
+    "PoC": "http://www.redhat.com/support/errata/RHSA-2005-384.html"
+  },
+  {
+    "CVE": "CVE-2005-0989",
     "PoC": "http://www.redhat.com/support/errata/RHSA-2005-601.html"
   },
   {
@@ -7945,7 +8033,15 @@
   },
   {
     "CVE": "CVE-2005-1153",
+    "PoC": "http://www.redhat.com/support/errata/RHSA-2005-384.html"
+  },
+  {
+    "CVE": "CVE-2005-1153",
     "PoC": "https://oval.cisecurity.org/repository/search/definition/oval%3Aorg.mitre.oval%3Adef%3A9584"
+  },
+  {
+    "CVE": "CVE-2005-1154",
+    "PoC": "http://www.redhat.com/support/errata/RHSA-2005-384.html"
   },
   {
     "CVE": "CVE-2005-1154",
@@ -7953,7 +8049,19 @@
   },
   {
     "CVE": "CVE-2005-1155",
+    "PoC": "http://www.redhat.com/support/errata/RHSA-2005-384.html"
+  },
+  {
+    "CVE": "CVE-2005-1155",
     "PoC": "https://bugzilla.mozilla.org/show_bug.cgi?id=290036"
+  },
+  {
+    "CVE": "CVE-2005-1156",
+    "PoC": "http://www.redhat.com/support/errata/RHSA-2005-384.html"
+  },
+  {
+    "CVE": "CVE-2005-1157",
+    "PoC": "http://www.redhat.com/support/errata/RHSA-2005-384.html"
   },
   {
     "CVE": "CVE-2005-1157",
@@ -7969,7 +8077,15 @@
   },
   {
     "CVE": "CVE-2005-1159",
+    "PoC": "http://www.redhat.com/support/errata/RHSA-2005-384.html"
+  },
+  {
+    "CVE": "CVE-2005-1159",
     "PoC": "http://www.redhat.com/support/errata/RHSA-2005-601.html"
+  },
+  {
+    "CVE": "CVE-2005-1160",
+    "PoC": "http://www.redhat.com/support/errata/RHSA-2005-384.html"
   },
   {
     "CVE": "CVE-2005-1160",
@@ -360100,6 +360216,10 @@
     "PoC": "https://otrs.com/release-notes/otrs-security-advisory-2021-20/"
   },
   {
+    "CVE": "CVE-2021-3610",
+    "PoC": "https://github.com/fuzzing2026/CVE-PoCs/tree/main/imagemagick-CVE-2021-3610"
+  },
+  {
     "CVE": "CVE-2021-36100",
     "PoC": "https://otrs.com/release-notes/otrs-security-advisory-2022-03/"
   },
@@ -442344,8 +442464,32 @@
     "PoC": "https://vuldb.com/?id.235151"
   },
   {
+    "CVE": "CVE-2023-38313",
+    "PoC": "https://source.sierrawireless.com/resources/security-bulletins/sierra-wireless-technical-bulletin---swi-psa-2023-006-v4/#sthash.2vJg3d85.rwx82g1C.dpbs"
+  },
+  {
+    "CVE": "CVE-2023-38314",
+    "PoC": "https://source.sierrawireless.com/resources/security-bulletins/sierra-wireless-technical-bulletin---swi-psa-2023-006-v4/#sthash.2vJg3d85.rwx82g1C.dpbs"
+  },
+  {
+    "CVE": "CVE-2023-38315",
+    "PoC": "https://source.sierrawireless.com/resources/security-bulletins/sierra-wireless-technical-bulletin---swi-psa-2023-006-v4/#sthash.2vJg3d85.rwx82g1C.dpbs"
+  },
+  {
+    "CVE": "CVE-2023-38316",
+    "PoC": "https://source.sierrawireless.com/resources/security-bulletins/sierra-wireless-technical-bulletin---swi-psa-2023-006-v4/#sthash.2vJg3d85.rwx82g1C.dpbs"
+  },
+  {
     "CVE": "CVE-2023-3832",
     "PoC": "https://vuldb.com/?id.235158"
+  },
+  {
+    "CVE": "CVE-2023-38322",
+    "PoC": "https://source.sierrawireless.com/resources/security-bulletins/sierra-wireless-technical-bulletin---swi-psa-2023-006-v4/#sthash.2vJg3d85.rwx82g1C.dpbs"
+  },
+  {
+    "CVE": "CVE-2023-38324",
+    "PoC": "https://source.sierrawireless.com/resources/security-bulletins/sierra-wireless-technical-bulletin---swi-psa-2023-006-v4/#sthash.2vJg3d85.rwx82g1C.dpbs"
   },
   {
     "CVE": "CVE-2023-38328",
@@ -445006,6 +445150,14 @@
   {
     "CVE": "CVE-2023-4110",
     "PoC": "https://vuldb.com/?id.235957"
+  },
+  {
+    "CVE": "CVE-2023-41101",
+    "PoC": "https://source.sierrawireless.com/resources/security-bulletins/sierra-wireless-technical-bulletin---swi-psa-2023-006-v4/#sthash.2vJg3d85.rwx82g1C.dpbs"
+  },
+  {
+    "CVE": "CVE-2023-41102",
+    "PoC": "https://source.sierrawireless.com/resources/security-bulletins/sierra-wireless-technical-bulletin---swi-psa-2023-006-v4/#sthash.2vJg3d85.rwx82g1C.dpbs"
   },
   {
     "CVE": "CVE-2023-41107",
@@ -514980,6 +515132,14 @@
     "PoC": "https://github.com/madao123123/crash_report/blob/main/hdf5_poc/hdf5_poc3.md"
   },
   {
+    "CVE": "CVE-2025-23093",
+    "PoC": "https://www.mitel.com/support/security-advisories/mitel-product-security-advisory-misa-2025-0001"
+  },
+  {
+    "CVE": "CVE-2025-23094",
+    "PoC": "https://www.mitel.com/support/security-advisories/mitel-product-security-advisory-misa-2025-0001"
+  },
+  {
     "CVE": "CVE-2025-23095",
     "PoC": "https://semiconductor.samsung.com/support/quality-support/product-security-updates/"
   },
@@ -519074,6 +519234,10 @@
   {
     "CVE": "CVE-2025-28146",
     "PoC": "https://github.com/regainer27/edimax-br-6478ac_v3-br-6478ac_v3_1.0.15/tree/main/3"
+  },
+  {
+    "CVE": "CVE-2025-28162",
+    "PoC": "https://github.com/pnggroup/libpng/issues/656"
   },
   {
     "CVE": "CVE-2025-28169",
@@ -529208,6 +529372,10 @@
     "PoC": "https://github.com/VasilVK/CVE/tree/main/CVE-2025-50494"
   },
   {
+    "CVE": "CVE-2025-5050",
+    "PoC": "https://vuldb.com/?submit.581282"
+  },
+  {
     "CVE": "CVE-2025-50505",
     "PoC": "https://github.com/bron1e/CVE-2025-50505"
   },
@@ -538840,6 +539008,10 @@
     "PoC": "https://vuldb.com/?id.313323"
   },
   {
+    "CVE": "CVE-2025-63238",
+    "PoC": "https://gist.github.com/masquerad3r/f913ab479e8de2ad71987ef98a088fb5"
+  },
+  {
     "CVE": "CVE-2025-63260",
     "PoC": "https://pentest-tools.com/PTT-2025-023-Multiple-Stored-XSS.pdf"
   },
@@ -539228,6 +539400,38 @@
     "PoC": "https://www.sourcecodester.com/javascript/18402/medicine-reminder-app-using-html-css-and-javascript-source-code.html"
   },
   {
+    "CVE": "CVE-2025-63647",
+    "PoC": "https://github.com/archersec/poc/tree/master/owntone-server"
+  },
+  {
+    "CVE": "CVE-2025-63649",
+    "PoC": "https://github.com/monkey/monkey/issues/426"
+  },
+  {
+    "CVE": "CVE-2025-63650",
+    "PoC": "https://github.com/monkey/monkey/issues/426"
+  },
+  {
+    "CVE": "CVE-2025-63651",
+    "PoC": "https://github.com/monkey/monkey/issues/426"
+  },
+  {
+    "CVE": "CVE-2025-63652",
+    "PoC": "https://github.com/monkey/monkey/issues/426"
+  },
+  {
+    "CVE": "CVE-2025-63653",
+    "PoC": "https://github.com/monkey/monkey/issues/426"
+  },
+  {
+    "CVE": "CVE-2025-63656",
+    "PoC": "https://github.com/monkey/monkey/issues/426"
+  },
+  {
+    "CVE": "CVE-2025-63657",
+    "PoC": "https://github.com/monkey/monkey/issues/426"
+  },
+  {
     "CVE": "CVE-2025-63667",
     "PoC": "https://github.com/Remenis/CVE-2025-63667"
   },
@@ -539368,6 +539572,10 @@
     "PoC": "https://github.com/rainrocka/xinhu/issues/13"
   },
   {
+    "CVE": "CVE-2025-63743",
+    "PoC": "https://github.com/mikust/CVEs/tree/main/CVE-2025-63743"
+  },
+  {
     "CVE": "CVE-2025-63744",
     "PoC": "https://github.com/marlinkcyber/advisories/blob/main/advisories/MCSAID-2025-002-radare2-nullptr-deref-bin_dyldcache.md"
   },
@@ -539478,6 +539686,10 @@
   {
     "CVE": "CVE-2025-63948",
     "PoC": "https://github.com/solonbarroso/vulnerability-research/blob/main/advisories/phpMsAdmin/CVE-2025-63948.md"
+  },
+  {
+    "CVE": "CVE-2025-63951",
+    "PoC": "https://github.com/solonbarroso/vulnerability-research/blob/main/advisories/RPi-Jukebox-RFID/CVE-2025-63951.md"
   },
   {
     "CVE": "CVE-2025-63952",
@@ -542490,6 +542702,10 @@
   {
     "CVE": "CVE-2025-70150",
     "PoC": "https://youngkevinn.github.io/posts/CVE-2025-70150-Membership-Unauth-Delete/"
+  },
+  {
+    "CVE": "CVE-2025-70151",
+    "PoC": "https://youngkevinn.github.io/posts/CVE-2025-70151-Scholars-FileUpload-RCE/"
   },
   {
     "CVE": "CVE-2025-70152",
@@ -547292,6 +547508,10 @@
     "PoC": "https://gist.github.com/0xSebin/81ce7a296b4220db5ebfdb22fa78c3b3#steps-to-reproduce"
   },
   {
+    "CVE": "CVE-2025-9243",
+    "PoC": "https://research.cleantalk.org/cve-2025-9243/"
+  },
+  {
     "CVE": "CVE-2025-9244",
     "PoC": "https://github.com/wudipjq/my_vuln/blob/main/Linksys/vuln_11/11.md"
   },
@@ -550276,6 +550496,10 @@
     "PoC": "https://github.com/4m3rr0r/PoCVulDb/issues/14"
   },
   {
+    "CVE": "CVE-2026-1600",
+    "PoC": "https://www.youtube.com/watch?v=UESZTjVS4Fs"
+  },
+  {
     "CVE": "CVE-2026-1615",
     "PoC": "https://security.snyk.io/vuln/SNYK-JAVA-ORGWEBJARSNPM-15141219"
   },
@@ -553036,6 +553260,10 @@
     "PoC": "https://github.com/luoye197-prog/cve-ziguang-sql/blob/main/poc.py"
   },
   {
+    "CVE": "CVE-2026-26829",
+    "PoC": "https://github.com/archersec/poc/tree/master/owntone-server-2"
+  },
+  {
     "CVE": "CVE-2026-2683",
     "PoC": "https://github.com/luoye197-prog/cve-ziguang-fileread3/blob/main/introduce"
   },
@@ -553246,6 +553474,10 @@
   {
     "CVE": "CVE-2026-27212",
     "PoC": "https://github.com/nolimits4web/swiper/security/advisories/GHSA-hmx5-qpq5-p643"
+  },
+  {
+    "CVE": "CVE-2026-2728",
+    "PoC": "https://projectblack.io/blog/librenms-authenticated-rce-and-xss/#xss-on-showconfig-page-2630"
   },
   {
     "CVE": "CVE-2026-2739",
@@ -554816,6 +555048,10 @@
     "PoC": "https://github.com/InternationalColorConsortium/iccDEV/issues/618"
   },
   {
+    "CVE": "CVE-2026-31280",
+    "PoC": "https://amoebatech.gitbook.io/amoebatech-docs/cve-2026-31280-insecure-bluetooth-rfcomm-leading-to-device-crash-in-parani-m10-intercom"
+  },
+  {
     "CVE": "CVE-2026-3130",
     "PoC": "https://devolutions.net/security/advisories/DEVO-2026-0005"
   },
@@ -555478,6 +555714,10 @@
   {
     "CVE": "CVE-2026-3406",
     "PoC": "https://github.com/ubfbuz3/cve/issues/55"
+  },
+  {
+    "CVE": "CVE-2026-3407",
+    "PoC": "https://vuldb.com/?submit.763755"
   },
   {
     "CVE": "CVE-2026-3410",
@@ -556316,6 +556556,38 @@
     "PoC": "https://github.com/ltranquility/cve_submit/issues/11"
   },
   {
+    "CVE": "CVE-2026-40038",
+    "PoC": "https://www.zeroscience.mk/en/vulnerabilities/ZSL-2026-5980.php"
+  },
+  {
+    "CVE": "CVE-2026-40039",
+    "PoC": "https://www.zeroscience.mk/en/vulnerabilities/ZSL-2026-5981.php"
+  },
+  {
+    "CVE": "CVE-2026-40040",
+    "PoC": "https://www.zeroscience.mk/en/vulnerabilities/ZSL-2026-5982.php"
+  },
+  {
+    "CVE": "CVE-2026-40041",
+    "PoC": "https://www.zeroscience.mk/en/vulnerabilities/ZSL-2026-5983.php"
+  },
+  {
+    "CVE": "CVE-2026-40042",
+    "PoC": "https://www.zeroscience.mk/en/vulnerabilities/ZSL-2026-5984.php"
+  },
+  {
+    "CVE": "CVE-2026-40043",
+    "PoC": "https://www.zeroscience.mk/#/advisories/ZSL-2026-5985"
+  },
+  {
+    "CVE": "CVE-2026-40043",
+    "PoC": "https://www.zeroscience.mk/en/vulnerabilities/ZSL-2026-5985.php"
+  },
+  {
+    "CVE": "CVE-2026-40044",
+    "PoC": "https://www.zeroscience.mk/en/vulnerabilities/ZSL-2026-5986.php"
+  },
+  {
     "CVE": "CVE-2026-4016",
     "PoC": "https://github.com/gpac/gpac/issues/3468"
   },
@@ -556642,5 +556914,17 @@
   {
     "CVE": "CVE-2026-6107",
     "PoC": "https://github.com/AnalogyC0de/public_exp/issues/24"
+  },
+  {
+    "CVE": "CVE-2026-6190",
+    "PoC": "https://github.com/ltranquility/cve_submit/issues/15"
+  },
+  {
+    "CVE": "CVE-2026-6191",
+    "PoC": "https://github.com/ltranquility/cve_submit/issues/16"
+  },
+  {
+    "CVE": "CVE-2026-6204",
+    "PoC": "https://projectblack.io/blog/librenms-authenticated-rce-and-xss/#binary-path-rce-poc"
   }
 ]
