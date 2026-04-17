@@ -511,6 +511,17 @@ def generate_html(cve_data, output_path="index.html"):
             }
         }
     </style>
+    <script>
+        // Apply theme BEFORE page renders to prevent flash of wrong theme
+        (function() {
+            const savedTheme = localStorage.getItem('theme');
+            if (savedTheme) {
+                document.documentElement.setAttribute('data-theme', savedTheme);
+            } else if (window.matchMedia('(prefers-color-scheme: light)').matches) {
+                document.documentElement.setAttribute('data-theme', 'light');
+            }
+        })();
+    </script>
 </head>
 <body>
     <div class="container">
@@ -604,10 +615,18 @@ def generate_html(cve_data, output_path="index.html"):
             }
         }
 
-        // Load saved theme, or follow system preference
-        const systemTheme = window.matchMedia('(prefers-color-scheme: dark)').matches ? 'dark' : 'light';
-        const savedTheme = localStorage.getItem('theme') || systemTheme;
-        setTheme(savedTheme);
+        // Update theme UI based on current theme (theme is already set by inline script in <head>)
+        function updateThemeUI() {
+            const currentTheme = document.documentElement.getAttribute('data-theme') || 'dark';
+            if (currentTheme === 'light') {
+                themeIcon.innerHTML = moonIcon;
+                themeText.textContent = 'Dark';
+            } else {
+                themeIcon.innerHTML = sunIcon;
+                themeText.textContent = 'Light';
+            }
+        }
+        updateThemeUI();
 
         // Toggle theme on button click
         themeToggle.addEventListener('click', () => {
