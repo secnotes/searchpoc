@@ -3032,6 +3032,18 @@
     "PoC": "http://marc.info/?l=bugtraq&m=107196735102970&w=2"
   },
   {
+    "CVE": "CVE-2003-1224",
+    "PoC": "http://dev2dev.bea.com/pub/advisory/22"
+  },
+  {
+    "CVE": "CVE-2003-1225",
+    "PoC": "http://dev2dev.bea.com/pub/advisory/22"
+  },
+  {
+    "CVE": "CVE-2003-1226",
+    "PoC": "http://dev2dev.bea.com/pub/advisory/22"
+  },
+  {
     "CVE": "CVE-2003-1234",
     "PoC": "http://www.pine.nl/press/pine-cert-20030101.txt"
   },
@@ -28792,6 +28804,14 @@
     "PoC": "http://dev2dev.bea.com/pub/advisory/204"
   },
   {
+    "CVE": "CVE-2007-0425",
+    "PoC": "http://dev2dev.bea.com/pub/advisory/222"
+  },
+  {
+    "CVE": "CVE-2007-0426",
+    "PoC": "http://dev2dev.bea.com/pub/advisory/223"
+  },
+  {
     "CVE": "CVE-2007-0427",
     "PoC": "http://securityreason.com/securityalert/2177"
   },
@@ -28806,6 +28826,18 @@
   {
     "CVE": "CVE-2007-0430",
     "PoC": "http://securityreason.com/securityalert/2178"
+  },
+  {
+    "CVE": "CVE-2007-0432",
+    "PoC": "http://dev2dev.bea.com/pub/advisory/224"
+  },
+  {
+    "CVE": "CVE-2007-0433",
+    "PoC": "http://dev2dev.bea.com/pub/advisory/221"
+  },
+  {
+    "CVE": "CVE-2007-0434",
+    "PoC": "http://dev2dev.bea.com/pub/advisory/220"
   },
   {
     "CVE": "CVE-2007-0448",
@@ -33986,6 +34018,18 @@
   {
     "CVE": "CVE-2007-2692",
     "PoC": "https://oval.cisecurity.org/repository/search/definition/oval%3Aorg.mitre.oval%3Adef%3A9166"
+  },
+  {
+    "CVE": "CVE-2007-2695",
+    "PoC": "http://dev2dev.bea.com/pub/advisory/227"
+  },
+  {
+    "CVE": "CVE-2007-2696",
+    "PoC": "http://dev2dev.bea.com/pub/advisory/228"
+  },
+  {
+    "CVE": "CVE-2007-2697",
+    "PoC": "http://dev2dev.bea.com/pub/advisory/229"
   },
   {
     "CVE": "CVE-2007-2699",
@@ -40318,6 +40362,10 @@
   {
     "CVE": "CVE-2007-5574",
     "PoC": "https://www.exploit-db.com/exploits/4543"
+  },
+  {
+    "CVE": "CVE-2007-5576",
+    "PoC": "http://dev2dev.bea.com/pub/advisory/226"
   },
   {
     "CVE": "CVE-2007-5581",
@@ -172740,6 +172788,10 @@
     "PoC": "http://www.cloudscan.me/2016/03/xxe-dork-open-am-1010-xml-injection.html"
   },
   {
+    "CVE": "CVE-2016-10097",
+    "PoC": "https://twitter.com/h02332/status/816252923688665088"
+  },
+  {
     "CVE": "CVE-2016-10108",
     "PoC": "http://packetstormsecurity.com/files/173802/Western-Digital-MyCloud-Unauthenticated-Command-Injection.html"
   },
@@ -206972,6 +207024,10 @@
     "PoC": "https://pastebin.com/Yxd9S46A"
   },
   {
+    "CVE": "CVE-2017-18046",
+    "PoC": "https://twitter.com/ankit_anubhav/status/982261670394249216"
+  },
+  {
     "CVE": "CVE-2017-18047",
     "PoC": "https://www.exploit-db.com/exploits/42011/"
   },
@@ -210122,6 +210178,10 @@
   {
     "CVE": "CVE-2017-2671",
     "PoC": "https://github.com/danieljiang0415/android_kernel_crash_poc"
+  },
+  {
+    "CVE": "CVE-2017-2671",
+    "PoC": "https://twitter.com/danieljiang0415/status/845116665184497664"
   },
   {
     "CVE": "CVE-2017-2671",
@@ -222546,6 +222606,10 @@
   {
     "CVE": "CVE-2018-1000049",
     "PoC": "https://reversebrain.github.io/2018/02/01/Claymore-Dual-Miner-Remote-Code-Execution/"
+  },
+  {
+    "CVE": "CVE-2018-1000049",
+    "PoC": "https://twitter.com/ReverseBrain/status/951850534985662464"
   },
   {
     "CVE": "CVE-2018-1000049",
@@ -256416,6 +256480,10 @@
     "PoC": "https://mustafairan.wordpress.com/2018/03/05/tuleap-mail-change-csrf-vulnerability-leads-to-account-takeover/"
   },
   {
+    "CVE": "CVE-2018-7634",
+    "PoC": "https://twitter.com/Mustafaran/status/970745812887199744"
+  },
+  {
     "CVE": "CVE-2018-7642",
     "PoC": "https://sourceware.org/bugzilla/show_bug.cgi?id=22887"
   },
@@ -272433,6 +272501,10 @@
   },
   {
     "CVE": "CVE-2019-15848",
+    "PoC": "https://twitter.com/JLLeitschuh/status/1169332316612644864?s=20"
+  },
+  {
+    "CVE": "CVE-2019-15848",
     "PoC": "https://www.softwaresecured.com/jetbrains-teamcity-reflected-xss/"
   },
   {
@@ -273566,6 +273638,10 @@
   {
     "CVE": "CVE-2019-16414",
     "PoC": "http://seclists.org/fulldisclosure/2019/Sep/35"
+  },
+  {
+    "CVE": "CVE-2019-16414",
+    "PoC": "https://twitter.com/haxel0rd/status/1174279811751174144"
   },
   {
     "CVE": "CVE-2019-16414",
@@ -290634,6 +290710,10 @@
   {
     "CVE": "CVE-2019-6453",
     "PoC": "https://proofofcalc.com/cve-2019-6453-mIRC/"
+  },
+  {
+    "CVE": "CVE-2019-6453",
+    "PoC": "https://twitter.com/proofofcalc/status/1097518413143003136"
   },
   {
     "CVE": "CVE-2019-6453",
@@ -385753,6 +385833,10 @@
   },
   {
     "CVE": "CVE-2022-23221",
+    "PoC": "https://twitter.com/d0nkey_man/status/1483824727936450564"
+  },
+  {
+    "CVE": "CVE-2022-23221",
     "PoC": "https://www.oracle.com/security-alerts/cpuapr2022.html"
   },
   {
@@ -419076,6 +419160,10 @@
     "PoC": "https://www.exploit-db.com/exploits/50692"
   },
   {
+    "CVE": "CVE-2022-50937",
+    "PoC": "https://www.vulnerability-lab.com/get_content.php?id=2275"
+  },
+  {
     "CVE": "CVE-2022-50938",
     "PoC": "https://www.exploit-db.com/exploits/50690"
   },
@@ -433173,7 +433261,15 @@
   },
   {
     "CVE": "CVE-2023-28902",
+    "PoC": "https://i.blackhat.com/EU-24/Presentations/EU-24-Parnishchev-OverTheAirVW.pdf"
+  },
+  {
+    "CVE": "CVE-2023-28902",
     "PoC": "https://pcacybersecurity.com/resources/advisory/vulnerabilities-in-vw-mib3-infotainment-2"
+  },
+  {
+    "CVE": "CVE-2023-28903",
+    "PoC": "https://i.blackhat.com/EU-24/Presentations/EU-24-Parnishchev-OverTheAirVW.pdf"
   },
   {
     "CVE": "CVE-2023-28903",
@@ -433181,7 +433277,15 @@
   },
   {
     "CVE": "CVE-2023-28904",
+    "PoC": "https://i.blackhat.com/EU-24/Presentations/EU-24-Parnishchev-OverTheAirVW.pdf"
+  },
+  {
+    "CVE": "CVE-2023-28904",
     "PoC": "https://pcacybersecurity.com/resources/advisory/vulnerabilities-in-vw-mib3-infotainment-2"
+  },
+  {
+    "CVE": "CVE-2023-28905",
+    "PoC": "https://i.blackhat.com/EU-24/Presentations/EU-24-Parnishchev-OverTheAirVW.pdf"
   },
   {
     "CVE": "CVE-2023-28905",
@@ -433189,7 +433293,15 @@
   },
   {
     "CVE": "CVE-2023-28906",
+    "PoC": "https://i.blackhat.com/EU-24/Presentations/EU-24-Parnishchev-OverTheAirVW.pdf"
+  },
+  {
+    "CVE": "CVE-2023-28906",
     "PoC": "https://pcacybersecurity.com/resources/advisory/vulnerabilities-in-vw-mib3-infotainment-2"
+  },
+  {
+    "CVE": "CVE-2023-28907",
+    "PoC": "https://i.blackhat.com/EU-24/Presentations/EU-24-Parnishchev-OverTheAirVW.pdf"
   },
   {
     "CVE": "CVE-2023-28907",
@@ -433197,7 +433309,15 @@
   },
   {
     "CVE": "CVE-2023-28908",
+    "PoC": "https://i.blackhat.com/EU-24/Presentations/EU-24-Parnishchev-OverTheAirVW.pdf"
+  },
+  {
+    "CVE": "CVE-2023-28908",
     "PoC": "https://pcacybersecurity.com/resources/advisory/vulnerabilities-in-vw-mib3-infotainment-2"
+  },
+  {
+    "CVE": "CVE-2023-28909",
+    "PoC": "https://i.blackhat.com/EU-24/Presentations/EU-24-Parnishchev-OverTheAirVW.pdf"
   },
   {
     "CVE": "CVE-2023-28909",
@@ -433205,11 +433325,23 @@
   },
   {
     "CVE": "CVE-2023-28910",
+    "PoC": "https://i.blackhat.com/EU-24/Presentations/EU-24-Parnishchev-OverTheAirVW.pdf"
+  },
+  {
+    "CVE": "CVE-2023-28910",
     "PoC": "https://pcacybersecurity.com/resources/advisory/vulnerabilities-in-vw-mib3-infotainment-2"
   },
   {
     "CVE": "CVE-2023-28911",
+    "PoC": "https://i.blackhat.com/EU-24/Presentations/EU-24-Parnishchev-OverTheAirVW.pdf"
+  },
+  {
+    "CVE": "CVE-2023-28911",
     "PoC": "https://pcacybersecurity.com/resources/advisory/vulnerabilities-in-vw-mib3-infotainment-2"
+  },
+  {
+    "CVE": "CVE-2023-28912",
+    "PoC": "https://i.blackhat.com/EU-24/Presentations/EU-24-Parnishchev-OverTheAirVW.pdf"
   },
   {
     "CVE": "CVE-2023-28912",
@@ -433402,6 +433534,10 @@
   {
     "CVE": "CVE-2023-29112",
     "PoC": "https://www.sap.com/documents/2022/02/fa865ea4-167e-0010-bca6-c68f7e60039b.html"
+  },
+  {
+    "CVE": "CVE-2023-29113",
+    "PoC": "https://i.blackhat.com/EU-24/Presentations/EU-24-Parnishchev-OverTheAirVW.pdf"
   },
   {
     "CVE": "CVE-2023-29113",
@@ -459362,6 +459498,10 @@
   {
     "CVE": "CVE-2024-0012",
     "PoC": "https://labs.watchtowr.com/pots-and-pans-aka-an-sslvpn-palo-alto-pan-os-cve-2024-0012-and-cve-2024-9474/"
+  },
+  {
+    "CVE": "CVE-2024-0020",
+    "PoC": "https://android.googlesource.com/platform/packages/apps/Settings/+/87f791f2351e366f842a0fd6fcb744069160d9a1"
   },
   {
     "CVE": "CVE-2024-0023",
@@ -492384,6 +492524,10 @@
     "PoC": "https://github.com/ebrasha/abdal-anydesk-remote-ip-detector"
   },
   {
+    "CVE": "CVE-2024-52940",
+    "PoC": "https://x.com/ProfShafiei/status/1850856458017009830"
+  },
+  {
     "CVE": "CVE-2024-52949",
     "PoC": "https://www.gruppotim.it/it/footer/red-team.html"
   },
@@ -495346,6 +495490,10 @@
   {
     "CVE": "CVE-2024-57760",
     "PoC": "https://gitee.com/erzhongxmu/JEEWMS/issues/IBFTVK"
+  },
+  {
+    "CVE": "CVE-2024-57762",
+    "PoC": "https://gitee.com/wanglingxiao/mysiteforme/issues/IBFVAT"
   },
   {
     "CVE": "CVE-2024-57763",
@@ -542088,6 +542236,10 @@
     "PoC": "https://www.cisa.gov/software-acquisition-guide/tool"
   },
   {
+    "CVE": "CVE-2025-67712",
+    "PoC": "https://www.mdronski.pl/2026/01/CVE-2025-67712-Proof-of-concept-and-technical-analysis.html"
+  },
+  {
     "CVE": "CVE-2025-6772",
     "PoC": "https://github.com/eosphoros-ai/DB-GPT/issues/2774"
   },
@@ -550164,6 +550316,10 @@
     "PoC": "https://note-hxlab.wetolink.com/share/w92t1Q0a74Gj"
   },
   {
+    "CVE": "CVE-2026-1108",
+    "PoC": "https://github.com/fizz-is-on-the-way/vuls_protocol/blob/main/librtsp_rtsp_rely_dumps/librtsp_rtsp_rely_dumps.md"
+  },
+  {
     "CVE": "CVE-2026-1109",
     "PoC": "https://github.com/fizz-is-on-the-way/vuls_protocol/blob/main/librtsp_rtsp_parse_request/librtsp_rtsp_parse_request.md"
   },
@@ -550850,6 +551006,10 @@
   {
     "CVE": "CVE-2026-1689",
     "PoC": "https://github.com/SunnyYANGyaya/cuicuishark-sheep-fishIOT/blob/main/Tenda/HG10/formLogin-Host-command.md#poc"
+  },
+  {
+    "CVE": "CVE-2026-1690",
+    "PoC": "https://github.com/SunnyYANGyaya/cuicuishark-sheep-fishIOT/blob/main/Tenda/HG10/formSysCmd-sysCmd-command.md"
   },
   {
     "CVE": "CVE-2026-1690",
@@ -551542,6 +551702,10 @@
   {
     "CVE": "CVE-2026-2196",
     "PoC": "https://github.com/tiancesec/CVE/issues/17"
+  },
+  {
+    "CVE": "CVE-2026-21962",
+    "PoC": "https://x.com/0xacb/status/2015473216844620280"
   },
   {
     "CVE": "CVE-2026-2202",
@@ -555356,6 +555520,22 @@
     "PoC": "https://github.com/InternationalColorConsortium/iccDEV/issues/618"
   },
   {
+    "CVE": "CVE-2026-30993",
+    "PoC": "https://cve.joaopaulodeoliveira.dev/cve.php/published/CVE-2026-30993"
+  },
+  {
+    "CVE": "CVE-2026-30994",
+    "PoC": "https://cve.joaopaulodeoliveira.dev/cve.php/published/CVE-2026-30994"
+  },
+  {
+    "CVE": "CVE-2026-30995",
+    "PoC": "https://cve.joaopaulodeoliveira.dev/cve.php/published/CVE-2026-30995"
+  },
+  {
+    "CVE": "CVE-2026-30996",
+    "PoC": "https://cve.joaopaulodeoliveira.dev/cve.php/published/CVE-2026-30996"
+  },
+  {
     "CVE": "CVE-2026-30998",
     "PoC": "https://ffmpeg.org/doxygen/7.0/zmqsend_8c_source.html"
   },
@@ -556002,6 +556182,10 @@
   {
     "CVE": "CVE-2026-33896",
     "PoC": "https://github.com/digitalbazaar/forge/security/advisories/GHSA-2328-f5f3-gj25"
+  },
+  {
+    "CVE": "CVE-2026-33947",
+    "PoC": "http://www.openwall.com/lists/oss-security/2026/04/16/1"
   },
   {
     "CVE": "CVE-2026-3395",
@@ -557254,6 +557438,10 @@
   {
     "CVE": "CVE-2026-5704",
     "PoC": "http://www.openwall.com/lists/oss-security/2026/04/12/2"
+  },
+  {
+    "CVE": "CVE-2026-5758",
+    "PoC": "https://morielharush.github.io/2026/04/12/cve-2026-5758-protocol-buffers-schema-prototype-pollution/"
   },
   {
     "CVE": "CVE-2026-5823",
