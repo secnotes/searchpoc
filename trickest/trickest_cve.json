@@ -429616,6 +429616,10 @@
     "PoC": "https://www.esri.com/arcgis-blog/products/trust-arcgis/announcements/arcgis-server-map-and-feature-service-security-2023-update-1-patch/"
   },
   {
+    "CVE": "CVE-2023-2589",
+    "PoC": "https://gitlab.com/gitlab-org/gitlab/-/issues/407891"
+  },
+  {
     "CVE": "CVE-2023-2590",
     "PoC": "https://huntr.dev/bounties/a4238a30-3ddb-4415-9055-e179c3d4dea7"
   },
@@ -448466,6 +448470,10 @@
   {
     "CVE": "CVE-2023-44487",
     "PoC": "https://github.com/varnishcache/varnish-cache/issues/3996"
+  },
+  {
+    "CVE": "CVE-2023-44487",
+    "PoC": "https://www.bleepingcomputer.com/news/security/new-http-2-rapid-reset-zero-day-attack-breaks-ddos-records/"
   },
   {
     "CVE": "CVE-2023-44487",
@@ -521633,7 +521641,15 @@
   },
   {
     "CVE": "CVE-2025-32056",
+    "PoC": "http://i.blackhat.com/Asia-25/Asia-25-Evdokimov-Remote-Exploitation-of-Nissan-Leaf.pdf"
+  },
+  {
+    "CVE": "CVE-2025-32056",
     "PoC": "https://pcacybersecurity.com/resources/advisory/vulnerabilities-in-nissan-infotainment-manufactured-by-bosch"
+  },
+  {
+    "CVE": "CVE-2025-32057",
+    "PoC": "http://i.blackhat.com/Asia-25/Asia-25-Evdokimov-Remote-Exploitation-of-Nissan-Leaf.pdf"
   },
   {
     "CVE": "CVE-2025-32057",
@@ -521641,7 +521657,15 @@
   },
   {
     "CVE": "CVE-2025-32058",
+    "PoC": "http://i.blackhat.com/Asia-25/Asia-25-Evdokimov-Remote-Exploitation-of-Nissan-Leaf.pdf"
+  },
+  {
+    "CVE": "CVE-2025-32058",
     "PoC": "https://pcacybersecurity.com/resources/advisory/vulnerabilities-in-nissan-infotainment-manufactured-by-bosch"
+  },
+  {
+    "CVE": "CVE-2025-32059",
+    "PoC": "http://i.blackhat.com/Asia-25/Asia-25-Evdokimov-Remote-Exploitation-of-Nissan-Leaf.pdf"
   },
   {
     "CVE": "CVE-2025-32059",
@@ -521653,7 +521677,15 @@
   },
   {
     "CVE": "CVE-2025-32060",
+    "PoC": "http://i.blackhat.com/Asia-25/Asia-25-Evdokimov-Remote-Exploitation-of-Nissan-Leaf.pdf"
+  },
+  {
+    "CVE": "CVE-2025-32060",
     "PoC": "https://pcacybersecurity.com/resources/advisory/vulnerabilities-in-nissan-infotainment-manufactured-by-bosch"
+  },
+  {
+    "CVE": "CVE-2025-32061",
+    "PoC": "http://i.blackhat.com/Asia-25/Asia-25-Evdokimov-Remote-Exploitation-of-Nissan-Leaf.pdf"
   },
   {
     "CVE": "CVE-2025-32061",
@@ -521661,7 +521693,15 @@
   },
   {
     "CVE": "CVE-2025-32062",
+    "PoC": "http://i.blackhat.com/Asia-25/Asia-25-Evdokimov-Remote-Exploitation-of-Nissan-Leaf.pdf"
+  },
+  {
+    "CVE": "CVE-2025-32062",
     "PoC": "https://pcacybersecurity.com/resources/advisory/vulnerabilities-in-nissan-infotainment-manufactured-by-bosch"
+  },
+  {
+    "CVE": "CVE-2025-32063",
+    "PoC": "http://i.blackhat.com/Asia-25/Asia-25-Evdokimov-Remote-Exploitation-of-Nissan-Leaf.pdf"
   },
   {
     "CVE": "CVE-2025-32063",
@@ -541832,6 +541872,10 @@
     "PoC": "https://github.com/Vanshdhawan188/CodeAstro-Online-Healthcare-Patient-Record-Management-System-CSRF/blob/main/CodeAstro-Online-Healthcare-Patient-Record-Management-System-CSRF.md#-steps-to-reproduce"
   },
   {
+    "CVE": "CVE-2025-66644",
+    "PoC": "https://www.bleepingcomputer.com/news/security/hackers-are-exploiting-arrayos-ag-vpn-flaw-to-plant-webshells/"
+  },
+  {
     "CVE": "CVE-2025-66645",
     "PoC": "https://github.com/zauberzeug/nicegui/security/advisories/GHSA-hxp3-63hc-5366"
   },
@@ -548400,6 +548444,10 @@
     "PoC": "https://gitee.com/mtons/mblog/issues/ICPMMF"
   },
   {
+    "CVE": "CVE-2025-9432",
+    "PoC": "https://gitee.com/mtons/mblog/issues/ICPMMQ"
+  },
+  {
     "CVE": "CVE-2025-9434",
     "PoC": "https://github.com/lan041221/cvec/issues/11"
   },
@@ -548854,6 +548902,10 @@
   {
     "CVE": "CVE-2025-9645",
     "PoC": "https://github.com/loveqiaoshen/QiaoShenCVE/issues/1"
+  },
+  {
+    "CVE": "CVE-2025-9647",
+    "PoC": "https://gitee.com/mtons/mblog/issues/ICPMNE"
   },
   {
     "CVE": "CVE-2025-9648",
@@ -552310,6 +552362,10 @@
   {
     "CVE": "CVE-2026-2293",
     "PoC": "https://fluidattacks.com/advisories/neton"
+  },
+  {
+    "CVE": "CVE-2026-2316",
+    "PoC": "https://issues.chromium.org/issues/422531206"
   },
   {
     "CVE": "CVE-2026-2317",
@@ -556000,6 +556056,10 @@
     "PoC": "https://github.com/rayficom/Proof-of-Concept/blob/main/20260219/README.md"
   },
   {
+    "CVE": "CVE-2026-33032",
+    "PoC": "https://websec.net/blog/cve-2026-33032-unauthenticated-nginx-ui-mcp-takeover-69e1200f9fceb1f3fbe9c47f"
+  },
+  {
     "CVE": "CVE-2026-33054",
     "PoC": "https://github.com/mesop-dev/mesop/security/advisories/GHSA-8qvf-mr4w-9x2c"
   },
@@ -557118,6 +557178,10 @@
   {
     "CVE": "CVE-2026-4079",
     "PoC": "https://wpscan.com/vulnerability/8ec92881-4ae5-458d-995b-f097f2bcc590/"
+  },
+  {
+    "CVE": "CVE-2026-41113",
+    "PoC": "https://blog.calif.io/p/we-asked-claude-to-audit-sagredos"
   },
   {
     "CVE": "CVE-2026-4115",
