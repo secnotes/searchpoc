@@ -337276,6 +337276,10 @@
     "PoC": "https://www.oracle.com/security-alerts/cpuoct2021.html"
   },
   {
+    "CVE": "CVE-2021-21370",
+    "PoC": "https://github.com/TYPO3/TYPO3.CMS/security/advisories/GHSA-x7hc-x7fm-f7qh"
+  },
+  {
     "CVE": "CVE-2021-21372",
     "PoC": "https://consensys.net/diligence/vulnerabilities/nim-insecure-ssl-tls-defaults-remote-code-execution/"
   },
@@ -393236,6 +393240,10 @@
     "PoC": "https://ghost.org/docs/security/#privilege-escalation-attacks"
   },
   {
+    "CVE": "CVE-2022-28397",
+    "PoC": "https://youtu.be/PncfBetPk2g"
+  },
+  {
     "CVE": "CVE-2022-2840",
     "PoC": "http://packetstormsecurity.com/files/168652/WordPress-Zephyr-Project-Manager-3.2.42-SQL-Injection.html"
   },
@@ -439488,6 +439496,10 @@
     "PoC": "https://www.exploit-db.com/exploits/51542"
   },
   {
+    "CVE": "CVE-2023-34835",
+    "PoC": "https://github.com/sahiloj/CVE-2023-34835/blob/main/README.md"
+  },
+  {
     "CVE": "CVE-2023-34837",
     "PoC": "https://github.com/sahiloj/CVE-2023-34837/blob/main/README.md"
   },
@@ -440574,6 +440586,10 @@
   {
     "CVE": "CVE-2023-36266",
     "PoC": "http://packetstormsecurity.com/files/173809/Keeper-Security-Desktop-16.10.2-Browser-Extension-16.5.4-Password-Dumper.html"
+  },
+  {
+    "CVE": "CVE-2023-3627",
+    "PoC": "https://github.com/salesagility/suitecrm-core/commit/78285702d76317f081b1fbc59cb2754e93b9a4c3"
   },
   {
     "CVE": "CVE-2023-3627",
@@ -458246,6 +458262,10 @@
   {
     "CVE": "CVE-2023-6575",
     "PoC": "https://vuldb.com/?id.247155"
+  },
+  {
+    "CVE": "CVE-2023-6576",
+    "PoC": "https://github.com/willchen0011/cve/blob/main/upload.md"
   },
   {
     "CVE": "CVE-2023-6577",
@@ -482284,6 +482304,10 @@
     "PoC": "https://git.kernel.org/stable/c/d4f9d5a99a3fd1b1c691b7a1a6f8f3f25f4116c9"
   },
   {
+    "CVE": "CVE-2024-38694",
+    "PoC": "https://patchstack.com/database/vulnerability/moloni/wordpress-moloni-plugin-4-7-4-reflected-cross-site-scripting-xss-vulnerability?_s_id=cve"
+  },
+  {
     "CVE": "CVE-2024-3872",
     "PoC": "https://mattermost.com/security-updates"
   },
@@ -495506,6 +495530,10 @@
   {
     "CVE": "CVE-2024-57763",
     "PoC": "https://gitee.com/wanglingxiao/mysiteforme/issues/IBFVFD"
+  },
+  {
+    "CVE": "CVE-2024-57767",
+    "PoC": "https://gitee.com/wanglingxiao/mysiteforme/issues/IBFVM9"
   },
   {
     "CVE": "CVE-2024-57768",
@@ -521314,6 +521342,10 @@
   {
     "CVE": "CVE-2025-3123",
     "PoC": "https://github.com/WonderCMS/wondercms/issues/330#issuecomment-2745347770"
+  },
+  {
+    "CVE": "CVE-2025-31324",
+    "PoC": "https://www.bleepingcomputer.com/news/security/sap-fixes-suspected-netweaver-zero-day-exploited-in-attacks/"
   },
   {
     "CVE": "CVE-2025-3134",
@@ -552428,6 +552460,10 @@
     "PoC": "https://github.com/pimcore/pimcore/security/advisories/GHSA-q433-j342-rp9h"
   },
   {
+    "CVE": "CVE-2026-23500",
+    "PoC": "https://github.com/Dolibarr/dolibarr/security/advisories/GHSA-w5j3-8fcr-h87w"
+  },
+  {
     "CVE": "CVE-2026-23512",
     "PoC": "https://github.com/sumatrapdfreader/sumatrapdf/security/advisories/GHSA-rqg5-gj63-x4mv"
   },
@@ -557156,6 +557192,10 @@
     "PoC": "https://github.com/user-attachments/files/25494042/poc_dims_oob.py"
   },
   {
+    "CVE": "CVE-2026-40170",
+    "PoC": "http://www.openwall.com/lists/oss-security/2026/04/17/12"
+  },
+  {
     "CVE": "CVE-2026-40212",
     "PoC": "https://bugs.launchpad.net/skyline-console/+bug/2138575"
   },
@@ -557186,6 +557226,18 @@
   {
     "CVE": "CVE-2026-4115",
     "PoC": "https://www.chiark.greenend.org.uk/~sgtatham/putty/wishlist/eddsa-overlarge-s.html"
+  },
+  {
+    "CVE": "CVE-2026-41253",
+    "PoC": "https://blog.calif.io/p/mad-bugs-even-cat-readmetxt-is-not"
+  },
+  {
+    "CVE": "CVE-2026-41254",
+    "PoC": "https://abhinavagarwal07.github.io/posts/lcms2-cubesize-overflow/"
+  },
+  {
+    "CVE": "CVE-2026-41254",
+    "PoC": "https://www.openwall.com/lists/oss-security/2026/04/17/16"
   },
   {
     "CVE": "CVE-2026-4171",
@@ -557538,5 +557590,9 @@
   {
     "CVE": "CVE-2026-6204",
     "PoC": "https://projectblack.io/blog/librenms-authenticated-rce-and-xss/#binary-path-rce-poc"
+  },
+  {
+    "CVE": "CVE-2026-6507",
+    "PoC": "https://bugzilla.redhat.com/show_bug.cgi?id=2459181"
   }
 ]
