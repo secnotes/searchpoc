@@ -3020,6 +3020,14 @@
     "PoC": "http://www.computerworld.co.nz/cw.nsf/0/BF9E8E6E2D313E5FCC256DD70016473F?OpenDocument&More="
   },
   {
+    "CVE": "CVE-2003-1184",
+    "PoC": "http://sourceforge.net/project/shownotes.php?release_id=195009"
+  },
+  {
+    "CVE": "CVE-2003-1185",
+    "PoC": "http://sourceforge.net/project/shownotes.php?release_id=195009"
+  },
+  {
     "CVE": "CVE-2003-1209",
     "PoC": "http://monkeyd.sourceforge.net/Changelog.txt"
   },
@@ -36044,6 +36052,10 @@
     "PoC": "http://securityreason.com/securityalert/2870"
   },
   {
+    "CVE": "CVE-2007-3648",
+    "PoC": "http://www.vupen.com/english/advisories/2007/2465"
+  },
+  {
     "CVE": "CVE-2007-3649",
     "PoC": "https://www.exploit-db.com/exploits/4155"
   },
@@ -36142,6 +36154,10 @@
   {
     "CVE": "CVE-2007-3726",
     "PoC": "http://securityreason.com/securityalert/2880"
+  },
+  {
+    "CVE": "CVE-2007-3727",
+    "PoC": "http://www.vupen.com/english/advisories/2007/2465"
   },
   {
     "CVE": "CVE-2007-3738",
@@ -90740,6 +90756,10 @@
     "PoC": "http://securityreason.com/securityalert/8144"
   },
   {
+    "CVE": "CVE-2011-1431",
+    "PoC": "http://www.kb.cert.org/vuls/id/MAPG-8D9M5Q"
+  },
+  {
     "CVE": "CVE-2011-1437",
     "PoC": "https://oval.cisecurity.org/repository/search/definition/oval%3Aorg.mitre.oval%3Adef%3A14601"
   },
@@ -92234,6 +92254,10 @@
   {
     "CVE": "CVE-2011-2443",
     "PoC": "http://www.zeroscience.mk/en/vulnerabilities/ZSL-2011-5049.php"
+  },
+  {
+    "CVE": "CVE-2011-2452",
+    "PoC": "https://oval.cisecurity.org/repository/search/definition/oval%3Aorg.mitre.oval%3Adef%3A14189"
   },
   {
     "CVE": "CVE-2011-2461",
@@ -192290,6 +192314,10 @@
   {
     "CVE": "CVE-2017-0038",
     "PoC": "https://www.exploit-db.com/exploits/41363/"
+  },
+  {
+    "CVE": "CVE-2017-0042",
+    "PoC": "https://twitter.com/Qab/status/842506404950917120"
   },
   {
     "CVE": "CVE-2017-0045",
@@ -518437,6 +518465,10 @@
   },
   {
     "CVE": "CVE-2025-27363",
+    "PoC": "http://www.openwall.com/lists/oss-security/2026/04/16/5"
+  },
+  {
+    "CVE": "CVE-2025-27363",
     "PoC": "https://www.facebook.com/security/advisories/cve-2025-27363"
   },
   {
@@ -540936,6 +540968,10 @@
     "PoC": "https://github.com/MAXEUR5/Vulnerability_Disclosures/blob/main/2025/CVE-2025-65410.md"
   },
   {
+    "CVE": "CVE-2025-65410",
+    "PoC": "https://lists.gnu.org/archive/html/bug-unrtf/2025-11/msg00001.html"
+  },
+  {
     "CVE": "CVE-2025-65411",
     "PoC": "https://lists.gnu.org/archive/html/bug-unrtf/2025-11/msg00000.html"
   },
@@ -557221,6 +557257,10 @@
   },
   {
     "CVE": "CVE-2026-41113",
+    "PoC": "http://www.openwall.com/lists/oss-security/2026/04/18/5"
+  },
+  {
+    "CVE": "CVE-2026-41113",
     "PoC": "https://blog.calif.io/p/we-asked-claude-to-audit-sagredos"
   },
   {
@@ -557594,5 +557634,9 @@
   {
     "CVE": "CVE-2026-6507",
     "PoC": "https://bugzilla.redhat.com/show_bug.cgi?id=2459181"
+  },
+  {
+    "CVE": "CVE-2026-6562",
+    "PoC": "https://thinhneee.github.io/posts/muucmf-sqli/"
   }
 ]
