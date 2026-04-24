@@ -117372,6 +117372,10 @@
     "PoC": "http://ffmpeg.org/security.html"
   },
   {
+    "CVE": "CVE-2013-7011",
+    "PoC": "https://github.com/FFmpeg/FFmpeg/commit/547d690d676064069d44703a1917e0dab7e33445"
+  },
+  {
     "CVE": "CVE-2013-7012",
     "PoC": "http://ffmpeg.org/security.html"
   },
@@ -175198,6 +175202,10 @@
   {
     "CVE": "CVE-2016-1501",
     "PoC": "https://hackerone.com/reports/87505"
+  },
+  {
+    "CVE": "CVE-2016-15025",
+    "PoC": "https://vuldb.com/?id.221484"
   },
   {
     "CVE": "CVE-2016-15038",
@@ -247150,6 +247158,26 @@
   {
     "CVE": "CVE-2018-25258",
     "PoC": "https://www.exploit-db.com/exploits/46107"
+  },
+  {
+    "CVE": "CVE-2018-25266",
+    "PoC": "https://www.exploit-db.com/exploits/45993"
+  },
+  {
+    "CVE": "CVE-2018-25267",
+    "PoC": "https://www.exploit-db.com/exploits/45996"
+  },
+  {
+    "CVE": "CVE-2018-25268",
+    "PoC": "https://www.exploit-db.com/exploits/45968"
+  },
+  {
+    "CVE": "CVE-2018-25269",
+    "PoC": "https://www.exploit-db.com/exploits/45974"
+  },
+  {
+    "CVE": "CVE-2018-25270",
+    "PoC": "https://www.exploit-db.com/exploits/45978"
   },
   {
     "CVE": "CVE-2018-2560",
@@ -339014,6 +339042,10 @@
   {
     "CVE": "CVE-2021-2216",
     "PoC": "https://www.oracle.com/security-alerts/cpuapr2021.html"
+  },
+  {
+    "CVE": "CVE-2021-22167",
+    "PoC": "https://gitlab.com/gitlab-org/gitlab/-/issues/289944"
   },
   {
     "CVE": "CVE-2021-2217",
@@ -465888,6 +465920,10 @@
     "PoC": "https://mattermost.com/security-updates"
   },
   {
+    "CVE": "CVE-2024-14032",
+    "PoC": "https://help.twitch.tv/s/article/recommended-software-for-broadcasting"
+  },
+  {
     "CVE": "CVE-2024-1406",
     "PoC": "https://vuldb.com/?id.253330"
   },
@@ -496160,6 +496196,10 @@
     "PoC": "https://www.exploit-db.com/exploits/51940"
   },
   {
+    "CVE": "CVE-2024-58344",
+    "PoC": "https://www.exploit-db.com/exploits/52043"
+  },
+  {
     "CVE": "CVE-2024-5835",
     "PoC": "https://issues.chromium.org/issues/341991535"
   },
@@ -507644,6 +507684,10 @@
     "PoC": "https://github.com/iMayday-Yee/Vulnerability/issues/3"
   },
   {
+    "CVE": "CVE-2025-11736",
+    "PoC": "https://vuldb.com/?ctiid.328220"
+  },
+  {
     "CVE": "CVE-2025-1174",
     "PoC": "https://1000projects.org/"
   },
@@ -507910,6 +507954,10 @@
   {
     "CVE": "CVE-2025-11958",
     "PoC": "https://devolutions.net/security/advisories/DEVO-2025-0015/"
+  },
+  {
+    "CVE": "CVE-2025-11984",
+    "PoC": "https://gitlab.com/gitlab-org/gitlab/-/issues/577847"
   },
   {
     "CVE": "CVE-2025-1199",
@@ -550552,6 +550600,10 @@
     "PoC": "https://www.redguard.ch/blog/2026/04/01/advisory-vertigis-vertigisfm/"
   },
   {
+    "CVE": "CVE-2026-0539",
+    "PoC": "https://labs.infoguard.ch/advisories/cve-2026-0539_pcvisit_local-privilege-escalation/"
+  },
+  {
     "CVE": "CVE-2026-0540",
     "PoC": "https://fluidattacks.com/advisories/daft"
   },
@@ -550562,6 +550614,10 @@
   {
     "CVE": "CVE-2026-0561",
     "PoC": "https://research.cleantalk.org/cve-2026-0561"
+  },
+  {
+    "CVE": "CVE-2026-0562",
+    "PoC": "https://aydinnyunus.github.io/2026/04/18/idor-lollms-friend-request-cve-2026-0562/"
   },
   {
     "CVE": "CVE-2026-0567",
@@ -552354,6 +552410,10 @@
   {
     "CVE": "CVE-2026-22190",
     "PoC": "https://seclists.org/fulldisclosure/2026/Jan/11"
+  },
+  {
+    "CVE": "CVE-2026-22191",
+    "PoC": "https://www.vulncheck.com/advisories/beghelli-sicuro24-sicuroweb-angularjs-template-injection"
   },
   {
     "CVE": "CVE-2026-22207",
@@ -557232,6 +557292,10 @@
     "PoC": "https://savannah.gnu.org/bugs/?68142"
   },
   {
+    "CVE": "CVE-2026-33555",
+    "PoC": "https://r3verii.github.io/cve/2026/04/14/haproxy-h3-standalone-fin-smuggling.html"
+  },
+  {
     "CVE": "CVE-2026-33622",
     "PoC": "https://github.com/pinchtab/pinchtab/security/advisories/GHSA-w5pc-m664-r62v"
   },
@@ -557270,6 +557334,10 @@
   {
     "CVE": "CVE-2026-3382",
     "PoC": "https://github.com/ChaiScript/ChaiScript/issues/635#issue-3828258513"
+  },
+  {
+    "CVE": "CVE-2026-33825",
+    "PoC": "https://www.huntress.com/blog/nightmare-eclipse-intrusion"
   },
   {
     "CVE": "CVE-2026-3383",
@@ -557368,6 +557436,18 @@
     "PoC": "http://seclists.org/fulldisclosure/2026/Apr/4"
   },
   {
+    "CVE": "CVE-2026-34413",
+    "PoC": "https://xerte.org.uk/xertetoolkits_3.15_ChangeLog.html"
+  },
+  {
+    "CVE": "CVE-2026-34414",
+    "PoC": "https://xerte.org.uk/xertetoolkits_3.15_ChangeLog.html"
+  },
+  {
+    "CVE": "CVE-2026-34415",
+    "PoC": "https://xerte.org.uk/xertetoolkits_3.15_ChangeLog.html"
+  },
+  {
     "CVE": "CVE-2026-34429",
     "PoC": "https://delta.cyberm.ca/bugbin/ur66bvB7BYTC9y0eCIk3uzhZQgbjzAkG/"
   },
@@ -557464,6 +557544,10 @@
     "PoC": "https://www.qualys.com/2026/03/10/crack-armor.txt"
   },
   {
+    "CVE": "CVE-2026-35548",
+    "PoC": "https://servicedesk.guardsix.com/hc/en-us/articles/35555683205021-SSRF-in-ODBC-Enrichment-Source"
+  },
+  {
     "CVE": "CVE-2026-3563",
     "PoC": "https://devolutions.net/security/advisories/DEVO-2026-0008"
   },
@@ -557534,6 +557618,10 @@
   {
     "CVE": "CVE-2026-3672",
     "PoC": "https://vuldb.com/?id.349569"
+  },
+  {
+    "CVE": "CVE-2026-3673",
+    "PoC": "https://fluidattacks.com/es/advisories/silvio"
   },
   {
     "CVE": "CVE-2026-3674",
@@ -557978,6 +558066,10 @@
   {
     "CVE": "CVE-2026-3830",
     "PoC": "https://wpscan.com/vulnerability/768014fd-0403-4182-b19e-3d46c92d8755/"
+  },
+  {
+    "CVE": "CVE-2026-3837",
+    "PoC": "https://fluidattacks.com/es/advisories/sabina"
   },
   {
     "CVE": "CVE-2026-3877",
@@ -558484,6 +558576,10 @@
     "PoC": "https://blog.calif.io/p/mad-bugs-discovering-a-0-day-in-zero"
   },
   {
+    "CVE": "CVE-2026-40517",
+    "PoC": "https://blog.calif.io/p/mad-bugs-discovering-a-0-day-in-zero"
+  },
+  {
     "CVE": "CVE-2026-40584",
     "PoC": "https://vulnerability.circl.lu/vuln/gcve-1-2026-0025"
   },
@@ -558494,6 +558590,10 @@
   {
     "CVE": "CVE-2026-4079",
     "PoC": "https://wpscan.com/vulnerability/8ec92881-4ae5-458d-995b-f097f2bcc590/"
+  },
+  {
+    "CVE": "CVE-2026-4106",
+    "PoC": "https://wpscan.com/vulnerability/9477ead2-3990-4aae-8e66-09ee2f4daa3e/"
   },
   {
     "CVE": "CVE-2026-41113",
@@ -558518,6 +558618,22 @@
   {
     "CVE": "CVE-2026-41254",
     "PoC": "https://www.openwall.com/lists/oss-security/2026/04/17/16"
+  },
+  {
+    "CVE": "CVE-2026-41459",
+    "PoC": "https://xerte.org.uk/xertetoolkits_3.15_ChangeLog.html"
+  },
+  {
+    "CVE": "CVE-2026-41468",
+    "PoC": "https://www.vulncheck.com/advisories/beghelli-sicuro24-sicuroweb-angularjs-sandbox-escape-via-template-injection"
+  },
+  {
+    "CVE": "CVE-2026-41469",
+    "PoC": "https://www.vulncheck.com/advisories/beghelli-sicuro24-sicuroweb-missing-content-security-policy"
+  },
+  {
+    "CVE": "CVE-2026-41651",
+    "PoC": "https://github.security.telekom.com/2026/04/pack2theroot-linux-local-privilege-escalation.html"
   },
   {
     "CVE": "CVE-2026-4171",
@@ -558546,6 +558662,10 @@
   {
     "CVE": "CVE-2026-4193",
     "PoC": "https://github.com/wudipjq/my_vuln/blob/main/D-Link7/vuln_92/92.md"
+  },
+  {
+    "CVE": "CVE-2026-41989",
+    "PoC": "https://dev.gnupg.org/T8211"
   },
   {
     "CVE": "CVE-2026-4199",
@@ -558646,6 +558766,10 @@
   {
     "CVE": "CVE-2026-4510",
     "PoC": "https://github.com/zzj-create/cvetest/blob/main/VULN-05_BACKURL_OPEN_REDIRECT_XSS_REPORT_EN.md"
+  },
+  {
+    "CVE": "CVE-2026-4512",
+    "PoC": "https://wpscan.com/vulnerability/6dfb4378-fe6a-4462-af10-8e7504e3d593/"
   },
   {
     "CVE": "CVE-2026-4533",
