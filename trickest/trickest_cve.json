@@ -2208,6 +2208,10 @@
     "PoC": "http://marc.info/?l=bugtraq&m=104940730819887&w=2"
   },
   {
+    "CVE": "CVE-2003-0201",
+    "PoC": "http://www.digitaldefense.net/labs/advisories/DDI-1013.txt"
+  },
+  {
     "CVE": "CVE-2003-0203",
     "PoC": "http://marc.info/?l=bugtraq&m=104610380126860&w=2"
   },
@@ -9734,6 +9738,10 @@
   {
     "CVE": "CVE-2005-2277",
     "PoC": "http://affix.sourceforge.net/affix_212_sec.patch"
+  },
+  {
+    "CVE": "CVE-2005-2277",
+    "PoC": "http://affix.sourceforge.net/affix_320_sec.patch"
   },
   {
     "CVE": "CVE-2005-2278",
@@ -66241,7 +66249,15 @@
   },
   {
     "CVE": "CVE-2009-0146",
+    "PoC": "http://www.redhat.com/support/errata/RHSA-2009-0431.html"
+  },
+  {
+    "CVE": "CVE-2009-0146",
     "PoC": "https://oval.cisecurity.org/repository/search/definition/oval%3Aorg.mitre.oval%3Adef%3A9632"
+  },
+  {
+    "CVE": "CVE-2009-0147",
+    "PoC": "http://www.redhat.com/support/errata/RHSA-2009-0431.html"
   },
   {
     "CVE": "CVE-2009-0147",
@@ -66262,6 +66278,10 @@
   {
     "CVE": "CVE-2009-0159",
     "PoC": "https://oval.cisecurity.org/repository/search/definition/oval%3Aorg.mitre.oval%3Adef%3A9634"
+  },
+  {
+    "CVE": "CVE-2009-0166",
+    "PoC": "http://www.redhat.com/support/errata/RHSA-2009-0431.html"
   },
   {
     "CVE": "CVE-2009-0166",
@@ -67828,8 +67848,16 @@
     "PoC": "http://www.kb.cert.org/vuls/id/196617"
   },
   {
+    "CVE": "CVE-2009-0799",
+    "PoC": "http://www.redhat.com/support/errata/RHSA-2009-0431.html"
+  },
+  {
     "CVE": "CVE-2009-0800",
     "PoC": "http://www.kb.cert.org/vuls/id/196617"
+  },
+  {
+    "CVE": "CVE-2009-0800",
+    "PoC": "http://www.redhat.com/support/errata/RHSA-2009-0431.html"
   },
   {
     "CVE": "CVE-2009-0807",
@@ -68592,8 +68620,16 @@
     "PoC": "http://www.kb.cert.org/vuls/id/196617"
   },
   {
+    "CVE": "CVE-2009-1179",
+    "PoC": "http://www.redhat.com/support/errata/RHSA-2009-0431.html"
+  },
+  {
     "CVE": "CVE-2009-1180",
     "PoC": "http://www.kb.cert.org/vuls/id/196617"
+  },
+  {
+    "CVE": "CVE-2009-1180",
+    "PoC": "http://www.redhat.com/support/errata/RHSA-2009-0431.html"
   },
   {
     "CVE": "CVE-2009-1180",
@@ -68605,6 +68641,10 @@
   },
   {
     "CVE": "CVE-2009-1181",
+    "PoC": "http://www.redhat.com/support/errata/RHSA-2009-0431.html"
+  },
+  {
+    "CVE": "CVE-2009-1181",
     "PoC": "https://oval.cisecurity.org/repository/search/definition/oval%3Aorg.mitre.oval%3Adef%3A9683"
   },
   {
@@ -68612,8 +68652,16 @@
     "PoC": "http://www.kb.cert.org/vuls/id/196617"
   },
   {
+    "CVE": "CVE-2009-1182",
+    "PoC": "http://www.redhat.com/support/errata/RHSA-2009-0431.html"
+  },
+  {
     "CVE": "CVE-2009-1183",
     "PoC": "http://www.kb.cert.org/vuls/id/196617"
+  },
+  {
+    "CVE": "CVE-2009-1183",
+    "PoC": "http://www.redhat.com/support/errata/RHSA-2009-0431.html"
   },
   {
     "CVE": "CVE-2009-1184",
@@ -399985,6 +400033,10 @@
   },
   {
     "CVE": "CVE-2022-3296",
+    "PoC": "https://github.com/vim/vim/commit/96b9bf8f74af8abf1e30054f996708db7dc285be"
+  },
+  {
+    "CVE": "CVE-2022-3296",
     "PoC": "https://huntr.dev/bounties/958866b8-526a-4979-9471-39392e0c9077"
   },
   {
@@ -436136,6 +436188,14 @@
     "PoC": "http://packetstormsecurity.com/files/174577/Kernel-Live-Patch-Security-Notice-LSN-0097-1.html"
   },
   {
+    "CVE": "CVE-2023-3125",
+    "PoC": "https://blog.nintechnet.com/vulnerabilities-fixed-in-wordpress-b2bking-plugin/"
+  },
+  {
+    "CVE": "CVE-2023-3126",
+    "PoC": "https://blog.nintechnet.com/vulnerabilities-fixed-in-wordpress-b2bking-plugin/"
+  },
+  {
     "CVE": "CVE-2023-3127",
     "PoC": "https://www.johnsoncontrols.com/cyber-solutions/security-advisories"
   },
@@ -461048,6 +461108,10 @@
     "PoC": "https://vuldb.com/?id.252277"
   },
   {
+    "CVE": "CVE-2024-1008",
+    "PoC": "https://www.youtube.com/watch?v=z4gcLZCOcnc"
+  },
+  {
     "CVE": "CVE-2024-1009",
     "PoC": "https://youtu.be/oL98TSjy89Q?si=_T6YkJZlbn7SJ4Gn"
   },
@@ -476262,6 +476326,10 @@
   {
     "CVE": "CVE-2024-30406",
     "PoC": "https://www.juniper.net/documentation/us/en/software/junos/cli-reference/topics/ref/statement/services-paa-test-agent.html"
+  },
+  {
+    "CVE": "CVE-2024-3042",
+    "PoC": "https://vuldb.com/?ctiid.258431"
   },
   {
     "CVE": "CVE-2024-3048",
@@ -550676,6 +550744,10 @@
     "PoC": "https://github.com/foeCat/CVE/blob/main/OnlineProductReservation_PHP/sqli_register_code.php.md#poc"
   },
   {
+    "CVE": "CVE-2026-0595",
+    "PoC": "https://gitlab.com/gitlab-org/gitlab/-/issues/584975"
+  },
+  {
     "CVE": "CVE-2026-0603",
     "PoC": "https://bugzilla.redhat.com/show_bug.cgi?id=2427147"
   },
@@ -554168,6 +554240,14 @@
     "PoC": "https://www.vulncheck.com/advisories/omnigen2-rl-reward-server-unsafe-deserialization-rce"
   },
   {
+    "CVE": "CVE-2026-25874",
+    "PoC": "https://chocapikk.com/posts/2026/lerobot-pickle-rce/"
+  },
+  {
+    "CVE": "CVE-2026-25874",
+    "PoC": "https://www.vulncheck.com/advisories/lerobot-unsafe-deserialization-remote-code-execution-via-grpc"
+  },
+  {
     "CVE": "CVE-2026-25884",
     "PoC": "https://github.com/Exiv2/exiv2/commit/cbba4d206512fe63e12d164fdd1881562f072a9d"
   },
@@ -554242,6 +554322,14 @@
   {
     "CVE": "CVE-2026-26202",
     "PoC": "https://github.com/penpot/penpot/security/advisories/GHSA-xp3f-g8rq-9px2"
+  },
+  {
+    "CVE": "CVE-2026-26210",
+    "PoC": "https://chocapikk.com/posts/2026/ktransformers-pickle-rce/"
+  },
+  {
+    "CVE": "CVE-2026-26210",
+    "PoC": "https://www.vulncheck.com/advisories/ktransformers-unsafe-deserialization-rce-via-balance-serve"
   },
   {
     "CVE": "CVE-2026-26214",
@@ -555260,6 +555348,10 @@
     "PoC": "https://github.com/steve-community/steve/security/advisories/GHSA-6x38-4w7h-cwr8"
   },
   {
+    "CVE": "CVE-2026-28231",
+    "PoC": "https://github.com/bigcat88/pillow_heif/security/advisories/GHSA-5gjj-6r7v-ph3x"
+  },
+  {
     "CVE": "CVE-2026-28274",
     "PoC": "https://github.com/Morelitea/initiative/security/advisories/GHSA-v38c-x27x-p584"
   },
@@ -555308,6 +555400,10 @@
     "PoC": "https://github.com/fedora-python/lxml_html_clean/security/advisories/GHSA-hw26-mmpg-fqfg"
   },
   {
+    "CVE": "CVE-2026-28350",
+    "PoC": "https://github.com/fedora-python/lxml_html_clean/security/advisories/GHSA-xvp8-3mhv-424c"
+  },
+  {
     "CVE": "CVE-2026-28372",
     "PoC": "https://www.openwall.com/lists/oss-security/2026/02/24/1"
   },
@@ -555342,6 +555438,14 @@
   {
     "CVE": "CVE-2026-28412",
     "PoC": "https://github.com/f/textream/security/advisories/GHSA-qr5p-7x47-qxh9"
+  },
+  {
+    "CVE": "CVE-2026-28414",
+    "PoC": "https://github.com/gradio-app/gradio/security/advisories/GHSA-39mp-8hj3-5c49"
+  },
+  {
+    "CVE": "CVE-2026-28416",
+    "PoC": "https://github.com/gradio-app/gradio/security/advisories/GHSA-jmh7-g254-2cq9"
   },
   {
     "CVE": "CVE-2026-28418",
@@ -555384,6 +555488,10 @@
     "PoC": "https://github.com/vim/vim/security/advisories/GHSA-gmqx-prf2-8mwf"
   },
   {
+    "CVE": "CVE-2026-28427",
+    "PoC": "https://github.com/nekename/OpenDeck/security/advisories/GHSA-4974-g27q-h5m8"
+  },
+  {
     "CVE": "CVE-2026-28428",
     "PoC": "https://github.com/Talishar/Talishar/security/advisories/GHSA-2659-p579-wv83"
   },
@@ -555404,12 +555512,28 @@
     "PoC": "https://github.com/IceWhaleTech/ZimaOS/security/advisories/GHSA-q5hp-59wm-9xq3"
   },
   {
+    "CVE": "CVE-2026-28446",
+    "PoC": "https://github.com/openclaw/openclaw/security/advisories/GHSA-4rj2-gpmh-qq5x"
+  },
+  {
+    "CVE": "CVE-2026-28448",
+    "PoC": "https://github.com/openclaw/openclaw/security/advisories/GHSA-33rq-m5x2-fvgf"
+  },
+  {
     "CVE": "CVE-2026-28467",
     "PoC": "https://github.com/openclaw/openclaw/security/advisories/GHSA-wfp2-v9c7-fh79"
   },
   {
     "CVE": "CVE-2026-2848",
     "PoC": "https://www.sourcecodester.com/"
+  },
+  {
+    "CVE": "CVE-2026-28490",
+    "PoC": "https://github.com/authlib/authlib/security/advisories/GHSA-7432-952r-cw78"
+  },
+  {
+    "CVE": "CVE-2026-28492",
+    "PoC": "https://github.com/filebrowser/filebrowser/security/advisories/GHSA-mr74-928f-rw69"
   },
   {
     "CVE": "CVE-2026-28495",
@@ -555428,12 +555552,20 @@
     "PoC": "https://github.com/vapor/leaf-kit/security/advisories/GHSA-6jj5-j4j8-8473"
   },
   {
+    "CVE": "CVE-2026-28505",
+    "PoC": "https://github.com/Tautulli/Tautulli/security/advisories/GHSA-m62j-gwm9-7p8m"
+  },
+  {
     "CVE": "CVE-2026-28506",
     "PoC": "https://github.com/outline/outline/security/advisories/GHSA-69x7-6fcr-mm6g"
   },
   {
     "CVE": "CVE-2026-28507",
     "PoC": "https://github.com/idno/idno/security/advisories/GHSA-37j7-56xc-c468"
+  },
+  {
+    "CVE": "CVE-2026-28508",
+    "PoC": "https://github.com/idno/idno/security/advisories/GHSA-fcrh-fqxh-6fx6"
   },
   {
     "CVE": "CVE-2026-28509",
@@ -555584,12 +555716,20 @@
     "PoC": "https://github.com/OliveTin/OliveTin/security/advisories/GHSA-4fqm-6fmh-82mq"
   },
   {
+    "CVE": "CVE-2026-28791",
+    "PoC": "https://github.com/tinacms/tinacms/security/advisories/GHSA-5hxf-c7j4-279c"
+  },
+  {
     "CVE": "CVE-2026-28792",
     "PoC": "https://github.com/tinacms/tinacms/security/advisories/GHSA-8pw3-9m7f-q734"
   },
   {
     "CVE": "CVE-2026-28793",
     "PoC": "https://github.com/tinacms/tinacms/security/advisories/GHSA-2f24-mg4x-534q"
+  },
+  {
+    "CVE": "CVE-2026-28794",
+    "PoC": "https://github.com/middleapi/orpc/security/advisories/GHSA-m272-9rp6-32mc"
   },
   {
     "CVE": "CVE-2026-28795",
@@ -555610,6 +555750,10 @@
   {
     "CVE": "CVE-2026-28807",
     "PoC": "https://github.com/gleam-wisp/wisp/security/advisories/GHSA-h7cj-j2vv-qw8r"
+  },
+  {
+    "CVE": "CVE-2026-28825",
+    "PoC": "https://blog.calif.io/p/mad-bugs-an-apple-kernel-bug-brought"
   },
   {
     "CVE": "CVE-2026-2884",
@@ -556996,12 +557140,20 @@
     "PoC": "https://github.com/OneUptime/oneuptime/security/advisories/GHSA-4524-cj9j-g4fj"
   },
   {
+    "CVE": "CVE-2026-32604",
+    "PoC": "https://zeropath.com/blog/spinnaker-rce-production-compromise"
+  },
+  {
     "CVE": "CVE-2026-32606",
     "PoC": "https://oddlama.org/blog/bypassing-disk-encryption-with-tpm2-unlock"
   },
   {
     "CVE": "CVE-2026-3261",
     "PoC": "https://github.com/Ning-BJ/cve/issues/1"
+  },
+  {
+    "CVE": "CVE-2026-32613",
+    "PoC": "https://zeropath.com/blog/spinnaker-rce-production-compromise"
   },
   {
     "CVE": "CVE-2026-3262",
@@ -557312,6 +557464,10 @@
     "PoC": "https://github.com/go-vikunja/vikunja/security/advisories/GHSA-8hp8-9fhr-pfm9"
   },
   {
+    "CVE": "CVE-2026-3376",
+    "PoC": "https://github.com/Litengzheng/vul_db/blob/main/F453/vul_76/README.md"
+  },
+  {
     "CVE": "CVE-2026-3377",
     "PoC": "https://github.com/Litengzheng/vul_db/blob/main/F453/vul_77/README.md"
   },
@@ -557390,6 +557546,10 @@
   {
     "CVE": "CVE-2026-3398",
     "PoC": "https://github.com/Litengzheng/vul_db/blob/main/F453/vul_82/README.md"
+  },
+  {
+    "CVE": "CVE-2026-3399",
+    "PoC": "https://github.com/Litengzheng/vul_db/blob/main/F453/vul_83/README.md"
   },
   {
     "CVE": "CVE-2026-3401",
@@ -557752,6 +557912,10 @@
     "PoC": "https://github.com/Litengzheng/vul_db/blob/main/WL-WN579X3-C/vul_17/README.md"
   },
   {
+    "CVE": "CVE-2026-3716",
+    "PoC": "https://github.com/Litengzheng/vul_db/blob/main/WL-WN579X3-C/vul_18/README.md"
+  },
+  {
     "CVE": "CVE-2026-3723",
     "PoC": "https://github.com/Owen-YuanW/CVE/issues/6"
   },
@@ -557762,6 +557926,10 @@
   {
     "CVE": "CVE-2026-3726",
     "PoC": "https://github.com/Litengzheng/vul_db/blob/main/F453/vul_85/README.md"
+  },
+  {
+    "CVE": "CVE-2026-3727",
+    "PoC": "https://github.com/Litengzheng/vul_db/blob/main/F453/vul_96/README.md"
   },
   {
     "CVE": "CVE-2026-3730",
@@ -557922,6 +558090,10 @@
   {
     "CVE": "CVE-2026-3767",
     "PoC": "https://github.com/ltranquility/cve_submit/issues/9"
+  },
+  {
+    "CVE": "CVE-2026-3768",
+    "PoC": "https://github.com/Litengzheng/vul_db/blob/main/F453/vul_69/README.md"
   },
   {
     "CVE": "CVE-2026-3769",
@@ -558516,6 +558688,10 @@
     "PoC": "https://github.com/marimo-team/marimo/security/advisories/GHSA-2679-6mx9-h9xc"
   },
   {
+    "CVE": "CVE-2026-39987",
+    "PoC": "https://www.sysdig.com/blog/marimo-oss-python-notebook-rce-from-disclosure-to-exploitation-in-under-10-hours"
+  },
+  {
     "CVE": "CVE-2026-40038",
     "PoC": "https://www.zeroscience.mk/en/vulnerabilities/ZSL-2026-5980.php"
   },
@@ -558622,6 +558798,14 @@
   {
     "CVE": "CVE-2026-41459",
     "PoC": "https://xerte.org.uk/xertetoolkits_3.15_ChangeLog.html"
+  },
+  {
+    "CVE": "CVE-2026-41460",
+    "PoC": "https://karmainsecurity.com/KIS-2026-08"
+  },
+  {
+    "CVE": "CVE-2026-41460",
+    "PoC": "https://karmainsecurity.com/pocs/CVE-2026-41460.php"
   },
   {
     "CVE": "CVE-2026-41468",
