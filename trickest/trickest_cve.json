@@ -848,6 +848,14 @@
     "PoC": "http://freshmeat.net/releases/51981/"
   },
   {
+    "CVE": "CVE-2001-1374",
+    "PoC": "http://www.redhat.com/support/errata/RHSA-2002-148.html"
+  },
+  {
+    "CVE": "CVE-2001-1375",
+    "PoC": "http://www.redhat.com/support/errata/RHSA-2002-148.html"
+  },
+  {
     "CVE": "CVE-2001-1390",
     "PoC": "http://www.redhat.com/support/errata/RHSA-2001-047.html"
   },
@@ -218176,6 +218184,10 @@
     "PoC": "https://www.qualys.com/2017/02/22/qsa-2017-02-22/qsa-2017-02-22.pdf"
   },
   {
+    "CVE": "CVE-2017-7856",
+    "PoC": "http://www.libreoffice.org/about-us/security/advisories/cve-2017-7856/"
+  },
+  {
     "CVE": "CVE-2017-7857",
     "PoC": "https://www.oracle.com/security-alerts/cpuapr2020.html"
   },
@@ -218202,6 +218214,10 @@
   {
     "CVE": "CVE-2017-7868",
     "PoC": "https://www.oracle.com/technetwork/security-advisory/cpuapr2019-5072813.html"
+  },
+  {
+    "CVE": "CVE-2017-7870",
+    "PoC": "http://www.libreoffice.org/about-us/security/advisories/cve-2017-7870/"
   },
   {
     "CVE": "CVE-2017-7870",
@@ -247364,6 +247380,10 @@
     "PoC": "https://www.exploit-db.com/exploits/45494"
   },
   {
+    "CVE": "CVE-2018-25274",
+    "PoC": "https://www.exploit-db.com/exploits/45413"
+  },
+  {
     "CVE": "CVE-2018-25275",
     "PoC": "https://www.exploit-db.com/exploits/45414"
   },
@@ -247384,12 +247404,76 @@
     "PoC": "https://www.exploit-db.com/exploits/45380"
   },
   {
+    "CVE": "CVE-2018-25280",
+    "PoC": "https://www.exploit-db.com/exploits/45390"
+  },
+  {
     "CVE": "CVE-2018-25281",
     "PoC": "https://www.exploit-db.com/exploits/45388"
   },
   {
     "CVE": "CVE-2018-25282",
     "PoC": "https://www.exploit-db.com/exploits/45357"
+  },
+  {
+    "CVE": "CVE-2018-25283",
+    "PoC": "https://www.exploit-db.com/exploits/45349"
+  },
+  {
+    "CVE": "CVE-2018-25284",
+    "PoC": "https://www.exploit-db.com/exploits/45298"
+  },
+  {
+    "CVE": "CVE-2018-25285",
+    "PoC": "https://www.exploit-db.com/exploits/45294"
+  },
+  {
+    "CVE": "CVE-2018-25286",
+    "PoC": "https://www.exploit-db.com/exploits/45300"
+  },
+  {
+    "CVE": "CVE-2018-25287",
+    "PoC": "https://www.exploit-db.com/exploits/45299"
+  },
+  {
+    "CVE": "CVE-2018-25288",
+    "PoC": "https://www.exploit-db.com/exploits/45250"
+  },
+  {
+    "CVE": "CVE-2018-25289",
+    "PoC": "https://www.exploit-db.com/exploits/45245"
+  },
+  {
+    "CVE": "CVE-2018-25290",
+    "PoC": "https://www.exploit-db.com/exploits/45241"
+  },
+  {
+    "CVE": "CVE-2018-25291",
+    "PoC": "https://www.exploit-db.com/exploits/45229"
+  },
+  {
+    "CVE": "CVE-2018-25292",
+    "PoC": "https://www.exploit-db.com/exploits/45223"
+  },
+  {
+    "CVE": "CVE-2018-25293",
+    "PoC": "https://www.exploit-db.com/exploits/45226"
+  },
+  {
+    "CVE": "CVE-2018-25294",
+    "PoC": "https://www.exploit-db.com/exploits/45211"
+  },
+  {
+    "CVE": "CVE-2018-25295",
+    "PoC": "https://www.exploit-db.com/exploits/45204"
+  },
+  {
+    "CVE": "CVE-2018-25296",
+    "PoC": "https://www.exploit-db.com/exploits/45207"
+  },
+  {
+    "CVE": "CVE-2018-25297",
+    "PoC": "https://www.exploit-db.com/exploits/45194"
   },
   {
     "CVE": "CVE-2018-2560",
@@ -295384,6 +295468,10 @@
     "PoC": "https://rastating.github.io/miniblog-remote-code-execution/"
   },
   {
+    "CVE": "CVE-2019-9847",
+    "PoC": "https://www.libreoffice.org/about-us/security/advisories/cve-2019-9847/"
+  },
+  {
     "CVE": "CVE-2019-9848",
     "PoC": "https://www.libreoffice.org/about-us/security/advisories/CVE-2019-9848"
   },
@@ -295406,6 +295494,14 @@
   {
     "CVE": "CVE-2019-9853",
     "PoC": "http://packetstormsecurity.com/files/156474/Open-Xchange-App-Suite-Documents-Server-Side-Request-Forgery.html"
+  },
+  {
+    "CVE": "CVE-2019-9853",
+    "PoC": "https://www.libreoffice.org/about-us/security/advisories/CVE-2019-9853/"
+  },
+  {
+    "CVE": "CVE-2019-9855",
+    "PoC": "https://www.libreoffice.org/about-us/security/advisories/CVE-2019-9855/"
   },
   {
     "CVE": "CVE-2019-9858",
@@ -302056,6 +302152,10 @@
     "PoC": "https://wordpress.org/plugins/drag-and-drop-multiple-file-upload-contact-form-7/#developers"
   },
   {
+    "CVE": "CVE-2020-12803",
+    "PoC": "https://www.libreoffice.org/about-us/security/advisories/CVE-2020-12803"
+  },
+  {
     "CVE": "CVE-2020-1281",
     "PoC": "http://packetstormsecurity.com/files/158028/Microsoft-Windows-Privilege-Escalation-Code-Execution.html"
   },
@@ -302758,6 +302858,10 @@
   {
     "CVE": "CVE-2020-13245",
     "PoC": "https://iot-lab-fh-ooe.github.io/netgear_update_vulnerability/"
+  },
+  {
+    "CVE": "CVE-2020-13245",
+    "PoC": "https://www.netgear.com/about/security/"
   },
   {
     "CVE": "CVE-2020-13246",
@@ -354864,6 +354968,10 @@
     "PoC": "https://github.com/SecureAuthCorp/impacket/releases"
   },
   {
+    "CVE": "CVE-2021-31802",
+    "PoC": "https://www.netgear.com/about/security/"
+  },
+  {
     "CVE": "CVE-2021-31805",
     "PoC": "https://www.oracle.com/security-alerts/cpujul2022.html"
   },
@@ -366468,6 +366576,10 @@
     "PoC": "https://www.dlink.com/en/security-bulletin/"
   },
   {
+    "CVE": "CVE-2021-41449",
+    "PoC": "https://www.netgear.com/about/security/"
+  },
+  {
     "CVE": "CVE-2021-41456",
     "PoC": "https://github.com/gpac/gpac/issues/1911"
   },
@@ -371400,8 +371512,16 @@
     "PoC": "https://github.com/zer0yu/CVE_Request/blob/master/netgear/Netgear_W104_unauthorized_access_vulnerability_first.md"
   },
   {
+    "CVE": "CVE-2021-44261",
+    "PoC": "https://www.netgear.com/about/security/"
+  },
+  {
     "CVE": "CVE-2021-44262",
     "PoC": "https://github.com/zer0yu/CVE_Request/blob/master/netgear/Netgear_W104_unauthorized_access_vulnerability_second.md"
+  },
+  {
+    "CVE": "CVE-2021-44262",
+    "PoC": "https://www.netgear.com/about/security/"
   },
   {
     "CVE": "CVE-2021-44263",
@@ -374358,6 +374478,10 @@
   {
     "CVE": "CVE-2021-46382",
     "PoC": "https://drive.google.com/drive/folders/1NOIoT8yE_HDoLVYhchml5E2Za3Oo6V9Y?usp=sharing"
+  },
+  {
+    "CVE": "CVE-2021-46382",
+    "PoC": "https://www.netgear.com/about/security/"
   },
   {
     "CVE": "CVE-2021-46387",
@@ -388108,6 +388232,10 @@
     "PoC": "https://kb.netgear.com/000064615/Security-Advisory-for-Pre-Authentication-Command-Injection-on-EX6100v1-and-Pre-Authentication-Stack-Overflow-on-Multiple-Products-PSV-2021-0282-PSV-2021-0288"
   },
   {
+    "CVE": "CVE-2022-24655",
+    "PoC": "https://www.netgear.com/about/security/"
+  },
+  {
     "CVE": "CVE-2022-24656",
     "PoC": "https://github.com/zhuzhuyule/HexoEditor/issues/3"
   },
@@ -395068,6 +395196,10 @@
     "PoC": "https://www.exploit-db.com/exploits/49298"
   },
   {
+    "CVE": "CVE-2022-29383",
+    "PoC": "https://www.netgear.com/about/security/"
+  },
+  {
     "CVE": "CVE-2022-29391",
     "PoC": "https://github.com/d1tto/IoT-vuln/tree/main/Totolink/5.setStaticDhcpConfig"
   },
@@ -396200,8 +396332,16 @@
     "PoC": "https://github.com/10TG/vulnerabilities/blob/main/Netgear/CVE-2022-30078/CVE-2022-30078.md"
   },
   {
+    "CVE": "CVE-2022-30078",
+    "PoC": "https://www.netgear.com/about/security/"
+  },
+  {
     "CVE": "CVE-2022-30079",
     "PoC": "https://github.com/10TG/vulnerabilities/blob/main/Netgear/CVE-2022-30079/CVE-2022-30079.md"
+  },
+  {
+    "CVE": "CVE-2022-30079",
+    "PoC": "https://www.netgear.com/about/security/"
   },
   {
     "CVE": "CVE-2022-3008",
@@ -398800,6 +398940,10 @@
     "PoC": "https://github.com/jayus0821/uai-poc/blob/main/Netgear/WNAP320/unauth.md"
   },
   {
+    "CVE": "CVE-2022-31876",
+    "PoC": "https://www.netgear.com/about/security/"
+  },
+  {
     "CVE": "CVE-2022-31877",
     "PoC": "https://patsch.dev/2022/07/08/cve-2022-31877-privilege-escalation-in-msi-centers-msi-terminalserver-exe/"
   },
@@ -398858,6 +399002,10 @@
   {
     "CVE": "CVE-2022-31902",
     "PoC": "https://github.com/CDACesec/CVE-2022-31902"
+  },
+  {
+    "CVE": "CVE-2022-31937",
+    "PoC": "https://www.netgear.com/about/security/"
   },
   {
     "CVE": "CVE-2022-3194",
@@ -405388,6 +405536,18 @@
     "PoC": "https://huntr.dev/bounties/a3c506f0-5f8a-4eaa-b8cc-46fb9e35cf7a"
   },
   {
+    "CVE": "CVE-2022-37232",
+    "PoC": "https://www.netgear.com/about/security/"
+  },
+  {
+    "CVE": "CVE-2022-37234",
+    "PoC": "https://www.netgear.com/about/security/"
+  },
+  {
+    "CVE": "CVE-2022-37235",
+    "PoC": "https://www.netgear.com/about/security/"
+  },
+  {
     "CVE": "CVE-2022-37237",
     "PoC": "https://github.com/ZLMediaKit/ZLMediaKit/issues/1839"
   },
@@ -407114,6 +407274,14 @@
   {
     "CVE": "CVE-2022-3894",
     "PoC": "https://wpscan.com/vulnerability/298487b2-4141-4c9f-9bb2-e1450aefc1a8"
+  },
+  {
+    "CVE": "CVE-2022-38955",
+    "PoC": "https://www.netgear.com/about/security/"
+  },
+  {
+    "CVE": "CVE-2022-38956",
+    "PoC": "https://www.netgear.com/about/security/"
   },
   {
     "CVE": "CVE-2022-38970",
@@ -410536,6 +410704,10 @@
     "PoC": "http://packetstormsecurity.com/files/172553/GetSimple-CMS-3.3.16-Shell-Upload.html"
   },
   {
+    "CVE": "CVE-2022-41545",
+    "PoC": "https://www.netgear.com/about/security/"
+  },
+  {
     "CVE": "CVE-2022-41547",
     "PoC": "https://github.com/MobSF/Mobile-Security-Framework-MobSF/pull/166"
   },
@@ -411390,6 +411562,10 @@
   {
     "CVE": "CVE-2022-42221",
     "PoC": "https://github.com/Cj775995/CVE_Report/tree/main/Netgear/R6220"
+  },
+  {
+    "CVE": "CVE-2022-42221",
+    "PoC": "https://www.netgear.com/about/security/"
   },
   {
     "CVE": "CVE-2022-42235",
@@ -413916,6 +414092,58 @@
     "PoC": "https://wpscan.com/vulnerability/a8c6b077-ff93-4c7b-970f-3be4d7971aa5"
   },
   {
+    "CVE": "CVE-2022-44184",
+    "PoC": "https://www.netgear.com/about/security/"
+  },
+  {
+    "CVE": "CVE-2022-44186",
+    "PoC": "https://www.netgear.com/about/security/"
+  },
+  {
+    "CVE": "CVE-2022-44187",
+    "PoC": "https://www.netgear.com/about/security/"
+  },
+  {
+    "CVE": "CVE-2022-44188",
+    "PoC": "https://www.netgear.com/about/security/"
+  },
+  {
+    "CVE": "CVE-2022-44190",
+    "PoC": "https://www.netgear.com/about/security/"
+  },
+  {
+    "CVE": "CVE-2022-44191",
+    "PoC": "https://www.netgear.com/about/security/"
+  },
+  {
+    "CVE": "CVE-2022-44193",
+    "PoC": "https://www.netgear.com/about/security/"
+  },
+  {
+    "CVE": "CVE-2022-44194",
+    "PoC": "https://www.netgear.com/about/security/"
+  },
+  {
+    "CVE": "CVE-2022-44196",
+    "PoC": "https://www.netgear.com/about/security/"
+  },
+  {
+    "CVE": "CVE-2022-44197",
+    "PoC": "https://www.netgear.com/about/security/"
+  },
+  {
+    "CVE": "CVE-2022-44198",
+    "PoC": "https://www.netgear.com/about/security/"
+  },
+  {
+    "CVE": "CVE-2022-44199",
+    "PoC": "https://www.netgear.com/about/security/"
+  },
+  {
+    "CVE": "CVE-2022-44200",
+    "PoC": "https://www.netgear.com/about/security/"
+  },
+  {
     "CVE": "CVE-2022-44201",
     "PoC": "https://www.dlink.com/en/security-bulletin/"
   },
@@ -416368,6 +416596,18 @@
     "PoC": "https://www.gruppotim.it/it/footer/red-team.html"
   },
   {
+    "CVE": "CVE-2022-46422",
+    "PoC": "https://www.netgear.com/about/security/"
+  },
+  {
+    "CVE": "CVE-2022-46423",
+    "PoC": "https://www.netgear.com/about/security/"
+  },
+  {
+    "CVE": "CVE-2022-46424",
+    "PoC": "https://www.netgear.com/about/security/"
+  },
+  {
     "CVE": "CVE-2022-46428",
     "PoC": "https://hackmd.io/%40slASVrz_SrW7NQCsunofeA/S1hP34Hvj"
   },
@@ -418490,6 +418730,10 @@
   {
     "CVE": "CVE-2022-48164",
     "PoC": "https://github.com/strik3r0x1/Vulns/blob/main/WAVLINK_WN533A8.md"
+  },
+  {
+    "CVE": "CVE-2022-48176",
+    "PoC": "https://www.netgear.com/about/security/"
   },
   {
     "CVE": "CVE-2022-48177",
@@ -426864,6 +427108,10 @@
     "PoC": "https://wpscan.com/vulnerability/1b3f4558-ea41-4749-9aa2-d3971fc9ca0d"
   },
   {
+    "CVE": "CVE-2023-23110",
+    "PoC": "https://www.netgear.com/about/security/"
+  },
+  {
     "CVE": "CVE-2023-2315",
     "PoC": "https://starlabs.sg/advisories/23/23-2315/"
   },
@@ -435204,6 +435452,10 @@
     "PoC": "https://github.com/HuBenLab/HuBenVulList/blob/main/CLTPHP6.0%20Improper%20Input%20Validation%202.md"
   },
   {
+    "CVE": "CVE-2023-30280",
+    "PoC": "https://www.netgear.com/about/security/"
+  },
+  {
     "CVE": "CVE-2023-30285",
     "PoC": "http://deviniti.com"
   },
@@ -438372,6 +438624,10 @@
     "PoC": "https://github.com/emoncms/emoncms/issues/1856"
   },
   {
+    "CVE": "CVE-2023-33533",
+    "PoC": "https://www.netgear.com/about/security/"
+  },
+  {
     "CVE": "CVE-2023-33534",
     "PoC": "https://rodelllemit.medium.com/cve-2023-33534-account-takeover-through-csrf-vulnerability-461de6f1b696"
   },
@@ -439582,6 +439838,10 @@
   {
     "CVE": "CVE-2023-34563",
     "PoC": "https://github.com/D2y6p/CVE/blob/main/Netgear/CVE-2023-34563/EN.md"
+  },
+  {
+    "CVE": "CVE-2023-34563",
+    "PoC": "https://www.netgear.com/about/security/"
   },
   {
     "CVE": "CVE-2023-34565",
@@ -441182,6 +441442,10 @@
   {
     "CVE": "CVE-2023-36482",
     "PoC": "https://semiconductor.samsung.com/support/quality-support/product-security-updates/"
+  },
+  {
+    "CVE": "CVE-2023-36499",
+    "PoC": "https://www.netgear.com/about/security/"
   },
   {
     "CVE": "CVE-2023-3650",
@@ -443212,6 +443476,10 @@
     "PoC": "https://cdn.kernel.org/pub/linux/kernel/v6.x/ChangeLog-6.2.12"
   },
   {
+    "CVE": "CVE-2023-38412",
+    "PoC": "https://www.netgear.com/about/security/"
+  },
+  {
     "CVE": "CVE-2023-38426",
     "PoC": "https://cdn.kernel.org/pub/linux/kernel/v6.x/ChangeLog-6.3.4"
   },
@@ -443346,6 +443614,10 @@
   {
     "CVE": "CVE-2023-38573",
     "PoC": "https://www.talosintelligence.com/vulnerability_reports/TALOS-2023-1839"
+  },
+  {
+    "CVE": "CVE-2023-38591",
+    "PoC": "https://www.netgear.com/about/security/"
   },
   {
     "CVE": "CVE-2023-38617",
@@ -443686,6 +443958,34 @@
   {
     "CVE": "CVE-2023-38921",
     "PoC": "https://github.com/FirmRec/IoT-Vulns/tree/main/netgear/upgrade_handler"
+  },
+  {
+    "CVE": "CVE-2023-38921",
+    "PoC": "https://www.netgear.com/about/security/"
+  },
+  {
+    "CVE": "CVE-2023-38922",
+    "PoC": "https://www.netgear.com/about/security/"
+  },
+  {
+    "CVE": "CVE-2023-38924",
+    "PoC": "https://www.netgear.com/about/security/"
+  },
+  {
+    "CVE": "CVE-2023-38925",
+    "PoC": "https://www.netgear.com/about/security/"
+  },
+  {
+    "CVE": "CVE-2023-38926",
+    "PoC": "https://www.netgear.com/about/security/"
+  },
+  {
+    "CVE": "CVE-2023-38928",
+    "PoC": "https://www.netgear.com/about/security/"
+  },
+  {
+    "CVE": "CVE-2023-38932",
+    "PoC": "https://www.netgear.com/about/security/"
   },
   {
     "CVE": "CVE-2023-38943",
@@ -444362,6 +444662,10 @@
   {
     "CVE": "CVE-2023-39542",
     "PoC": "https://www.talosintelligence.com/vulnerability_reports/TALOS-2023-1832"
+  },
+  {
+    "CVE": "CVE-2023-39550",
+    "PoC": "https://www.netgear.com/about/security/"
   },
   {
     "CVE": "CVE-2023-39551",
@@ -453670,6 +453974,10 @@
   {
     "CVE": "CVE-2023-50089",
     "PoC": "https://github.com/NoneShell/Vulnerabilities/blob/main/NETGEAR/WNR2000v4-1.0.0.70-Authorized-Command-Injection.md"
+  },
+  {
+    "CVE": "CVE-2023-50089",
+    "PoC": "https://www.netgear.com/about/security/"
   },
   {
     "CVE": "CVE-2023-50094",
@@ -474489,6 +474797,10 @@
   },
   {
     "CVE": "CVE-2024-28085",
+    "PoC": "http://seclists.org/fulldisclosure/2024/Mar/35"
+  },
+  {
+    "CVE": "CVE-2024-28085",
     "PoC": "http://www.openwall.com/lists/oss-security/2024/03/27/5"
   },
   {
@@ -474886,6 +475198,14 @@
   {
     "CVE": "CVE-2024-28338",
     "PoC": "https://github.com/funny-mud-peee/IoT-vuls/blob/main/TOTOLINK%20A8000RU/TOTOlink%20A8000RU%20login%20bypass.md"
+  },
+  {
+    "CVE": "CVE-2024-28339",
+    "PoC": "https://www.netgear.com/about/security/"
+  },
+  {
+    "CVE": "CVE-2024-28340",
+    "PoC": "https://www.netgear.com/about/security/"
   },
   {
     "CVE": "CVE-2024-28344",
@@ -476596,12 +476916,32 @@
     "PoC": "https://github.com/funny-mud-peee/IoT-vuls/blob/main/netgear%20R6850/Netgear-R6850%20V1.1.0.88%20Command%20Injection(ping_test).md"
   },
   {
+    "CVE": "CVE-2024-30568",
+    "PoC": "https://www.netgear.com/about/security/"
+  },
+  {
+    "CVE": "CVE-2024-30569",
+    "PoC": "https://www.netgear.com/about/security/"
+  },
+  {
+    "CVE": "CVE-2024-30570",
+    "PoC": "https://www.netgear.com/about/security/"
+  },
+  {
+    "CVE": "CVE-2024-30571",
+    "PoC": "https://www.netgear.com/about/security/"
+  },
+  {
     "CVE": "CVE-2024-30572",
     "PoC": "https://github.com/funny-mud-peee/IoT-vuls/blob/main/netgear%20R6850/Netgear-R6850%20V1.1.0.88%20Command%20Injection%28ntp_server%29.md"
   },
   {
     "CVE": "CVE-2024-30572",
     "PoC": "https://github.com/funny-mud-peee/IoT-vuls/blob/main/netgear%20R6850/Netgear-R6850%20V1.1.0.88%20Command%20Injection(ntp_server).md"
+  },
+  {
+    "CVE": "CVE-2024-30572",
+    "PoC": "https://www.netgear.com/about/security/"
   },
   {
     "CVE": "CVE-2024-3058",
@@ -486800,6 +487140,10 @@
     "PoC": "https://github.com/leexsoyoung/CVEs/blob/main/CVE-2024-42749.md"
   },
   {
+    "CVE": "CVE-2024-42756",
+    "PoC": "https://www.netgear.com/about/security/"
+  },
+  {
     "CVE": "CVE-2024-42812",
     "PoC": "https://gist.github.com/XiaoCurry/574ed9c2b0d12cd0b45399116d82121c"
   },
@@ -492124,12 +492468,80 @@
     "PoC": "https://github.com/rockersiyuan/CVE/blob/main/SourceCodester%20Simple%20Inventory%20System%20Sql%20Inject-2.md"
   },
   {
+    "CVE": "CVE-2024-50993",
+    "PoC": "https://www.netgear.com/about/security/"
+  },
+  {
+    "CVE": "CVE-2024-50994",
+    "PoC": "https://www.netgear.com/about/security/"
+  },
+  {
+    "CVE": "CVE-2024-50995",
+    "PoC": "https://www.netgear.com/about/security/"
+  },
+  {
+    "CVE": "CVE-2024-50996",
+    "PoC": "https://www.netgear.com/about/security/"
+  },
+  {
+    "CVE": "CVE-2024-50997",
+    "PoC": "https://www.netgear.com/about/security/"
+  },
+  {
+    "CVE": "CVE-2024-50998",
+    "PoC": "https://www.netgear.com/about/security/"
+  },
+  {
+    "CVE": "CVE-2024-50999",
+    "PoC": "https://www.netgear.com/about/security/"
+  },
+  {
     "CVE": "CVE-2024-5100",
     "PoC": "https://github.com/rockersiyuan/CVE/blob/main/SourceCodester%20Simple%20Inventory%20System%20Sql%20Inject-3.md"
   },
   {
     "CVE": "CVE-2024-5100",
     "PoC": "https://vuldb.com/?id.265083"
+  },
+  {
+    "CVE": "CVE-2024-51000",
+    "PoC": "https://www.netgear.com/about/security/"
+  },
+  {
+    "CVE": "CVE-2024-51001",
+    "PoC": "https://www.netgear.com/about/security/"
+  },
+  {
+    "CVE": "CVE-2024-51002",
+    "PoC": "https://www.netgear.com/about/security/"
+  },
+  {
+    "CVE": "CVE-2024-51003",
+    "PoC": "https://www.netgear.com/about/security/"
+  },
+  {
+    "CVE": "CVE-2024-51004",
+    "PoC": "https://www.netgear.com/about/security/"
+  },
+  {
+    "CVE": "CVE-2024-51005",
+    "PoC": "https://www.netgear.com/about/security/"
+  },
+  {
+    "CVE": "CVE-2024-51006",
+    "PoC": "https://www.netgear.com/about/security/"
+  },
+  {
+    "CVE": "CVE-2024-51007",
+    "PoC": "https://www.netgear.com/about/security/"
+  },
+  {
+    "CVE": "CVE-2024-51008",
+    "PoC": "https://www.netgear.com/about/security/"
+  },
+  {
+    "CVE": "CVE-2024-51009",
+    "PoC": "https://www.netgear.com/about/security/"
   },
   {
     "CVE": "CVE-2024-5101",
@@ -492140,8 +492552,60 @@
     "PoC": "https://vuldb.com/?id.265084"
   },
   {
+    "CVE": "CVE-2024-51010",
+    "PoC": "https://www.netgear.com/about/security/"
+  },
+  {
+    "CVE": "CVE-2024-51011",
+    "PoC": "https://www.netgear.com/about/security/"
+  },
+  {
+    "CVE": "CVE-2024-51012",
+    "PoC": "https://www.netgear.com/about/security/"
+  },
+  {
+    "CVE": "CVE-2024-51013",
+    "PoC": "https://www.netgear.com/about/security/"
+  },
+  {
+    "CVE": "CVE-2024-51014",
+    "PoC": "https://www.netgear.com/about/security/"
+  },
+  {
+    "CVE": "CVE-2024-51015",
+    "PoC": "https://www.netgear.com/about/security/"
+  },
+  {
+    "CVE": "CVE-2024-51016",
+    "PoC": "https://www.netgear.com/about/security/"
+  },
+  {
+    "CVE": "CVE-2024-51017",
+    "PoC": "https://www.netgear.com/about/security/"
+  },
+  {
+    "CVE": "CVE-2024-51018",
+    "PoC": "https://www.netgear.com/about/security/"
+  },
+  {
+    "CVE": "CVE-2024-51019",
+    "PoC": "https://www.netgear.com/about/security/"
+  },
+  {
     "CVE": "CVE-2024-5102",
     "PoC": "https://support.norton.com/sp/static/external/tools/security-advisories.html"
+  },
+  {
+    "CVE": "CVE-2024-51020",
+    "PoC": "https://www.netgear.com/about/security/"
+  },
+  {
+    "CVE": "CVE-2024-51021",
+    "PoC": "https://www.netgear.com/about/security/"
+  },
+  {
+    "CVE": "CVE-2024-51022",
+    "PoC": "https://www.netgear.com/about/security/"
   },
   {
     "CVE": "CVE-2024-51023",
@@ -492822,6 +493286,74 @@
   {
     "CVE": "CVE-2024-52010",
     "PoC": "https://github.com/tobychui/zoraxy/security/advisories/GHSA-7hpf-g48v-hw3j"
+  },
+  {
+    "CVE": "CVE-2024-52013",
+    "PoC": "https://www.netgear.com/about/security/"
+  },
+  {
+    "CVE": "CVE-2024-52014",
+    "PoC": "https://www.netgear.com/about/security/"
+  },
+  {
+    "CVE": "CVE-2024-52015",
+    "PoC": "https://www.netgear.com/about/security/"
+  },
+  {
+    "CVE": "CVE-2024-52016",
+    "PoC": "https://www.netgear.com/about/security/"
+  },
+  {
+    "CVE": "CVE-2024-52017",
+    "PoC": "https://www.netgear.com/about/security/"
+  },
+  {
+    "CVE": "CVE-2024-52018",
+    "PoC": "https://www.netgear.com/about/security/"
+  },
+  {
+    "CVE": "CVE-2024-52019",
+    "PoC": "https://www.netgear.com/about/security/"
+  },
+  {
+    "CVE": "CVE-2024-52020",
+    "PoC": "https://www.netgear.com/about/security/"
+  },
+  {
+    "CVE": "CVE-2024-52021",
+    "PoC": "https://www.netgear.com/about/security/"
+  },
+  {
+    "CVE": "CVE-2024-52022",
+    "PoC": "https://www.netgear.com/about/security/"
+  },
+  {
+    "CVE": "CVE-2024-52023",
+    "PoC": "https://www.netgear.com/about/security/"
+  },
+  {
+    "CVE": "CVE-2024-52024",
+    "PoC": "https://www.netgear.com/about/security/"
+  },
+  {
+    "CVE": "CVE-2024-52025",
+    "PoC": "https://www.netgear.com/about/security/"
+  },
+  {
+    "CVE": "CVE-2024-52026",
+    "PoC": "https://www.netgear.com/about/security/"
+  },
+  {
+    "CVE": "CVE-2024-52028",
+    "PoC": "https://www.netgear.com/about/security/"
+  },
+  {
+    "CVE": "CVE-2024-52029",
+    "PoC": "https://www.netgear.com/about/security/"
+  },
+  {
+    "CVE": "CVE-2024-52030",
+    "PoC": "https://www.netgear.com/about/security/"
   },
   {
     "CVE": "CVE-2024-52032",
@@ -495280,6 +495812,10 @@
     "PoC": "https://github.com/Shuanunio/CVE_Requests/blob/main/Netgear/DGN2200/ACL%20bypass%20Vulnerability%20in%20Netgear%20DGN2200.md"
   },
   {
+    "CVE": "CVE-2024-57046",
+    "PoC": "https://www.netgear.com/about/security/"
+  },
+  {
     "CVE": "CVE-2024-57049",
     "PoC": "https://github.com/Shuanunio/CVE_Requests/blob/main/TP-Link/archer%20c20/ACL%20bypass%20Vulnerability%20in%20TP-Link%20archer%20c20.md"
   },
@@ -496622,6 +497158,10 @@
   {
     "CVE": "CVE-2024-5893",
     "PoC": "https://github.com/Hefei-Coffee/cve/blob/main/sql9.md"
+  },
+  {
+    "CVE": "CVE-2024-5893",
+    "PoC": "https://vuldb.com/?ctiid.268137"
   },
   {
     "CVE": "CVE-2024-5894",
@@ -501121,7 +501661,19 @@
   },
   {
     "CVE": "CVE-2024-8503",
+    "PoC": "http://seclists.org/fulldisclosure/2024/Sep/25"
+  },
+  {
+    "CVE": "CVE-2024-8503",
+    "PoC": "http://seclists.org/fulldisclosure/2024/Sep/26"
+  },
+  {
+    "CVE": "CVE-2024-8503",
     "PoC": "https://korelogic.com/Resources/Advisories/KL-001-2024-011.txt"
+  },
+  {
+    "CVE": "CVE-2024-8504",
+    "PoC": "http://seclists.org/fulldisclosure/2024/Sep/26"
   },
   {
     "CVE": "CVE-2024-8504",
@@ -501545,7 +502097,15 @@
   },
   {
     "CVE": "CVE-2024-8877",
+    "PoC": "http://seclists.org/fulldisclosure/2024/Sep/50"
+  },
+  {
+    "CVE": "CVE-2024-8877",
     "PoC": "https://cyberdanube.com/en/en-multiple-vulnerabilities-in-riello-netman-204/index.html"
+  },
+  {
+    "CVE": "CVE-2024-8878",
+    "PoC": "http://seclists.org/fulldisclosure/2024/Sep/50"
   },
   {
     "CVE": "CVE-2024-8878",
@@ -526480,6 +527040,10 @@
     "PoC": "https://github.com/Gelcon/PoC-of-VisiCut2_1-Stack-Overflow-Vul"
   },
   {
+    "CVE": "CVE-2025-43714",
+    "PoC": "https://medium.com/@zer0dac/chatgpt-a-potential-phishing-vector-via-html-injection-bf703c79590a"
+  },
+  {
     "CVE": "CVE-2025-43716",
     "PoC": "https://medium.com/@0xbytehunter/discovery-of-path-traversal-vulnerability-in-landesk-management-gateway-devices-6dba386dd290"
   },
@@ -526818,6 +527382,18 @@
   {
     "CVE": "CVE-2025-4465",
     "PoC": "https://github.com/TEhS411/cve/issues/3"
+  },
+  {
+    "CVE": "CVE-2025-44650",
+    "PoC": "https://www.netgear.com/about/security/"
+  },
+  {
+    "CVE": "CVE-2025-44652",
+    "PoC": "https://www.netgear.com/about/security/"
+  },
+  {
+    "CVE": "CVE-2025-44658",
+    "PoC": "https://www.netgear.com/about/security/"
   },
   {
     "CVE": "CVE-2025-4466",
@@ -544120,6 +544696,10 @@
     "PoC": "https://drive.google.com/file/d/1qnWarYsTSc5_sV6o8ULv0LBvGfKKXPxn/view?usp=sharing"
   },
   {
+    "CVE": "CVE-2025-70954",
+    "PoC": "https://www.tonbit.xyz/blog/post/TonBit-Discovers-Critical-Vulnerability-on-TON-Virtual-Machine-for-the-Third-Time-Once-Again-Receiving-Official-Recognition-from-the-TON-Team.html"
+  },
+  {
     "CVE": "CVE-2025-7096",
     "PoC": "https://drive.google.com/file/d/1qnWarYsTSc5_sV6o8ULv0LBvGfKKXPxn/view"
   },
@@ -545918,6 +546498,10 @@
   {
     "CVE": "CVE-2025-7933",
     "PoC": "https://github.com/zhaodaojie/cve/issues/5"
+  },
+  {
+    "CVE": "CVE-2025-7934",
+    "PoC": "https://gitee.com/fuyang_lipengjun/platform/issues/ICLILS"
   },
   {
     "CVE": "CVE-2025-7935",
@@ -552360,6 +552944,10 @@
     "PoC": "https://wpscan.com/vulnerability/a78ebcd2-9355-4f4e-829e-b10867463576/"
   },
   {
+    "CVE": "CVE-2026-1868",
+    "PoC": "https://gitlab.com/gitlab-org/modelops/applied-ml/code-suggestions/ai-assist/-/work_items/1850"
+  },
+  {
     "CVE": "CVE-2026-1879",
     "PoC": "https://gist.github.com/KaiqueFerreiraPeres/ba039887d7f894a7c38252314e0ef2cc"
   },
@@ -554034,6 +554622,10 @@
   {
     "CVE": "CVE-2026-24063",
     "PoC": "https://r.sec-consult.com/arturia"
+  },
+  {
+    "CVE": "CVE-2026-24068",
+    "PoC": "http://seclists.org/fulldisclosure/2026/Apr/3"
   },
   {
     "CVE": "CVE-2026-24068",
@@ -556376,12 +556968,20 @@
     "PoC": "https://github.com/marlinkcyber/advisories/blob/main/advisories/MCSAID-2026-001-dr-libs-heap-overflow.md"
   },
   {
+    "CVE": "CVE-2026-29038",
+    "PoC": "https://github.com/dgtlmoon/changedetection.io/security/advisories/GHSA-8whx-v8qq-pq64"
+  },
+  {
     "CVE": "CVE-2026-29039",
     "PoC": "https://github.com/dgtlmoon/changedetection.io/security/advisories/GHSA-6fmw-82m7-jq6p"
   },
   {
     "CVE": "CVE-2026-2904",
     "PoC": "https://vuln.ricky.place/UTT/HiPER%20810G/"
+  },
+  {
+    "CVE": "CVE-2026-29042",
+    "PoC": "https://github.com/nuclio/nuclio/security/advisories/GHSA-95fj-3w7g-4r27"
   },
   {
     "CVE": "CVE-2026-29043",
@@ -556394,6 +556994,10 @@
   {
     "CVE": "CVE-2026-29046",
     "PoC": "https://github.com/maximmasiutin/TinyWeb/security/advisories/GHSA-r3gf-pg2c-m7mc"
+  },
+  {
+    "CVE": "CVE-2026-29054",
+    "PoC": "https://github.com/traefik/traefik/security/advisories/GHSA-92mv-8f8w-wq52"
   },
   {
     "CVE": "CVE-2026-29055",
@@ -556416,6 +557020,10 @@
     "PoC": "https://github.com/immutable-js/immutable-js/security/advisories/GHSA-wf6x-7x77-mvgw"
   },
   {
+    "CVE": "CVE-2026-29064",
+    "PoC": "https://github.com/zarf-dev/zarf/security/advisories/GHSA-hcm4-6hpj-vghm"
+  },
+  {
     "CVE": "CVE-2026-29065",
     "PoC": "https://github.com/dgtlmoon/changedetection.io/security/advisories/GHSA-25g8-2mcf-fcx9"
   },
@@ -556424,12 +557032,20 @@
     "PoC": "https://github.com/tinacms/tinacms/security/advisories/GHSA-m48g-4wr2-j2h6"
   },
   {
+    "CVE": "CVE-2026-29070",
+    "PoC": "https://github.com/open-webui/open-webui/security/advisories/GHSA-26gm-93rw-cchf"
+  },
+  {
     "CVE": "CVE-2026-29071",
     "PoC": "https://github.com/open-webui/open-webui/security/advisories/GHSA-w9f8-gxf9-rhvw"
   },
   {
     "CVE": "CVE-2026-29073",
     "PoC": "https://github.com/siyuan-note/siyuan/security/advisories/GHSA-jqwg-75qf-vmf9"
+  },
+  {
+    "CVE": "CVE-2026-29074",
+    "PoC": "https://github.com/svg/svgo/security/advisories/GHSA-xpqw-6gx7-v673"
   },
   {
     "CVE": "CVE-2026-29076",
@@ -556448,6 +557064,10 @@
     "PoC": "https://github.com/QIU-DIE/cve-nneeww/issues/11"
   },
   {
+    "CVE": "CVE-2026-29091",
+    "PoC": "https://github.com/locutusjs/locutus/security/advisories/GHSA-fp25-p6mj-qqg6"
+  },
+  {
     "CVE": "CVE-2026-29093",
     "PoC": "https://github.com/WWBN/AVideo/security/advisories/GHSA-xxpw-32hf-q8v9"
   },
@@ -556456,8 +557076,24 @@
     "PoC": "https://vuln.ricky.place/Tenda/FH451/"
   },
   {
+    "CVE": "CVE-2026-29172",
+    "PoC": "https://github.com/craftcms/commerce/security/advisories/GHSA-j3x5-mghf-xvfw"
+  },
+  {
+    "CVE": "CVE-2026-29173",
+    "PoC": "https://github.com/craftcms/commerce/security/advisories/GHSA-mqxf-2998-c6cp"
+  },
+  {
+    "CVE": "CVE-2026-29174",
+    "PoC": "https://github.com/craftcms/commerce/security/advisories/GHSA-pmgj-gmm4-jh6j"
+  },
+  {
     "CVE": "CVE-2026-29175",
     "PoC": "https://github.com/craftcms/commerce/security/advisories/GHSA-cfpv-rmpf-f624"
+  },
+  {
+    "CVE": "CVE-2026-29176",
+    "PoC": "https://github.com/craftcms/commerce/security/advisories/GHSA-wj89-2385-gpx3"
   },
   {
     "CVE": "CVE-2026-29178",
@@ -556532,6 +557168,10 @@
     "PoC": "https://github.com/LX-66-LX/cve-new/issues/29"
   },
   {
+    "CVE": "CVE-2026-29628",
+    "PoC": "https://github.com/kiyochii/CVE-2026-29628"
+  },
+  {
     "CVE": "CVE-2026-2963",
     "PoC": "https://vuln.ricky.place/Jinher/C6/"
   },
@@ -556540,12 +557180,28 @@
     "PoC": "https://github.com/CC-T-454455/Vulnerabilities/tree/master/fastapi-admin/vulnerability-2"
   },
   {
+    "CVE": "CVE-2026-29772",
+    "PoC": "https://github.com/withastro/astro/security/advisories/GHSA-3rmj-9m5h-8fpv"
+  },
+  {
     "CVE": "CVE-2026-29774",
     "PoC": "https://github.com/FreeRDP/FreeRDP/security/advisories/GHSA-5q35-hv9x-7794"
   },
   {
+    "CVE": "CVE-2026-29775",
+    "PoC": "https://github.com/FreeRDP/FreeRDP/security/advisories/GHSA-h666-rfw3-jhvj"
+  },
+  {
+    "CVE": "CVE-2026-29777",
+    "PoC": "https://github.com/traefik/traefik/security/advisories/GHSA-8q2w-wr49-whqj"
+  },
+  {
     "CVE": "CVE-2026-29780",
     "PoC": "https://github.com/GOVCERT-LU/eml_parser/security/advisories/GHSA-389r-rccm-h3h5"
+  },
+  {
+    "CVE": "CVE-2026-29781",
+    "PoC": "https://github.com/BishopFox/sliver/security/advisories/GHSA-hx52-cv84-jr5v"
   },
   {
     "CVE": "CVE-2026-29782",
@@ -556556,8 +557212,20 @@
     "PoC": "https://github.com/github/copilot-cli/security/advisories/GHSA-g8r9-g2v8-jv6f"
   },
   {
+    "CVE": "CVE-2026-29786",
+    "PoC": "https://github.com/isaacs/node-tar/security/advisories/GHSA-qffp-2rhf-9h96"
+  },
+  {
     "CVE": "CVE-2026-29787",
     "PoC": "https://github.com/doobidoo/mcp-memory-service/security/advisories/GHSA-73hc-m4hx-79pj"
+  },
+  {
+    "CVE": "CVE-2026-29788",
+    "PoC": "https://github.com/miraheze/TSPortal/security/advisories/GHSA-gfhq-7499-f3f2"
+  },
+  {
+    "CVE": "CVE-2026-29789",
+    "PoC": "https://github.com/vitodeploy/vito/security/advisories/GHSA-3m6w-8qh4-qr76"
   },
   {
     "CVE": "CVE-2026-2979",
@@ -556592,8 +557260,20 @@
     "PoC": "https://github.com/mbiesiad/vulnerability-research/tree/main/CVE-2026-29856"
   },
   {
+    "CVE": "CVE-2026-29858",
+    "PoC": "https://github.com/mbiesiad/vulnerability-research/tree/main/CVE-2026-29858"
+  },
+  {
     "CVE": "CVE-2026-29859",
     "PoC": "https://github.com/mbiesiad/vulnerability-research/tree/main/CVE-2026-29859"
+  },
+  {
+    "CVE": "CVE-2026-29861",
+    "PoC": "https://github.com/amanyadav78/CVE-2026-29861"
+  },
+  {
+    "CVE": "CVE-2026-29870",
+    "PoC": "https://github.com/lilmingwa13/security-research/blob/main/CVE-2026-29870.md"
   },
   {
     "CVE": "CVE-2026-29871",
@@ -556608,8 +557288,20 @@
     "PoC": "https://github.com/Stalin-143/CVE-2026-29905"
   },
   {
+    "CVE": "CVE-2026-29909",
+    "PoC": "https://github.com/qflksheep/CVE-2026-29909-MRCMS-vulnerability/blob/main/README.md"
+  },
+  {
     "CVE": "CVE-2026-29925",
     "PoC": "https://gist.github.com/TrekLaps/5b2c72106d950dab0cd1897eb93200f1"
+  },
+  {
+    "CVE": "CVE-2026-29953",
+    "PoC": "https://gist.github.com/b0b0haha/fb59199fb1fdf9414e76442e0599bfed"
+  },
+  {
+    "CVE": "CVE-2026-29953",
+    "PoC": "https://github.com/b0b0haha/SchemaHero--Sqlinjection/blob/main/README.md"
   },
   {
     "CVE": "CVE-2026-29954",
@@ -556630,6 +557322,10 @@
   {
     "CVE": "CVE-2026-29969",
     "PoC": "https://github.com/cmoncrook/Security-Advisories/blob/main/cve-2026-29969"
+  },
+  {
+    "CVE": "CVE-2026-29971",
+    "PoC": "https://github.com/Tharooon/CVE-2026-29971/"
   },
   {
     "CVE": "CVE-2026-30006",
@@ -558204,6 +558900,14 @@
     "PoC": "https://www.wiz.io/blog/teampcp-attack-kics-github-action"
   },
   {
+    "CVE": "CVE-2026-33643",
+    "PoC": "https://gist.github.com/b0b0haha/fb59199fb1fdf9414e76442e0599bfed"
+  },
+  {
+    "CVE": "CVE-2026-33643",
+    "PoC": "https://github.com/b0b0haha/SchemaHero--Sqlinjection/blob/main/README.md"
+  },
+  {
     "CVE": "CVE-2026-33676",
     "PoC": "https://github.com/go-vikunja/vikunja/security/advisories/GHSA-8cmm-j6c4-rr8v"
   },
@@ -559556,6 +560260,14 @@
     "PoC": "https://www.openwall.com/lists/oss-security/2026/04/08/1"
   },
   {
+    "CVE": "CVE-2026-40355",
+    "PoC": "https://cems.fun/2026/04/27/krb5-two-unauthenticated-network-vulnerabilities.html"
+  },
+  {
+    "CVE": "CVE-2026-40356",
+    "PoC": "https://cems.fun/2026/04/27/krb5-two-unauthenticated-network-vulnerabilities.html"
+  },
+  {
     "CVE": "CVE-2026-40499",
     "PoC": "https://blog.calif.io/p/mad-bugs-discovering-a-0-day-in-zero"
   },
@@ -559574,6 +560286,10 @@
   {
     "CVE": "CVE-2026-4079",
     "PoC": "https://wpscan.com/vulnerability/8ec92881-4ae5-458d-995b-f097f2bcc590/"
+  },
+  {
+    "CVE": "CVE-2026-40966",
+    "PoC": "https://nvd.nist.gov/vuln-metrics/cvss/v3-calculator?version=3.1&vector=AV:N/AC:H/PR:N/UI:N/S:U/C:H/I:N/A:N"
   },
   {
     "CVE": "CVE-2026-41056",
@@ -559826,6 +560542,10 @@
   {
     "CVE": "CVE-2026-41411",
     "PoC": "https://github.com/vim/vim/security/advisories/GHSA-cwgx-gcj7-6qh8"
+  },
+  {
+    "CVE": "CVE-2026-41414",
+    "PoC": "https://drive.google.com/file/d/1Gj7ziTK42YWXYoQgTbis_rMitHR59J6F/view"
   },
   {
     "CVE": "CVE-2026-41414",
@@ -560256,8 +560976,20 @@
     "PoC": "https://github.com/CC-T-454455/Vulnerabilities/tree/master/z9527-admin/vulnerability-10"
   },
   {
+    "CVE": "CVE-2026-5306",
+    "PoC": "https://wpscan.com/vulnerability/97908c15-6e7a-4242-8c6f-66c8b804364c/"
+  },
+  {
+    "CVE": "CVE-2026-5362",
+    "PoC": "https://fluidattacks.com/es/advisories/mago"
+  },
+  {
     "CVE": "CVE-2026-5368",
     "PoC": "https://vuldb.com/submit/781665"
+  },
+  {
+    "CVE": "CVE-2026-5394",
+    "PoC": "https://fluidattacks.com/es/advisories/dragons"
   },
   {
     "CVE": "CVE-2026-5437",
@@ -560374,6 +561106,10 @@
   {
     "CVE": "CVE-2026-6204",
     "PoC": "https://projectblack.io/blog/librenms-authenticated-rce-and-xss/#binary-path-rce-poc"
+  },
+  {
+    "CVE": "CVE-2026-6265",
+    "PoC": "https://labs.reversec.com/advisories/2026/04/cerberus-ftp-server-elevation-of-privileges"
   },
   {
     "CVE": "CVE-2026-6414",
