@@ -496,6 +496,14 @@
     "PoC": "http://www.cisco.com/warp/public/707/ios-tcp-isn-random-pub.shtml"
   },
   {
+    "CVE": "CVE-2001-0307",
+    "PoC": "http://www.geocities.com/gzhangx/websrv/docs/security.html"
+  },
+  {
+    "CVE": "CVE-2001-0308",
+    "PoC": "http://www.geocities.com/gzhangx/websrv/docs/security.html"
+  },
+  {
     "CVE": "CVE-2001-0319",
     "PoC": "http://www-4.ibm.com/software/webservers/commerce/netcomletter.html"
   },
@@ -1594,6 +1602,10 @@
   {
     "CVE": "CVE-2002-1175",
     "PoC": "http://marc.info/?l=bugtraq&m=103340148625187&w=2"
+  },
+  {
+    "CVE": "CVE-2002-1178",
+    "PoC": "http://groups.yahoo.com/group/jetty-announce/message/45"
   },
   {
     "CVE": "CVE-2002-1180",
@@ -2876,6 +2888,10 @@
     "PoC": "http://marc.info/?l=bugtraq&m=106986437621130&w=2"
   },
   {
+    "CVE": "CVE-2003-0972",
+    "PoC": "http://groups.yahoo.com/group/gnu-screen/message/3118"
+  },
+  {
     "CVE": "CVE-2003-0974",
     "PoC": "http://marc.info/?l=bugtraq&m=107004362416252&w=2"
   },
@@ -3164,12 +3180,20 @@
     "PoC": "http://securityreason.com/securityalert/3298"
   },
   {
+    "CVE": "CVE-2003-1511",
+    "PoC": "http://www.geocities.com/gzhangx/websrv/docs/security.html"
+  },
+  {
     "CVE": "CVE-2003-1520",
     "PoC": "http://www.fuzzymonkey.org/newfuzzy/software/data/03My_Classifieds_MySQL//README.html#changes"
   },
   {
     "CVE": "CVE-2003-1531",
     "PoC": "http://www.security-corporation.com/index.php?id=advisories&a=013-FR"
+  },
+  {
+    "CVE": "CVE-2003-1543",
+    "PoC": "http://www.geocities.com/gzhangx/websrv/docs/security.html"
   },
   {
     "CVE": "CVE-2003-1550",
@@ -6838,6 +6862,10 @@
   {
     "CVE": "CVE-2005-0236",
     "PoC": "http://marc.info/?l=bugtraq&m=110782704923280&w=2"
+  },
+  {
+    "CVE": "CVE-2005-0242",
+    "PoC": "http://messenger.yahoo.com/security/update6.html"
   },
   {
     "CVE": "CVE-2005-0247",
@@ -31405,6 +31433,10 @@
   },
   {
     "CVE": "CVE-2007-1680",
+    "PoC": "http://messenger.yahoo.com/security_update.php?id=031207"
+  },
+  {
+    "CVE": "CVE-2007-1680",
     "PoC": "http://securityreason.com/securityalert/2523"
   },
   {
@@ -34304,6 +34336,14 @@
     "PoC": "https://www.exploit-db.com/exploits/3952"
   },
   {
+    "CVE": "CVE-2007-2788",
+    "PoC": "http://www.redhat.com/support/errata/RHSA-2008-0100.html"
+  },
+  {
+    "CVE": "CVE-2007-2789",
+    "PoC": "http://www.redhat.com/support/errata/RHSA-2008-0100.html"
+  },
+  {
     "CVE": "CVE-2007-2790",
     "PoC": "http://securityreason.com/securityalert/2728"
   },
@@ -36200,6 +36240,10 @@
     "PoC": "http://www.cisco.com/warp/public/707/cisco-sr-20070725-jsse.shtml"
   },
   {
+    "CVE": "CVE-2007-3698",
+    "PoC": "http://www.redhat.com/support/errata/RHSA-2008-0100.html"
+  },
+  {
     "CVE": "CVE-2007-3702",
     "PoC": "https://www.exploit-db.com/exploits/4171"
   },
@@ -37484,6 +37528,10 @@
     "PoC": "http://securityreason.com/securityalert/3024"
   },
   {
+    "CVE": "CVE-2007-4381",
+    "PoC": "http://www.redhat.com/support/errata/RHSA-2008-0100.html"
+  },
+  {
     "CVE": "CVE-2007-4382",
     "PoC": "http://securityreason.com/securityalert/3027"
   },
@@ -37918,6 +37966,10 @@
   {
     "CVE": "CVE-2007-4512",
     "PoC": "http://securityreason.com/securityalert/3107"
+  },
+  {
+    "CVE": "CVE-2007-4515",
+    "PoC": "http://messenger.yahoo.com/security_update.php?id=082907"
   },
   {
     "CVE": "CVE-2007-4517",
@@ -39553,6 +39605,10 @@
   },
   {
     "CVE": "CVE-2007-5232",
+    "PoC": "http://www.redhat.com/support/errata/RHSA-2008-0100.html"
+  },
+  {
+    "CVE": "CVE-2007-5232",
     "PoC": "https://oval.cisecurity.org/repository/search/definition/oval%3Aorg.mitre.oval%3Adef%3A9331"
   },
   {
@@ -39572,8 +39628,16 @@
     "PoC": "http://www.redhat.com/support/errata/RHSA-2007-0963.html"
   },
   {
+    "CVE": "CVE-2007-5239",
+    "PoC": "http://www.redhat.com/support/errata/RHSA-2008-0100.html"
+  },
+  {
     "CVE": "CVE-2007-5240",
     "PoC": "http://www.redhat.com/support/errata/RHSA-2007-0963.html"
+  },
+  {
+    "CVE": "CVE-2007-5240",
+    "PoC": "http://www.redhat.com/support/errata/RHSA-2008-0100.html"
   },
   {
     "CVE": "CVE-2007-5247",
@@ -39774,6 +39838,10 @@
   {
     "CVE": "CVE-2007-5273",
     "PoC": "http://www.redhat.com/support/errata/RHSA-2007-0963.html"
+  },
+  {
+    "CVE": "CVE-2007-5273",
+    "PoC": "http://www.redhat.com/support/errata/RHSA-2008-0100.html"
   },
   {
     "CVE": "CVE-2007-5274",
@@ -157493,6 +157561,10 @@
   },
   {
     "CVE": "CVE-2015-4551",
+    "PoC": "http://www.libreoffice.org/about-us/security/advisories/cve-2015-4551/"
+  },
+  {
+    "CVE": "CVE-2015-4551",
     "PoC": "http://www.openoffice.org/security/cves/CVE-2015-4551.html"
   },
   {
@@ -159613,6 +159685,10 @@
   },
   {
     "CVE": "CVE-2015-5212",
+    "PoC": "http://www.libreoffice.org/about-us/security/advisories/cve-2015-5212/"
+  },
+  {
+    "CVE": "CVE-2015-5212",
     "PoC": "http://www.openoffice.org/security/cves/CVE-2015-5212.html"
   },
   {
@@ -159638,6 +159714,10 @@
   {
     "CVE": "CVE-2015-5213",
     "PoC": "http://www.ubuntu.com/usn/USN-2793-1"
+  },
+  {
+    "CVE": "CVE-2015-5214",
+    "PoC": "http://www.libreoffice.org/about-us/security/advisories/cve-2015-5214/"
   },
   {
     "CVE": "CVE-2015-5214",
@@ -184130,6 +184210,10 @@
   {
     "CVE": "CVE-2016-5009",
     "PoC": "https://github.com/ceph/ceph/commit/957ece7e95d8f8746191fd9629622d4457d690d6"
+  },
+  {
+    "CVE": "CVE-2016-5016",
+    "PoC": "https://github.com/cloudfoundry/uaa/releases/tag/3.3.0.3"
   },
   {
     "CVE": "CVE-2016-5017",
@@ -221470,6 +221554,10 @@
   {
     "CVE": "CVE-2017-9756",
     "PoC": "https://www.exploit-db.com/exploits/42204/"
+  },
+  {
+    "CVE": "CVE-2017-9757",
+    "PoC": "https://twitter.com/0x09AL/status/873860385652256768"
   },
   {
     "CVE": "CVE-2017-9757",
@@ -295500,6 +295588,10 @@
     "PoC": "https://www.libreoffice.org/about-us/security/advisories/CVE-2019-9853/"
   },
   {
+    "CVE": "CVE-2019-9854",
+    "PoC": "https://www.libreoffice.org/about-us/security/advisories/CVE-2019-9854/"
+  },
+  {
     "CVE": "CVE-2019-9855",
     "PoC": "https://www.libreoffice.org/about-us/security/advisories/CVE-2019-9855/"
   },
@@ -327605,6 +327697,10 @@
   },
   {
     "CVE": "CVE-2020-37142",
+    "PoC": "https://web.archive.org/web/20210105222137/https://whitecr0wz.github.io/posts/Strike-Network-Inventory-Explorer-Structered-Exception-Handling-Overwrite/"
+  },
+  {
+    "CVE": "CVE-2020-37142",
     "PoC": "https://www.exploit-db.com/exploits/48253"
   },
   {
@@ -327662,6 +327758,10 @@
   {
     "CVE": "CVE-2020-37155",
     "PoC": "https://www.exploit-db.com/exploits/48100"
+  },
+  {
+    "CVE": "CVE-2020-37155",
+    "PoC": "https://www.vulncheck.com/advisories/core-ftp-lite-denial-of-service-poc"
   },
   {
     "CVE": "CVE-2020-37156",
@@ -327742,6 +327842,10 @@
   {
     "CVE": "CVE-2020-37178",
     "PoC": "https://www.exploit-db.com/exploits/47952"
+  },
+  {
+    "CVE": "CVE-2020-37178",
+    "PoC": "https://www.vulncheck.com/advisories/keepass-denial-of-service-poc"
   },
   {
     "CVE": "CVE-2020-37179",
@@ -391100,6 +391204,10 @@
     "PoC": "https://talosintelligence.com/vulnerability_reports/TALOS-2022-1488"
   },
   {
+    "CVE": "CVE-2022-26305",
+    "PoC": "https://www.libreoffice.org/about-us/security/advisories/cve-2022-26305"
+  },
+  {
     "CVE": "CVE-2022-26306",
     "PoC": "https://www.libreoffice.org/about-us/security/advisories/cve-2022-26306"
   },
@@ -409385,6 +409493,10 @@
   },
   {
     "CVE": "CVE-2022-40944",
+    "PoC": "https://github.com/Qrayyy/CVE/blob/main/Dairy%20Farm%20Shop%20Management%20System/sales-report-ds-sql%28CVE-2022-40944%29.md"
+  },
+  {
+    "CVE": "CVE-2022-40944",
     "PoC": "https://github.com/Qrayyy/CVE/blob/main/Dairy%20Farm%20Shop%20Management%20System/sales-report-ds-sql(CVE-2022-40944).md"
   },
   {
@@ -422050,6 +422162,10 @@
   {
     "CVE": "CVE-2023-0949",
     "PoC": "https://huntr.dev/bounties/ef87be4e-493b-4ee9-9738-44c55b8acc19"
+  },
+  {
+    "CVE": "CVE-2023-0950",
+    "PoC": "https://www.libreoffice.org/about-us/security/advisories/CVE-2023-0950"
   },
   {
     "CVE": "CVE-2023-0951",
@@ -442466,6 +442582,10 @@
   {
     "CVE": "CVE-2023-37598",
     "PoC": "https://github.com/sahiloj/CVE-2023-37598"
+  },
+  {
+    "CVE": "CVE-2023-3760",
+    "PoC": "https://youtu.be/CtOFB-L1rOg"
   },
   {
     "CVE": "CVE-2023-37600",
@@ -471410,6 +471530,10 @@
   {
     "CVE": "CVE-2024-24482",
     "PoC": "https://github.com/iBotPeaches/Apktool/security/advisories/GHSA-vgwr-4w3p-xmjv"
+  },
+  {
+    "CVE": "CVE-2024-24488",
+    "PoC": "https://github.com/minj-ae/CVE-2024-24488"
   },
   {
     "CVE": "CVE-2024-2449",
@@ -505578,6 +505702,10 @@
   {
     "CVE": "CVE-2025-10500",
     "PoC": "https://issues.chromium.org/issues/435875050"
+  },
+  {
+    "CVE": "CVE-2025-10539",
+    "PoC": "https://sec-consult.com/vulnerability-lab/advisory/missing-tls-certificate-validation-leading-to-rce-in-desktime-time-tracking-app/"
   },
   {
     "CVE": "CVE-2025-10540",
@@ -556252,6 +556380,14 @@
     "PoC": "https://www.gendigital.com/us/en/contact-us/security-advisories/"
   },
   {
+    "CVE": "CVE-2026-27760",
+    "PoC": "https://chocapikk.com/posts/2026/opencats-installer-rce/"
+  },
+  {
+    "CVE": "CVE-2026-27760",
+    "PoC": "https://www.vulncheck.com/advisories/opencats-php-code-injection-via-installer-ajax-endpoint"
+  },
+  {
     "CVE": "CVE-2026-27769",
     "PoC": "https://mattermost.com/security-updates"
   },
@@ -559748,6 +559884,18 @@
     "PoC": "https://fluidattacks.com/es/advisories/sabina"
   },
   {
+    "CVE": "CVE-2026-3854",
+    "PoC": "https://www.wiz.io/blog/github-rce-vulnerability-cve-2026-3854"
+  },
+  {
+    "CVE": "CVE-2026-38651",
+    "PoC": "https://www.zyenra.com/advisories/netmaker-jwt-verification-bypass"
+  },
+  {
+    "CVE": "CVE-2026-38651",
+    "PoC": "https://www.zyenra.com/advisories/netmaker-jwt-verification-bypass/"
+  },
+  {
     "CVE": "CVE-2026-3877",
     "PoC": "https://www.redguard.ch/blog/2026/04/01/advisory-vertigis-vertigisfm/"
   },
@@ -559762,6 +559910,14 @@
   {
     "CVE": "CVE-2026-3888",
     "PoC": "https://cdn2.qualys.com/advisory/2026/03/17/snap-confine-systemd-tmpfiles.txt"
+  },
+  {
+    "CVE": "CVE-2026-38948",
+    "PoC": "https://www.youtube.com/watch?v=lLCF0xbjecQ"
+  },
+  {
+    "CVE": "CVE-2026-38949",
+    "PoC": "https://youtu.be/3e-tzUMCox8"
   },
   {
     "CVE": "CVE-2026-39109",
@@ -559874,6 +560030,10 @@
   {
     "CVE": "CVE-2026-39368",
     "PoC": "https://github.com/WWBN/AVideo/security/advisories/GHSA-q4x6-6mm2-crg9"
+  },
+  {
+    "CVE": "CVE-2026-3937",
+    "PoC": "https://issues.chromium.org/issues/473118648"
   },
   {
     "CVE": "CVE-2026-39370",
@@ -560720,6 +560880,10 @@
     "PoC": "https://github.com/wudipjq/my_vuln/blob/main/D-Link8/vuln_161/161.md"
   },
   {
+    "CVE": "CVE-2026-42167",
+    "PoC": "https://zeropath.com/blog/proftpd-cve-2026-42167-auth-bypass-privesc-rce"
+  },
+  {
     "CVE": "CVE-2026-4223",
     "PoC": "https://github.com/ltranquility/cve_submit/issues/12"
   },
@@ -560960,6 +561124,10 @@
     "PoC": "https://devolutions.net/security/advisories/DEVO-2026-0010"
   },
   {
+    "CVE": "CVE-2026-5178",
+    "PoC": "https://vuldb.com/submit/779147"
+  },
+  {
     "CVE": "CVE-2026-5248",
     "PoC": "https://thinhneee.github.io/posts/gougu-mass-assign/"
   },
@@ -561072,6 +561240,10 @@
     "PoC": "https://www.foxit.com/support/security-bulletins.html"
   },
   {
+    "CVE": "CVE-2026-5944",
+    "PoC": "https://www.nutanix.com/support"
+  },
+  {
     "CVE": "CVE-2026-5987",
     "PoC": "https://github.com/sanluan/PublicCMS/issues/113"
   },
@@ -561126,6 +561298,10 @@
   {
     "CVE": "CVE-2026-6568",
     "PoC": "https://vulnplus-note.wetolink.com/share/JyHBnRUaoOY2"
+  },
+  {
+    "CVE": "CVE-2026-6706",
+    "PoC": "https://devolutions.net/security/advisories/DEVO-2026-0011"
   },
   {
     "CVE": "CVE-2026-6745",

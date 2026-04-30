@@ -1,5 +1,169 @@
 [
   {
+    "CVE": "CVE-2018-14847",
+    "PoC": "https://github.com/TheMalwareGuardian/CVE-2018-14847"
+  },
+  {
+    "CVE": "CVE-2026-38945",
+    "PoC": "https://github.com/Wise-Security/CVE-2026-38945"
+  },
+  {
+    "CVE": "CVE-2026-42167",
+    "PoC": "https://github.com/dinosn/proftpd-CVE-2026-42167-analysis"
+  },
+  {
+    "CVE": "CVE-2026-3854",
+    "PoC": "https://github.com/lysophavin18/CVE-2026-3854-PoC"
+  },
+  {
+    "CVE": "CVE-2026-3854",
+    "PoC": "https://github.com/LRainner/CVE-2026-3854-test"
+  },
+  {
+    "CVE": "CVE-2016-0189",
+    "PoC": "https://github.com/Theori-lO/cve-2016-0189"
+  },
+  {
+    "CVE": "CVE-2026-31431",
+    "PoC": "https://github.com/Theori-lO/copy-fail-CVE-2026-31431"
+  },
+  {
+    "CVE": "CVE-2026-31431",
+    "PoC": "https://github.com/Alfredooe/CVE-2026-31431"
+  },
+  {
+    "CVE": "CVE-2026-36960",
+    "PoC": "https://github.com/kirubel-cve/CVE-2026-36960"
+  },
+  {
+    "CVE": "CVE-2026-36959",
+    "PoC": "https://github.com/kirubel-cve/CVE-2026-36959"
+  },
+  {
+    "CVE": "CVE-2026-36958",
+    "PoC": "https://github.com/kirubel-cve/CVE-2026-36958"
+  },
+  {
+    "CVE": "CVE-2026-36957",
+    "PoC": "https://github.com/kirubel-cve/CVE-2026-36957"
+  },
+  {
+    "CVE": "CVE-2026-36956",
+    "PoC": "https://github.com/kirubel-cve/CVE-2026-36956"
+  },
+  {
+    "CVE": "CVE-2026-31431",
+    "PoC": "https://github.com/mhdgning131/CVE-2026-31431_poc"
+  },
+  {
+    "CVE": "CVE-2026-41940",
+    "PoC": "https://github.com/Sachinart/CVE-2026-41940-cpanel-0day"
+  },
+  {
+    "CVE": "CVE-2026-3854",
+    "PoC": "https://github.com/simondankelmann/cve-2026-3854-test"
+  },
+  {
+    "CVE": "CVE-2026-30824",
+    "PoC": "https://github.com/dylvie/CVE-2026-30824-Flowise-NVIDIA-NIM-Authentication"
+  },
+  {
+    "CVE": "CVE-2024-29988",
+    "PoC": "https://github.com/dinhthihanhle1989-max/CVE-2024-29988"
+  },
+  {
+    "CVE": "CVE-2026-31431",
+    "PoC": "https://github.com/theori-io/copy-fail-CVE-2026-31431"
+  },
+  {
+    "CVE": "CVE-2026-3910",
+    "PoC": "https://github.com/5o1z/CVE-2026-3910"
+  },
+  {
+    "CVE": "CVE-2026-35414",
+    "PoC": "https://github.com/killercd/CVE-2026-35414"
+  },
+  {
+    "CVE": "CVE-2017-0144",
+    "PoC": "https://github.com/joel6948/CVE-2017-0144"
+  },
+  {
+    "CVE": "CVE-2024-8503",
+    "PoC": "https://github.com/Machine-farmer/vicidial-cve-2024-8503-blind-sqli-poc"
+  },
+  {
+    "CVE": "CVE-2026-36341",
+    "PoC": "https://github.com/cybercrewinc/CVE-2026-36341"
+  },
+  {
+    "CVE": "CVE-2026-31431",
+    "PoC": "https://github.com/Percivalll/Copy-Fail-CVE-2026-31431-Statically-PoC"
+  },
+  {
+    "CVE": "CVE-2026-31431",
+    "PoC": "https://github.com/b5null/CVE-2026-31431-C"
+  },
+  {
+    "CVE": "CVE-2026-36340",
+    "PoC": "https://github.com/cybercrewinc/CVE-2026-36340"
+  },
+  {
+    "CVE": "CVE-2026-31431",
+    "PoC": "https://github.com/Crihexe/copy-fail-tiny-elf-CVE-2026-31431"
+  },
+  {
+    "CVE": "CVE-2026-31431",
+    "PoC": "https://github.com/ZephrFish/CopyFail-CVE-2026-31431"
+  },
+  {
+    "CVE": "CVE-2026-34160",
+    "PoC": "https://github.com/romain-deperne/CVE-2026-34160"
+  },
+  {
+    "CVE": "CVE-2026-27825",
+    "PoC": "https://github.com/romain-deperne/CVE-2026-27825"
+  },
+  {
+    "CVE": "CVE-2026-33715",
+    "PoC": "https://github.com/romain-deperne/CVE-2026-33715"
+  },
+  {
+    "CVE": "CVE-2026-34975",
+    "PoC": "https://github.com/romain-deperne/CVE-2026-34975"
+  },
+  {
+    "CVE": "CVE-2026-34940",
+    "PoC": "https://github.com/romain-deperne/CVE-2026-34940"
+  },
+  {
+    "CVE": "CVE-2026-33980",
+    "PoC": "https://github.com/romain-deperne/CVE-2026-33980"
+  },
+  {
+    "CVE": "CVE-2026-32247",
+    "PoC": "https://github.com/romain-deperne/CVE-2026-32247"
+  },
+  {
+    "CVE": "CVE-2026-31431",
+    "PoC": "https://github.com/painoob/Copy-Fail---CVE-2026-31431"
+  },
+  {
+    "CVE": "CVE-2026-31431",
+    "PoC": "https://github.com/painoob/Copy-Fail-Exploit-CVE-2026-31431"
+  },
+  {
+    "CVE": "CVE-2019-9511",
+    "PoC": "https://github.com/harley-ghostie/CVE-2019-9511_Priority-Churn-Data-Dribble"
+  },
+  {
+    "CVE": "CVE-2022-32250",
+    "PoC": "https://github.com/Theori-lO/CVE-2022-32250-exploit"
+  },
+  {
+    "CVE": "CVE-2022-26717",
+    "PoC": "https://github.com/Theori-lO/CVE-2022-26717-Safari-WebGL-Exploit"
+  },
+  {
     "CVE": "CVE-2026-6644",
     "PoC": "https://github.com/uky007/CVE-2026-6644"
   },
