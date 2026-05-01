@@ -216236,6 +216236,10 @@
     "PoC": "https://nullku7.github.io/stuff/exploit/dahua/2017/03/09/dahua-nvr-authbypass.html"
   },
   {
+    "CVE": "CVE-2017-6432",
+    "PoC": "https://twitter.com/null_ku7/status/839814344351240193"
+  },
+  {
     "CVE": "CVE-2017-6435",
     "PoC": "https://github.com/libimobiledevice/libplist/issues/93"
   },
@@ -247562,6 +247566,22 @@
   {
     "CVE": "CVE-2018-25297",
     "PoC": "https://www.exploit-db.com/exploits/45194"
+  },
+  {
+    "CVE": "CVE-2018-25310",
+    "PoC": "https://www.exploit-db.com/exploits/44387"
+  },
+  {
+    "CVE": "CVE-2018-25311",
+    "PoC": "https://www.exploit-db.com/exploits/44386"
+  },
+  {
+    "CVE": "CVE-2018-25317",
+    "PoC": "https://www.exploit-db.com/exploits/44380"
+  },
+  {
+    "CVE": "CVE-2018-25318",
+    "PoC": "https://www.exploit-db.com/exploits/44381"
   },
   {
     "CVE": "CVE-2018-2560",
@@ -464636,6 +464656,14 @@
     "PoC": "https://wpscan.com/vulnerability/3542315c-93c3-41dd-a99e-02a38cfd58fb/"
   },
   {
+    "CVE": "CVE-2024-12425",
+    "PoC": "https://www.libreoffice.org/about-us/security/advisories/cve-2024-12425"
+  },
+  {
+    "CVE": "CVE-2024-12426",
+    "PoC": "https://www.libreoffice.org/about-us/security/advisories/cve-2024-12426"
+  },
+  {
     "CVE": "CVE-2024-1243",
     "PoC": "https://github.com/wazuh/wazuh/security/advisories/GHSA-3crh-39qv-fxj7"
   },
@@ -466134,6 +466162,10 @@
   {
     "CVE": "CVE-2024-13420",
     "PoC": "https://themeforest.net/item/beyot-wordpress-real-estate-theme/19514964"
+  },
+  {
+    "CVE": "CVE-2024-13431",
+    "PoC": "https://blog.lucianohanna.com.br/security/cve/cve-2024-13431-reflected-xss-no-simply-schedule-appointments/"
   },
   {
     "CVE": "CVE-2024-13471",
@@ -477018,6 +477050,10 @@
   {
     "CVE": "CVE-2024-3042",
     "PoC": "https://vuldb.com/?ctiid.258431"
+  },
+  {
+    "CVE": "CVE-2024-3044",
+    "PoC": "https://www.libreoffice.org/about-us/security/advisories/CVE-2024-3044"
   },
   {
     "CVE": "CVE-2024-3048",
@@ -488577,6 +488613,10 @@
   },
   {
     "CVE": "CVE-2024-45173",
+    "PoC": "http://seclists.org/fulldisclosure/2024/Sep/20"
+  },
+  {
+    "CVE": "CVE-2024-45173",
     "PoC": "https://www.syss.de/fileadmin/dokumente/Publikationen/Advisories/SYSS-2024-027.txt"
   },
   {
@@ -488594,6 +488634,10 @@
   {
     "CVE": "CVE-2024-45174",
     "PoC": "https://www.syss.de/pentest-blog/mehrere-sicherheitsschwachstellen-in-videoueberwachungssoftware-c-mor-syss-2024-020-bis-030"
+  },
+  {
+    "CVE": "CVE-2024-45175",
+    "PoC": "http://seclists.org/fulldisclosure/2024/Sep/21"
   },
   {
     "CVE": "CVE-2024-45175",
@@ -488630,6 +488674,10 @@
   {
     "CVE": "CVE-2024-45178",
     "PoC": "https://www.syss.de/pentest-blog/mehrere-sicherheitsschwachstellen-in-videoueberwachungssoftware-c-mor-syss-2024-020-bis-030"
+  },
+  {
+    "CVE": "CVE-2024-45179",
+    "PoC": "http://seclists.org/fulldisclosure/2024/Sep/23"
   },
   {
     "CVE": "CVE-2024-45179",
@@ -488910,6 +488958,10 @@
   {
     "CVE": "CVE-2024-45435",
     "PoC": "https://gist.github.com/tariqhawis/c67177164d3b7975210caddb25b60d62"
+  },
+  {
+    "CVE": "CVE-2024-45438",
+    "PoC": "http://seclists.org/fulldisclosure/2025/Sep/15"
   },
   {
     "CVE": "CVE-2024-45438",
@@ -498068,6 +498120,10 @@
     "PoC": "https://blog.csdn.net/ENTICE1208/article/details/140141934"
   },
   {
+    "CVE": "CVE-2024-6472",
+    "PoC": "https://www.libreoffice.org/about-us/security/advisories/CVE-2024-6472"
+  },
+  {
     "CVE": "CVE-2024-6477",
     "PoC": "https://wpscan.com/vulnerability/346c855a-4d42-4a87-aac9-e5bfc2242b16/"
   },
@@ -500474,6 +500530,10 @@
   {
     "CVE": "CVE-2024-7786",
     "PoC": "https://wpscan.com/vulnerability/f44e6f8f-3ef2-45c9-ae9c-9403305a548a/"
+  },
+  {
+    "CVE": "CVE-2024-7788",
+    "PoC": "https://www.libreoffice.org/about-us/security/advisories/CVE-2024-7788"
   },
   {
     "CVE": "CVE-2024-7792",
@@ -510198,6 +510258,10 @@
   {
     "CVE": "CVE-2025-1303",
     "PoC": "https://wpscan.com/vulnerability/35181798-4f21-4c8d-bb6e-61eb13683a74/"
+  },
+  {
+    "CVE": "CVE-2025-13030",
+    "PoC": "https://security.snyk.io/vuln/SNYK-PYTHON-DJANGOMDEDITOR-8630926"
   },
   {
     "CVE": "CVE-2025-13031",
@@ -524200,6 +524264,10 @@
     "PoC": "https://www.cnblogs.com/pursue-security/p/17677130.html"
   },
   {
+    "CVE": "CVE-2025-34040",
+    "PoC": "https://www.exploit-db.com/exploits/52490"
+  },
+  {
     "CVE": "CVE-2025-34042",
     "PoC": "https://www.zeroscience.mk/en/vulnerabilities/ZSL-2019-5512.php"
   },
@@ -526592,6 +526660,10 @@
     "PoC": "https://www.cnblogs.com/aibot/p/18830908"
   },
   {
+    "CVE": "CVE-2025-4123",
+    "PoC": "https://www.exploit-db.com/exploits/52491"
+  },
+  {
     "CVE": "CVE-2025-41234",
     "PoC": "https://nvd.nist.gov/vuln-metrics/cvss/v3-calculator?vector=AV:N/AC:H/PR:L/UI:R/S:C/C:H/I:L/A:N&version=3.1"
   },
@@ -527926,6 +527998,10 @@
   {
     "CVE": "CVE-2025-4515",
     "PoC": "https://gist.github.com/superboy-zjc/2a727cb0c1d468f21a91e0416d006ffe"
+  },
+  {
+    "CVE": "CVE-2025-4524",
+    "PoC": "https://www.exploit-db.com/exploits/52487"
   },
   {
     "CVE": "CVE-2025-4525",
@@ -535966,6 +536042,10 @@
   {
     "CVE": "CVE-2025-5623",
     "PoC": "https://github.com/wudipjq/my_vuln/blob/main/D-Link5/vuln_51/51.md"
+  },
+  {
+    "CVE": "CVE-2025-56231",
+    "PoC": "https://www.notion.so/CVE-2025-56231-2a04e9f2a40d80b184f4d02be58d3600"
   },
   {
     "CVE": "CVE-2025-56233",
@@ -552576,12 +552656,20 @@
     "PoC": "https://github.com/master-abc/cve/issues/15"
   },
   {
+    "CVE": "CVE-2026-1456",
+    "PoC": "https://gitlab.com/gitlab-org/gitlab/-/issues/587688"
+  },
+  {
     "CVE": "CVE-2026-1458",
     "PoC": "https://gitlab.com/gitlab-org/gitlab/-/issues/587698"
   },
   {
     "CVE": "CVE-2026-1470",
     "PoC": "https://research.jfrog.com/vulnerabilities/n8n-expression-node-rce/"
+  },
+  {
+    "CVE": "CVE-2026-1504",
+    "PoC": "https://issues.chromium.org/issues/474435504"
   },
   {
     "CVE": "CVE-2026-1505",
@@ -553066,6 +553154,10 @@
   {
     "CVE": "CVE-2026-1835",
     "PoC": "https://github.com/webzzaa/CVE-/issues/6"
+  },
+  {
+    "CVE": "CVE-2026-1858",
+    "PoC": "https://www.tenable.com/security/research/tra-2026-37"
   },
   {
     "CVE": "CVE-2026-1867",
@@ -554034,6 +554126,18 @@
   {
     "CVE": "CVE-2026-22728",
     "PoC": "https://github.com/bitnami-labs/sealed-secrets/security/advisories/GHSA-465p-v42x-3fmj"
+  },
+  {
+    "CVE": "CVE-2026-22740",
+    "PoC": "https://nvd.nist.gov/vuln-metrics/cvss/v3-calculator?vector=AV:N/AC:L/PR:L/UI:N/S:U/C:N/I:N/A:H&version=3.1"
+  },
+  {
+    "CVE": "CVE-2026-22741",
+    "PoC": "https://nvd.nist.gov/vuln-metrics/cvss/v3-calculator?vector=AV:N/AC:H/PR:N/UI:R/S:U/C:N/I:N/A:L&version=3.1"
+  },
+  {
+    "CVE": "CVE-2026-22745",
+    "PoC": "https://nvd.nist.gov/vuln-metrics/cvss/v3-calculator?vector=AV:N/AC:L/PR:N/UI:N/S:U/C:N/I:N/A:L&version=3.1"
   },
   {
     "CVE": "CVE-2026-22776",
@@ -558348,6 +558452,22 @@
     "PoC": "https://github.com/910biter/cve/issues/3"
   },
   {
+    "CVE": "CVE-2026-31431",
+    "PoC": "http://www.openwall.com/lists/oss-security/2026/04/29/23"
+  },
+  {
+    "CVE": "CVE-2026-31431",
+    "PoC": "http://www.openwall.com/lists/oss-security/2026/04/29/26"
+  },
+  {
+    "CVE": "CVE-2026-31431",
+    "PoC": "http://www.openwall.com/lists/oss-security/2026/04/30/5"
+  },
+  {
+    "CVE": "CVE-2026-31431",
+    "PoC": "https://copy.fail"
+  },
+  {
     "CVE": "CVE-2026-3148",
     "PoC": "https://github.com/xiaoxiaojie12/CVE/issues/1"
   },
@@ -559920,6 +560040,18 @@
     "PoC": "https://youtu.be/3e-tzUMCox8"
   },
   {
+    "CVE": "CVE-2026-38991",
+    "PoC": "https://felsec.com/posts/cockpit-cms-2.13.5-multi-vulns/"
+  },
+  {
+    "CVE": "CVE-2026-38992",
+    "PoC": "https://felsec.com/posts/cockpit-cms-2.13.5-multi-vulns/"
+  },
+  {
+    "CVE": "CVE-2026-38993",
+    "PoC": "https://felsec.com/posts/cockpit-cms-2.13.5-multi-vulns/"
+  },
+  {
     "CVE": "CVE-2026-39109",
     "PoC": "https://github.com/efekaanakkar/Apartment-Visitors-Management-System-CVEs/"
   },
@@ -560420,6 +560552,14 @@
     "PoC": "https://www.openwall.com/lists/oss-security/2026/04/08/1"
   },
   {
+    "CVE": "CVE-2026-40229",
+    "PoC": "https://fluidattacks.com/es/advisories/offspring"
+  },
+  {
+    "CVE": "CVE-2026-40230",
+    "PoC": "https://fluidattacks.com/es/advisories/prisioneros"
+  },
+  {
     "CVE": "CVE-2026-40355",
     "PoC": "https://cems.fun/2026/04/27/krb5-two-unauthenticated-network-vulnerabilities.html"
   },
@@ -560749,6 +560889,10 @@
   },
   {
     "CVE": "CVE-2026-41460",
+    "PoC": "http://seclists.org/fulldisclosure/2026/Apr/12"
+  },
+  {
+    "CVE": "CVE-2026-41460",
     "PoC": "https://karmainsecurity.com/KIS-2026-08"
   },
   {
@@ -560922,6 +561066,10 @@
   {
     "CVE": "CVE-2026-4274",
     "PoC": "https://mattermost.com/security-updates"
+  },
+  {
+    "CVE": "CVE-2026-42798",
+    "PoC": "https://www.openwall.com/lists/oss-security/2026/04/30/8"
   },
   {
     "CVE": "CVE-2026-4318",
@@ -561222,6 +561370,10 @@
   {
     "CVE": "CVE-2026-5704",
     "PoC": "http://www.openwall.com/lists/oss-security/2026/04/12/2"
+  },
+  {
+    "CVE": "CVE-2026-5705",
+    "PoC": "https://vuldb.com/vuln/355521/cti"
   },
   {
     "CVE": "CVE-2026-5758",
