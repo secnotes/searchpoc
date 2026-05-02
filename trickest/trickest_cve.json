@@ -117368,6 +117368,10 @@
     "PoC": "http://www.cloudscan.me/2014/01/cve-2013-6853-stored-xss-in-y-toolbar.html"
   },
   {
+    "CVE": "CVE-2013-6863",
+    "PoC": "https://service.sap.com/sap/support/notes/1893440"
+  },
+  {
     "CVE": "CVE-2013-6872",
     "PoC": "http://packetstormsecurity.com/files/124777/Collabtive-1.1-SQL-Injection.html"
   },
@@ -198944,6 +198948,10 @@
     "PoC": "http://seclists.org/oss-sec/2017/q3/290"
   },
   {
+    "CVE": "CVE-2017-12939",
+    "PoC": "https://twitter.com/0x09AL/status/898635999185711108"
+  },
+  {
     "CVE": "CVE-2017-12940",
     "PoC": "http://seclists.org/oss-sec/2017/q3/290"
   },
@@ -247568,12 +247576,92 @@
     "PoC": "https://www.exploit-db.com/exploits/45194"
   },
   {
+    "CVE": "CVE-2018-25298",
+    "PoC": "https://www.exploit-db.com/exploits/44681"
+  },
+  {
+    "CVE": "CVE-2018-25299",
+    "PoC": "https://www.exploit-db.com/exploits/44649"
+  },
+  {
+    "CVE": "CVE-2018-25300",
+    "PoC": "https://www.exploit-db.com/exploits/44622"
+  },
+  {
+    "CVE": "CVE-2018-25301",
+    "PoC": "https://www.exploit-db.com/exploits/44565"
+  },
+  {
+    "CVE": "CVE-2018-25302",
+    "PoC": "https://www.exploit-db.com/exploits/44549"
+  },
+  {
+    "CVE": "CVE-2018-25303",
+    "PoC": "https://www.exploit-db.com/exploits/44518"
+  },
+  {
+    "CVE": "CVE-2018-25304",
+    "PoC": "https://www.exploit-db.com/exploits/44499"
+  },
+  {
+    "CVE": "CVE-2018-25305",
+    "PoC": "https://www.exploit-db.com/exploits/44491"
+  },
+  {
+    "CVE": "CVE-2018-25306",
+    "PoC": "https://www.exploit-db.com/exploits/44490"
+  },
+  {
+    "CVE": "CVE-2018-25307",
+    "PoC": "https://www.exploit-db.com/exploits/44455"
+  },
+  {
+    "CVE": "CVE-2018-25308",
+    "PoC": "https://www.exploit-db.com/exploits/44432"
+  },
+  {
+    "CVE": "CVE-2018-25309",
+    "PoC": "https://www.exploit-db.com/exploits/44420"
+  },
+  {
     "CVE": "CVE-2018-25310",
     "PoC": "https://www.exploit-db.com/exploits/44387"
   },
   {
+    "CVE": "CVE-2018-25310",
+    "PoC": "https://www.zeroscience.mk/#/advisories/ZSL-2018-5455"
+  },
+  {
+    "CVE": "CVE-2018-25310",
+    "PoC": "https://www.zeroscience.mk/en/vulnerabilities/ZSL-2018-5455.php"
+  },
+  {
     "CVE": "CVE-2018-25311",
     "PoC": "https://www.exploit-db.com/exploits/44386"
+  },
+  {
+    "CVE": "CVE-2018-25311",
+    "PoC": "https://www.zeroscience.mk/en/vulnerabilities/ZSL-2018-5454.php"
+  },
+  {
+    "CVE": "CVE-2018-25312",
+    "PoC": "https://www.exploit-db.com/exploits/44390"
+  },
+  {
+    "CVE": "CVE-2018-25313",
+    "PoC": "https://www.exploit-db.com/exploits/44372"
+  },
+  {
+    "CVE": "CVE-2018-25314",
+    "PoC": "https://www.exploit-db.com/exploits/44365"
+  },
+  {
+    "CVE": "CVE-2018-25315",
+    "PoC": "https://www.exploit-db.com/exploits/44364"
+  },
+  {
+    "CVE": "CVE-2018-25316",
+    "PoC": "https://www.exploit-db.com/exploits/44373"
   },
   {
     "CVE": "CVE-2018-25317",
@@ -471924,6 +472012,10 @@
     "PoC": "https://github.com/blackslim3/cve_sidequest/blob/main/poc/Username_and_Password_Enumeration%20on%20Hostel%20Management%20System%20using%20PHP%20and%20MySQL%201.0.md"
   },
   {
+    "CVE": "CVE-2024-24823",
+    "PoC": "https://github.com/Graylog2/graylog2-server/commit/b93a66353f35a94a4e8f3f75ac4f5cdc5a2d4a6a"
+  },
+  {
     "CVE": "CVE-2024-24824",
     "PoC": "https://github.com/Graylog2/graylog2-server/security/advisories/GHSA-p6gg-5hf4-4rgj"
   },
@@ -505813,6 +505905,10 @@
   },
   {
     "CVE": "CVE-2025-10549",
+    "PoC": "http://seclists.org/fulldisclosure/2026/Apr/19"
+  },
+  {
+    "CVE": "CVE-2025-10549",
     "PoC": "https://r.sec-consult.com/controlio"
   },
   {
@@ -511634,6 +511730,10 @@
   {
     "CVE": "CVE-2025-14016",
     "PoC": "https://github.com/Hwwg/cve/issues/17"
+  },
+  {
+    "CVE": "CVE-2025-14040",
+    "PoC": "https://themeforest.net/item/automotive-car-dealership-business-wordpress-theme/9210971#item-description__changelog"
   },
   {
     "CVE": "CVE-2025-14045",
@@ -556748,6 +556848,10 @@
     "PoC": "https://vuldb.com/?id.346947"
   },
   {
+    "CVE": "CVE-2026-28221",
+    "PoC": "https://github.com/wazuh/wazuh/security/advisories/GHSA-q9vv-7w4c-f4cm"
+  },
+  {
     "CVE": "CVE-2026-28224",
     "PoC": "https://github.com/FirebirdSQL/firebird/security/advisories/GHSA-xrcw-wpjx-pr95"
   },
@@ -557186,6 +557290,14 @@
   {
     "CVE": "CVE-2026-2889",
     "PoC": "https://vuldb.com/?id.347182"
+  },
+  {
+    "CVE": "CVE-2026-28950",
+    "PoC": "http://seclists.org/fulldisclosure/2026/Apr/14"
+  },
+  {
+    "CVE": "CVE-2026-28950",
+    "PoC": "http://seclists.org/fulldisclosure/2026/Apr/15"
   },
   {
     "CVE": "CVE-2026-29000",
@@ -558468,6 +558580,10 @@
     "PoC": "https://copy.fail"
   },
   {
+    "CVE": "CVE-2026-31431",
+    "PoC": "https://websec.net/blog/cve-2026-31431-linux-algifaead-page-cache-write-to-root-69f38a4ccddd2db1f520f170"
+  },
+  {
     "CVE": "CVE-2026-3148",
     "PoC": "https://github.com/xiaoxiaojie12/CVE/issues/1"
   },
@@ -559304,6 +559420,10 @@
     "PoC": "http://seclists.org/fulldisclosure/2026/Apr/4"
   },
   {
+    "CVE": "CVE-2026-34262",
+    "PoC": "http://seclists.org/fulldisclosure/2026/Apr/16"
+  },
+  {
     "CVE": "CVE-2026-34413",
     "PoC": "https://github.com/thexerteproject/xerteonlinetoolkits/issues/1527"
   },
@@ -559386,6 +559506,10 @@
   {
     "CVE": "CVE-2026-35022",
     "PoC": "https://phoenix.security/critical-ci-cd-nightmare-3-command-injection-flaws-in-claude-code-cli-allow-credential-exfiltration/"
+  },
+  {
+    "CVE": "CVE-2026-35029",
+    "PoC": "http://seclists.org/fulldisclosure/2026/Apr/17"
   },
   {
     "CVE": "CVE-2026-35038",
@@ -560000,6 +560124,14 @@
     "PoC": "https://wpscan.com/vulnerability/768014fd-0403-4182-b19e-3d46c92d8755/"
   },
   {
+    "CVE": "CVE-2026-3832",
+    "PoC": "https://gitlab.com/gnutls/gnutls/-/issues/1801"
+  },
+  {
+    "CVE": "CVE-2026-3833",
+    "PoC": "https://gitlab.com/gnutls/gnutls/-/issues/1803"
+  },
+  {
     "CVE": "CVE-2026-3837",
     "PoC": "https://fluidattacks.com/es/advisories/sabina"
   },
@@ -560066,6 +560198,10 @@
   {
     "CVE": "CVE-2026-39112",
     "PoC": "https://github.com/efekaanakkar/Apartment-Visitors-Management-System-CVEs/"
+  },
+  {
+    "CVE": "CVE-2026-3927",
+    "PoC": "https://issues.chromium.org/issues/474948986"
   },
   {
     "CVE": "CVE-2026-39306",
@@ -560900,6 +561036,10 @@
     "PoC": "https://karmainsecurity.com/pocs/CVE-2026-41460.php"
   },
   {
+    "CVE": "CVE-2026-41461",
+    "PoC": "http://seclists.org/fulldisclosure/2026/Apr/11"
+  },
+  {
     "CVE": "CVE-2026-41468",
     "PoC": "https://github.com/kmkz/Exploits/blob/master/2026/CVE-2026-22191-POC.py"
   },
@@ -561308,6 +561448,22 @@
     "PoC": "https://fluidattacks.com/es/advisories/dragons"
   },
   {
+    "CVE": "CVE-2026-5402",
+    "PoC": "https://gitlab.com/wireshark/wireshark/-/issues/21090"
+  },
+  {
+    "CVE": "CVE-2026-5402",
+    "PoC": "https://gitlab.com/wireshark/wireshark/-/work_items/21090"
+  },
+  {
+    "CVE": "CVE-2026-5407",
+    "PoC": "https://gitlab.com/wireshark/wireshark/-/issues/21073"
+  },
+  {
+    "CVE": "CVE-2026-5407",
+    "PoC": "https://gitlab.com/wireshark/wireshark/-/work_items/21073"
+  },
+  {
     "CVE": "CVE-2026-5437",
     "PoC": "https://www.machinespirits.de/"
   },
@@ -561444,12 +561600,40 @@
     "PoC": "https://bugzilla.redhat.com/show_bug.cgi?id=2459181"
   },
   {
+    "CVE": "CVE-2026-6522",
+    "PoC": "https://gitlab.com/wireshark/wireshark/-/work_items/21186"
+  },
+  {
+    "CVE": "CVE-2026-6524",
+    "PoC": "https://gitlab.com/wireshark/wireshark/-/work_items/21172"
+  },
+  {
+    "CVE": "CVE-2026-6528",
+    "PoC": "https://gitlab.com/wireshark/wireshark/-/work_items/21147"
+  },
+  {
+    "CVE": "CVE-2026-6529",
+    "PoC": "https://gitlab.com/wireshark/wireshark/-/work_items/21145"
+  },
+  {
+    "CVE": "CVE-2026-6530",
+    "PoC": "https://gitlab.com/wireshark/wireshark/-/work_items/21144"
+  },
+  {
+    "CVE": "CVE-2026-6537",
+    "PoC": "https://gitlab.com/wireshark/wireshark/-/issues/21125"
+  },
+  {
     "CVE": "CVE-2026-6562",
     "PoC": "https://thinhneee.github.io/posts/muucmf-sqli/"
   },
   {
     "CVE": "CVE-2026-6568",
     "PoC": "https://vulnplus-note.wetolink.com/share/JyHBnRUaoOY2"
+  },
+  {
+    "CVE": "CVE-2026-6644",
+    "PoC": "https://uky007.github.io/CVE-2026-6644/"
   },
   {
     "CVE": "CVE-2026-6706",
@@ -561466,6 +561650,18 @@
   {
     "CVE": "CVE-2026-6845",
     "PoC": "https://bugzilla.redhat.com/show_bug.cgi?id=2460012"
+  },
+  {
+    "CVE": "CVE-2026-6867",
+    "PoC": "https://gitlab.com/wireshark/wireshark/-/work_items/21191"
+  },
+  {
+    "CVE": "CVE-2026-6868",
+    "PoC": "https://gitlab.com/wireshark/wireshark/-/work_items/21185"
+  },
+  {
+    "CVE": "CVE-2026-6869",
+    "PoC": "https://gitlab.com/wireshark/wireshark/-/work_items/21190"
   },
   {
     "CVE": "CVE-2026-6951",
