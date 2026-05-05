@@ -25920,6 +25920,10 @@
     "PoC": "http://www.redhat.com/support/errata/RHSA-2006-0754.html"
   },
   {
+    "CVE": "CVE-2006-6174",
+    "PoC": "http://sourceforge.net/forum/forum.php?forum_id=638868"
+  },
+  {
     "CVE": "CVE-2006-6177",
     "PoC": "http://www.nukedx.com/?getxpl=52"
   },
@@ -57358,6 +57362,10 @@
   {
     "CVE": "CVE-2008-4628",
     "PoC": "https://www.exploit-db.com/exploits/6782"
+  },
+  {
+    "CVE": "CVE-2008-4630",
+    "PoC": "http://freshmeat.net/projects/midcom/?branch_id=38063&release_id=286210"
   },
   {
     "CVE": "CVE-2008-4632",
@@ -247641,6 +247649,10 @@
   },
   {
     "CVE": "CVE-2018-25292",
+    "PoC": "https://www.bome.com/bome/downloads/Restorator2018_Full_1793.exe"
+  },
+  {
+    "CVE": "CVE-2018-25292",
     "PoC": "https://www.exploit-db.com/exploits/45223"
   },
   {
@@ -285804,6 +285816,10 @@
     "PoC": "https://www.exploit-db.com/exploits/46084"
   },
   {
+    "CVE": "CVE-2019-25714",
+    "PoC": "https://www.vulncheck.com/advisories/seeyon-office-anywhere-oa-a8-unauthenticated-arbitrary-file-write-via-htmlofficeservlet"
+  },
+  {
     "CVE": "CVE-2019-2572",
     "PoC": "http://www.oracle.com/technetwork/security-advisory/cpuapr2019-5072813.html"
   },
@@ -302442,6 +302458,10 @@
   {
     "CVE": "CVE-2020-12800",
     "PoC": "https://wordpress.org/plugins/drag-and-drop-multiple-file-upload-contact-form-7/#developers"
+  },
+  {
+    "CVE": "CVE-2020-12801",
+    "PoC": "https://www.libreoffice.org/about-us/security/advisories/CVE-2020-12801"
   },
   {
     "CVE": "CVE-2020-12803",
@@ -499865,6 +499885,10 @@
   },
   {
     "CVE": "CVE-2024-7300",
+    "PoC": "https://vuldb.com/?id.273168"
+  },
+  {
+    "CVE": "CVE-2024-7300",
     "PoC": "https://vuldb.com/?submit.380678"
   },
   {
@@ -559313,6 +559337,18 @@
   },
   {
     "CVE": "CVE-2026-31431",
+    "PoC": "http://www.openwall.com/lists/oss-security/2026/05/03/13"
+  },
+  {
+    "CVE": "CVE-2026-31431",
+    "PoC": "http://www.openwall.com/lists/oss-security/2026/05/04/1"
+  },
+  {
+    "CVE": "CVE-2026-31431",
+    "PoC": "http://www.openwall.com/lists/oss-security/2026/05/04/2"
+  },
+  {
+    "CVE": "CVE-2026-31431",
     "PoC": "https://copy.fail"
   },
   {
@@ -561072,6 +561108,10 @@
     "PoC": "https://github.com/kagisearch/fastfeedparser/security/advisories/GHSA-4gx2-pc4f-wq37"
   },
   {
+    "CVE": "CVE-2026-3938",
+    "PoC": "https://issues.chromium.org/issues/474763968"
+  },
+  {
     "CVE": "CVE-2026-39380",
     "PoC": "https://github.com/opensourcepos/opensourcepos/security/advisories/GHSA-7hg5-68rx-xpmg"
   },
@@ -562216,12 +562256,24 @@
     "PoC": "https://github.com/CC-T-454455/Vulnerabilities/tree/master/z9527-admin/vulnerability-11"
   },
   {
+    "CVE": "CVE-2026-5251",
+    "PoC": "https://vuldb.com/vuln/354441"
+  },
+  {
+    "CVE": "CVE-2026-5251",
+    "PoC": "https://vuldb.com/vuln/354441/cti"
+  },
+  {
     "CVE": "CVE-2026-5252",
     "PoC": "https://github.com/CC-T-454455/Vulnerabilities/tree/master/z9527-admin/vulnerability-10"
   },
   {
     "CVE": "CVE-2026-5306",
     "PoC": "https://wpscan.com/vulnerability/97908c15-6e7a-4242-8c6f-66c8b804364c/"
+  },
+  {
+    "CVE": "CVE-2026-5335",
+    "PoC": "https://wpscan.com/vulnerability/ed6f00de-bbae-4e89-9d0e-ded0d70e781c/"
   },
   {
     "CVE": "CVE-2026-5337",
@@ -562428,6 +562480,10 @@
     "PoC": "https://gitlab.com/wireshark/wireshark/-/work_items/21184"
   },
   {
+    "CVE": "CVE-2026-6521",
+    "PoC": "https://gitlab.com/wireshark/wireshark/-/work_items/21182"
+  },
+  {
     "CVE": "CVE-2026-6522",
     "PoC": "https://gitlab.com/wireshark/wireshark/-/work_items/21186"
   },
@@ -562454,6 +562510,10 @@
   {
     "CVE": "CVE-2026-6537",
     "PoC": "https://gitlab.com/wireshark/wireshark/-/issues/21125"
+  },
+  {
+    "CVE": "CVE-2026-6537",
+    "PoC": "https://gitlab.com/wireshark/wireshark/-/work_items/21125"
   },
   {
     "CVE": "CVE-2026-6562",
