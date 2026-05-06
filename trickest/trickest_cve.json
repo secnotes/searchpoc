@@ -317428,6 +317428,10 @@
     "PoC": "https://suryadina.com/luxcal-reflected-xss-cve-2020-26799/"
   },
   {
+    "CVE": "CVE-2020-26799",
+    "PoC": "https://youtu.be/npw9jcQ1h1U"
+  },
+  {
     "CVE": "CVE-2020-2680",
     "PoC": "https://www.oracle.com/security-alerts/cpujan2020.html"
   },
@@ -348422,6 +348426,18 @@
   {
     "CVE": "CVE-2021-25631",
     "PoC": "https://positive.security/blog/url-open-rce#open-libreoffice"
+  },
+  {
+    "CVE": "CVE-2021-25631",
+    "PoC": "https://www.libreoffice.org/about-us/security/advisories/cve-2021-25631/"
+  },
+  {
+    "CVE": "CVE-2021-25634",
+    "PoC": "https://www.libreoffice.org/about-us/security/advisories/CVE-2021-25634"
+  },
+  {
+    "CVE": "CVE-2021-25635",
+    "PoC": "https://www.libreoffice.org/about-us/security/advisories/cve-2021-25635/"
   },
   {
     "CVE": "CVE-2021-25646",
@@ -462404,6 +462420,10 @@
     "PoC": "https://portal.perforce.com/s/detail/a91PA000001SZVJYA4"
   },
   {
+    "CVE": "CVE-2024-1032",
+    "PoC": "https://note.zhaoj.in/share/6ISYe2urjlkI"
+  },
+  {
     "CVE": "CVE-2024-10327",
     "PoC": "https://help.okta.com/en-us/content/topics/releasenotes/okta-verify-release-notes.htm#panel2"
   },
@@ -494392,6 +494412,10 @@
     "PoC": "https://gist.github.com/jackfromeast/a61a5429a97985e7ff4c1d39e339d5d8"
   },
   {
+    "CVE": "CVE-2024-5340",
+    "PoC": "https://vuldb.com/?ctiid.266246"
+  },
+  {
     "CVE": "CVE-2024-53406",
     "PoC": "https://github.com/yangting111/BLE_TEST/blob/main/result/PoC/Esp/sk_reuse.md"
   },
@@ -502990,6 +503014,10 @@
   {
     "CVE": "CVE-2024-9182",
     "PoC": "https://wpscan.com/vulnerability/40007323-d684-430d-a882-8b4dfb76172b/"
+  },
+  {
+    "CVE": "CVE-2024-9183",
+    "PoC": "https://gitlab.com/gitlab-org/gitlab/-/issues/494478"
   },
   {
     "CVE": "CVE-2024-9186",
@@ -555200,6 +555228,14 @@
     "PoC": "https://github.com/akuma-QAQ/CVEreport/tree/main/D-link/CVE-2026-24109"
   },
   {
+    "CVE": "CVE-2026-24118",
+    "PoC": "https://github.com/patriksimek/vm2/commit/2b5f3e3a060d9088f5e1cdd585d683d491f990a3"
+  },
+  {
+    "CVE": "CVE-2026-24118",
+    "PoC": "https://github.com/patriksimek/vm2/security/advisories/GHSA-grj5-jjm8-h35p"
+  },
+  {
     "CVE": "CVE-2026-24123",
     "PoC": "https://github.com/bentoml/BentoML/security/advisories/GHSA-6r62-w2q3-48hf"
   },
@@ -555532,6 +555568,18 @@
     "PoC": "https://github.com/Significant-Gravitas/AutoGPT/security/advisories/GHSA-r277-3xc5-c79v"
   },
   {
+    "CVE": "CVE-2026-24781",
+    "PoC": "https://github.com/patriksimek/vm2/commit/8d30d93213c1898b3e035298b89a814970dd1189"
+  },
+  {
+    "CVE": "CVE-2026-24781",
+    "PoC": "https://github.com/patriksimek/vm2/commit/bdd3d15e57bc4ec5e70365cd79f7cb0256e5f88c"
+  },
+  {
+    "CVE": "CVE-2026-24781",
+    "PoC": "https://github.com/patriksimek/vm2/security/advisories/GHSA-v37h-5mfm-c47c"
+  },
+  {
     "CVE": "CVE-2026-24811",
     "PoC": "https://root.cern/blog/recent-common-vulnerabilities-when-does-ROOT-need-to-be-updated/"
   },
@@ -555722,6 +555770,14 @@
   {
     "CVE": "CVE-2026-25069",
     "PoC": "https://gist.github.com/chapochapo/5db8702ede862af5c59a28b5d5a0aba3"
+  },
+  {
+    "CVE": "CVE-2026-25075",
+    "PoC": "https://www.vulncheck.com/advisories/strongswan-eap-ttls-avp-parsing-integer-underflow"
+  },
+  {
+    "CVE": "CVE-2026-25075",
+    "PoC": "https://y637f9qq2x.com/posts/cve-2026-25075/"
   },
   {
     "CVE": "CVE-2026-25116",
@@ -556540,6 +556596,10 @@
     "PoC": "https://github.com/envoyproxy/envoy/security/advisories/GHSA-c23c-rp3m-vpg3"
   },
   {
+    "CVE": "CVE-2026-26332",
+    "PoC": "https://github.com/patriksimek/vm2/security/advisories/GHSA-55hx-c926-fr95"
+  },
+  {
     "CVE": "CVE-2026-26340",
     "PoC": "https://www.zeroscience.mk/en/vulnerabilities/ZSL-2026-5978.php"
   },
@@ -556738,6 +556798,10 @@
   {
     "CVE": "CVE-2026-26954",
     "PoC": "https://github.com/nyariv/SandboxJS/security/advisories/GHSA-6r9f-759j-hjgv"
+  },
+  {
+    "CVE": "CVE-2026-26956",
+    "PoC": "https://github.com/patriksimek/vm2/security/advisories/GHSA-ffh4-j6h5-pg66"
   },
   {
     "CVE": "CVE-2026-26959",
@@ -558250,6 +558314,18 @@
   {
     "CVE": "CVE-2026-2938",
     "PoC": "https://www.sourcecodester.com/"
+  },
+  {
+    "CVE": "CVE-2026-29514",
+    "PoC": "https://chocapikk.com/posts/2026/netbox-export-template-rce/"
+  },
+  {
+    "CVE": "CVE-2026-29514",
+    "PoC": "https://github.com/netbox-community/netbox/issues/22079"
+  },
+  {
+    "CVE": "CVE-2026-29514",
+    "PoC": "https://www.vulncheck.com/advisories/netbox-rce-via-rendertemplatemixin"
   },
   {
     "CVE": "CVE-2026-2952",
@@ -561936,8 +562012,60 @@
     "PoC": "https://hackmd.io/@YzU_KiOzT86cEbFQdBceVg/Bk56LQQYbe"
   },
   {
+    "CVE": "CVE-2026-41922",
+    "PoC": "https://mstreet97.github.io/security-research/iot/vulnerability-disclosure/ai-assisted-research/cybersecurity/cve/2026/05/04/Teaching_the_Machine_Where_to_Look.html"
+  },
+  {
+    "CVE": "CVE-2026-41922",
+    "PoC": "https://www.vulncheck.com/advisories/wdr201a-wifi-extender-os-command-injection-via-wireless-cgi"
+  },
+  {
+    "CVE": "CVE-2026-41923",
+    "PoC": "https://mstreet97.github.io/security-research/iot/vulnerability-disclosure/ai-assisted-research/cybersecurity/cve/2026/05/04/Teaching_the_Machine_Where_to_Look.html"
+  },
+  {
+    "CVE": "CVE-2026-41923",
+    "PoC": "https://www.vulncheck.com/advisories/wdr201a-wifi-extender-os-command-injection-via-internet-cgi"
+  },
+  {
+    "CVE": "CVE-2026-41924",
+    "PoC": "https://mstreet97.github.io/security-research/iot/vulnerability-disclosure/ai-assisted-research/cybersecurity/cve/2026/05/04/Teaching_the_Machine_Where_to_Look.html"
+  },
+  {
+    "CVE": "CVE-2026-41924",
+    "PoC": "https://www.vulncheck.com/advisories/wdr201a-wifi-extender-os-command-injection-via-makerequest-cgi"
+  },
+  {
+    "CVE": "CVE-2026-41925",
+    "PoC": "https://mstreet97.github.io/security-research/iot/vulnerability-disclosure/ai-assisted-research/cybersecurity/cve/2026/05/04/Teaching_the_Machine_Where_to_Look.html"
+  },
+  {
+    "CVE": "CVE-2026-41925",
+    "PoC": "https://www.vulncheck.com/advisories/wdr201a-wifi-extender-os-command-injection-via-adm-cgi-reboot-time"
+  },
+  {
+    "CVE": "CVE-2026-41926",
+    "PoC": "https://mstreet97.github.io/security-research/iot/vulnerability-disclosure/ai-assisted-research/cybersecurity/cve/2026/05/04/Teaching_the_Machine_Where_to_Look.html"
+  },
+  {
+    "CVE": "CVE-2026-41926",
+    "PoC": "https://www.vulncheck.com/advisories/wdr201a-wifi-extender-os-command-injection-via-firewall-cgi"
+  },
+  {
+    "CVE": "CVE-2026-41927",
+    "PoC": "https://mstreet97.github.io/security-research/iot/vulnerability-disclosure/ai-assisted-research/cybersecurity/cve/2026/05/04/Teaching_the_Machine_Where_to_Look.html"
+  },
+  {
+    "CVE": "CVE-2026-41927",
+    "PoC": "https://www.vulncheck.com/advisories/wdr201a-wifi-extender-stack-based-buffer-overflow-via-firewall-cgi"
+  },
+  {
     "CVE": "CVE-2026-4193",
     "PoC": "https://github.com/wudipjq/my_vuln/blob/main/D-Link7/vuln_92/92.md"
+  },
+  {
+    "CVE": "CVE-2026-41940",
+    "PoC": "https://www.bleepingcomputer.com/news/security/critrical-cpanel-flaw-mass-exploited-in-sorry-ransomware-attacks/"
   },
   {
     "CVE": "CVE-2026-41989",
@@ -561960,6 +562088,10 @@
     "PoC": "https://github.com/wudipjq/my_vuln/blob/main/D-Link8/vuln_161/161.md"
   },
   {
+    "CVE": "CVE-2026-42140",
+    "PoC": "https://jira.xwiki.org/browse/PLANTUML-25"
+  },
+  {
     "CVE": "CVE-2026-42167",
     "PoC": "https://zeropath.com/blog/proftpd-cve-2026-42167-auth-bypass-privesc-rce"
   },
@@ -561970,6 +562102,26 @@
   {
     "CVE": "CVE-2026-4235",
     "PoC": "https://github.com/yuji0903/silver-guide/issues/11"
+  },
+  {
+    "CVE": "CVE-2026-42372",
+    "PoC": "https://www.securin.io/zero-day/cve-2026-42372-hardcoded-telnet-backdoor-in-d-link-dir-605l-a1-end-of-life-"
+  },
+  {
+    "CVE": "CVE-2026-42373",
+    "PoC": "https://www.securin.io/zero-day/cve-2026-42373-hardcoded-telnet-backdoor-in-d-link-dir-605l-b2-end-of-life-"
+  },
+  {
+    "CVE": "CVE-2026-42374",
+    "PoC": "https://www.securin.io/zero-day/cve-2026-42374-hardcoded-telnet-backdoor-in-d-link-dir-600l-b1-end-of-life-"
+  },
+  {
+    "CVE": "CVE-2026-42375",
+    "PoC": "https://www.securin.io/zero-day/cve-2026-42375-hardcoded-telnet-backdoor-in-d-link-dir-600l-a1-end-of-life-"
+  },
+  {
+    "CVE": "CVE-2026-42376",
+    "PoC": "https://www.securin.io/zero-day/cve-2026-42376-hardcoded-telnet-backdoor-in-d-link-dir-456u-a1-end-of-life-"
   },
   {
     "CVE": "CVE-2026-4238",
@@ -562562,5 +562714,21 @@
   {
     "CVE": "CVE-2026-7025",
     "PoC": "https://wang1rrr.github.io/2026/03/04/CVE-Report-Typecho-v1-3-0-SSRF/"
+  },
+  {
+    "CVE": "CVE-2026-7375",
+    "PoC": "https://gitlab.com/wireshark/wireshark/-/work_items/21225"
+  },
+  {
+    "CVE": "CVE-2026-7376",
+    "PoC": "https://gitlab.com/wireshark/wireshark/-/work_items/21206"
+  },
+  {
+    "CVE": "CVE-2026-7782",
+    "PoC": "https://bytium.com/insights/perfex-crm-3-4-1-cross-tenant-broken-access-control-on-project-discussion-comments"
+  },
+  {
+    "CVE": "CVE-2026-7783",
+    "PoC": "https://bytium.com/insights/blind-sql-injection-in-perfex-crm-3-4-1"
   }
 ]
