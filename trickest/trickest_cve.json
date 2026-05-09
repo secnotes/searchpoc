@@ -103148,6 +103148,10 @@
     "PoC": "http://www.exploit-db.com/exploits/18765"
   },
   {
+    "CVE": "CVE-2012-4337",
+    "PoC": "http://www.foxitsoftware.com/Secure_PDF_Reader/security_bulletins.php"
+  },
+  {
     "CVE": "CVE-2012-4344",
     "PoC": "http://www.exploit-db.com/exploits/20035"
   },
@@ -110012,6 +110016,10 @@
     "PoC": "http://packetstormsecurity.com/files/125866/Katello-Red-Hat-Satellite-users-update_roles-Missing-Authorization.html"
   },
   {
+    "CVE": "CVE-2013-2145",
+    "PoC": "https://github.com/audreyt/module-signature/commit/575f7bd6ba4cc7c92f841e8758f88a131674ebf2"
+  },
+  {
     "CVE": "CVE-2013-2146",
     "PoC": "http://www.mandriva.com/security/advisories?name=MDVSA-2013:176"
   },
@@ -114516,8 +114524,28 @@
     "PoC": "http://anonsvn.wireshark.org/viewvc/trunk/epan/dissectors/packet-dcom-sysact.c?r1=50094&r2=50093&pathrev=50094"
   },
   {
+    "CVE": "CVE-2013-4922",
+    "PoC": "https://bugs.wireshark.org/bugzilla/show_bug.cgi?id=8828"
+  },
+  {
     "CVE": "CVE-2013-4923",
     "PoC": "http://anonsvn.wireshark.org/viewvc/trunk/epan/dissectors/packet-dcom-sysact.c?r1=50094&r2=50093&pathrev=50094"
+  },
+  {
+    "CVE": "CVE-2013-4923",
+    "PoC": "https://bugs.wireshark.org/bugzilla/show_bug.cgi?id=8828"
+  },
+  {
+    "CVE": "CVE-2013-4924",
+    "PoC": "https://bugs.wireshark.org/bugzilla/show_bug.cgi?id=8828"
+  },
+  {
+    "CVE": "CVE-2013-4925",
+    "PoC": "https://bugs.wireshark.org/bugzilla/show_bug.cgi?id=8828"
+  },
+  {
+    "CVE": "CVE-2013-4926",
+    "PoC": "https://bugs.wireshark.org/bugzilla/show_bug.cgi?id=8828"
   },
   {
     "CVE": "CVE-2013-4930",
@@ -210066,6 +210094,10 @@
   {
     "CVE": "CVE-2017-20220",
     "PoC": "https://www.exploit-db.com/exploits/41960/"
+  },
+  {
+    "CVE": "CVE-2017-20220",
+    "PoC": "https://www.vulncheck.com/advisories/serviio-pro-unauthenticated-password-change-via-rest-api"
   },
   {
     "CVE": "CVE-2017-20220",
@@ -422996,6 +423028,10 @@
     "PoC": "http://www.openwall.com/lists/oss-security/2024/01/03/4"
   },
   {
+    "CVE": "CVE-2023-1183",
+    "PoC": "https://www.libreoffice.org/about-us/security/advisories/cve-2023-1183/"
+  },
+  {
     "CVE": "CVE-2023-1186",
     "PoC": "https://github.com/zeze-zeze/WindowsKernelVuln/tree/master/CVE-2023-1186"
   },
@@ -447476,6 +447512,22 @@
     "PoC": "https://0xhunter20.medium.com/how-i-found-unrestricted-file-upload-in-fl3xx-ios-app-cve-2023-42335-6b1a72da6d65"
   },
   {
+    "CVE": "CVE-2023-42343",
+    "PoC": "https://labs.watchtowr.com/xxe-you-can-depend-on-me-opencms/"
+  },
+  {
+    "CVE": "CVE-2023-42344",
+    "PoC": "https://labs.watchtowr.com/xxe-you-can-depend-on-me-opencms/"
+  },
+  {
+    "CVE": "CVE-2023-42345",
+    "PoC": "https://labs.watchtowr.com/xxe-you-can-depend-on-me-opencms/"
+  },
+  {
+    "CVE": "CVE-2023-42346",
+    "PoC": "https://labs.watchtowr.com/xxe-you-can-depend-on-me-opencms/"
+  },
+  {
     "CVE": "CVE-2023-4235",
     "PoC": "https://bugzilla.redhat.com/show_bug.cgi?id=2255402"
   },
@@ -466757,6 +466809,10 @@
   },
   {
     "CVE": "CVE-2024-13722",
+    "PoC": "http://seclists.org/fulldisclosure/2025/Feb/3"
+  },
+  {
+    "CVE": "CVE-2024-13722",
     "PoC": "http://www.openwall.com/lists/oss-security/2025/02/04/3"
   },
   {
@@ -467050,6 +467106,10 @@
   {
     "CVE": "CVE-2024-13990",
     "PoC": "https://thehackernews.com/2024/04/escan-antivirus-update-mechanism.html"
+  },
+  {
+    "CVE": "CVE-2024-13990",
+    "PoC": "https://www.bleepingcomputer.com/news/security/hackers-hijack-antivirus-updates-to-drop-guptiminer-malware/"
   },
   {
     "CVE": "CVE-2024-13990",
@@ -478396,6 +478456,10 @@
     "PoC": "https://issues.chromium.org/issues/331237485"
   },
   {
+    "CVE": "CVE-2024-31573",
+    "PoC": "https://github.com/xmlunit/xmlunit/issues/264"
+  },
+  {
     "CVE": "CVE-2024-31581",
     "PoC": "https://github.com/FFmpeg/FFmpeg/blob/n6.1.1/libavcodec/cbs_h266_syntax_template.c#L2048"
   },
@@ -479530,6 +479594,10 @@
   {
     "CVE": "CVE-2024-33272",
     "PoC": "https://security.friendsofpresta.org/modules/2024/04/25/autosuggest.html"
+  },
+  {
+    "CVE": "CVE-2024-33288",
+    "PoC": "https://www.exploit-db.com/exploits/52017"
   },
   {
     "CVE": "CVE-2024-33294",
@@ -489192,6 +489260,10 @@
     "PoC": "https://github.com/chebuya/exploits/tree/main/BYOB-RCE"
   },
   {
+    "CVE": "CVE-2024-45257",
+    "PoC": "https://raw.githubusercontent.com/rapid7/metasploit-framework/master/modules/exploits/unix/webapp/byob_unauth_rce.rb"
+  },
+  {
     "CVE": "CVE-2024-45258",
     "PoC": "https://github.com/imroc/req/commit/04e3ece5b380ecad9da3551c449f1b8a9aa76d3d"
   },
@@ -493250,6 +493322,10 @@
   {
     "CVE": "CVE-2024-51091",
     "PoC": "https://gist.github.com/jackfromeast/176413c3bd73f825f7aeeb05e80e02a6"
+  },
+  {
+    "CVE": "CVE-2024-51092",
+    "PoC": "https://raw.githubusercontent.com/rapid7/metasploit-framework/master/modules/exploits/linux/http/librenms_authenticated_rce_cve_2024_51092.rb"
   },
   {
     "CVE": "CVE-2024-51111",
@@ -506182,6 +506258,10 @@
   {
     "CVE": "CVE-2025-10500",
     "PoC": "https://issues.chromium.org/issues/435875050"
+  },
+  {
+    "CVE": "CVE-2025-10539",
+    "PoC": "https://r.sec-consult.com/desktime"
   },
   {
     "CVE": "CVE-2025-10539",
@@ -540360,6 +540440,10 @@
     "PoC": "https://github.com/Lena-lyy/cve/blob/main/688/7.md#poc"
   },
   {
+    "CVE": "CVE-2025-61506",
+    "PoC": "https://gist.github.com/pescada-dev/a046d36e8026bbaf1ee591c6dad0d7e6"
+  },
+  {
     "CVE": "CVE-2025-6151",
     "PoC": "https://github.com/WhereisDoujo/CVE/issues/7"
   },
@@ -540402,6 +540486,10 @@
   {
     "CVE": "CVE-2025-61547",
     "PoC": "https://github.com/chndlrx/vulnerability-disclosures/tree/main/CVE-2025-61547"
+  },
+  {
+    "CVE": "CVE-2025-61548",
+    "PoC": "https://github.com/chndlrx/vulnerability-disclosures/tree/main/CVE-2025-61548"
   },
   {
     "CVE": "CVE-2025-61549",
@@ -544632,6 +544720,14 @@
     "PoC": "https://github.com/ChurchCRM/CRM/security/advisories/GHSA-j9gv-26c7-3qrh"
   },
   {
+    "CVE": "CVE-2025-67887",
+    "PoC": "https://karmainsecurity.com/pocs/CVE-2025-67887.php"
+  },
+  {
+    "CVE": "CVE-2025-67888",
+    "PoC": "https://karmainsecurity.com/KIS-2025-09"
+  },
+  {
     "CVE": "CVE-2025-67896",
     "PoC": "https://exim.org/static/doc/security/EXIM-Security-2025-12-09.1/report.txt"
   },
@@ -545356,6 +545452,10 @@
     "PoC": "https://github.com/vercel/hyper/issues/8098"
   },
   {
+    "CVE": "CVE-2025-70746",
+    "PoC": "https://github.com/0-fool/VulnbyCola/blob/main/Tenda/AX-1806/4/1.md"
+  },
+  {
     "CVE": "CVE-2025-70758",
     "PoC": "https://github.com/XavLimSG/Vulnerability-Research/tree/main/CVE-2025-70758"
   },
@@ -545542,6 +545642,10 @@
   {
     "CVE": "CVE-2025-7098",
     "PoC": "https://drive.google.com/file/d/1qnWarYsTSc5_sV6o8ULv0LBvGfKKXPxn/view?usp=sharing"
+  },
+  {
+    "CVE": "CVE-2025-70994",
+    "PoC": "https://github.com/ktauchathuranga/CVE-2025-70994"
   },
   {
     "CVE": "CVE-2025-70995",
@@ -553744,6 +553848,10 @@
     "PoC": "https://www.sourcecodester.com/"
   },
   {
+    "CVE": "CVE-2026-1747",
+    "PoC": "https://gitlab.com/gitlab-org/gitlab/-/issues/588385"
+  },
+  {
     "CVE": "CVE-2026-1751",
     "PoC": "https://gitlab.com/gitlab-org/gitlab/-/issues/519340"
   },
@@ -554144,6 +554252,10 @@
     "PoC": "https://github.com/badkeys/badkeys/issues/40"
   },
   {
+    "CVE": "CVE-2026-21449",
+    "PoC": "https://github.com/bagisto/bagisto/security/advisories/GHSA-mqhg-v22x-pqj8"
+  },
+  {
     "CVE": "CVE-2026-2146",
     "PoC": "https://github.com/guchengwuyue/yshopmall/issues/40"
   },
@@ -554158,6 +554270,14 @@
   {
     "CVE": "CVE-2026-21483",
     "PoC": "https://github.com/knadh/listmonk/security/advisories/GHSA-jmr4-p576-v565"
+  },
+  {
+    "CVE": "CVE-2026-21485",
+    "PoC": "https://github.com/InternationalColorConsortium/iccDEV/issues/340"
+  },
+  {
+    "CVE": "CVE-2026-21487",
+    "PoC": "https://github.com/InternationalColorConsortium/iccDEV/issues/340"
   },
   {
     "CVE": "CVE-2026-21496",
@@ -554248,6 +554368,10 @@
     "PoC": "https://github.com/InternationalColorConsortium/iccDEV/pull/219"
   },
   {
+    "CVE": "CVE-2026-21679",
+    "PoC": "https://github.com/InternationalColorConsortium/iccDEV/issues/328"
+  },
+  {
     "CVE": "CVE-2026-2168",
     "PoC": "https://github.com/LX-66-LX/cve-new/issues/2"
   },
@@ -554274,6 +554398,10 @@
   {
     "CVE": "CVE-2026-21694",
     "PoC": "https://github.com/kromitgmbh/titra/security/advisories/GHSA-mr2r-wjf8-cj3c"
+  },
+  {
+    "CVE": "CVE-2026-21695",
+    "PoC": "https://github.com/kromitgmbh/titra/security/advisories/GHSA-gc65-vr47-jppq"
   },
   {
     "CVE": "CVE-2026-21732",
@@ -559953,6 +560081,10 @@
   },
   {
     "CVE": "CVE-2026-31431",
+    "PoC": "http://www.openwall.com/lists/oss-security/2026/05/07/12"
+  },
+  {
+    "CVE": "CVE-2026-31431",
     "PoC": "https://copy.fail"
   },
   {
@@ -562708,6 +562840,10 @@
     "PoC": "https://github.com/wudipjq/my_vuln/blob/main/D-Link8/vuln_139/139.md"
   },
   {
+    "CVE": "CVE-2026-4211",
+    "PoC": "https://vuldb.com/?submit.770441"
+  },
+  {
     "CVE": "CVE-2026-4212",
     "PoC": "https://github.com/wudipjq/my_vuln/blob/main/D-Link8/vuln_161/161.md"
   },
@@ -563010,6 +563146,10 @@
   {
     "CVE": "CVE-2026-4927",
     "PoC": "https://devolutions.net/security/advisories/DEVO-2026-0010"
+  },
+  {
+    "CVE": "CVE-2026-4935",
+    "PoC": "https://wpscan.com/vulnerability/54bc1bf4-1033-49e2-aff9-a14c834c35bd/"
   },
   {
     "CVE": "CVE-2026-4947",
@@ -563382,6 +563522,10 @@
   {
     "CVE": "CVE-2026-7376",
     "PoC": "https://gitlab.com/wireshark/wireshark/-/work_items/21206"
+  },
+  {
+    "CVE": "CVE-2026-7378",
+    "PoC": "https://gitlab.com/wireshark/wireshark/-/work_items/21207"
   },
   {
     "CVE": "CVE-2026-7782",
