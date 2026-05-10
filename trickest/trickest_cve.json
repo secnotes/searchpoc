@@ -20172,6 +20172,10 @@
     "PoC": "http://securityreason.com/securityalert/1273"
   },
   {
+    "CVE": "CVE-2006-3844",
+    "PoC": "http://www.securiteam.com/exploits/5WP0C2AJ5W.html"
+  },
+  {
     "CVE": "CVE-2006-3847",
     "PoC": "https://www.exploit-db.com/exploits/2062"
   },
@@ -43093,6 +43097,10 @@
   },
   {
     "CVE": "CVE-2008-0017",
+    "PoC": "http://www.redhat.com/support/errata/RHSA-2008-0977.html"
+  },
+  {
+    "CVE": "CVE-2008-0017",
     "PoC": "http://www.vupen.com/english/advisories/2009/0977"
   },
   {
@@ -58761,7 +58769,15 @@
   },
   {
     "CVE": "CVE-2008-5012",
+    "PoC": "http://www.redhat.com/support/errata/RHSA-2008-0977.html"
+  },
+  {
+    "CVE": "CVE-2008-5012",
     "PoC": "http://www.vupen.com/english/advisories/2009/0977"
+  },
+  {
+    "CVE": "CVE-2008-5013",
+    "PoC": "http://www.redhat.com/support/errata/RHSA-2008-0977.html"
   },
   {
     "CVE": "CVE-2008-5013",
@@ -58777,6 +58793,10 @@
   },
   {
     "CVE": "CVE-2008-5014",
+    "PoC": "http://www.redhat.com/support/errata/RHSA-2008-0977.html"
+  },
+  {
+    "CVE": "CVE-2008-5014",
     "PoC": "http://www.vupen.com/english/advisories/2009/0977"
   },
   {
@@ -58789,11 +58809,23 @@
   },
   {
     "CVE": "CVE-2008-5016",
+    "PoC": "http://www.redhat.com/support/errata/RHSA-2008-0977.html"
+  },
+  {
+    "CVE": "CVE-2008-5016",
     "PoC": "http://www.vupen.com/english/advisories/2009/0977"
   },
   {
     "CVE": "CVE-2008-5017",
+    "PoC": "http://www.redhat.com/support/errata/RHSA-2008-0977.html"
+  },
+  {
+    "CVE": "CVE-2008-5017",
     "PoC": "http://www.vupen.com/english/advisories/2009/0977"
+  },
+  {
+    "CVE": "CVE-2008-5018",
+    "PoC": "http://www.redhat.com/support/errata/RHSA-2008-0977.html"
   },
   {
     "CVE": "CVE-2008-5018",
@@ -58805,7 +58837,15 @@
   },
   {
     "CVE": "CVE-2008-5019",
+    "PoC": "http://www.redhat.com/support/errata/RHSA-2008-0977.html"
+  },
+  {
+    "CVE": "CVE-2008-5019",
     "PoC": "http://www.vupen.com/english/advisories/2009/0977"
+  },
+  {
+    "CVE": "CVE-2008-5021",
+    "PoC": "http://www.redhat.com/support/errata/RHSA-2008-0977.html"
   },
   {
     "CVE": "CVE-2008-5021",
@@ -58817,7 +58857,15 @@
   },
   {
     "CVE": "CVE-2008-5022",
+    "PoC": "http://www.redhat.com/support/errata/RHSA-2008-0977.html"
+  },
+  {
+    "CVE": "CVE-2008-5022",
     "PoC": "http://www.vupen.com/english/advisories/2009/0977"
+  },
+  {
+    "CVE": "CVE-2008-5023",
+    "PoC": "http://www.redhat.com/support/errata/RHSA-2008-0977.html"
   },
   {
     "CVE": "CVE-2008-5023",
@@ -58830,6 +58878,10 @@
   {
     "CVE": "CVE-2008-5023",
     "PoC": "https://oval.cisecurity.org/repository/search/definition/oval%3Aorg.mitre.oval%3Adef%3A9908"
+  },
+  {
+    "CVE": "CVE-2008-5024",
+    "PoC": "http://www.redhat.com/support/errata/RHSA-2008-0977.html"
   },
   {
     "CVE": "CVE-2008-5024",
@@ -222300,6 +222352,34 @@
     "PoC": "https://sourceforge.net/p/zsh/code/ci/1c4c7b6a4d17294df028322b70c53803a402233d"
   },
   {
+    "CVE": "CVE-2018-0526",
+    "PoC": "http://jvn.jp/en/jp/JVN51737843/index.html"
+  },
+  {
+    "CVE": "CVE-2018-0527",
+    "PoC": "http://jvn.jp/en/jp/JVN51737843/index.html"
+  },
+  {
+    "CVE": "CVE-2018-0528",
+    "PoC": "http://jvn.jp/en/jp/JVN51737843/index.html"
+  },
+  {
+    "CVE": "CVE-2018-0529",
+    "PoC": "http://jvn.jp/en/jp/JVN51737843/index.html"
+  },
+  {
+    "CVE": "CVE-2018-0565",
+    "PoC": "http://jvn.jp/en/jp/JVN51737843/index.html"
+  },
+  {
+    "CVE": "CVE-2018-0566",
+    "PoC": "http://jvn.jp/en/jp/JVN51737843/index.html"
+  },
+  {
+    "CVE": "CVE-2018-0567",
+    "PoC": "http://jvn.jp/en/jp/JVN51737843/index.html"
+  },
+  {
     "CVE": "CVE-2018-0576",
     "PoC": "https://wpvulndb.com/vulnerabilities/9609"
   },
@@ -246838,6 +246918,10 @@
   {
     "CVE": "CVE-2018-25020",
     "PoC": "http://packetstormsecurity.com/files/165477/Kernel-Live-Patch-Security-Notice-LSN-0083-1.html"
+  },
+  {
+    "CVE": "CVE-2018-25030",
+    "PoC": "https://youtu.be/cd6nbos-BI0"
   },
   {
     "CVE": "CVE-2018-25031",
@@ -328756,6 +328840,10 @@
     "PoC": "https://www.ibm.com/support/pages/node/6253781"
   },
   {
+    "CVE": "CVE-2020-4849",
+    "PoC": "https://www.ibm.com/support/pages/node/6382116"
+  },
+  {
     "CVE": "CVE-2020-4854",
     "PoC": "https://www.tenable.com/security/research/tra-2020-66"
   },
@@ -337522,6 +337610,10 @@
   {
     "CVE": "CVE-2021-20834",
     "PoC": "https://play.google.com/store/apps/details?id=com.nike.omega"
+  },
+  {
+    "CVE": "CVE-2021-20836",
+    "PoC": "https://www.myomron.com/index.php?action=kb&article=1692"
   },
   {
     "CVE": "CVE-2021-20837",
@@ -434000,6 +434092,10 @@
     "PoC": "https://wpscan.com/vulnerability/0357ecc7-56f5-4843-a928-bf2d3ce75596"
   },
   {
+    "CVE": "CVE-2023-28425",
+    "PoC": "https://github.com/redis/redis/commit/48e0d4788434833b47892fe9f3d91be7687f25c9"
+  },
+  {
     "CVE": "CVE-2023-28428",
     "PoC": "https://github.com/michaelrsweet/pdfio/security/advisories/GHSA-68x8-9phf-j7jf"
   },
@@ -441152,6 +441248,10 @@
     "PoC": "https://www.manageengine.com/products/self-service-password/kb/our-response-to-CVE-2023-35719.html"
   },
   {
+    "CVE": "CVE-2023-35722",
+    "PoC": "https://kb.netgear.com/000065699/Security-Advisory-for-Pre-Authentication-Command-Injection-on-the-RAX30-PSV-2023-0046"
+  },
+  {
     "CVE": "CVE-2023-3574",
     "PoC": "https://huntr.dev/bounties/1dcb4f01-e668-4aa3-a6a3-838532e500c6"
   },
@@ -442678,6 +442778,10 @@
   {
     "CVE": "CVE-2023-37177",
     "PoC": "https://nexacybersecurity.blogspot.com/2024/02/journey-finding-vulnerabilities-in-pmb-library-management-system.html"
+  },
+  {
+    "CVE": "CVE-2023-37189",
+    "PoC": "https://github.com/sahiloj/CVE-2023-37189/blob/main/README.md"
   },
   {
     "CVE": "CVE-2023-37190",
@@ -497776,6 +497880,10 @@
     "PoC": "https://www.exploit-db.com/exploits/51940"
   },
   {
+    "CVE": "CVE-2024-58343",
+    "PoC": "https://github.com/websec/Vision-Helpdesk-Exploit"
+  },
+  {
     "CVE": "CVE-2024-58344",
     "PoC": "https://www.exploit-db.com/exploits/52043"
   },
@@ -514500,6 +514608,14 @@
     "PoC": "https://wpscan.com/vulnerability/eb0424cc-e60c-44a5-aa24-cd1fe042b27a/"
   },
   {
+    "CVE": "CVE-2025-15493",
+    "PoC": "https://github.com/xkalami-Tta0/CVE/blob/main/DocSys/sql%E6%B3%A8%E5%85%A52.md#vulnerability-analysis-and-reproduction%E6%BC%8F%E6%B4%9E%E5%88%86%E6%9E%90%E5%A4%8D%E7%8E%B0"
+  },
+  {
+    "CVE": "CVE-2025-15494",
+    "PoC": "https://github.com/xkalami-Tta0/CVE/blob/main/DocSys/SQL%E6%B3%A8%E5%85%A52.02.37.md"
+  },
+  {
     "CVE": "CVE-2025-15494",
     "PoC": "https://github.com/xkalami-Tta0/CVE/blob/main/DocSys/SQL%E6%B3%A8%E5%85%A52.02.37.md#vulnerability-analysis-and-reproduction%E6%BC%8F%E6%B4%9E%E5%88%86%E6%9E%90%E5%A4%8D%E7%8E%B0"
   },
@@ -514680,6 +514796,10 @@
     "PoC": "https://mattermost.com/security-updates"
   },
   {
+    "CVE": "CVE-2025-15583",
+    "PoC": "https://github.com/Nixon-H/PHP-Stored-XSS-Bypass-Real-Escape"
+  },
+  {
     "CVE": "CVE-2025-15585",
     "PoC": "https://projectblack.io/blog/fileflows-sql-injection-by-decompiling-net-code/#exploitation"
   },
@@ -514700,8 +514820,20 @@
     "PoC": "https://github.com/yaowenxiao721/Poc/blob/main/SQLBot/SQLBot-User-Management-Broken-Access-Control.md"
   },
   {
+    "CVE": "CVE-2025-15598",
+    "PoC": "https://github.com/yaowenxiao721/Poc/blob/main/SQLBot/SQLBot-JWT-Signature-Verification-Bypass.md"
+  },
+  {
     "CVE": "CVE-2025-15611",
     "PoC": "https://wpscan.com/vulnerability/089ea763-2421-4089-a220-251421f7f226/"
+  },
+  {
+    "CVE": "CVE-2025-15612",
+    "PoC": "https://github.com/wazuh/wazuh/security/advisories/GHSA-wvg9-7q49-c7mg"
+  },
+  {
+    "CVE": "CVE-2025-15616",
+    "PoC": "https://github.com/wazuh/wazuh/security/advisories/GHSA-522v-p59v-58gm"
   },
   {
     "CVE": "CVE-2025-15617",
@@ -528532,6 +528664,10 @@
     "PoC": "https://gist.github.com/ch3tanbug/44aedff79dd5d2d6beadbffcd01e0de5"
   },
   {
+    "CVE": "CVE-2025-45006",
+    "PoC": "https://lf-riscv.atlassian.net/wiki/spaces/HOME/pages/16154769/RISC-V+Technical+Specifications#ISA-Specifications"
+  },
+  {
     "CVE": "CVE-2025-4501",
     "PoC": "https://github.com/zzzxc643/cve/blob/main/ALBUM_MANAGEMENT_SYSTEM.md"
   },
@@ -533068,6 +533204,10 @@
     "PoC": "https://cybermaya.in/posts/Post-40/"
   },
   {
+    "CVE": "CVE-2025-52365",
+    "PoC": "https://github.com/h1dr1/CVE_Research/blob/main/CVE-2025-52365.md"
+  },
+  {
     "CVE": "CVE-2025-52367",
     "PoC": "https://medium.com/@hayton1088/cve-2025-52367-stored-xss-to-rce-via-privilege-escalation-in-pivotx-cms-v3-0-0-rc-3-a1b870bcb7b3"
   },
@@ -536738,6 +536878,10 @@
   {
     "CVE": "CVE-2025-5630",
     "PoC": "https://github.com/wudipjq/my_vuln/blob/main/D-Link5/vuln_54/54.md"
+  },
+  {
+    "CVE": "CVE-2025-56301",
+    "PoC": "https://lf-riscv.atlassian.net/wiki/spaces/HOME/pages/16154769/RISC-V+Technical+Specifications#ISA-Specifications"
   },
   {
     "CVE": "CVE-2025-5631",
@@ -553900,6 +554044,10 @@
     "PoC": "https://www.tenable.com/security/research/tra-2026-37"
   },
   {
+    "CVE": "CVE-2026-1862",
+    "PoC": "https://issues.chromium.org/issues/479726070"
+  },
+  {
     "CVE": "CVE-2026-1867",
     "PoC": "https://wpscan.com/vulnerability/a78ebcd2-9355-4f4e-829e-b10867463576/"
   },
@@ -560085,11 +560233,19 @@
   },
   {
     "CVE": "CVE-2026-31431",
+    "PoC": "http://www.openwall.com/lists/oss-security/2026/05/08/13"
+  },
+  {
+    "CVE": "CVE-2026-31431",
     "PoC": "https://copy.fail"
   },
   {
     "CVE": "CVE-2026-31431",
     "PoC": "https://websec.net/blog/cve-2026-31431-linux-algifaead-page-cache-write-to-root-69f38a4ccddd2db1f520f170"
+  },
+  {
+    "CVE": "CVE-2026-31431",
+    "PoC": "https://www.kb.cert.org/vuls/id/260001"
   },
   {
     "CVE": "CVE-2026-31431",
@@ -562120,6 +562276,10 @@
     "PoC": "https://github.com/vasable/automatic-parakeet/issues/1"
   },
   {
+    "CVE": "CVE-2026-39816",
+    "PoC": "https://zeropath.com/blog/nifi-cve-2026-39816-privesc-rce"
+  },
+  {
     "CVE": "CVE-2026-3982",
     "PoC": "https://github.com/PIPIzzz1/aaa/issues/1"
   },
@@ -563528,6 +563688,10 @@
     "PoC": "https://gitlab.com/wireshark/wireshark/-/work_items/21207"
   },
   {
+    "CVE": "CVE-2026-7413",
+    "PoC": "https://takeonme.org/cves/cve-2026-7413/"
+  },
+  {
     "CVE": "CVE-2026-7782",
     "PoC": "https://bytium.com/insights/perfex-crm-3-4-1-cross-tenant-broken-access-control-on-project-discussion-comments"
   },
@@ -563542,5 +563706,25 @@
   {
     "CVE": "CVE-2026-8032",
     "PoC": "https://docs.google.com/document/d/1w1veNs8I3nxsVxbSiIgJmt-4S5a0rW0bvjDvEe7iDr0/edit?usp=sharing"
+  },
+  {
+    "CVE": "CVE-2026-8076",
+    "PoC": "https://labs.itresit.es/2026/05/07/cashdro-vulnerabilities-from-pentest-to-stealing-money/"
+  },
+  {
+    "CVE": "CVE-2026-8077",
+    "PoC": "https://labs.itresit.es/2026/05/07/cashdro-vulnerabilities-from-pentest-to-stealing-money/"
+  },
+  {
+    "CVE": "CVE-2026-8207",
+    "PoC": "https://projectblack.io/blog/gibbon-v30-authenticated-sql-injection-and-rce/#sql-injectiongetting-warmed-up"
+  },
+  {
+    "CVE": "CVE-2026-8208",
+    "PoC": "https://projectblack.io/blog/gibbon-v30-authenticated-sql-injection-and-rce/#local-file-inclusionthe-next-shiny-new-thing"
+  },
+  {
+    "CVE": "CVE-2026-8209",
+    "PoC": "https://projectblack.io/blog/gibbon-v30-authenticated-sql-injection-and-rce/#denial-of-service-via-path-traversal"
   }
 ]
