@@ -307892,6 +307892,10 @@
     "PoC": "https://github.com/rockcarry/ffjpeg/issues/26"
   },
   {
+    "CVE": "CVE-2020-15471",
+    "PoC": "https://github.com/fuzzing2026/CVE-PoCs/tree/main/ndpi-CVE-2020-15471"
+  },
+  {
     "CVE": "CVE-2020-15473",
     "PoC": "https://github.com/fuzzing2026/CVE-PoCs/tree/main/ndpi-CVE-2020-15473"
   },
@@ -505032,6 +505036,10 @@
     "PoC": "https://wpscan.com/vulnerability/176f329b-a861-4ab0-ad1d-02f750f9b691/"
   },
   {
+    "CVE": "CVE-2025-0700",
+    "PoC": "https://vuldb.com/?submit.480838"
+  },
+  {
     "CVE": "CVE-2025-0709",
     "PoC": "https://vuldb.com/?id.293237"
   },
@@ -514720,6 +514728,14 @@
     "PoC": "https://vuldb.com/?submit.729357"
   },
   {
+    "CVE": "CVE-2025-15539",
+    "PoC": "https://github.com/open5gs/open5gs/issues/4230"
+  },
+  {
+    "CVE": "CVE-2025-15539",
+    "PoC": "https://github.com/open5gs/open5gs/issues/4230#issue-3774173079"
+  },
+  {
     "CVE": "CVE-2025-15545",
     "PoC": "https://nico-security.com/posts/cve-2025-15545"
   },
@@ -514830,6 +514846,10 @@
   {
     "CVE": "CVE-2025-15612",
     "PoC": "https://github.com/wazuh/wazuh/security/advisories/GHSA-wvg9-7q49-c7mg"
+  },
+  {
+    "CVE": "CVE-2025-15615",
+    "PoC": "https://github.com/wazuh/wazuh/security/advisories/GHSA-rr83-v9v7-jjhp"
   },
   {
     "CVE": "CVE-2025-15616",
@@ -540308,6 +540328,10 @@
     "PoC": "https://github.com/assimp/assimp/issues/6219#issuecomment-2945016005"
   },
   {
+    "CVE": "CVE-2025-61190",
+    "PoC": "https://gist.github.com/MerttTuran/9cf7de549749fe3ef7ce08d65e3540bd"
+  },
+  {
     "CVE": "CVE-2025-6120",
     "PoC": "https://github.com/assimp/assimp/issues/6220"
   },
@@ -543741,6 +543765,10 @@
   },
   {
     "CVE": "CVE-2025-65881",
+    "PoC": "https://gist.github.com/MMAKINGDOM/17b85a6e077f08134ee96850f162ed8f"
+  },
+  {
+    "CVE": "CVE-2025-65881",
     "PoC": "https://github.com/MMAKINGDOM/CVE-2025-65881/"
   },
   {
@@ -545020,6 +545048,10 @@
     "PoC": "https://github.com/ez-lbz/poc/issues/16"
   },
   {
+    "CVE": "CVE-2025-68463",
+    "PoC": "http://www.openwall.com/lists/oss-security/2026/05/08/16"
+  },
+  {
     "CVE": "CVE-2025-6847",
     "PoC": "https://github.com/ez-lbz/poc/issues/17"
   },
@@ -545464,6 +545496,10 @@
     "PoC": "https://www.gendigital.com/us/en/contact-us/security-advisories/"
   },
   {
+    "CVE": "CVE-2025-70091",
+    "PoC": "https://github.com/hungnqdz/cve-research/blob/main/CVE-2025-70091.md"
+  },
+  {
     "CVE": "CVE-2025-70092",
     "PoC": "https://github.com/hungnqdz/cve-research/blob/main/CVE-2025-70092.md"
   },
@@ -545532,12 +545568,20 @@
     "PoC": "https://github.com/akuma-QAQ/CVEreport/tree/main/D-link/CVE-2025-70221"
   },
   {
+    "CVE": "CVE-2025-70227",
+    "PoC": "https://github.com/akuma-QAQ/CVEreport/tree/main/D-link/CVE-2025-70227"
+  },
+  {
     "CVE": "CVE-2025-70233",
     "PoC": "https://github.com/akuma-QAQ/CVEreport/tree/main/D-link/CVE-2025-70233"
   },
   {
     "CVE": "CVE-2025-70236",
     "PoC": "https://github.com/akuma-QAQ/CVEreport/tree/main/D-link/CVE-2025-70236"
+  },
+  {
+    "CVE": "CVE-2025-70242",
+    "PoC": "https://github.com/akuma-QAQ/CVEreport/tree/main/D-link/CVE-2025-70242"
   },
   {
     "CVE": "CVE-2025-70243",
@@ -545696,6 +545740,10 @@
     "PoC": "https://github.com/efekaanakkar/Cyber-Cafe-Management-System-CVEs/tree/main/CVE-2025-70891"
   },
   {
+    "CVE": "CVE-2025-70899",
+    "PoC": "https://github.com/mathavamoorthi/CVE-2025-70899/blob/main/Missing_CSRF_protection_poc.md"
+  },
+  {
     "CVE": "CVE-2025-7090",
     "PoC": "https://github.com/wudipjq/my_vuln/blob/main/Belkin/vuln_10/10.md"
   },
@@ -545778,6 +545826,10 @@
   {
     "CVE": "CVE-2025-7097",
     "PoC": "https://drive.google.com/file/d/1qnWarYsTSc5_sV6o8ULv0LBvGfKKXPxn/view?usp=sharing"
+  },
+  {
+    "CVE": "CVE-2025-70973",
+    "PoC": "https://github.com/chiranjib2001/ScadaBR/blob/main/README.md"
   },
   {
     "CVE": "CVE-2025-7098",
@@ -547920,6 +547972,10 @@
     "PoC": "https://github.com/enigma522/cve/issues/2"
   },
   {
+    "CVE": "CVE-2025-8168",
+    "PoC": "https://github.com/InfiniteLin/Lin-s-CVEdb/blob/main/DIR-513/formSetWanL2TP.md"
+  },
+  {
     "CVE": "CVE-2025-8169",
     "PoC": "https://github.com/InfiniteLin/Lin-s-CVEdb/blob/main/DIR-513/formSetWanPPPoE.md"
   },
@@ -547966,6 +548022,10 @@
   {
     "CVE": "CVE-2025-8182",
     "PoC": "https://vuldb.com/?id.317596"
+  },
+  {
+    "CVE": "CVE-2025-8184",
+    "PoC": "https://github.com/InfiniteLin/Lin-s-CVEdb/blob/main/DIR-513/formSetWanPPTP.md"
   },
   {
     "CVE": "CVE-2025-8185",
@@ -549114,6 +549174,10 @@
   {
     "CVE": "CVE-2025-8790",
     "PoC": "https://github.com/CVE-Hunters/CVE/blob/main/i-educar/CVE-2025-8790.md"
+  },
+  {
+    "CVE": "CVE-2025-8791",
+    "PoC": "https://github.com/MaiqueSilva/VulnDB/blob/main/readmi1.md"
   },
   {
     "CVE": "CVE-2025-8792",
@@ -560840,6 +560904,10 @@
     "PoC": "https://github.com/dataease/SQLBot/security/advisories/GHSA-wqj3-xcxf-j9m9"
   },
   {
+    "CVE": "CVE-2026-32983",
+    "PoC": "https://github.com/wazuh/wazuh/security/advisories/GHSA-rr83-v9v7-jjhp"
+  },
+  {
     "CVE": "CVE-2026-33006",
     "PoC": "http://www.openwall.com/lists/oss-security/2026/05/04/21"
   },
@@ -563020,6 +563088,10 @@
     "PoC": "https://github.com/ltranquility/cve_submit/issues/12"
   },
   {
+    "CVE": "CVE-2026-4233",
+    "PoC": "https://vuldb.com/?id.351156"
+  },
+  {
     "CVE": "CVE-2026-4235",
     "PoC": "https://github.com/yuji0903/silver-guide/issues/11"
   },
@@ -563166,6 +563238,14 @@
   {
     "CVE": "CVE-2026-4512",
     "PoC": "https://wpscan.com/vulnerability/6dfb4378-fe6a-4462-af10-8e7504e3d593/"
+  },
+  {
+    "CVE": "CVE-2026-45181",
+    "PoC": "https://blog.calif.io/p/using-ida-to-find-bugs-in-ida-with"
+  },
+  {
+    "CVE": "CVE-2026-45182",
+    "PoC": "https://lowlevel.fun/posts/tiny-udp-cannon-android-vpn-bypass/"
   },
   {
     "CVE": "CVE-2026-4533",
@@ -563676,6 +563756,10 @@
     "PoC": "https://wang1rrr.github.io/2026/03/04/CVE-Report-Typecho-v1-3-0-SSRF/"
   },
   {
+    "CVE": "CVE-2026-7270",
+    "PoC": "https://blog.calif.io/p/cve-2026-7270-how-i-get-root-on-freebsd"
+  },
+  {
     "CVE": "CVE-2026-7375",
     "PoC": "https://gitlab.com/wireshark/wireshark/-/work_items/21225"
   },
@@ -563686,6 +563770,10 @@
   {
     "CVE": "CVE-2026-7378",
     "PoC": "https://gitlab.com/wireshark/wireshark/-/work_items/21207"
+  },
+  {
+    "CVE": "CVE-2026-7379",
+    "PoC": "https://gitlab.com/wireshark/wireshark/-/work_items/21214"
   },
   {
     "CVE": "CVE-2026-7413",
