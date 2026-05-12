@@ -121100,6 +121100,10 @@
     "PoC": "http://www.csnc.ch/misc/files/advisories/CVE-2014-1237_i-doit_Cross-site_Scripting_-_XSS.txt"
   },
   {
+    "CVE": "CVE-2014-125008",
+    "PoC": "https://vuldb.com/?id.12582"
+  },
+  {
     "CVE": "CVE-2014-125012",
     "PoC": "https://vuldb.com/?id.12390"
   },
@@ -246268,6 +246272,10 @@
     "PoC": "https://kb.netgear.com/000055175/Security-Advisory-for-Post-Authentication-Stack-Overflow-on-Some-Routers-PSV-2017-2616"
   },
   {
+    "CVE": "CVE-2018-21184",
+    "PoC": "https://kb.netgear.com/000055174/Security-Advisory-for-Post-Authentication-Stack-Overflow-on-Some-Routers-and-Gateways-PSV-2017-2615"
+  },
+  {
     "CVE": "CVE-2018-21185",
     "PoC": "https://kb.netgear.com/000055173/Security-Advisory-for-Post-Authentication-Stack-Overflow-on-Some-Routers-and-Gateways-PSV-2017-2610"
   },
@@ -348636,6 +348644,10 @@
     "PoC": "https://www.libreoffice.org/about-us/security/advisories/cve-2021-25635/"
   },
   {
+    "CVE": "CVE-2021-25636",
+    "PoC": "https://www.libreoffice.org/about-us/security/advisories/CVE-2021-25636/"
+  },
+  {
     "CVE": "CVE-2021-25646",
     "PoC": "http://packetstormsecurity.com/files/162345/Apache-Druid-0.20.0-Remote-Command-Execution.html"
   },
@@ -377154,6 +377166,14 @@
   {
     "CVE": "CVE-2021-47921",
     "PoC": "https://www.vulnerability-lab.com/get_content.php?id=2271"
+  },
+  {
+    "CVE": "CVE-2021-47926",
+    "PoC": "https://www.exploit-db.com/exploits/50524"
+  },
+  {
+    "CVE": "CVE-2021-47950",
+    "PoC": "https://www.exploit-db.com/exploits/49875"
   },
   {
     "CVE": "CVE-2022-0001",
@@ -420404,6 +420424,18 @@
     "PoC": "https://www.vulnerability-lab.com/get_content.php?id=2273"
   },
   {
+    "CVE": "CVE-2022-50943",
+    "PoC": "https://www.exploit-db.com/exploits/51115"
+  },
+  {
+    "CVE": "CVE-2022-50945",
+    "PoC": "https://www.exploit-db.com/exploits/51021"
+  },
+  {
+    "CVE": "CVE-2022-50949",
+    "PoC": "https://www.exploit-db.com/exploits/50874"
+  },
+  {
     "CVE": "CVE-2022-50950",
     "PoC": "https://www.vulnerability-lab.com/get_content.php?id=2320"
   },
@@ -420414,6 +420446,50 @@
   {
     "CVE": "CVE-2022-50952",
     "PoC": "https://www.vulnerability-lab.com/get_content.php?id=2315"
+  },
+  {
+    "CVE": "CVE-2022-50956",
+    "PoC": "https://www.exploit-db.com/exploits/50838"
+  },
+  {
+    "CVE": "CVE-2022-50959",
+    "PoC": "https://www.exploit-db.com/exploits/50734"
+  },
+  {
+    "CVE": "CVE-2022-50960",
+    "PoC": "https://www.exploit-db.com/exploits/50719"
+  },
+  {
+    "CVE": "CVE-2022-50962",
+    "PoC": "https://www.exploit-db.com/exploits/50693"
+  },
+  {
+    "CVE": "CVE-2022-50963",
+    "PoC": "https://www.exploit-db.com/exploits/50693"
+  },
+  {
+    "CVE": "CVE-2022-50964",
+    "PoC": "https://www.exploit-db.com/exploits/50693"
+  },
+  {
+    "CVE": "CVE-2022-50965",
+    "PoC": "https://www.exploit-db.com/exploits/50693"
+  },
+  {
+    "CVE": "CVE-2022-50966",
+    "PoC": "https://www.exploit-db.com/exploits/50693"
+  },
+  {
+    "CVE": "CVE-2022-50967",
+    "PoC": "https://www.exploit-db.com/exploits/50693"
+  },
+  {
+    "CVE": "CVE-2022-50968",
+    "PoC": "https://www.exploit-db.com/exploits/50693"
+  },
+  {
+    "CVE": "CVE-2022-50969",
+    "PoC": "https://www.exploit-db.com/exploits/50693"
   },
   {
     "CVE": "CVE-2022-50975",
@@ -446940,6 +447016,10 @@
     "PoC": "https://gist.github.com/RNPG/be2ca92cb1f943d4c340c75fbfc9b783"
   },
   {
+    "CVE": "CVE-2023-41471",
+    "PoC": "https://github.com/Trinity-SYT-SECURITY/XSS_vuln_issue/blob/main/copyparty.md"
+  },
+  {
     "CVE": "CVE-2023-4148",
     "PoC": "https://wpscan.com/vulnerability/aa39de78-55b3-4237-84db-6fdf6820c58d"
   },
@@ -446962,6 +447042,10 @@
   {
     "CVE": "CVE-2023-41519",
     "PoC": "https://gist.github.com/celbahraoui/412085648b1e8131aee9456e15177524"
+  },
+  {
+    "CVE": "CVE-2023-41537",
+    "PoC": "https://github.com/nu11secur1ty/CVE-nu11secur1ty/tree/main/vendors/phpjabbers/2023/Business-Directory-Script-Version-3.2"
   },
   {
     "CVE": "CVE-2023-4157",
@@ -464108,6 +464192,14 @@
     "PoC": "https://www.tenable.com/security/research/tra-2025-01"
   },
   {
+    "CVE": "CVE-2024-11349",
+    "PoC": "https://themeforest.net/item/adforest-classified-wordpress-theme/19481695"
+  },
+  {
+    "CVE": "CVE-2024-11350",
+    "PoC": "https://themeforest.net/item/adforest-classified-wordpress-theme/19481695"
+  },
+  {
     "CVE": "CVE-2024-11356",
     "PoC": "https://wpscan.com/vulnerability/d70df54e-e99e-4539-9fd9-002c0642137e/"
   },
@@ -465724,6 +465816,14 @@
     "PoC": "https://www.exploit-db.com/exploits/43055"
   },
   {
+    "CVE": "CVE-2024-12855",
+    "PoC": "https://themeforest.net/item/adforest-classified-wordpress-theme/19481695"
+  },
+  {
+    "CVE": "CVE-2024-12857",
+    "PoC": "https://themeforest.net/item/adforest-classified-wordpress-theme/19481695"
+  },
+  {
     "CVE": "CVE-2024-1286",
     "PoC": "https://wpscan.com/vulnerability/49dc9ca3-d0ef-4a75-8b51-307e3e44e91b/"
   },
@@ -466446,6 +466546,10 @@
   {
     "CVE": "CVE-2024-13133",
     "PoC": "https://vuldb.com/?id.290207"
+  },
+  {
+    "CVE": "CVE-2024-13137",
+    "PoC": "https://vuldb.com/?ctiid.290211"
   },
   {
     "CVE": "CVE-2024-13140",
@@ -470274,6 +470378,10 @@
   {
     "CVE": "CVE-2024-22422",
     "PoC": "https://github.com/Mintplex-Labs/anything-llm/security/advisories/GHSA-xmj6-g32r-fc5q"
+  },
+  {
+    "CVE": "CVE-2024-22490",
+    "PoC": "https://github.com/cui2shark/security/blob/main/beetl-bbs%20-%20A%20reflected%20cross-site%20scripting%20%28XSS%29%20vulnerability%20was%20discovered%20in%20the%20search%20box.md"
   },
   {
     "CVE": "CVE-2024-22490",
@@ -474120,8 +474228,44 @@
     "PoC": "https://github.com/mpdf/mpdf/issues/867"
   },
   {
+    "CVE": "CVE-2024-26477",
+    "PoC": "https://github.com/Ev3rR3d/Statping_Poc"
+  },
+  {
+    "CVE": "CVE-2024-26477",
+    "PoC": "https://github.com/Ev3rR3d/Statping_Poc/tree/main/CVE-2024-26477"
+  },
+  {
+    "CVE": "CVE-2024-26478",
+    "PoC": "https://github.com/Ev3rR3d/Statping_Poc"
+  },
+  {
+    "CVE": "CVE-2024-26478",
+    "PoC": "https://github.com/Ev3rR3d/Statping_Poc/tree/main/CVE-2024-26478"
+  },
+  {
+    "CVE": "CVE-2024-26479",
+    "PoC": "https://github.com/Ev3rR3d/Statping_Poc"
+  },
+  {
+    "CVE": "CVE-2024-26479",
+    "PoC": "https://github.com/Ev3rR3d/Statping_Poc/tree/main/CVE-2024-26479"
+  },
+  {
+    "CVE": "CVE-2024-26480",
+    "PoC": "https://github.com/Ev3rR3d/Statping_Poc"
+  },
+  {
+    "CVE": "CVE-2024-26480",
+    "PoC": "https://github.com/Ev3rR3d/Statping_Poc/tree/main/CVE-2024-26480"
+  },
+  {
     "CVE": "CVE-2024-26489",
     "PoC": "https://github.com/2111715623/cms/blob/main/3.md"
+  },
+  {
+    "CVE": "CVE-2024-2649",
+    "PoC": "https://github.com/flyyue2001/cve/blob/main/NS-ASG-sql-deleteonlineuser.md"
   },
   {
     "CVE": "CVE-2024-26490",
@@ -490492,6 +490636,10 @@
     "PoC": "https://github.com/assimp/assimp/issues/5771"
   },
   {
+    "CVE": "CVE-2024-46636",
+    "PoC": "https://github.com/NU1L0/CVE-2024-46636-SQLi-MODAPS"
+  },
+  {
     "CVE": "CVE-2024-46639",
     "PoC": "https://github.com/0xashfaq/-HelpDeskZ-v2.0.2---Stored-Cross-Site-Scripting-XSS-"
   },
@@ -490542,6 +490690,10 @@
   {
     "CVE": "CVE-2024-46872",
     "PoC": "https://mattermost.com/security-updates"
+  },
+  {
+    "CVE": "CVE-2024-46878",
+    "PoC": "https://github.com/ColdFusionX/CVE-2024-46878-TikiCMS-XSS"
   },
   {
     "CVE": "CVE-2024-46879",
@@ -493433,6 +493585,10 @@
   },
   {
     "CVE": "CVE-2024-51092",
+    "PoC": "https://github.com/librenms/librenms/security/advisories/GHSA-x645-6pf9-xwxw"
+  },
+  {
+    "CVE": "CVE-2024-51092",
     "PoC": "https://raw.githubusercontent.com/rapid7/metasploit-framework/master/modules/exploits/linux/http/librenms_authenticated_rce_cve_2024_51092.rb"
   },
   {
@@ -493574,6 +493730,10 @@
   {
     "CVE": "CVE-2024-5122",
     "PoC": "https://vuldb.com/?id.265202"
+  },
+  {
+    "CVE": "CVE-2024-51223",
+    "PoC": "https://github.com/Buckdray/vulnerability-research/tree/main/CVE-2024-51223"
   },
   {
     "CVE": "CVE-2024-51228",
@@ -511998,6 +512158,10 @@
   {
     "CVE": "CVE-2025-13758",
     "PoC": "https://devolutions.net/security/advisories/DEVO-2025-0018/"
+  },
+  {
+    "CVE": "CVE-2025-13763",
+    "PoC": "https://github.com/OpenSC/OpenSC/security/advisories/GHSA-2v44-fq35-98vv"
   },
   {
     "CVE": "CVE-2025-13765",
@@ -542600,8 +542764,16 @@
     "PoC": "https://www.openoffice.org/security/cves/CVE-2025-64405.html"
   },
   {
+    "CVE": "CVE-2025-64422",
+    "PoC": "https://github.com/coollabsio/coolify/security/advisories/GHSA-688j-rm43-5r8x"
+  },
+  {
     "CVE": "CVE-2025-64424",
     "PoC": "https://github.com/coollabsio/coolify/security/advisories/GHSA-qx24-jhwj-8w6x"
+  },
+  {
+    "CVE": "CVE-2025-64425",
+    "PoC": "https://github.com/coollabsio/coolify/security/advisories/GHSA-f737-2p93-g2cw"
   },
   {
     "CVE": "CVE-2025-64428",
@@ -544890,6 +545062,10 @@
   {
     "CVE": "CVE-2025-67876",
     "PoC": "https://github.com/ChurchCRM/CRM/security/advisories/GHSA-j9gv-26c7-3qrh"
+  },
+  {
+    "CVE": "CVE-2025-67886",
+    "PoC": "https://karmainsecurity.com/pocs/CVE-2025-67886.php"
   },
   {
     "CVE": "CVE-2025-67887",
@@ -548380,6 +548556,10 @@
     "PoC": "https://horizon3.ai/attack-research/attack-blogs/from-support-ticket-to-zero-day/"
   },
   {
+    "CVE": "CVE-2025-8359",
+    "PoC": "https://themeforest.net/item/adforest-classified-wordpress-theme/19481695"
+  },
+  {
     "CVE": "CVE-2025-8364",
     "PoC": "https://bugzilla.mozilla.org/show_bug.cgi?id=1909609"
   },
@@ -549128,6 +549308,10 @@
     "PoC": "https://hkohi.ca/vulnerability/19"
   },
   {
+    "CVE": "CVE-2025-8773",
+    "PoC": "https://github.com/qiantx/cve/blob/main/cve6.md"
+  },
+  {
     "CVE": "CVE-2025-8784",
     "PoC": "https://github.com/marcelomulder/CVE/blob/main/i-educar/CVE-2025-8784.md"
   },
@@ -549766,6 +549950,10 @@
   {
     "CVE": "CVE-2025-8955",
     "PoC": "https://github.com/LitBot123/mycve/issues/3"
+  },
+  {
+    "CVE": "CVE-2025-8956",
+    "PoC": "https://github.com/LonTan0/CVE/blob/main/Remote%20Arbitrary%20Command%20Execution%20Vulnerability%20in%20ssdpcgi%20of%20D-Link%20DIR%E2%80%91818L.md"
   },
   {
     "CVE": "CVE-2025-8958",
@@ -553970,6 +554158,10 @@
   {
     "CVE": "CVE-2026-1710",
     "PoC": "https://research.cleantalk.org/cve-2026-1710/"
+  },
+  {
+    "CVE": "CVE-2026-1729",
+    "PoC": "https://themeforest.net/item/adforest-classified-wordpress-theme/19481695"
   },
   {
     "CVE": "CVE-2026-1731",
@@ -559021,6 +559213,10 @@
   },
   {
     "CVE": "CVE-2026-2952",
+    "PoC": "https://github.com/CVE-Hunter-Leo/CVE/issues/10"
+  },
+  {
+    "CVE": "CVE-2026-2952",
     "PoC": "https://vuldb.com/?id.347318"
   },
   {
@@ -563356,6 +563552,10 @@
     "PoC": "https://thinhneee.github.io/posts/muucmf-xss-extend/"
   },
   {
+    "CVE": "CVE-2026-4850",
+    "PoC": "https://vuldb.com/?submit.776184"
+  },
+  {
     "CVE": "CVE-2026-4851",
     "PoC": "http://www.openwall.com/lists/oss-security/2026/03/26/6"
   },
@@ -563648,6 +563848,10 @@
     "PoC": "https://github.com/fastify/middie/security/advisories/GHSA-cxrg-g7r8-w69p"
   },
   {
+    "CVE": "CVE-2026-6433",
+    "PoC": "https://wpscan.com/vulnerability/a0b1c059-e156-4402-ac8d-67f8ad7386cc/"
+  },
+  {
     "CVE": "CVE-2026-6507",
     "PoC": "https://bugzilla.redhat.com/show_bug.cgi?id=2459181"
   },
@@ -563760,6 +563964,10 @@
     "PoC": "https://blog.calif.io/p/cve-2026-7270-how-i-get-root-on-freebsd"
   },
   {
+    "CVE": "CVE-2026-7270",
+    "PoC": "https://news.ycombinator.com/item?id=48077971"
+  },
+  {
     "CVE": "CVE-2026-7375",
     "PoC": "https://gitlab.com/wireshark/wireshark/-/work_items/21225"
   },
@@ -563814,5 +564022,9 @@
   {
     "CVE": "CVE-2026-8209",
     "PoC": "https://projectblack.io/blog/gibbon-v30-authenticated-sql-injection-and-rce/#denial-of-service-via-path-traversal"
+  },
+  {
+    "CVE": "CVE-2026-8263",
+    "PoC": "https://github.com/yaoyue123/iot/blob/main/Tenda/AC10U/fromSetWirelessRepeat.md"
   }
 ]
