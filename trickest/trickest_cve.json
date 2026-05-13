@@ -246092,6 +246092,10 @@
     "PoC": "https://kb.netgear.com/000060450/Security-Advisory-for-Post-Authentication-Command-Injection-on-R7800-PSV-2018-0382"
   },
   {
+    "CVE": "CVE-2018-21101",
+    "PoC": "https://kb.netgear.com/000060449/Security-Advisory-for-Post-Authentication-Command-Injection-on-R7800-PSV-2018-0380"
+  },
+  {
     "CVE": "CVE-2018-21102",
     "PoC": "https://kb.netgear.com/000060454/Security-Advisory-for-Cross-Site-Request-Forgery-on-ReadyNAS-OS-6-PSV-2018-0373"
   },
@@ -318928,6 +318932,10 @@
     "PoC": "https://www.dlink.com/en/security-bulletin/"
   },
   {
+    "CVE": "CVE-2020-27602",
+    "PoC": "https://github.com/bigbluebutton/bigbluebutton/commit/4bfd924c64da2681f4c037026021f47eb189d717"
+  },
+  {
     "CVE": "CVE-2020-2761",
     "PoC": "https://www.oracle.com/security-alerts/cpuapr2020.html"
   },
@@ -377120,6 +377128,10 @@
     "PoC": "https://www.exploit-db.com/exploits/49492"
   },
   {
+    "CVE": "CVE-2021-47907",
+    "PoC": "https://www.exploit-db.com/exploits/50677"
+  },
+  {
     "CVE": "CVE-2021-47908",
     "PoC": "https://www.vulnerability-lab.com/get_content.php?id=2296"
   },
@@ -377168,8 +377180,32 @@
     "PoC": "https://www.vulnerability-lab.com/get_content.php?id=2271"
   },
   {
+    "CVE": "CVE-2021-47922",
+    "PoC": "https://www.exploit-db.com/exploits/50563"
+  },
+  {
     "CVE": "CVE-2021-47926",
     "PoC": "https://www.exploit-db.com/exploits/50524"
+  },
+  {
+    "CVE": "CVE-2021-47932",
+    "PoC": "https://www.exploit-db.com/exploits/50378"
+  },
+  {
+    "CVE": "CVE-2021-47933",
+    "PoC": "https://www.exploit-db.com/exploits/50379"
+  },
+  {
+    "CVE": "CVE-2021-47941",
+    "PoC": "https://www.exploit-db.com/exploits/50269"
+  },
+  {
+    "CVE": "CVE-2021-47943",
+    "PoC": "https://www.exploit-db.com/exploits/50415"
+  },
+  {
+    "CVE": "CVE-2021-47945",
+    "PoC": "https://www.exploit-db.com/exploits/50261"
   },
   {
     "CVE": "CVE-2021-47950",
@@ -420450,6 +420486,10 @@
   {
     "CVE": "CVE-2022-50956",
     "PoC": "https://www.exploit-db.com/exploits/50838"
+  },
+  {
+    "CVE": "CVE-2022-50958",
+    "PoC": "https://www.exploit-db.com/exploits/50735"
   },
   {
     "CVE": "CVE-2022-50959",
@@ -497668,6 +497708,10 @@
     "PoC": "https://github.com/CveSecLook/cve/issues/44"
   },
   {
+    "CVE": "CVE-2024-57757",
+    "PoC": "https://gitee.com/erzhongxmu/JEEWMS/issues/IBFKBM"
+  },
+  {
     "CVE": "CVE-2024-57760",
     "PoC": "https://gitee.com/erzhongxmu/JEEWMS/issues/IBFTVK"
   },
@@ -504878,6 +504922,10 @@
   {
     "CVE": "CVE-2025-0368",
     "PoC": "https://wpscan.com/vulnerability/6a4f7097-082b-4375-9582-945928d765b8/"
+  },
+  {
+    "CVE": "CVE-2025-0390",
+    "PoC": "https://gitee.com/erzhongxmu/JEEWMS/issues/IBFKBM"
   },
   {
     "CVE": "CVE-2025-0391",
@@ -543132,6 +543180,10 @@
     "PoC": "https://github.com/vstakhov/libucl/issues/319"
   },
   {
+    "CVE": "CVE-2025-64999",
+    "PoC": "https://github.com/sbaresearch/advisories/tree/e72ce9bb6b9ffffc1fc35e4d8152ad153293c851/2025/SBA-ADV-20251118-01_Checkmk_Cross_Site_Scripting"
+  },
+  {
     "CVE": "CVE-2025-6500",
     "PoC": "https://github.com/mex135605/cve/issues/3"
   },
@@ -550662,6 +550714,10 @@
   {
     "CVE": "CVE-2025-9216",
     "PoC": "https://ryankozak.com/posts/cve-2025-9216/"
+  },
+  {
+    "CVE": "CVE-2025-9231",
+    "PoC": "http://www.openwall.com/lists/oss-security/2026/05/11/11"
   },
   {
     "CVE": "CVE-2025-9233",
@@ -559180,6 +559236,10 @@
     "PoC": "https://github.com/LX-66-LX/cve-new/issues/20"
   },
   {
+    "CVE": "CVE-2026-2925",
+    "PoC": "https://vuldb.com/?ctiid.347272"
+  },
+  {
     "CVE": "CVE-2026-2926",
     "PoC": "https://github.com/LX-66-LX/cve-new/issues/21"
   },
@@ -561428,6 +561488,10 @@
     "PoC": "http://seclists.org/fulldisclosure/2026/Apr/16"
   },
   {
+    "CVE": "CVE-2026-34408",
+    "PoC": "https://herolab.usd.de/security-advisories/usd-2024-0002/"
+  },
+  {
     "CVE": "CVE-2026-34413",
     "PoC": "https://github.com/thexerteproject/xerteonlinetoolkits/issues/1527"
   },
@@ -561596,6 +561660,10 @@
     "PoC": "https://github.com/Ettercap/ettercap/issues/1297"
   },
   {
+    "CVE": "CVE-2026-3609",
+    "PoC": "https://blacksnufkin.github.io/posts/AntiCheat-LPE-CVE-2026-3609/"
+  },
+  {
     "CVE": "CVE-2026-3613",
     "PoC": "https://github.com/Wlz1112/WAVLINK-NU516-V240425/blob/main/ipaddr_Stack%20Buffer%20Overflow.md"
   },
@@ -561614,6 +561682,10 @@
   {
     "CVE": "CVE-2026-3634",
     "PoC": "https://bugzilla.redhat.com/show_bug.cgi?id=2445129"
+  },
+  {
+    "CVE": "CVE-2026-36341",
+    "PoC": "https://cyber.spool.co.jp/vulnerabilities/cve-2026-36341/"
   },
   {
     "CVE": "CVE-2026-3638",
@@ -561714,6 +561786,10 @@
   {
     "CVE": "CVE-2026-3696",
     "PoC": "https://github.com/JXBbozaihuang/vuln-research/issues/2"
+  },
+  {
+    "CVE": "CVE-2026-36962",
+    "PoC": "https://thinhneee.github.io/posts/muucmf-sqli/"
   },
   {
     "CVE": "CVE-2026-3698",
@@ -563520,6 +563596,10 @@
     "PoC": "https://security.snyk.io/vuln/SNYK-JS-JSRSASIGN-15371176"
   },
   {
+    "CVE": "CVE-2026-4802",
+    "PoC": "https://bugzilla.redhat.com/show_bug.cgi?id=2451155"
+  },
+  {
     "CVE": "CVE-2026-4828",
     "PoC": "https://devolutions.net/security/advisories/DEVO-2026-0010"
   },
@@ -563808,6 +563888,10 @@
     "PoC": "https://github.com/sanluan/PublicCMS/issues/113"
   },
   {
+    "CVE": "CVE-2026-6007",
+    "PoC": "https://vuldb.com/submit/794604"
+  },
+  {
     "CVE": "CVE-2026-6029",
     "PoC": "https://vuldb.com/submit/792050"
   },
@@ -563816,12 +563900,24 @@
     "PoC": "https://portal.perforce.com/s/cve/a91Qi000002wRUvIAM/insecure-default-configuration-in-p4-server"
   },
   {
+    "CVE": "CVE-2026-6093",
+    "PoC": "https://fluidattacks.com/es/advisories/motley"
+  },
+  {
     "CVE": "CVE-2026-6106",
     "PoC": "https://github.com/AnalogyC0de/public_exp/issues/23"
   },
   {
     "CVE": "CVE-2026-6107",
     "PoC": "https://github.com/AnalogyC0de/public_exp/issues/24"
+  },
+  {
+    "CVE": "CVE-2026-6124",
+    "PoC": "https://vuldb.com/vuln/356987"
+  },
+  {
+    "CVE": "CVE-2026-6124",
+    "PoC": "https://vuldb.com/vuln/356987/cti"
   },
   {
     "CVE": "CVE-2026-6135",
@@ -564022,6 +564118,34 @@
   {
     "CVE": "CVE-2026-8209",
     "PoC": "https://projectblack.io/blog/gibbon-v30-authenticated-sql-injection-and-rce/#denial-of-service-via-path-traversal"
+  },
+  {
+    "CVE": "CVE-2026-8214",
+    "PoC": "https://hawktrace.com/blog/caniaserp/"
+  },
+  {
+    "CVE": "CVE-2026-8215",
+    "PoC": "https://hawktrace.com/blog/caniaserp/"
+  },
+  {
+    "CVE": "CVE-2026-8216",
+    "PoC": "https://hawktrace.com/blog/caniaserp"
+  },
+  {
+    "CVE": "CVE-2026-8217",
+    "PoC": "https://hawktrace.com/blog/caniaserp"
+  },
+  {
+    "CVE": "CVE-2026-8217",
+    "PoC": "https://hawktrace.com/blog/caniaserp/"
+  },
+  {
+    "CVE": "CVE-2026-8241",
+    "PoC": "https://hawktrace.com/blog/caniaserp"
+  },
+  {
+    "CVE": "CVE-2026-8242",
+    "PoC": "https://hawktrace.com/blog/caniaserp"
   },
   {
     "CVE": "CVE-2026-8263",
