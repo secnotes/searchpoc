@@ -6176,6 +6176,10 @@
     "PoC": "http://seclists.org/lists/fulldisclosure/2004/Sep/0660.html"
   },
   {
+    "CVE": "CVE-2004-2197",
+    "PoC": "http://cvs.sourceforge.net/viewcvs.py/kdocker/kdocker/src/kdocker.cpp?r1=1.10&r2=1.11&sortby=log"
+  },
+  {
     "CVE": "CVE-2004-2229",
     "PoC": "http://otn.oracle.com/deploy/security/pdf/2004alert63.pdf"
   },
@@ -56058,6 +56062,10 @@
   {
     "CVE": "CVE-2008-4319",
     "PoC": "https://www.exploit-db.com/exploits/6567"
+  },
+  {
+    "CVE": "CVE-2008-4320",
+    "PoC": "http://www.opennms.org/documentation/ReleaseNotesUnStable.html#d788e257"
   },
   {
     "CVE": "CVE-2008-4321",
@@ -261732,6 +261740,10 @@
     "PoC": "https://www.talosintelligence.com/vulnerability_reports/TALOS-2019-0783"
   },
   {
+    "CVE": "CVE-2019-10310",
+    "PoC": "https://www.talosintelligence.com/vulnerability_reports/TALOS-2019-0786"
+  },
+  {
     "CVE": "CVE-2019-10320",
     "PoC": "http://seclists.org/fulldisclosure/2019/May/39"
   },
@@ -267562,6 +267574,10 @@
   {
     "CVE": "CVE-2019-13182",
     "PoC": "http://seclists.org/fulldisclosure/2019/Dec/32"
+  },
+  {
+    "CVE": "CVE-2019-13182",
+    "PoC": "https://www.themissinglink.com.au/security-advisories-cve-2019-13182"
   },
   {
     "CVE": "CVE-2019-13183",
@@ -350884,6 +350900,10 @@
     "PoC": "https://github.com/OS4ED/openSIS-Classic/releases"
   },
   {
+    "CVE": "CVE-2021-27342",
+    "PoC": "https://blog.whtaguy.com/2021/05/d-link-router-cve-2021-27342.html"
+  },
+  {
     "CVE": "CVE-2021-27345",
     "PoC": "https://github.com/ckolivas/lrzip/issues/164"
   },
@@ -363660,6 +363680,10 @@
     "PoC": "https://cdn.kernel.org/pub/linux/kernel/v5.x/ChangeLog-5.13.4"
   },
   {
+    "CVE": "CVE-2021-38202",
+    "PoC": "https://cert-portal.siemens.com/productcert/html/ssa-265688.html"
+  },
+  {
     "CVE": "CVE-2021-38203",
     "PoC": "https://cdn.kernel.org/pub/linux/kernel/v5.x/ChangeLog-5.13.4"
   },
@@ -366546,6 +366570,10 @@
   {
     "CVE": "CVE-2021-4089",
     "PoC": "https://huntr.dev/bounties/19453ef1-4d77-4cff-b7e8-1bc8f3af0862"
+  },
+  {
+    "CVE": "CVE-2021-4090",
+    "PoC": "https://cert-portal.siemens.com/productcert/html/ssa-265688.html"
   },
   {
     "CVE": "CVE-2021-40903",
@@ -376016,6 +376044,10 @@
     "PoC": "https://git.kernel.org/stable/c/96fa26b74cdcf9f5c98996bf36bec9fb5b19ffe2"
   },
   {
+    "CVE": "CVE-2021-47002",
+    "PoC": "https://cert-portal.siemens.com/productcert/html/ssa-265688.html"
+  },
+  {
     "CVE": "CVE-2021-47078",
     "PoC": "https://git.kernel.org/stable/c/67f29896fdc83298eed5a6576ff8f9873f709228"
   },
@@ -376024,8 +376056,16 @@
     "PoC": "https://git.kernel.org/stable/c/9ca1324755f1f8629a370af5cc315b175331f5d1"
   },
   {
+    "CVE": "CVE-2021-47107",
+    "PoC": "https://cert-portal.siemens.com/productcert/html/ssa-265688.html"
+  },
+  {
     "CVE": "CVE-2021-47269",
     "PoC": "https://git.kernel.org/stable/c/96b74a99d360235c24052f1d060e64ac53f43528"
+  },
+  {
+    "CVE": "CVE-2021-47316",
+    "PoC": "https://cert-portal.siemens.com/productcert/html/ssa-265688.html"
   },
   {
     "CVE": "CVE-2021-47353",
@@ -377186,6 +377226,10 @@
   {
     "CVE": "CVE-2021-47926",
     "PoC": "https://www.exploit-db.com/exploits/50524"
+  },
+  {
+    "CVE": "CVE-2021-47930",
+    "PoC": "https://www.exploit-db.com/exploits/50447"
   },
   {
     "CVE": "CVE-2021-47932",
@@ -406952,6 +406996,10 @@
     "PoC": "https://bugzilla.openanolis.cn/show_bug.cgi?id=2073"
   },
   {
+    "CVE": "CVE-2022-38096",
+    "PoC": "https://cert-portal.siemens.com/productcert/html/ssa-265688.html"
+  },
+  {
     "CVE": "CVE-2022-38097",
     "PoC": "https://talosintelligence.com/vulnerability_reports/TALOS-2022-1601"
   },
@@ -414441,6 +414489,10 @@
   },
   {
     "CVE": "CVE-2022-43945",
+    "PoC": "https://cert-portal.siemens.com/productcert/html/ssa-265688.html"
+  },
+  {
+    "CVE": "CVE-2022-43945",
     "PoC": "https://git.kernel.org/pub/scm/linux/kernel/git/torvalds/linux.git/commit/?id=f90497a16e434c2211c66e3de8e77b17868382b8"
   },
   {
@@ -419860,6 +419912,18 @@
     "PoC": "https://vuldb.com/?id.217664"
   },
   {
+    "CVE": "CVE-2022-48827",
+    "PoC": "https://cert-portal.siemens.com/productcert/html/ssa-265688.html"
+  },
+  {
+    "CVE": "CVE-2022-48828",
+    "PoC": "https://cert-portal.siemens.com/productcert/html/ssa-265688.html"
+  },
+  {
+    "CVE": "CVE-2022-48829",
+    "PoC": "https://cert-portal.siemens.com/productcert/html/ssa-265688.html"
+  },
+  {
     "CVE": "CVE-2022-4888",
     "PoC": "https://wpscan.com/vulnerability/2c2379d0-e373-4587-a747-429d7ee8f6cc"
   },
@@ -424274,6 +424338,10 @@
   {
     "CVE": "CVE-2023-1651",
     "PoC": "https://wpscan.com/vulnerability/c88b22ba-4fc2-49ad-a457-224157521bad"
+  },
+  {
+    "CVE": "CVE-2023-1652",
+    "PoC": "https://cert-portal.siemens.com/productcert/html/ssa-265688.html"
   },
   {
     "CVE": "CVE-2023-1654",
@@ -434500,6 +434568,10 @@
     "PoC": "https://www.talosintelligence.com/vulnerability_reports/TALOS-2023-1739"
   },
   {
+    "CVE": "CVE-2023-28746",
+    "PoC": "https://cert-portal.siemens.com/productcert/html/ssa-265688.html"
+  },
+  {
     "CVE": "CVE-2023-2875",
     "PoC": "https://drive.google.com/file/d/1fvlP0d9HmApjWhYDjgsdco7g7FPsbn0V/view?usp=sharing"
   },
@@ -444400,6 +444472,14 @@
     "PoC": "http://packetstormsecurity.com/files/177138/Metabase-0.46.6-Remote-Code-Execution.html"
   },
   {
+    "CVE": "CVE-2023-38652",
+    "PoC": "https://talosintelligence.com/vulnerability_reports/TALOS-2023-1815"
+  },
+  {
+    "CVE": "CVE-2023-38653",
+    "PoC": "https://talosintelligence.com/vulnerability_reports/TALOS-2023-1815"
+  },
+  {
     "CVE": "CVE-2023-38666",
     "PoC": "https://github.com/axiomatic-systems/Bento4/issues/784"
   },
@@ -451004,6 +451084,10 @@
     "PoC": "https://cdn.kernel.org/pub/linux/kernel/v6.x/ChangeLog-6.5.4"
   },
   {
+    "CVE": "CVE-2023-45898",
+    "PoC": "https://cert-portal.siemens.com/productcert/html/ssa-265688.html"
+  },
+  {
     "CVE": "CVE-2023-45911",
     "PoC": "https://github.com/Henkel-CyberVM/CVEs/tree/main/CVE-2023-45911"
   },
@@ -452090,6 +452174,10 @@
   {
     "CVE": "CVE-2023-4722",
     "PoC": "https://huntr.dev/bounties/ddfdb41d-e708-4fec-afe5-68ff1f88f830"
+  },
+  {
+    "CVE": "CVE-2023-47233",
+    "PoC": "https://cert-portal.siemens.com/productcert/html/ssa-265688.html"
   },
   {
     "CVE": "CVE-2023-4724",
@@ -455268,6 +455356,10 @@
     "PoC": "https://support.lenovo.com/us/en/product_security/LEN-141775"
   },
   {
+    "CVE": "CVE-2023-50781",
+    "PoC": "https://cert-portal.siemens.com/productcert/html/ssa-265688.html"
+  },
+  {
     "CVE": "CVE-2023-50803",
     "PoC": "https://semiconductor.samsung.com/support/quality-support/product-security-updates/"
   },
@@ -456688,12 +456780,20 @@
     "PoC": "https://huntr.dev/bounties/a3bd58ba-ca59-4cba-85d1-799f73a76470"
   },
   {
+    "CVE": "CVE-2023-52447",
+    "PoC": "https://cert-portal.siemens.com/productcert/html/ssa-265688.html"
+  },
+  {
     "CVE": "CVE-2023-5245",
     "PoC": "https://github.com/combust/mleap/pull/866#issuecomment-1738032225"
   },
   {
     "CVE": "CVE-2023-5245",
     "PoC": "https://research.jfrog.com/vulnerabilities/mleap-path-traversal-rce-xray-532656/"
+  },
+  {
+    "CVE": "CVE-2023-52458",
+    "PoC": "https://cert-portal.siemens.com/productcert/html/ssa-265688.html"
   },
   {
     "CVE": "CVE-2023-5249",
@@ -456728,8 +456828,16 @@
     "PoC": "https://github.com/csbsong/bug_report/blob/main/sql2.md"
   },
   {
+    "CVE": "CVE-2023-52614",
+    "PoC": "https://cert-portal.siemens.com/productcert/html/ssa-265688.html"
+  },
+  {
     "CVE": "CVE-2023-5262",
     "PoC": "https://vuldb.com/?id.240871"
+  },
+  {
+    "CVE": "CVE-2023-52620",
+    "PoC": "https://cert-portal.siemens.com/productcert/html/ssa-265688.html"
   },
   {
     "CVE": "CVE-2023-5264",
@@ -458268,6 +458376,14 @@
     "PoC": "https://wpscan.com/vulnerability/32a23d0d-7ece-4870-a99d-f3f344be2d67"
   },
   {
+    "CVE": "CVE-2023-5678",
+    "PoC": "https://cert-portal.siemens.com/productcert/html/ssa-265688.html"
+  },
+  {
+    "CVE": "CVE-2023-5678",
+    "PoC": "https://cert-portal.siemens.com/productcert/html/ssa-613116.html"
+  },
+  {
     "CVE": "CVE-2023-5681",
     "PoC": "https://github.com/Wsecpro/cve1/blob/main/NS-ASG-sql-list_addr_fwresource_ip.md"
   },
@@ -459044,6 +459160,14 @@
     "PoC": "https://kcm.trellix.com/corporate/index?page=content&id=SB10412"
   },
   {
+    "CVE": "CVE-2023-6121",
+    "PoC": "https://cert-portal.siemens.com/productcert/html/ssa-265688.html"
+  },
+  {
+    "CVE": "CVE-2023-6121",
+    "PoC": "https://cert-portal.siemens.com/productcert/html/ssa-613116.html"
+  },
+  {
     "CVE": "CVE-2023-6124",
     "PoC": "https://huntr.com/bounties/aed4d8f3-ab9a-42fd-afea-b3ec288a148e"
   },
@@ -459054,6 +459178,10 @@
   {
     "CVE": "CVE-2023-6127",
     "PoC": "https://huntr.com/bounties/bf10c72b-5d2e-4c9a-9bd6-d77bdf31027d"
+  },
+  {
+    "CVE": "CVE-2023-6129",
+    "PoC": "https://cert-portal.siemens.com/productcert/html/ssa-265688.html"
   },
   {
     "CVE": "CVE-2023-6132",
@@ -459230,6 +459358,10 @@
   {
     "CVE": "CVE-2023-6234",
     "PoC": "https://www.canon-europe.com/support/product-security-latest-news/"
+  },
+  {
+    "CVE": "CVE-2023-6237",
+    "PoC": "https://cert-portal.siemens.com/productcert/html/ssa-265688.html"
   },
   {
     "CVE": "CVE-2023-6241",
@@ -460052,6 +460184,10 @@
     "PoC": "http://www.openwall.com/lists/oss-security/2023/12/22/6"
   },
   {
+    "CVE": "CVE-2023-6817",
+    "PoC": "https://cert-portal.siemens.com/productcert/html/ssa-265688.html"
+  },
+  {
     "CVE": "CVE-2023-6821",
     "PoC": "https://wpscan.com/vulnerability/6b1a998d-c97c-4305-b12a-69e29408ebd9/"
   },
@@ -460208,8 +460344,24 @@
     "PoC": "https://www.cisa.gov/news-events/ics-advisories/icsa-23-353-05"
   },
   {
+    "CVE": "CVE-2023-6931",
+    "PoC": "https://cert-portal.siemens.com/productcert/html/ssa-265688.html"
+  },
+  {
+    "CVE": "CVE-2023-6931",
+    "PoC": "https://cert-portal.siemens.com/productcert/html/ssa-613116.html"
+  },
+  {
     "CVE": "CVE-2023-6932",
     "PoC": "http://packetstormsecurity.com/files/177029/Kernel-Live-Patch-Security-Notice-LSN-0100-1.html"
+  },
+  {
+    "CVE": "CVE-2023-6932",
+    "PoC": "https://cert-portal.siemens.com/productcert/html/ssa-265688.html"
+  },
+  {
+    "CVE": "CVE-2023-6932",
+    "PoC": "https://cert-portal.siemens.com/productcert/html/ssa-613116.html"
   },
   {
     "CVE": "CVE-2023-6941",
@@ -461910,6 +462062,10 @@
   {
     "CVE": "CVE-2024-0726",
     "PoC": "https://vuldb.com/?id.251549"
+  },
+  {
+    "CVE": "CVE-2024-0727",
+    "PoC": "https://cert-portal.siemens.com/productcert/html/ssa-265688.html"
   },
   {
     "CVE": "CVE-2024-0730",
@@ -470236,6 +470392,10 @@
     "PoC": "https://mattermost.com/security-updates"
   },
   {
+    "CVE": "CVE-2024-22099",
+    "PoC": "https://cert-portal.siemens.com/productcert/html/ssa-265688.html"
+  },
+  {
     "CVE": "CVE-2024-22102",
     "PoC": "https://www.mitsubishielectric.com/en/psirt/vulnerability/pdf/2024-001_en.pdf"
   },
@@ -471268,6 +471428,10 @@
     "PoC": "https://forums.couchbase.com/tags/security"
   },
   {
+    "CVE": "CVE-2024-23307",
+    "PoC": "https://cert-portal.siemens.com/productcert/html/ssa-265688.html"
+  },
+  {
     "CVE": "CVE-2024-23309",
     "PoC": "https://talosintelligence.com/vulnerability_reports/TALOS-2024-1996"
   },
@@ -471722,6 +471886,10 @@
   {
     "CVE": "CVE-2024-23837",
     "PoC": "https://redmine.openinfosecfoundation.org/issues/6444"
+  },
+  {
+    "CVE": "CVE-2024-23848",
+    "PoC": "https://cert-portal.siemens.com/productcert/html/ssa-265688.html"
   },
   {
     "CVE": "CVE-2024-23850",
@@ -472660,6 +472828,18 @@
     "PoC": "https://vuldb.com/?id.256892"
   },
   {
+    "CVE": "CVE-2024-24857",
+    "PoC": "https://cert-portal.siemens.com/productcert/html/ssa-265688.html"
+  },
+  {
+    "CVE": "CVE-2024-24858",
+    "PoC": "https://cert-portal.siemens.com/productcert/html/ssa-265688.html"
+  },
+  {
+    "CVE": "CVE-2024-24859",
+    "PoC": "https://cert-portal.siemens.com/productcert/html/ssa-265688.html"
+  },
+  {
     "CVE": "CVE-2024-2486",
     "PoC": "https://github.com/abcdefg-png/IoT-vulnerable/blob/main/Tenda/AC18/formQuickIndex.md"
   },
@@ -472822,6 +473002,14 @@
   {
     "CVE": "CVE-2024-25108",
     "PoC": "https://github.com/pixelfed/pixelfed/security/advisories/GHSA-gccq-h3xj-jgvf"
+  },
+  {
+    "CVE": "CVE-2024-2511",
+    "PoC": "https://cert-portal.siemens.com/productcert/html/ssa-265688.html"
+  },
+  {
+    "CVE": "CVE-2024-2511",
+    "PoC": "https://cert-portal.siemens.com/productcert/html/ssa-613116.html"
   },
   {
     "CVE": "CVE-2024-25117",
@@ -473804,6 +473992,10 @@
     "PoC": "http://packetstormsecurity.com/files/177083"
   },
   {
+    "CVE": "CVE-2024-25739",
+    "PoC": "https://cert-portal.siemens.com/productcert/html/ssa-265688.html"
+  },
+  {
     "CVE": "CVE-2024-2574",
     "PoC": "https://github.com/skid-nochizplz/skid-nochizplz/blob/main/TrashBin/CVE/SOURCECODESTER%20Employee%20Task%20Management%20System/IDOR%20-%20edit-task.php.md"
   },
@@ -474384,6 +474576,10 @@
     "PoC": "https://git.kernel.org/stable/c/491528935c9c48bf341d8b40eabc6c4fc5df6f2c"
   },
   {
+    "CVE": "CVE-2024-26629",
+    "PoC": "https://cert-portal.siemens.com/productcert/html/ssa-265688.html"
+  },
+  {
     "CVE": "CVE-2024-26631",
     "PoC": "https://git.kernel.org/stable/c/380540bb06bb1d1b12bdc947d1b8f56cda6b5663"
   },
@@ -474396,6 +474592,22 @@
     "PoC": "https://git.kernel.org/stable/c/da23bd709b46168f7dfc36055801011222b076cd"
   },
   {
+    "CVE": "CVE-2024-26642",
+    "PoC": "https://cert-portal.siemens.com/productcert/html/ssa-265688.html"
+  },
+  {
+    "CVE": "CVE-2024-26643",
+    "PoC": "https://cert-portal.siemens.com/productcert/html/ssa-265688.html"
+  },
+  {
+    "CVE": "CVE-2024-26651",
+    "PoC": "https://cert-portal.siemens.com/productcert/html/ssa-265688.html"
+  },
+  {
+    "CVE": "CVE-2024-26659",
+    "PoC": "https://cert-portal.siemens.com/productcert/html/ssa-265688.html"
+  },
+  {
     "CVE": "CVE-2024-2674",
     "PoC": "https://vuldb.com/?id.257374"
   },
@@ -474406,6 +474618,10 @@
   {
     "CVE": "CVE-2024-26773",
     "PoC": "https://git.kernel.org/stable/c/260fc96283c0f594de18a1b045faf6d8fb42874d"
+  },
+  {
+    "CVE": "CVE-2024-26787",
+    "PoC": "https://cert-portal.siemens.com/productcert/html/ssa-265688.html"
   },
   {
     "CVE": "CVE-2024-26798",
@@ -474432,28 +474648,132 @@
     "PoC": "https://git.kernel.org/stable/c/98fb98fd37e42fd4ce13ff657ea64503e24b6090"
   },
   {
+    "CVE": "CVE-2024-26810",
+    "PoC": "https://cert-portal.siemens.com/productcert/html/ssa-265688.html"
+  },
+  {
+    "CVE": "CVE-2024-26812",
+    "PoC": "https://cert-portal.siemens.com/productcert/html/ssa-265688.html"
+  },
+  {
+    "CVE": "CVE-2024-26816",
+    "PoC": "https://cert-portal.siemens.com/productcert/html/ssa-265688.html"
+  },
+  {
     "CVE": "CVE-2024-26817",
     "PoC": "https://git.kernel.org/stable/c/e6768c6737f4c02cba193a3339f0cc2907f0b86a"
+  },
+  {
+    "CVE": "CVE-2024-26820",
+    "PoC": "https://cert-portal.siemens.com/productcert/html/ssa-265688.html"
   },
   {
     "CVE": "CVE-2024-26840",
     "PoC": "https://git.kernel.org/stable/c/43eccc5823732ba6daab2511ed32dfc545a666d8"
   },
   {
+    "CVE": "CVE-2024-26851",
+    "PoC": "https://cert-portal.siemens.com/productcert/html/ssa-265688.html"
+  },
+  {
+    "CVE": "CVE-2024-26852",
+    "PoC": "https://cert-portal.siemens.com/productcert/html/ssa-265688.html"
+  },
+  {
+    "CVE": "CVE-2024-26855",
+    "PoC": "https://cert-portal.siemens.com/productcert/html/ssa-265688.html"
+  },
+  {
+    "CVE": "CVE-2024-26859",
+    "PoC": "https://cert-portal.siemens.com/productcert/html/ssa-265688.html"
+  },
+  {
     "CVE": "CVE-2024-2686",
     "PoC": "https://vuldb.com/?id.257386"
+  },
+  {
+    "CVE": "CVE-2024-26861",
+    "PoC": "https://cert-portal.siemens.com/productcert/html/ssa-265688.html"
   },
   {
     "CVE": "CVE-2024-26862",
     "PoC": "https://git.kernel.org/stable/c/ef7eed7e11d23337310ecc2c014ecaeea52719c5"
   },
   {
+    "CVE": "CVE-2024-26863",
+    "PoC": "https://cert-portal.siemens.com/productcert/html/ssa-265688.html"
+  },
+  {
+    "CVE": "CVE-2024-26870",
+    "PoC": "https://cert-portal.siemens.com/productcert/html/ssa-265688.html"
+  },
+  {
     "CVE": "CVE-2024-26870",
     "PoC": "https://git.kernel.org/stable/c/23bfecb4d852751d5e403557dd500bb563313baf"
   },
   {
+    "CVE": "CVE-2024-26872",
+    "PoC": "https://cert-portal.siemens.com/productcert/html/ssa-265688.html"
+  },
+  {
+    "CVE": "CVE-2024-26875",
+    "PoC": "https://cert-portal.siemens.com/productcert/html/ssa-265688.html"
+  },
+  {
+    "CVE": "CVE-2024-26877",
+    "PoC": "https://cert-portal.siemens.com/productcert/html/ssa-265688.html"
+  },
+  {
+    "CVE": "CVE-2024-26878",
+    "PoC": "https://cert-portal.siemens.com/productcert/html/ssa-265688.html"
+  },
+  {
+    "CVE": "CVE-2024-26880",
+    "PoC": "https://cert-portal.siemens.com/productcert/html/ssa-265688.html"
+  },
+  {
+    "CVE": "CVE-2024-26882",
+    "PoC": "https://cert-portal.siemens.com/productcert/html/ssa-265688.html"
+  },
+  {
+    "CVE": "CVE-2024-26883",
+    "PoC": "https://cert-portal.siemens.com/productcert/html/ssa-265688.html"
+  },
+  {
+    "CVE": "CVE-2024-26884",
+    "PoC": "https://cert-portal.siemens.com/productcert/html/ssa-265688.html"
+  },
+  {
+    "CVE": "CVE-2024-26885",
+    "PoC": "https://cert-portal.siemens.com/productcert/html/ssa-265688.html"
+  },
+  {
+    "CVE": "CVE-2024-26889",
+    "PoC": "https://cert-portal.siemens.com/productcert/html/ssa-265688.html"
+  },
+  {
+    "CVE": "CVE-2024-26891",
+    "PoC": "https://cert-portal.siemens.com/productcert/html/ssa-265688.html"
+  },
+  {
+    "CVE": "CVE-2024-26894",
+    "PoC": "https://cert-portal.siemens.com/productcert/html/ssa-265688.html"
+  },
+  {
+    "CVE": "CVE-2024-26895",
+    "PoC": "https://cert-portal.siemens.com/productcert/html/ssa-265688.html"
+  },
+  {
+    "CVE": "CVE-2024-26897",
+    "PoC": "https://cert-portal.siemens.com/productcert/html/ssa-265688.html"
+  },
+  {
     "CVE": "CVE-2024-26897",
     "PoC": "https://git.kernel.org/stable/c/74d0639261dd795dce958d1b14815bdcbb48a715"
+  },
+  {
+    "CVE": "CVE-2024-26898",
+    "PoC": "https://cert-portal.siemens.com/productcert/html/ssa-265688.html"
   },
   {
     "CVE": "CVE-2024-26899",
@@ -474468,12 +474788,84 @@
     "PoC": "https://vuldb.com/?id.257388"
   },
   {
+    "CVE": "CVE-2024-26901",
+    "PoC": "https://cert-portal.siemens.com/productcert/html/ssa-265688.html"
+  },
+  {
+    "CVE": "CVE-2024-26903",
+    "PoC": "https://cert-portal.siemens.com/productcert/html/ssa-265688.html"
+  },
+  {
+    "CVE": "CVE-2024-26906",
+    "PoC": "https://cert-portal.siemens.com/productcert/html/ssa-265688.html"
+  },
+  {
+    "CVE": "CVE-2024-26907",
+    "PoC": "https://cert-portal.siemens.com/productcert/html/ssa-265688.html"
+  },
+  {
+    "CVE": "CVE-2024-26920",
+    "PoC": "https://cert-portal.siemens.com/productcert/html/ssa-265688.html"
+  },
+  {
+    "CVE": "CVE-2024-26923",
+    "PoC": "https://cert-portal.siemens.com/productcert/html/ssa-265688.html"
+  },
+  {
+    "CVE": "CVE-2024-26923",
+    "PoC": "https://cert-portal.siemens.com/productcert/html/ssa-613116.html"
+  },
+  {
+    "CVE": "CVE-2024-26925",
+    "PoC": "https://cert-portal.siemens.com/productcert/html/ssa-265688.html"
+  },
+  {
+    "CVE": "CVE-2024-26934",
+    "PoC": "https://cert-portal.siemens.com/productcert/html/ssa-265688.html"
+  },
+  {
+    "CVE": "CVE-2024-26935",
+    "PoC": "https://cert-portal.siemens.com/productcert/html/ssa-265688.html"
+  },
+  {
+    "CVE": "CVE-2024-26937",
+    "PoC": "https://cert-portal.siemens.com/productcert/html/ssa-265688.html"
+  },
+  {
+    "CVE": "CVE-2024-26950",
+    "PoC": "https://cert-portal.siemens.com/productcert/html/ssa-265688.html"
+  },
+  {
+    "CVE": "CVE-2024-26951",
+    "PoC": "https://cert-portal.siemens.com/productcert/html/ssa-265688.html"
+  },
+  {
+    "CVE": "CVE-2024-26958",
+    "PoC": "https://cert-portal.siemens.com/productcert/html/ssa-265688.html"
+  },
+  {
     "CVE": "CVE-2024-2696",
     "PoC": "https://wpscan.com/vulnerability/b6e64af0-adeb-4e28-9a81-f4024b0446ee/"
   },
   {
+    "CVE": "CVE-2024-26960",
+    "PoC": "https://cert-portal.siemens.com/productcert/html/ssa-265688.html"
+  },
+  {
+    "CVE": "CVE-2024-26961",
+    "PoC": "https://cert-portal.siemens.com/productcert/html/ssa-265688.html"
+  },
+  {
     "CVE": "CVE-2024-2697",
     "PoC": "https://wpscan.com/vulnerability/c430b30d-61db-45f5-8499-91b491503b9c/"
+  },
+  {
+    "CVE": "CVE-2024-26973",
+    "PoC": "https://cert-portal.siemens.com/productcert/html/ssa-265688.html"
+  },
+  {
+    "CVE": "CVE-2024-26974",
+    "PoC": "https://cert-portal.siemens.com/productcert/html/ssa-265688.html"
   },
   {
     "CVE": "CVE-2024-26974",
@@ -474508,6 +474900,26 @@
     "PoC": "https://git.kernel.org/stable/c/ff41e0d4f3fa10d7cdd7d40f8026bea9fcc8b000"
   },
   {
+    "CVE": "CVE-2024-26982",
+    "PoC": "https://cert-portal.siemens.com/productcert/html/ssa-265688.html"
+  },
+  {
+    "CVE": "CVE-2024-26988",
+    "PoC": "https://cert-portal.siemens.com/productcert/html/ssa-265688.html"
+  },
+  {
+    "CVE": "CVE-2024-26988",
+    "PoC": "https://cert-portal.siemens.com/productcert/html/ssa-613116.html"
+  },
+  {
+    "CVE": "CVE-2024-26993",
+    "PoC": "https://cert-portal.siemens.com/productcert/html/ssa-265688.html"
+  },
+  {
+    "CVE": "CVE-2024-26993",
+    "PoC": "https://cert-portal.siemens.com/productcert/html/ssa-613116.html"
+  },
+  {
     "CVE": "CVE-2024-26999",
     "PoC": "https://git.kernel.org/stable/c/69a02273e288011b521ee7c1f3ab2c23fda633ce"
   },
@@ -474516,24 +474928,96 @@
     "PoC": "https://git.kernel.org/stable/c/54c4ec5f8c471b7c1137a1f769648549c423c026"
   },
   {
+    "CVE": "CVE-2024-27004",
+    "PoC": "https://cert-portal.siemens.com/productcert/html/ssa-265688.html"
+  },
+  {
+    "CVE": "CVE-2024-27004",
+    "PoC": "https://cert-portal.siemens.com/productcert/html/ssa-613116.html"
+  },
+  {
+    "CVE": "CVE-2024-27013",
+    "PoC": "https://cert-portal.siemens.com/productcert/html/ssa-265688.html"
+  },
+  {
+    "CVE": "CVE-2024-27013",
+    "PoC": "https://cert-portal.siemens.com/productcert/html/ssa-613116.html"
+  },
+  {
+    "CVE": "CVE-2024-27020",
+    "PoC": "https://cert-portal.siemens.com/productcert/html/ssa-265688.html"
+  },
+  {
+    "CVE": "CVE-2024-27020",
+    "PoC": "https://cert-portal.siemens.com/productcert/html/ssa-613116.html"
+  },
+  {
+    "CVE": "CVE-2024-27024",
+    "PoC": "https://cert-portal.siemens.com/productcert/html/ssa-265688.html"
+  },
+  {
+    "CVE": "CVE-2024-27025",
+    "PoC": "https://cert-portal.siemens.com/productcert/html/ssa-265688.html"
+  },
+  {
     "CVE": "CVE-2024-2703",
     "PoC": "https://github.com/abcdefg-png/IoT-vulnerable/blob/main/Tenda/AC10U/v1.V15.03.06.49/more/formSetDeviceName_mac.md"
+  },
+  {
+    "CVE": "CVE-2024-27038",
+    "PoC": "https://cert-portal.siemens.com/productcert/html/ssa-265688.html"
   },
   {
     "CVE": "CVE-2024-2704",
     "PoC": "https://github.com/abcdefg-png/IoT-vulnerable/blob/main/Tenda/AC10U/v1.V15.03.06.49/more/formSetFirewallCfg.md"
   },
   {
+    "CVE": "CVE-2024-27047",
+    "PoC": "https://cert-portal.siemens.com/productcert/html/ssa-265688.html"
+  },
+  {
     "CVE": "CVE-2024-2705",
     "PoC": "https://github.com/abcdefg-png/IoT-vulnerable/blob/main/Tenda/AC10U/v1.V15.03.06.49/more/formSetQosBand.md"
+  },
+  {
+    "CVE": "CVE-2024-27052",
+    "PoC": "https://cert-portal.siemens.com/productcert/html/ssa-265688.html"
+  },
+  {
+    "CVE": "CVE-2024-27053",
+    "PoC": "https://cert-portal.siemens.com/productcert/html/ssa-265688.html"
+  },
+  {
+    "CVE": "CVE-2024-27059",
+    "PoC": "https://cert-portal.siemens.com/productcert/html/ssa-265688.html"
   },
   {
     "CVE": "CVE-2024-2706",
     "PoC": "https://github.com/abcdefg-png/IoT-vulnerable/blob/main/Tenda/AC10U/v1.V15.03.06.49/more/formWifiWpsStart.md"
   },
   {
+    "CVE": "CVE-2024-27065",
+    "PoC": "https://cert-portal.siemens.com/productcert/html/ssa-265688.html"
+  },
+  {
     "CVE": "CVE-2024-2707",
     "PoC": "https://github.com/abcdefg-png/IoT-vulnerable/blob/main/Tenda/AC10U/v1.V15.03.06.49/more/formWriteFacMac.md"
+  },
+  {
+    "CVE": "CVE-2024-27072",
+    "PoC": "https://cert-portal.siemens.com/productcert/html/ssa-265688.html"
+  },
+  {
+    "CVE": "CVE-2024-27076",
+    "PoC": "https://cert-portal.siemens.com/productcert/html/ssa-265688.html"
+  },
+  {
+    "CVE": "CVE-2024-27077",
+    "PoC": "https://cert-portal.siemens.com/productcert/html/ssa-265688.html"
+  },
+  {
+    "CVE": "CVE-2024-27078",
+    "PoC": "https://cert-portal.siemens.com/productcert/html/ssa-265688.html"
   },
   {
     "CVE": "CVE-2024-2708",
@@ -474992,6 +475476,26 @@
     "PoC": "https://wpscan.com/vulnerability/5b84145b-f94e-4ea7-84d5-56cf776817a2/"
   },
   {
+    "CVE": "CVE-2024-27395",
+    "PoC": "https://cert-portal.siemens.com/productcert/html/ssa-265688.html"
+  },
+  {
+    "CVE": "CVE-2024-27395",
+    "PoC": "https://cert-portal.siemens.com/productcert/html/ssa-613116.html"
+  },
+  {
+    "CVE": "CVE-2024-27396",
+    "PoC": "https://cert-portal.siemens.com/productcert/html/ssa-265688.html"
+  },
+  {
+    "CVE": "CVE-2024-27396",
+    "PoC": "https://cert-portal.siemens.com/productcert/html/ssa-613116.html"
+  },
+  {
+    "CVE": "CVE-2024-27397",
+    "PoC": "https://cert-portal.siemens.com/productcert/html/ssa-265688.html"
+  },
+  {
     "CVE": "CVE-2024-27398",
     "PoC": "http://www.openwall.com/lists/oss-security/2024/11/29/1"
   },
@@ -475066,6 +475570,22 @@
   {
     "CVE": "CVE-2024-27399",
     "PoC": "https://git.kernel.org/stable/c/eb86f955488c39526534211f2610e48a5cf8ead4"
+  },
+  {
+    "CVE": "CVE-2024-27419",
+    "PoC": "https://cert-portal.siemens.com/productcert/html/ssa-265688.html"
+  },
+  {
+    "CVE": "CVE-2024-27431",
+    "PoC": "https://cert-portal.siemens.com/productcert/html/ssa-265688.html"
+  },
+  {
+    "CVE": "CVE-2024-27436",
+    "PoC": "https://cert-portal.siemens.com/productcert/html/ssa-265688.html"
+  },
+  {
+    "CVE": "CVE-2024-27437",
+    "PoC": "https://cert-portal.siemens.com/productcert/html/ssa-265688.html"
   },
   {
     "CVE": "CVE-2024-2744",
@@ -480256,6 +480776,14 @@
     "PoC": "https://pierrekim.github.io/blog/2024-06-27-sharp-mfp-17-vulnerabilities.html"
   },
   {
+    "CVE": "CVE-2024-33621",
+    "PoC": "https://cert-portal.siemens.com/productcert/html/ssa-265688.html"
+  },
+  {
+    "CVE": "CVE-2024-33621",
+    "PoC": "https://cert-portal.siemens.com/productcert/html/ssa-613116.html"
+  },
+  {
     "CVE": "CVE-2024-33655",
     "PoC": "https://gitlab.isc.org/isc-projects/bind9/-/issues/4398"
   },
@@ -480424,6 +480952,10 @@
     "PoC": "https://github.com/isBigChen/iot/blob/main/tenda/formSetSafeWanWebMan.md"
   },
   {
+    "CVE": "CVE-2024-33847",
+    "PoC": "https://cert-portal.siemens.com/productcert/html/ssa-265688.html"
+  },
+  {
     "CVE": "CVE-2024-33849",
     "PoC": "https://www.syss.de/pentest-blog/rechteausweitung-durch-unsichere-standardkonfiguration-im-ci-out-of-office-manager-syss-2024-013"
   },
@@ -480538,6 +481070,10 @@
   {
     "CVE": "CVE-2024-34020",
     "PoC": "https://bugzilla.suse.com/show_bug.cgi?id=1223534"
+  },
+  {
+    "CVE": "CVE-2024-34027",
+    "PoC": "https://cert-portal.siemens.com/productcert/html/ssa-265688.html"
   },
   {
     "CVE": "CVE-2024-34029",
@@ -480934,6 +481470,10 @@
   {
     "CVE": "CVE-2024-34394",
     "PoC": "https://research.jfrog.com/vulnerabilities/libxmljs2-namespaces-type-confusion-rce-jfsa-2024-001034098/"
+  },
+  {
+    "CVE": "CVE-2024-34397",
+    "PoC": "https://cert-portal.siemens.com/productcert/html/ssa-613116.html"
   },
   {
     "CVE": "CVE-2024-34397",
@@ -482276,6 +482816,10 @@
     "PoC": "https://gitlab.com/qemu-project/qemu/-/issues/2273"
   },
   {
+    "CVE": "CVE-2024-35789",
+    "PoC": "https://cert-portal.siemens.com/productcert/html/ssa-265688.html"
+  },
+  {
     "CVE": "CVE-2024-35793",
     "PoC": "https://git.kernel.org/stable/c/e88b5ae01901c4a655a53158397746334778a57b"
   },
@@ -482284,44 +482828,336 @@
     "PoC": "https://wpscan.com/vulnerability/31f401c4-735a-4efb-b81f-ab98c00c526b/"
   },
   {
+    "CVE": "CVE-2024-35805",
+    "PoC": "https://cert-portal.siemens.com/productcert/html/ssa-265688.html"
+  },
+  {
+    "CVE": "CVE-2024-35807",
+    "PoC": "https://cert-portal.siemens.com/productcert/html/ssa-265688.html"
+  },
+  {
+    "CVE": "CVE-2024-35811",
+    "PoC": "https://cert-portal.siemens.com/productcert/html/ssa-265688.html"
+  },
+  {
+    "CVE": "CVE-2024-35813",
+    "PoC": "https://cert-portal.siemens.com/productcert/html/ssa-265688.html"
+  },
+  {
+    "CVE": "CVE-2024-35815",
+    "PoC": "https://cert-portal.siemens.com/productcert/html/ssa-265688.html"
+  },
+  {
     "CVE": "CVE-2024-3582",
     "PoC": "https://wpscan.com/vulnerability/5a348b5d-13aa-40c3-9d21-0554683f8019/"
+  },
+  {
+    "CVE": "CVE-2024-35823",
+    "PoC": "https://cert-portal.siemens.com/productcert/html/ssa-265688.html"
   },
   {
     "CVE": "CVE-2024-35823",
     "PoC": "https://git.kernel.org/stable/c/0190d19d7651c08abc187dac3819c61b726e7e3f"
   },
   {
+    "CVE": "CVE-2024-35828",
+    "PoC": "https://cert-portal.siemens.com/productcert/html/ssa-265688.html"
+  },
+  {
     "CVE": "CVE-2024-35844",
     "PoC": "https://git.kernel.org/stable/c/2f6d721e14b69d6e1251f69fa238b48e8374e25f"
+  },
+  {
+    "CVE": "CVE-2024-35845",
+    "PoC": "https://cert-portal.siemens.com/productcert/html/ssa-265688.html"
+  },
+  {
+    "CVE": "CVE-2024-35849",
+    "PoC": "https://cert-portal.siemens.com/productcert/html/ssa-265688.html"
   },
   {
     "CVE": "CVE-2024-35871",
     "PoC": "https://git.kernel.org/stable/c/d14fa1fcf69db9d070e75f1c4425211fa619dfc8"
   },
   {
+    "CVE": "CVE-2024-35877",
+    "PoC": "https://cert-portal.siemens.com/productcert/html/ssa-265688.html"
+  },
+  {
+    "CVE": "CVE-2024-35884",
+    "PoC": "https://cert-portal.siemens.com/productcert/html/ssa-265688.html"
+  },
+  {
+    "CVE": "CVE-2024-35886",
+    "PoC": "https://cert-portal.siemens.com/productcert/html/ssa-265688.html"
+  },
+  {
+    "CVE": "CVE-2024-35888",
+    "PoC": "https://cert-portal.siemens.com/productcert/html/ssa-265688.html"
+  },
+  {
+    "CVE": "CVE-2024-35893",
+    "PoC": "https://cert-portal.siemens.com/productcert/html/ssa-265688.html"
+  },
+  {
+    "CVE": "CVE-2024-35895",
+    "PoC": "https://cert-portal.siemens.com/productcert/html/ssa-265688.html"
+  },
+  {
+    "CVE": "CVE-2024-35896",
+    "PoC": "https://cert-portal.siemens.com/productcert/html/ssa-265688.html"
+  },
+  {
+    "CVE": "CVE-2024-35897",
+    "PoC": "https://cert-portal.siemens.com/productcert/html/ssa-265688.html"
+  },
+  {
+    "CVE": "CVE-2024-35898",
+    "PoC": "https://cert-portal.siemens.com/productcert/html/ssa-265688.html"
+  },
+  {
+    "CVE": "CVE-2024-35899",
+    "PoC": "https://cert-portal.siemens.com/productcert/html/ssa-265688.html"
+  },
+  {
     "CVE": "CVE-2024-3590",
     "PoC": "https://wpscan.com/vulnerability/829f4d40-e5b0-4009-b753-85ca2a5b3d25/"
+  },
+  {
+    "CVE": "CVE-2024-35900",
+    "PoC": "https://cert-portal.siemens.com/productcert/html/ssa-265688.html"
+  },
+  {
+    "CVE": "CVE-2024-35902",
+    "PoC": "https://cert-portal.siemens.com/productcert/html/ssa-265688.html"
+  },
+  {
+    "CVE": "CVE-2024-35905",
+    "PoC": "https://cert-portal.siemens.com/productcert/html/ssa-265688.html"
   },
   {
     "CVE": "CVE-2024-3591",
     "PoC": "https://wpscan.com/vulnerability/f85d8b61-eaeb-433c-b857-06ee4db5c7d5/"
   },
   {
+    "CVE": "CVE-2024-35910",
+    "PoC": "https://cert-portal.siemens.com/productcert/html/ssa-265688.html"
+  },
+  {
+    "CVE": "CVE-2024-35915",
+    "PoC": "https://cert-portal.siemens.com/productcert/html/ssa-265688.html"
+  },
+  {
+    "CVE": "CVE-2024-35922",
+    "PoC": "https://cert-portal.siemens.com/productcert/html/ssa-265688.html"
+  },
+  {
+    "CVE": "CVE-2024-35925",
+    "PoC": "https://cert-portal.siemens.com/productcert/html/ssa-265688.html"
+  },
+  {
+    "CVE": "CVE-2024-35930",
+    "PoC": "https://cert-portal.siemens.com/productcert/html/ssa-265688.html"
+  },
+  {
+    "CVE": "CVE-2024-35933",
+    "PoC": "https://cert-portal.siemens.com/productcert/html/ssa-265688.html"
+  },
+  {
+    "CVE": "CVE-2024-35934",
+    "PoC": "https://cert-portal.siemens.com/productcert/html/ssa-265688.html"
+  },
+  {
+    "CVE": "CVE-2024-35935",
+    "PoC": "https://cert-portal.siemens.com/productcert/html/ssa-265688.html"
+  },
+  {
+    "CVE": "CVE-2024-35936",
+    "PoC": "https://cert-portal.siemens.com/productcert/html/ssa-265688.html"
+  },
+  {
     "CVE": "CVE-2024-3594",
     "PoC": "https://wpscan.com/vulnerability/7a8a834a-e5d7-4678-9d35-4390d1200437/"
+  },
+  {
+    "CVE": "CVE-2024-35940",
+    "PoC": "https://cert-portal.siemens.com/productcert/html/ssa-265688.html"
+  },
+  {
+    "CVE": "CVE-2024-35944",
+    "PoC": "https://cert-portal.siemens.com/productcert/html/ssa-265688.html"
+  },
+  {
+    "CVE": "CVE-2024-35950",
+    "PoC": "https://cert-portal.siemens.com/productcert/html/ssa-265688.html"
+  },
+  {
+    "CVE": "CVE-2024-35955",
+    "PoC": "https://cert-portal.siemens.com/productcert/html/ssa-265688.html"
+  },
+  {
+    "CVE": "CVE-2024-35955",
+    "PoC": "https://cert-portal.siemens.com/productcert/html/ssa-613116.html"
+  },
+  {
+    "CVE": "CVE-2024-35958",
+    "PoC": "https://cert-portal.siemens.com/productcert/html/ssa-265688.html"
+  },
+  {
+    "CVE": "CVE-2024-35958",
+    "PoC": "https://cert-portal.siemens.com/productcert/html/ssa-613116.html"
   },
   {
     "CVE": "CVE-2024-3596",
     "PoC": "https://www.blastradius.fail/"
   },
   {
+    "CVE": "CVE-2024-35960",
+    "PoC": "https://cert-portal.siemens.com/productcert/html/ssa-265688.html"
+  },
+  {
+    "CVE": "CVE-2024-35960",
+    "PoC": "https://cert-portal.siemens.com/productcert/html/ssa-613116.html"
+  },
+  {
+    "CVE": "CVE-2024-35962",
+    "PoC": "https://cert-portal.siemens.com/productcert/html/ssa-265688.html"
+  },
+  {
+    "CVE": "CVE-2024-35962",
+    "PoC": "https://cert-portal.siemens.com/productcert/html/ssa-613116.html"
+  },
+  {
+    "CVE": "CVE-2024-35965",
+    "PoC": "https://cert-portal.siemens.com/productcert/html/ssa-265688.html"
+  },
+  {
+    "CVE": "CVE-2024-35966",
+    "PoC": "https://cert-portal.siemens.com/productcert/html/ssa-265688.html"
+  },
+  {
+    "CVE": "CVE-2024-35967",
+    "PoC": "https://cert-portal.siemens.com/productcert/html/ssa-265688.html"
+  },
+  {
+    "CVE": "CVE-2024-35969",
+    "PoC": "https://cert-portal.siemens.com/productcert/html/ssa-265688.html"
+  },
+  {
+    "CVE": "CVE-2024-35969",
+    "PoC": "https://cert-portal.siemens.com/productcert/html/ssa-613116.html"
+  },
+  {
+    "CVE": "CVE-2024-35973",
+    "PoC": "https://cert-portal.siemens.com/productcert/html/ssa-265688.html"
+  },
+  {
+    "CVE": "CVE-2024-35973",
+    "PoC": "https://cert-portal.siemens.com/productcert/html/ssa-613116.html"
+  },
+  {
     "CVE": "CVE-2024-35973",
     "PoC": "https://git.kernel.org/stable/c/d8a6213d70accb403b82924a1c229e733433a5ef"
   },
   {
+    "CVE": "CVE-2024-35976",
+    "PoC": "https://cert-portal.siemens.com/productcert/html/ssa-265688.html"
+  },
+  {
+    "CVE": "CVE-2024-35976",
+    "PoC": "https://cert-portal.siemens.com/productcert/html/ssa-613116.html"
+  },
+  {
+    "CVE": "CVE-2024-35978",
+    "PoC": "https://cert-portal.siemens.com/productcert/html/ssa-265688.html"
+  },
+  {
     "CVE": "CVE-2024-35978",
     "PoC": "https://git.kernel.org/stable/c/45d355a926ab40f3ae7bc0b0a00cb0e3e8a5a810"
+  },
+  {
+    "CVE": "CVE-2024-35982",
+    "PoC": "https://cert-portal.siemens.com/productcert/html/ssa-265688.html"
+  },
+  {
+    "CVE": "CVE-2024-35983",
+    "PoC": "https://cert-portal.siemens.com/productcert/html/ssa-265688.html"
+  },
+  {
+    "CVE": "CVE-2024-35983",
+    "PoC": "https://cert-portal.siemens.com/productcert/html/ssa-613116.html"
+  },
+  {
+    "CVE": "CVE-2024-35984",
+    "PoC": "https://cert-portal.siemens.com/productcert/html/ssa-265688.html"
+  },
+  {
+    "CVE": "CVE-2024-35984",
+    "PoC": "https://cert-portal.siemens.com/productcert/html/ssa-613116.html"
+  },
+  {
+    "CVE": "CVE-2024-35988",
+    "PoC": "https://cert-portal.siemens.com/productcert/html/ssa-265688.html"
+  },
+  {
+    "CVE": "CVE-2024-35990",
+    "PoC": "https://cert-portal.siemens.com/productcert/html/ssa-265688.html"
+  },
+  {
+    "CVE": "CVE-2024-35990",
+    "PoC": "https://cert-portal.siemens.com/productcert/html/ssa-613116.html"
+  },
+  {
+    "CVE": "CVE-2024-35996",
+    "PoC": "https://cert-portal.siemens.com/productcert/html/ssa-265688.html"
+  },
+  {
+    "CVE": "CVE-2024-35996",
+    "PoC": "https://cert-portal.siemens.com/productcert/html/ssa-613116.html"
+  },
+  {
+    "CVE": "CVE-2024-35997",
+    "PoC": "https://cert-portal.siemens.com/productcert/html/ssa-265688.html"
+  },
+  {
+    "CVE": "CVE-2024-36004",
+    "PoC": "https://cert-portal.siemens.com/productcert/html/ssa-265688.html"
+  },
+  {
+    "CVE": "CVE-2024-36005",
+    "PoC": "https://cert-portal.siemens.com/productcert/html/ssa-265688.html"
+  },
+  {
+    "CVE": "CVE-2024-36005",
+    "PoC": "https://cert-portal.siemens.com/productcert/html/ssa-613116.html"
+  },
+  {
+    "CVE": "CVE-2024-36006",
+    "PoC": "https://cert-portal.siemens.com/productcert/html/ssa-265688.html"
+  },
+  {
+    "CVE": "CVE-2024-36006",
+    "PoC": "https://cert-portal.siemens.com/productcert/html/ssa-613116.html"
+  },
+  {
+    "CVE": "CVE-2024-36007",
+    "PoC": "https://cert-portal.siemens.com/productcert/html/ssa-265688.html"
+  },
+  {
+    "CVE": "CVE-2024-36007",
+    "PoC": "https://cert-portal.siemens.com/productcert/html/ssa-613116.html"
+  },
+  {
+    "CVE": "CVE-2024-36008",
+    "PoC": "https://cert-portal.siemens.com/productcert/html/ssa-265688.html"
+  },
+  {
+    "CVE": "CVE-2024-36008",
+    "PoC": "https://cert-portal.siemens.com/productcert/html/ssa-613116.html"
+  },
+  {
+    "CVE": "CVE-2024-36020",
+    "PoC": "https://cert-portal.siemens.com/productcert/html/ssa-265688.html"
   },
   {
     "CVE": "CVE-2024-36049",
@@ -482334,6 +483170,10 @@
   {
     "CVE": "CVE-2024-36052",
     "PoC": "https://sdushantha.medium.com/ansi-escape-injection-vulnerability-in-winrar-a2cbfac4b983"
+  },
+  {
+    "CVE": "CVE-2024-36057",
+    "PoC": "https://github.com/hacklantic/Research/tree/main/CVE-2024-36057"
   },
   {
     "CVE": "CVE-2024-36062",
@@ -482472,12 +483312,36 @@
     "PoC": "https://mattermost.com/security-updates"
   },
   {
+    "CVE": "CVE-2024-36270",
+    "PoC": "https://cert-portal.siemens.com/productcert/html/ssa-265688.html"
+  },
+  {
+    "CVE": "CVE-2024-36270",
+    "PoC": "https://cert-portal.siemens.com/productcert/html/ssa-613116.html"
+  },
+  {
     "CVE": "CVE-2024-3628",
     "PoC": "https://wpscan.com/vulnerability/171af8eb-ceeb-403a-abc2-969d9535a4c9/"
   },
   {
+    "CVE": "CVE-2024-36286",
+    "PoC": "https://cert-portal.siemens.com/productcert/html/ssa-265688.html"
+  },
+  {
+    "CVE": "CVE-2024-36286",
+    "PoC": "https://cert-portal.siemens.com/productcert/html/ssa-613116.html"
+  },
+  {
     "CVE": "CVE-2024-36287",
     "PoC": "https://mattermost.com/security-updates"
+  },
+  {
+    "CVE": "CVE-2024-36288",
+    "PoC": "https://cert-portal.siemens.com/productcert/html/ssa-265688.html"
+  },
+  {
+    "CVE": "CVE-2024-36288",
+    "PoC": "https://cert-portal.siemens.com/productcert/html/ssa-613116.html"
   },
   {
     "CVE": "CVE-2024-3629",
@@ -482721,7 +483585,23 @@
   },
   {
     "CVE": "CVE-2024-36484",
+    "PoC": "https://cert-portal.siemens.com/productcert/html/ssa-265688.html"
+  },
+  {
+    "CVE": "CVE-2024-36484",
+    "PoC": "https://cert-portal.siemens.com/productcert/html/ssa-613116.html"
+  },
+  {
+    "CVE": "CVE-2024-36484",
     "PoC": "https://git.kernel.org/stable/c/5f9a04a94fd1894d7009055ab8e5832a0242dba3"
+  },
+  {
+    "CVE": "CVE-2024-36489",
+    "PoC": "https://cert-portal.siemens.com/productcert/html/ssa-265688.html"
+  },
+  {
+    "CVE": "CVE-2024-36489",
+    "PoC": "https://cert-portal.siemens.com/productcert/html/ssa-613116.html"
   },
   {
     "CVE": "CVE-2024-36492",
@@ -483148,12 +484028,44 @@
     "PoC": "https://git.kernel.org/stable/c/ffd4917c1edb3c3ff334fce3704fbe9c39f35682"
   },
   {
+    "CVE": "CVE-2024-36894",
+    "PoC": "https://cert-portal.siemens.com/productcert/html/ssa-265688.html"
+  },
+  {
+    "CVE": "CVE-2024-36899",
+    "PoC": "https://cert-portal.siemens.com/productcert/html/ssa-265688.html"
+  },
+  {
     "CVE": "CVE-2024-3690",
     "PoC": "https://github.com/psudo-bugboy/CVE-2024"
   },
   {
     "CVE": "CVE-2024-3690",
     "PoC": "https://vuldb.com/?submit.312974"
+  },
+  {
+    "CVE": "CVE-2024-36902",
+    "PoC": "https://cert-portal.siemens.com/productcert/html/ssa-265688.html"
+  },
+  {
+    "CVE": "CVE-2024-36902",
+    "PoC": "https://cert-portal.siemens.com/productcert/html/ssa-613116.html"
+  },
+  {
+    "CVE": "CVE-2024-36904",
+    "PoC": "https://cert-portal.siemens.com/productcert/html/ssa-265688.html"
+  },
+  {
+    "CVE": "CVE-2024-36904",
+    "PoC": "https://cert-portal.siemens.com/productcert/html/ssa-613116.html"
+  },
+  {
+    "CVE": "CVE-2024-36905",
+    "PoC": "https://cert-portal.siemens.com/productcert/html/ssa-265688.html"
+  },
+  {
+    "CVE": "CVE-2024-36905",
+    "PoC": "https://cert-portal.siemens.com/productcert/html/ssa-613116.html"
   },
   {
     "CVE": "CVE-2024-3691",
@@ -483164,16 +484076,68 @@
     "PoC": "https://vuldb.com/?submit.312975"
   },
   {
+    "CVE": "CVE-2024-36916",
+    "PoC": "https://cert-portal.siemens.com/productcert/html/ssa-265688.html"
+  },
+  {
+    "CVE": "CVE-2024-36916",
+    "PoC": "https://cert-portal.siemens.com/productcert/html/ssa-613116.html"
+  },
+  {
     "CVE": "CVE-2024-3692",
     "PoC": "https://wpscan.com/vulnerability/6f100f85-3a76-44be-8092-06eb8595b0c9/"
+  },
+  {
+    "CVE": "CVE-2024-36929",
+    "PoC": "https://cert-portal.siemens.com/productcert/html/ssa-265688.html"
+  },
+  {
+    "CVE": "CVE-2024-36929",
+    "PoC": "https://cert-portal.siemens.com/productcert/html/ssa-613116.html"
+  },
+  {
+    "CVE": "CVE-2024-36939",
+    "PoC": "https://cert-portal.siemens.com/productcert/html/ssa-265688.html"
+  },
+  {
+    "CVE": "CVE-2024-36940",
+    "PoC": "https://cert-portal.siemens.com/productcert/html/ssa-265688.html"
+  },
+  {
+    "CVE": "CVE-2024-36940",
+    "PoC": "https://cert-portal.siemens.com/productcert/html/ssa-613116.html"
   },
   {
     "CVE": "CVE-2024-3695",
     "PoC": "https://vuldb.com/?id.260482"
   },
   {
+    "CVE": "CVE-2024-36959",
+    "PoC": "https://cert-portal.siemens.com/productcert/html/ssa-265688.html"
+  },
+  {
+    "CVE": "CVE-2024-36959",
+    "PoC": "https://cert-portal.siemens.com/productcert/html/ssa-613116.html"
+  },
+  {
     "CVE": "CVE-2024-3697",
     "PoC": "https://vuldb.com/?id.260484"
+  },
+  {
+    "CVE": "CVE-2024-36974",
+    "PoC": "https://cert-portal.siemens.com/productcert/html/ssa-265688.html"
+  },
+  {
+    "CVE": "CVE-2024-36974",
+    "PoC": "https://cert-portal.siemens.com/productcert/html/ssa-613116.html"
+  },
+  {
+    "CVE": "CVE-2024-36978",
+    "PoC": "https://cert-portal.siemens.com/productcert/html/ssa-265688.html"
+  },
+  {
+    "CVE": "CVE-2024-36978",
+    "PoC": "https://cert-portal.siemens.com/productcert/html/ssa-613116.html"
   },
   {
     "CVE": "CVE-2024-36978",
@@ -483306,6 +484270,14 @@
   {
     "CVE": "CVE-2024-3735",
     "PoC": "https://vuldb.com/?submit.311153"
+  },
+  {
+    "CVE": "CVE-2024-37356",
+    "PoC": "https://cert-portal.siemens.com/productcert/html/ssa-265688.html"
+  },
+  {
+    "CVE": "CVE-2024-37356",
+    "PoC": "https://cert-portal.siemens.com/productcert/html/ssa-613116.html"
   },
   {
     "CVE": "CVE-2024-37359",
@@ -483976,6 +484948,14 @@
     "PoC": "https://github.com/CycloneDX/cyclonedx-core-java/security/advisories/GHSA-683x-4444-jxh8"
   },
   {
+    "CVE": "CVE-2024-38381",
+    "PoC": "https://cert-portal.siemens.com/productcert/html/ssa-265688.html"
+  },
+  {
+    "CVE": "CVE-2024-38381",
+    "PoC": "https://cert-portal.siemens.com/productcert/html/ssa-613116.html"
+  },
+  {
     "CVE": "CVE-2024-3839",
     "PoC": "https://lists.fedoraproject.org/archives/list/package-announce@lists.fedoraproject.org/message/M4PCXKCOVBUUU6GOSN46DCPI4HMER3PJ/"
   },
@@ -484172,24 +485152,152 @@
     "PoC": "https://github.com/Admidio/admidio/security/advisories/GHSA-g872-jwwr-vggm"
   },
   {
+    "CVE": "CVE-2024-38547",
+    "PoC": "https://cert-portal.siemens.com/productcert/html/ssa-265688.html"
+  },
+  {
+    "CVE": "CVE-2024-38552",
+    "PoC": "https://cert-portal.siemens.com/productcert/html/ssa-265688.html"
+  },
+  {
+    "CVE": "CVE-2024-38558",
+    "PoC": "https://cert-portal.siemens.com/productcert/html/ssa-265688.html"
+  },
+  {
+    "CVE": "CVE-2024-38558",
+    "PoC": "https://cert-portal.siemens.com/productcert/html/ssa-613116.html"
+  },
+  {
+    "CVE": "CVE-2024-38559",
+    "PoC": "https://cert-portal.siemens.com/productcert/html/ssa-265688.html"
+  },
+  {
     "CVE": "CVE-2024-3856",
     "PoC": "https://bugzilla.mozilla.org/show_bug.cgi?id=1885829"
+  },
+  {
+    "CVE": "CVE-2024-38560",
+    "PoC": "https://cert-portal.siemens.com/productcert/html/ssa-265688.html"
+  },
+  {
+    "CVE": "CVE-2024-38565",
+    "PoC": "https://cert-portal.siemens.com/productcert/html/ssa-265688.html"
   },
   {
     "CVE": "CVE-2024-38566",
     "PoC": "https://git.kernel.org/stable/c/0db63c0b86e981a1e97d2596d64ceceba1a5470e"
   },
   {
+    "CVE": "CVE-2024-38567",
+    "PoC": "https://cert-portal.siemens.com/productcert/html/ssa-265688.html"
+  },
+  {
+    "CVE": "CVE-2024-38578",
+    "PoC": "https://cert-portal.siemens.com/productcert/html/ssa-265688.html"
+  },
+  {
+    "CVE": "CVE-2024-38578",
+    "PoC": "https://cert-portal.siemens.com/productcert/html/ssa-613116.html"
+  },
+  {
+    "CVE": "CVE-2024-38579",
+    "PoC": "https://cert-portal.siemens.com/productcert/html/ssa-265688.html"
+  },
+  {
+    "CVE": "CVE-2024-38579",
+    "PoC": "https://cert-portal.siemens.com/productcert/html/ssa-613116.html"
+  },
+  {
+    "CVE": "CVE-2024-38587",
+    "PoC": "https://cert-portal.siemens.com/productcert/html/ssa-265688.html"
+  },
+  {
+    "CVE": "CVE-2024-38587",
+    "PoC": "https://cert-portal.siemens.com/productcert/html/ssa-613116.html"
+  },
+  {
+    "CVE": "CVE-2024-38589",
+    "PoC": "https://cert-portal.siemens.com/productcert/html/ssa-265688.html"
+  },
+  {
+    "CVE": "CVE-2024-38589",
+    "PoC": "https://cert-portal.siemens.com/productcert/html/ssa-613116.html"
+  },
+  {
     "CVE": "CVE-2024-3859",
     "PoC": "https://bugzilla.mozilla.org/show_bug.cgi?id=1874489"
+  },
+  {
+    "CVE": "CVE-2024-38596",
+    "PoC": "https://cert-portal.siemens.com/productcert/html/ssa-265688.html"
+  },
+  {
+    "CVE": "CVE-2024-38596",
+    "PoC": "https://cert-portal.siemens.com/productcert/html/ssa-613116.html"
+  },
+  {
+    "CVE": "CVE-2024-38598",
+    "PoC": "https://cert-portal.siemens.com/productcert/html/ssa-265688.html"
+  },
+  {
+    "CVE": "CVE-2024-38598",
+    "PoC": "https://cert-portal.siemens.com/productcert/html/ssa-613116.html"
+  },
+  {
+    "CVE": "CVE-2024-38599",
+    "PoC": "https://cert-portal.siemens.com/productcert/html/ssa-265688.html"
   },
   {
     "CVE": "CVE-2024-38600",
     "PoC": "https://git.kernel.org/stable/c/87988a534d8e12f2e6fc01fe63e6c1925dc5307c"
   },
   {
+    "CVE": "CVE-2024-38612",
+    "PoC": "https://cert-portal.siemens.com/productcert/html/ssa-265688.html"
+  },
+  {
+    "CVE": "CVE-2024-38612",
+    "PoC": "https://cert-portal.siemens.com/productcert/html/ssa-613116.html"
+  },
+  {
+    "CVE": "CVE-2024-38615",
+    "PoC": "https://cert-portal.siemens.com/productcert/html/ssa-265688.html"
+  },
+  {
+    "CVE": "CVE-2024-38615",
+    "PoC": "https://cert-portal.siemens.com/productcert/html/ssa-613116.html"
+  },
+  {
+    "CVE": "CVE-2024-38619",
+    "PoC": "https://cert-portal.siemens.com/productcert/html/ssa-265688.html"
+  },
+  {
+    "CVE": "CVE-2024-38619",
+    "PoC": "https://cert-portal.siemens.com/productcert/html/ssa-613116.html"
+  },
+  {
+    "CVE": "CVE-2024-38635",
+    "PoC": "https://cert-portal.siemens.com/productcert/html/ssa-265688.html"
+  },
+  {
+    "CVE": "CVE-2024-38659",
+    "PoC": "https://cert-portal.siemens.com/productcert/html/ssa-265688.html"
+  },
+  {
+    "CVE": "CVE-2024-38659",
+    "PoC": "https://cert-portal.siemens.com/productcert/html/ssa-613116.html"
+  },
+  {
     "CVE": "CVE-2024-38661",
     "PoC": "https://git.kernel.org/stable/c/d4f9d5a99a3fd1b1c691b7a1a6f8f3f25f4116c9"
+  },
+  {
+    "CVE": "CVE-2024-38662",
+    "PoC": "https://cert-portal.siemens.com/productcert/html/ssa-265688.html"
+  },
+  {
+    "CVE": "CVE-2024-38662",
+    "PoC": "https://cert-portal.siemens.com/productcert/html/ssa-613116.html"
   },
   {
     "CVE": "CVE-2024-38694",
@@ -484238,6 +485346,14 @@
   {
     "CVE": "CVE-2024-3878",
     "PoC": "https://github.com/abcdefg-png/IoT-vulnerable/blob/main/Tenda/F/F1202/fromwebExcptypemanFilter.md"
+  },
+  {
+    "CVE": "CVE-2024-38780",
+    "PoC": "https://cert-portal.siemens.com/productcert/html/ssa-265688.html"
+  },
+  {
+    "CVE": "CVE-2024-38780",
+    "PoC": "https://cert-portal.siemens.com/productcert/html/ssa-613116.html"
   },
   {
     "CVE": "CVE-2024-3879",
@@ -484832,8 +485948,60 @@
     "PoC": "https://www.talosintelligence.com/vulnerability_reports/TALOS-2024-2011"
   },
   {
+    "CVE": "CVE-2024-39468",
+    "PoC": "https://cert-portal.siemens.com/productcert/html/ssa-265688.html"
+  },
+  {
+    "CVE": "CVE-2024-39468",
+    "PoC": "https://cert-portal.siemens.com/productcert/html/ssa-613116.html"
+  },
+  {
     "CVE": "CVE-2024-3948",
     "PoC": "https://github.com/xuanluansec/vul/issues/5"
+  },
+  {
+    "CVE": "CVE-2024-39482",
+    "PoC": "https://cert-portal.siemens.com/productcert/html/ssa-265688.html"
+  },
+  {
+    "CVE": "CVE-2024-39482",
+    "PoC": "https://cert-portal.siemens.com/productcert/html/ssa-613116.html"
+  },
+  {
+    "CVE": "CVE-2024-39489",
+    "PoC": "https://cert-portal.siemens.com/productcert/html/ssa-265688.html"
+  },
+  {
+    "CVE": "CVE-2024-39489",
+    "PoC": "https://cert-portal.siemens.com/productcert/html/ssa-613116.html"
+  },
+  {
+    "CVE": "CVE-2024-39493",
+    "PoC": "https://cert-portal.siemens.com/productcert/html/ssa-265688.html"
+  },
+  {
+    "CVE": "CVE-2024-39493",
+    "PoC": "https://cert-portal.siemens.com/productcert/html/ssa-613116.html"
+  },
+  {
+    "CVE": "CVE-2024-39502",
+    "PoC": "https://cert-portal.siemens.com/productcert/html/ssa-265688.html"
+  },
+  {
+    "CVE": "CVE-2024-39502",
+    "PoC": "https://cert-portal.siemens.com/productcert/html/ssa-613116.html"
+  },
+  {
+    "CVE": "CVE-2024-39503",
+    "PoC": "https://cert-portal.siemens.com/productcert/html/ssa-265688.html"
+  },
+  {
+    "CVE": "CVE-2024-39503",
+    "PoC": "https://cert-portal.siemens.com/productcert/html/ssa-613116.html"
+  },
+  {
+    "CVE": "CVE-2024-39509",
+    "PoC": "https://cert-portal.siemens.com/productcert/html/ssa-265688.html"
   },
   {
     "CVE": "CVE-2024-39574",
@@ -486292,20 +487460,160 @@
     "PoC": "https://wpscan.com/vulnerability/aedcb986-0f2b-4852-baf1-6cb61e83e109/"
   },
   {
+    "CVE": "CVE-2024-40905",
+    "PoC": "https://cert-portal.siemens.com/productcert/html/ssa-265688.html"
+  },
+  {
+    "CVE": "CVE-2024-40905",
+    "PoC": "https://cert-portal.siemens.com/productcert/html/ssa-613116.html"
+  },
+  {
     "CVE": "CVE-2024-4091",
     "PoC": "https://wpscan.com/vulnerability/e28e79fa-f461-41fe-ad1c-ca768ea5f982/"
+  },
+  {
+    "CVE": "CVE-2024-40912",
+    "PoC": "https://cert-portal.siemens.com/productcert/html/ssa-265688.html"
+  },
+  {
+    "CVE": "CVE-2024-40916",
+    "PoC": "https://cert-portal.siemens.com/productcert/html/ssa-265688.html"
+  },
+  {
+    "CVE": "CVE-2024-40934",
+    "PoC": "https://cert-portal.siemens.com/productcert/html/ssa-265688.html"
   },
   {
     "CVE": "CVE-2024-4094",
     "PoC": "https://wpscan.com/vulnerability/04b2feba-e009-4fce-8539-5dfdb4300433/"
   },
   {
+    "CVE": "CVE-2024-40941",
+    "PoC": "https://cert-portal.siemens.com/productcert/html/ssa-265688.html"
+  },
+  {
+    "CVE": "CVE-2024-40942",
+    "PoC": "https://cert-portal.siemens.com/productcert/html/ssa-265688.html"
+  },
+  {
+    "CVE": "CVE-2024-40945",
+    "PoC": "https://cert-portal.siemens.com/productcert/html/ssa-265688.html"
+  },
+  {
+    "CVE": "CVE-2024-40945",
+    "PoC": "https://cert-portal.siemens.com/productcert/html/ssa-613116.html"
+  },
+  {
+    "CVE": "CVE-2024-40958",
+    "PoC": "https://cert-portal.siemens.com/productcert/html/ssa-265688.html"
+  },
+  {
+    "CVE": "CVE-2024-40958",
+    "PoC": "https://cert-portal.siemens.com/productcert/html/ssa-613116.html"
+  },
+  {
+    "CVE": "CVE-2024-40959",
+    "PoC": "https://cert-portal.siemens.com/productcert/html/ssa-265688.html"
+  },
+  {
+    "CVE": "CVE-2024-40959",
+    "PoC": "https://cert-portal.siemens.com/productcert/html/ssa-613116.html"
+  },
+  {
     "CVE": "CVE-2024-4096",
     "PoC": "https://wpscan.com/vulnerability/4dba5e9e-24be-458a-9150-7c7a958e66cb/"
   },
   {
+    "CVE": "CVE-2024-40960",
+    "PoC": "https://cert-portal.siemens.com/productcert/html/ssa-265688.html"
+  },
+  {
+    "CVE": "CVE-2024-40960",
+    "PoC": "https://cert-portal.siemens.com/productcert/html/ssa-613116.html"
+  },
+  {
+    "CVE": "CVE-2024-40961",
+    "PoC": "https://cert-portal.siemens.com/productcert/html/ssa-265688.html"
+  },
+  {
+    "CVE": "CVE-2024-40961",
+    "PoC": "https://cert-portal.siemens.com/productcert/html/ssa-613116.html"
+  },
+  {
+    "CVE": "CVE-2024-40971",
+    "PoC": "https://cert-portal.siemens.com/productcert/html/ssa-265688.html"
+  },
+  {
+    "CVE": "CVE-2024-40978",
+    "PoC": "https://cert-portal.siemens.com/productcert/html/ssa-265688.html"
+  },
+  {
+    "CVE": "CVE-2024-40980",
+    "PoC": "https://cert-portal.siemens.com/productcert/html/ssa-265688.html"
+  },
+  {
+    "CVE": "CVE-2024-40980",
+    "PoC": "https://cert-portal.siemens.com/productcert/html/ssa-613116.html"
+  },
+  {
+    "CVE": "CVE-2024-40984",
+    "PoC": "https://cert-portal.siemens.com/productcert/html/ssa-265688.html"
+  },
+  {
+    "CVE": "CVE-2024-40984",
+    "PoC": "https://cert-portal.siemens.com/productcert/html/ssa-613116.html"
+  },
+  {
     "CVE": "CVE-2024-40986",
     "PoC": "https://git.kernel.org/stable/c/8e1f54e4a3f3207c9dc68bb5000603b75802e7f0"
+  },
+  {
+    "CVE": "CVE-2024-40993",
+    "PoC": "https://cert-portal.siemens.com/productcert/html/ssa-265688.html"
+  },
+  {
+    "CVE": "CVE-2024-40995",
+    "PoC": "https://cert-portal.siemens.com/productcert/html/ssa-265688.html"
+  },
+  {
+    "CVE": "CVE-2024-40995",
+    "PoC": "https://cert-portal.siemens.com/productcert/html/ssa-613116.html"
+  },
+  {
+    "CVE": "CVE-2024-41000",
+    "PoC": "https://cert-portal.siemens.com/productcert/html/ssa-265688.html"
+  },
+  {
+    "CVE": "CVE-2024-41000",
+    "PoC": "https://cert-portal.siemens.com/productcert/html/ssa-613116.html"
+  },
+  {
+    "CVE": "CVE-2024-41004",
+    "PoC": "https://cert-portal.siemens.com/productcert/html/ssa-265688.html"
+  },
+  {
+    "CVE": "CVE-2024-41004",
+    "PoC": "https://cert-portal.siemens.com/productcert/html/ssa-613116.html"
+  },
+  {
+    "CVE": "CVE-2024-41005",
+    "PoC": "https://cert-portal.siemens.com/productcert/html/ssa-265688.html"
+  },
+  {
+    "CVE": "CVE-2024-41005",
+    "PoC": "https://cert-portal.siemens.com/productcert/html/ssa-613116.html"
+  },
+  {
+    "CVE": "CVE-2024-41006",
+    "PoC": "https://cert-portal.siemens.com/productcert/html/ssa-265688.html"
+  },
+  {
+    "CVE": "CVE-2024-41006",
+    "PoC": "https://cert-portal.siemens.com/productcert/html/ssa-613116.html"
+  },
+  {
+    "CVE": "CVE-2024-41016",
+    "PoC": "https://cert-portal.siemens.com/productcert/html/ssa-265688.html"
   },
   {
     "CVE": "CVE-2024-4105",
@@ -486570,6 +487878,14 @@
   {
     "CVE": "CVE-2024-41290",
     "PoC": "https://github.com/paragbagul111/CVE-2024-41290"
+  },
+  {
+    "CVE": "CVE-2024-41308",
+    "PoC": "https://the-it-wonders.blogspot.com/2024/07/enjay-crm-10-multiple-code-executions.html"
+  },
+  {
+    "CVE": "CVE-2024-41309",
+    "PoC": "https://the-it-wonders.blogspot.com/2024/07/enjay-crm-10-multiple-code-executions.html"
   },
   {
     "CVE": "CVE-2024-41311",
@@ -487293,6 +488609,10 @@
   },
   {
     "CVE": "CVE-2024-41996",
+    "PoC": "https://cert-portal.siemens.com/productcert/html/ssa-265688.html"
+  },
+  {
+    "CVE": "CVE-2024-41996",
     "PoC": "https://dheatattack.gitlab.io/details/"
   },
   {
@@ -487364,8 +488684,56 @@
     "PoC": "https://github.com/CervantesSec/cervantes/commit/78631a034d0fb3323a53fb7428b2022b29a0d2cd"
   },
   {
+    "CVE": "CVE-2024-42070",
+    "PoC": "https://cert-portal.siemens.com/productcert/html/ssa-265688.html"
+  },
+  {
+    "CVE": "CVE-2024-42070",
+    "PoC": "https://cert-portal.siemens.com/productcert/html/ssa-613116.html"
+  },
+  {
+    "CVE": "CVE-2024-42082",
+    "PoC": "https://cert-portal.siemens.com/productcert/html/ssa-265688.html"
+  },
+  {
+    "CVE": "CVE-2024-42082",
+    "PoC": "https://cert-portal.siemens.com/productcert/html/ssa-613116.html"
+  },
+  {
+    "CVE": "CVE-2024-42090",
+    "PoC": "https://cert-portal.siemens.com/productcert/html/ssa-265688.html"
+  },
+  {
+    "CVE": "CVE-2024-42093",
+    "PoC": "https://cert-portal.siemens.com/productcert/html/ssa-265688.html"
+  },
+  {
+    "CVE": "CVE-2024-42093",
+    "PoC": "https://cert-portal.siemens.com/productcert/html/ssa-613116.html"
+  },
+  {
+    "CVE": "CVE-2024-42094",
+    "PoC": "https://cert-portal.siemens.com/productcert/html/ssa-265688.html"
+  },
+  {
+    "CVE": "CVE-2024-42094",
+    "PoC": "https://cert-portal.siemens.com/productcert/html/ssa-613116.html"
+  },
+  {
+    "CVE": "CVE-2024-42096",
+    "PoC": "https://cert-portal.siemens.com/productcert/html/ssa-265688.html"
+  },
+  {
+    "CVE": "CVE-2024-42097",
+    "PoC": "https://cert-portal.siemens.com/productcert/html/ssa-265688.html"
+  },
+  {
     "CVE": "CVE-2024-4210",
     "PoC": "https://hackerone.com/reports/2431562"
+  },
+  {
+    "CVE": "CVE-2024-42114",
+    "PoC": "https://cert-portal.siemens.com/productcert/html/ssa-265688.html"
   },
   {
     "CVE": "CVE-2024-42140",
@@ -487384,8 +488752,56 @@
     "PoC": "https://takeonme.org/cves/CVE-2024-4224.html"
   },
   {
+    "CVE": "CVE-2024-42259",
+    "PoC": "https://cert-portal.siemens.com/productcert/html/ssa-265688.html"
+  },
+  {
+    "CVE": "CVE-2024-42265",
+    "PoC": "https://cert-portal.siemens.com/productcert/html/ssa-265688.html"
+  },
+  {
     "CVE": "CVE-2024-4227",
     "PoC": "https://www.genivia.com/advisory.html#Upgrade_recommendation_when_option_-c++11_is_used_to_generate_C++11_source_code"
+  },
+  {
+    "CVE": "CVE-2024-42272",
+    "PoC": "https://cert-portal.siemens.com/productcert/html/ssa-265688.html"
+  },
+  {
+    "CVE": "CVE-2024-42276",
+    "PoC": "https://cert-portal.siemens.com/productcert/html/ssa-265688.html"
+  },
+  {
+    "CVE": "CVE-2024-42281",
+    "PoC": "https://cert-portal.siemens.com/productcert/html/ssa-265688.html"
+  },
+  {
+    "CVE": "CVE-2024-42283",
+    "PoC": "https://cert-portal.siemens.com/productcert/html/ssa-265688.html"
+  },
+  {
+    "CVE": "CVE-2024-42292",
+    "PoC": "https://cert-portal.siemens.com/productcert/html/ssa-265688.html"
+  },
+  {
+    "CVE": "CVE-2024-42302",
+    "PoC": "https://cert-portal.siemens.com/productcert/html/ssa-265688.html"
+  },
+  {
+    "CVE": "CVE-2024-42304",
+    "PoC": "https://cert-portal.siemens.com/productcert/html/ssa-265688.html"
+  },
+  {
+    "CVE": "CVE-2024-42305",
+    "PoC": "https://cert-portal.siemens.com/productcert/html/ssa-265688.html"
+  },
+  {
+    "CVE": "CVE-2024-42306",
+    "PoC": "https://cert-portal.siemens.com/productcert/html/ssa-265688.html"
+  },
+  {
+    "CVE": "CVE-2024-42312",
+    "PoC": "https://cert-portal.siemens.com/productcert/html/ssa-265688.html"
   },
   {
     "CVE": "CVE-2024-42318",
@@ -488640,16 +490056,80 @@
     "PoC": "https://wpscan.com/vulnerability/1a67aeab-8145-4c8a-9c18-e6436fa39b63/"
   },
   {
+    "CVE": "CVE-2024-43828",
+    "PoC": "https://cert-portal.siemens.com/productcert/html/ssa-265688.html"
+  },
+  {
+    "CVE": "CVE-2024-43830",
+    "PoC": "https://cert-portal.siemens.com/productcert/html/ssa-265688.html"
+  },
+  {
+    "CVE": "CVE-2024-43834",
+    "PoC": "https://cert-portal.siemens.com/productcert/html/ssa-265688.html"
+  },
+  {
     "CVE": "CVE-2024-4384",
     "PoC": "https://wpscan.com/vulnerability/ad714196-2590-4dc9-b5b9-50808e9e0d26/"
+  },
+  {
+    "CVE": "CVE-2024-43856",
+    "PoC": "https://cert-portal.siemens.com/productcert/html/ssa-265688.html"
+  },
+  {
+    "CVE": "CVE-2024-43858",
+    "PoC": "https://cert-portal.siemens.com/productcert/html/ssa-265688.html"
+  },
+  {
+    "CVE": "CVE-2024-43871",
+    "PoC": "https://cert-portal.siemens.com/productcert/html/ssa-265688.html"
+  },
+  {
+    "CVE": "CVE-2024-43871",
+    "PoC": "https://cert-portal.siemens.com/productcert/html/ssa-613116.html"
+  },
+  {
+    "CVE": "CVE-2024-43879",
+    "PoC": "https://cert-portal.siemens.com/productcert/html/ssa-265688.html"
   },
   {
     "CVE": "CVE-2024-4388",
     "PoC": "https://wpscan.com/vulnerability/5c791747-f60a-40a7-94fd-e4b9bb5ea2b0/"
   },
   {
+    "CVE": "CVE-2024-43882",
+    "PoC": "https://cert-portal.siemens.com/productcert/html/ssa-265688.html"
+  },
+  {
+    "CVE": "CVE-2024-43882",
+    "PoC": "https://cert-portal.siemens.com/productcert/html/ssa-613116.html"
+  },
+  {
     "CVE": "CVE-2024-43884",
     "PoC": "https://git.kernel.org/stable/c/5da2884292329bc9be32a7778e0e119f06abe503"
+  },
+  {
+    "CVE": "CVE-2024-43889",
+    "PoC": "https://cert-portal.siemens.com/productcert/html/ssa-265688.html"
+  },
+  {
+    "CVE": "CVE-2024-43889",
+    "PoC": "https://cert-portal.siemens.com/productcert/html/ssa-613116.html"
+  },
+  {
+    "CVE": "CVE-2024-43890",
+    "PoC": "https://cert-portal.siemens.com/productcert/html/ssa-265688.html"
+  },
+  {
+    "CVE": "CVE-2024-43890",
+    "PoC": "https://cert-portal.siemens.com/productcert/html/ssa-613116.html"
+  },
+  {
+    "CVE": "CVE-2024-43893",
+    "PoC": "https://cert-portal.siemens.com/productcert/html/ssa-265688.html"
+  },
+  {
+    "CVE": "CVE-2024-43893",
+    "PoC": "https://cert-portal.siemens.com/productcert/html/ssa-613116.html"
   },
   {
     "CVE": "CVE-2024-4395",
@@ -489164,8 +490644,28 @@
     "PoC": "https://vuldb.com/?id.263082"
   },
   {
+    "CVE": "CVE-2024-44935",
+    "PoC": "https://cert-portal.siemens.com/productcert/html/ssa-265688.html"
+  },
+  {
+    "CVE": "CVE-2024-44935",
+    "PoC": "https://cert-portal.siemens.com/productcert/html/ssa-613116.html"
+  },
+  {
     "CVE": "CVE-2024-4494",
     "PoC": "https://github.com/abcdefg-png/IoT-vulnerable/blob/main/Tenda/i/i21/formSetUplinkInfo.md"
+  },
+  {
+    "CVE": "CVE-2024-44944",
+    "PoC": "https://cert-portal.siemens.com/productcert/html/ssa-265688.html"
+  },
+  {
+    "CVE": "CVE-2024-44944",
+    "PoC": "https://cert-portal.siemens.com/productcert/html/ssa-613116.html"
+  },
+  {
+    "CVE": "CVE-2024-44948",
+    "PoC": "https://cert-portal.siemens.com/productcert/html/ssa-265688.html"
   },
   {
     "CVE": "CVE-2024-4495",
@@ -489180,12 +490680,52 @@
     "PoC": "https://github.com/abcdefg-png/IoT-vulnerable/blob/main/Tenda/i/i21/formWifiMacFilterSet.md"
   },
   {
+    "CVE": "CVE-2024-44960",
+    "PoC": "https://cert-portal.siemens.com/productcert/html/ssa-265688.html"
+  },
+  {
+    "CVE": "CVE-2024-44960",
+    "PoC": "https://cert-portal.siemens.com/productcert/html/ssa-613116.html"
+  },
+  {
     "CVE": "CVE-2024-4497",
     "PoC": "https://github.com/abcdefg-png/IoT-vulnerable/blob/main/Tenda/i/i21/formexeCommand.md"
   },
   {
+    "CVE": "CVE-2024-44987",
+    "PoC": "https://cert-portal.siemens.com/productcert/html/ssa-265688.html"
+  },
+  {
+    "CVE": "CVE-2024-44987",
+    "PoC": "https://cert-portal.siemens.com/productcert/html/ssa-613116.html"
+  },
+  {
+    "CVE": "CVE-2024-44989",
+    "PoC": "https://cert-portal.siemens.com/productcert/html/ssa-265688.html"
+  },
+  {
+    "CVE": "CVE-2024-44989",
+    "PoC": "https://cert-portal.siemens.com/productcert/html/ssa-613116.html"
+  },
+  {
+    "CVE": "CVE-2024-44990",
+    "PoC": "https://cert-portal.siemens.com/productcert/html/ssa-265688.html"
+  },
+  {
+    "CVE": "CVE-2024-44990",
+    "PoC": "https://cert-portal.siemens.com/productcert/html/ssa-613116.html"
+  },
+  {
     "CVE": "CVE-2024-4501",
     "PoC": "https://vuldb.com/?id.263105"
+  },
+  {
+    "CVE": "CVE-2024-45016",
+    "PoC": "https://cert-portal.siemens.com/productcert/html/ssa-265688.html"
+  },
+  {
+    "CVE": "CVE-2024-45018",
+    "PoC": "https://cert-portal.siemens.com/productcert/html/ssa-265688.html"
   },
   {
     "CVE": "CVE-2024-4502",
@@ -489754,6 +491294,18 @@
   {
     "CVE": "CVE-2024-4549",
     "PoC": "https://www.tenable.com/security/research/tra-2024-13"
+  },
+  {
+    "CVE": "CVE-2024-45490",
+    "PoC": "https://cert-portal.siemens.com/productcert/html/ssa-613116.html"
+  },
+  {
+    "CVE": "CVE-2024-45491",
+    "PoC": "https://cert-portal.siemens.com/productcert/html/ssa-613116.html"
+  },
+  {
+    "CVE": "CVE-2024-45492",
+    "PoC": "https://cert-portal.siemens.com/productcert/html/ssa-613116.html"
   },
   {
     "CVE": "CVE-2024-45508",
@@ -490720,12 +492272,52 @@
     "PoC": "https://github.com/magicblack/maccms10/issues/1183"
   },
   {
+    "CVE": "CVE-2024-46679",
+    "PoC": "https://cert-portal.siemens.com/productcert/html/ssa-265688.html"
+  },
+  {
+    "CVE": "CVE-2024-46679",
+    "PoC": "https://cert-portal.siemens.com/productcert/html/ssa-613116.html"
+  },
+  {
+    "CVE": "CVE-2024-46743",
+    "PoC": "https://cert-portal.siemens.com/productcert/html/ssa-265688.html"
+  },
+  {
+    "CVE": "CVE-2024-46744",
+    "PoC": "https://cert-portal.siemens.com/productcert/html/ssa-265688.html"
+  },
+  {
+    "CVE": "CVE-2024-46745",
+    "PoC": "https://cert-portal.siemens.com/productcert/html/ssa-265688.html"
+  },
+  {
+    "CVE": "CVE-2024-46750",
+    "PoC": "https://cert-portal.siemens.com/productcert/html/ssa-265688.html"
+  },
+  {
+    "CVE": "CVE-2024-46759",
+    "PoC": "https://cert-portal.siemens.com/productcert/html/ssa-265688.html"
+  },
+  {
     "CVE": "CVE-2024-4677",
     "PoC": "https://vuldb.com/?id.263598"
   },
   {
+    "CVE": "CVE-2024-46783",
+    "PoC": "https://cert-portal.siemens.com/productcert/html/ssa-265688.html"
+  },
+  {
     "CVE": "CVE-2024-46829",
     "PoC": "https://git.kernel.org/stable/c/6a976e9a47e8e5b326de671811561cab12e6fb1f"
+  },
+  {
+    "CVE": "CVE-2024-46854",
+    "PoC": "https://cert-portal.siemens.com/productcert/html/ssa-265688.html"
+  },
+  {
+    "CVE": "CVE-2024-46865",
+    "PoC": "https://cert-portal.siemens.com/productcert/html/ssa-265688.html"
   },
   {
     "CVE": "CVE-2024-46872",
@@ -491248,16 +492840,88 @@
     "PoC": "https://patchstack.com/database/vulnerability/elementinvader-addons-for-elementor/wordpress-elementinvader-addons-for-elementor-plugin-1-2-7-cross-site-scripting-xss-vulnerability?_s_id=cve"
   },
   {
+    "CVE": "CVE-2024-47660",
+    "PoC": "https://cert-portal.siemens.com/productcert/html/ssa-265688.html"
+  },
+  {
     "CVE": "CVE-2024-4768",
     "PoC": "https://bugzilla.mozilla.org/show_bug.cgi?id=1886082"
+  },
+  {
+    "CVE": "CVE-2024-47684",
+    "PoC": "https://cert-portal.siemens.com/productcert/html/ssa-265688.html"
+  },
+  {
+    "CVE": "CVE-2024-47685",
+    "PoC": "https://cert-portal.siemens.com/productcert/html/ssa-265688.html"
   },
   {
     "CVE": "CVE-2024-4769",
     "PoC": "https://bugzilla.mozilla.org/show_bug.cgi?id=1886108"
   },
   {
+    "CVE": "CVE-2024-47692",
+    "PoC": "https://cert-portal.siemens.com/productcert/html/ssa-265688.html"
+  },
+  {
+    "CVE": "CVE-2024-47696",
+    "PoC": "https://cert-portal.siemens.com/productcert/html/ssa-265688.html"
+  },
+  {
+    "CVE": "CVE-2024-47697",
+    "PoC": "https://cert-portal.siemens.com/productcert/html/ssa-265688.html"
+  },
+  {
+    "CVE": "CVE-2024-47699",
+    "PoC": "https://cert-portal.siemens.com/productcert/html/ssa-265688.html"
+  },
+  {
+    "CVE": "CVE-2024-47701",
+    "PoC": "https://cert-portal.siemens.com/productcert/html/ssa-265688.html"
+  },
+  {
+    "CVE": "CVE-2024-47705",
+    "PoC": "https://cert-portal.siemens.com/productcert/html/ssa-265688.html"
+  },
+  {
+    "CVE": "CVE-2024-47706",
+    "PoC": "https://cert-portal.siemens.com/productcert/html/ssa-265688.html"
+  },
+  {
+    "CVE": "CVE-2024-47707",
+    "PoC": "https://cert-portal.siemens.com/productcert/html/ssa-265688.html"
+  },
+  {
+    "CVE": "CVE-2024-47709",
+    "PoC": "https://cert-portal.siemens.com/productcert/html/ssa-265688.html"
+  },
+  {
+    "CVE": "CVE-2024-47710",
+    "PoC": "https://cert-portal.siemens.com/productcert/html/ssa-265688.html"
+  },
+  {
+    "CVE": "CVE-2024-47713",
+    "PoC": "https://cert-portal.siemens.com/productcert/html/ssa-265688.html"
+  },
+  {
+    "CVE": "CVE-2024-47718",
+    "PoC": "https://cert-portal.siemens.com/productcert/html/ssa-265688.html"
+  },
+  {
+    "CVE": "CVE-2024-47723",
+    "PoC": "https://cert-portal.siemens.com/productcert/html/ssa-265688.html"
+  },
+  {
     "CVE": "CVE-2024-4773",
     "PoC": "https://bugzilla.mozilla.org/show_bug.cgi?id=1875248"
+  },
+  {
+    "CVE": "CVE-2024-47735",
+    "PoC": "https://cert-portal.siemens.com/productcert/html/ssa-265688.html"
+  },
+  {
+    "CVE": "CVE-2024-47737",
+    "PoC": "https://cert-portal.siemens.com/productcert/html/ssa-265688.html"
   },
   {
     "CVE": "CVE-2024-47745",
@@ -491278,6 +492942,10 @@
   {
     "CVE": "CVE-2024-47745",
     "PoC": "https://git.kernel.org/stable/c/ea7e2d5e49c05e5db1922387b09ca74aa40f46e2"
+  },
+  {
+    "CVE": "CVE-2024-47747",
+    "PoC": "https://cert-portal.siemens.com/productcert/html/ssa-265688.html"
   },
   {
     "CVE": "CVE-2024-4775",
@@ -492844,6 +494512,10 @@
     "PoC": "https://github.com/justdan96/tsMuxer/issues/879"
   },
   {
+    "CVE": "CVE-2024-49851",
+    "PoC": "https://cert-portal.siemens.com/productcert/html/ssa-265688.html"
+  },
+  {
     "CVE": "CVE-2024-49853",
     "PoC": "https://git.kernel.org/stable/c/aef6ae124bb3cc12e34430fed91fbb7efd7a444d"
   },
@@ -492876,12 +494548,100 @@
     "PoC": "https://git.kernel.org/stable/c/ace9c778a214da9c98d7b69d904d1b0816f4f681"
   },
   {
+    "CVE": "CVE-2024-49889",
+    "PoC": "https://cert-portal.siemens.com/productcert/html/ssa-265688.html"
+  },
+  {
+    "CVE": "CVE-2024-49890",
+    "PoC": "https://cert-portal.siemens.com/productcert/html/ssa-265688.html"
+  },
+  {
+    "CVE": "CVE-2024-49892",
+    "PoC": "https://cert-portal.siemens.com/productcert/html/ssa-265688.html"
+  },
+  {
+    "CVE": "CVE-2024-49894",
+    "PoC": "https://cert-portal.siemens.com/productcert/html/ssa-265688.html"
+  },
+  {
+    "CVE": "CVE-2024-49900",
+    "PoC": "https://cert-portal.siemens.com/productcert/html/ssa-265688.html"
+  },
+  {
+    "CVE": "CVE-2024-49902",
+    "PoC": "https://cert-portal.siemens.com/productcert/html/ssa-265688.html"
+  },
+  {
+    "CVE": "CVE-2024-49903",
+    "PoC": "https://cert-portal.siemens.com/productcert/html/ssa-265688.html"
+  },
+  {
+    "CVE": "CVE-2024-49930",
+    "PoC": "https://cert-portal.siemens.com/productcert/html/ssa-265688.html"
+  },
+  {
+    "CVE": "CVE-2024-49938",
+    "PoC": "https://cert-portal.siemens.com/productcert/html/ssa-265688.html"
+  },
+  {
+    "CVE": "CVE-2024-49944",
+    "PoC": "https://cert-portal.siemens.com/productcert/html/ssa-265688.html"
+  },
+  {
     "CVE": "CVE-2024-49947",
     "PoC": "https://git.kernel.org/stable/c/49d14b54a527289d09a9480f214b8c586322310a"
   },
   {
+    "CVE": "CVE-2024-49948",
+    "PoC": "https://cert-portal.siemens.com/productcert/html/ssa-265688.html"
+  },
+  {
+    "CVE": "CVE-2024-49949",
+    "PoC": "https://cert-portal.siemens.com/productcert/html/ssa-265688.html"
+  },
+  {
+    "CVE": "CVE-2024-49952",
+    "PoC": "https://cert-portal.siemens.com/productcert/html/ssa-265688.html"
+  },
+  {
+    "CVE": "CVE-2024-49955",
+    "PoC": "https://cert-portal.siemens.com/productcert/html/ssa-265688.html"
+  },
+  {
+    "CVE": "CVE-2024-49973",
+    "PoC": "https://cert-portal.siemens.com/productcert/html/ssa-265688.html"
+  },
+  {
+    "CVE": "CVE-2024-49977",
+    "PoC": "https://cert-portal.siemens.com/productcert/html/ssa-265688.html"
+  },
+  {
+    "CVE": "CVE-2024-49997",
+    "PoC": "https://cert-portal.siemens.com/productcert/html/ssa-265688.html"
+  },
+  {
+    "CVE": "CVE-2024-50001",
+    "PoC": "https://cert-portal.siemens.com/productcert/html/ssa-265688.html"
+  },
+  {
     "CVE": "CVE-2024-50001",
     "PoC": "https://git.kernel.org/stable/c/fc357e78176945ca7bcacf92ab794b9ccd41b4f4"
+  },
+  {
+    "CVE": "CVE-2024-50006",
+    "PoC": "https://cert-portal.siemens.com/productcert/html/ssa-265688.html"
+  },
+  {
+    "CVE": "CVE-2024-50008",
+    "PoC": "https://cert-portal.siemens.com/productcert/html/ssa-265688.html"
+  },
+  {
+    "CVE": "CVE-2024-50010",
+    "PoC": "https://cert-portal.siemens.com/productcert/html/ssa-265688.html"
+  },
+  {
+    "CVE": "CVE-2024-50015",
+    "PoC": "https://cert-portal.siemens.com/productcert/html/ssa-265688.html"
   },
   {
     "CVE": "CVE-2024-5002",
@@ -492892,12 +494652,44 @@
     "PoC": "https://wpscan.com/vulnerability/1d7d0372-bbc5-40b2-a668-253c819415c4/"
   },
   {
+    "CVE": "CVE-2024-50033",
+    "PoC": "https://cert-portal.siemens.com/productcert/html/ssa-265688.html"
+  },
+  {
+    "CVE": "CVE-2024-50035",
+    "PoC": "https://cert-portal.siemens.com/productcert/html/ssa-265688.html"
+  },
+  {
+    "CVE": "CVE-2024-50039",
+    "PoC": "https://cert-portal.siemens.com/productcert/html/ssa-265688.html"
+  },
+  {
     "CVE": "CVE-2024-5004",
     "PoC": "https://wpscan.com/vulnerability/4bea7baa-84a2-4b21-881c-4f17822329e7/"
   },
   {
+    "CVE": "CVE-2024-50040",
+    "PoC": "https://cert-portal.siemens.com/productcert/html/ssa-265688.html"
+  },
+  {
+    "CVE": "CVE-2024-50044",
+    "PoC": "https://cert-portal.siemens.com/productcert/html/ssa-265688.html"
+  },
+  {
+    "CVE": "CVE-2024-50045",
+    "PoC": "https://cert-portal.siemens.com/productcert/html/ssa-265688.html"
+  },
+  {
+    "CVE": "CVE-2024-50046",
+    "PoC": "https://cert-portal.siemens.com/productcert/html/ssa-265688.html"
+  },
+  {
     "CVE": "CVE-2024-50052",
     "PoC": "https://mattermost.com/security-updates"
+  },
+  {
+    "CVE": "CVE-2024-50058",
+    "PoC": "https://cert-portal.siemens.com/productcert/html/ssa-265688.html"
   },
   {
     "CVE": "CVE-2024-50066",
@@ -492924,12 +494716,52 @@
     "PoC": "https://git.kernel.org/stable/c/c29f192e0d44cc1cbaf698fa1ff198f63556691a"
   },
   {
+    "CVE": "CVE-2024-50095",
+    "PoC": "https://cert-portal.siemens.com/productcert/html/ssa-265688.html"
+  },
+  {
     "CVE": "CVE-2024-5011",
     "PoC": "https://www.talosintelligence.com/vulnerability_reports/TALOS-2024-1934"
   },
   {
     "CVE": "CVE-2024-50114",
     "PoC": "https://git.kernel.org/stable/c/ae8f8b37610269009326f4318df161206c59843e"
+  },
+  {
+    "CVE": "CVE-2024-50121",
+    "PoC": "https://cert-portal.siemens.com/productcert/html/ssa-265688.html"
+  },
+  {
+    "CVE": "CVE-2024-50127",
+    "PoC": "https://cert-portal.siemens.com/productcert/html/ssa-265688.html"
+  },
+  {
+    "CVE": "CVE-2024-50131",
+    "PoC": "https://cert-portal.siemens.com/productcert/html/ssa-265688.html"
+  },
+  {
+    "CVE": "CVE-2024-50134",
+    "PoC": "https://cert-portal.siemens.com/productcert/html/ssa-265688.html"
+  },
+  {
+    "CVE": "CVE-2024-50142",
+    "PoC": "https://cert-portal.siemens.com/productcert/html/ssa-265688.html"
+  },
+  {
+    "CVE": "CVE-2024-50148",
+    "PoC": "https://cert-portal.siemens.com/productcert/html/ssa-265688.html"
+  },
+  {
+    "CVE": "CVE-2024-50150",
+    "PoC": "https://cert-portal.siemens.com/productcert/html/ssa-265688.html"
+  },
+  {
+    "CVE": "CVE-2024-50151",
+    "PoC": "https://cert-portal.siemens.com/productcert/html/ssa-265688.html"
+  },
+  {
+    "CVE": "CVE-2024-50153",
+    "PoC": "https://cert-portal.siemens.com/productcert/html/ssa-265688.html"
   },
   {
     "CVE": "CVE-2024-50153",
@@ -492940,12 +494772,32 @@
     "PoC": "https://www.talosintelligence.com/vulnerability_reports/TALOS-2024-1932"
   },
   {
+    "CVE": "CVE-2024-50188",
+    "PoC": "https://cert-portal.siemens.com/productcert/html/ssa-265688.html"
+  },
+  {
+    "CVE": "CVE-2024-50205",
+    "PoC": "https://cert-portal.siemens.com/productcert/html/ssa-265688.html"
+  },
+  {
+    "CVE": "CVE-2024-50210",
+    "PoC": "https://cert-portal.siemens.com/productcert/html/ssa-265688.html"
+  },
+  {
+    "CVE": "CVE-2024-50251",
+    "PoC": "https://cert-portal.siemens.com/productcert/html/ssa-265688.html"
+  },
+  {
     "CVE": "CVE-2024-50251",
     "PoC": "https://github.com/slavin-ayu/CVE-2024-50251-PoC"
   },
   {
     "CVE": "CVE-2024-5026",
     "PoC": "https://wpscan.com/vulnerability/a86584f6-119b-45c3-bc6e-dc18e3501db7/"
+  },
+  {
+    "CVE": "CVE-2024-50262",
+    "PoC": "https://cert-portal.siemens.com/productcert/html/ssa-265688.html"
   },
   {
     "CVE": "CVE-2024-50264",
@@ -492960,8 +494812,20 @@
     "PoC": "https://wpscan.com/vulnerability/f0f4a33c-9dd2-45ee-82e7-4b8bc2c20094/"
   },
   {
+    "CVE": "CVE-2024-50299",
+    "PoC": "https://cert-portal.siemens.com/productcert/html/ssa-265688.html"
+  },
+  {
     "CVE": "CVE-2024-5030",
     "PoC": "https://wpscan.com/vulnerability/2c2e994c-31bd-4de4-9480-b86f980d4130/"
+  },
+  {
+    "CVE": "CVE-2024-50301",
+    "PoC": "https://cert-portal.siemens.com/productcert/html/ssa-265688.html"
+  },
+  {
+    "CVE": "CVE-2024-50302",
+    "PoC": "https://cert-portal.siemens.com/productcert/html/ssa-265688.html"
   },
   {
     "CVE": "CVE-2024-5032",
@@ -494744,6 +496608,18 @@
     "PoC": "https://sec-consult.com/vulnerability-lab/advisory/stored-cross-site-scripting-in-omada-identity/"
   },
   {
+    "CVE": "CVE-2024-53042",
+    "PoC": "https://cert-portal.siemens.com/productcert/html/ssa-265688.html"
+  },
+  {
+    "CVE": "CVE-2024-53057",
+    "PoC": "https://cert-portal.siemens.com/productcert/html/ssa-265688.html"
+  },
+  {
+    "CVE": "CVE-2024-53059",
+    "PoC": "https://cert-portal.siemens.com/productcert/html/ssa-265688.html"
+  },
+  {
     "CVE": "CVE-2024-53093",
     "PoC": "https://git.kernel.org/stable/c/4a57f42e5ed42cb8f1beb262c4f6d3e698939e4e"
   },
@@ -494754,6 +496630,14 @@
   {
     "CVE": "CVE-2024-5310",
     "PoC": "https://vuldb.com/?id.266121"
+  },
+  {
+    "CVE": "CVE-2024-53101",
+    "PoC": "https://cert-portal.siemens.com/productcert/html/ssa-265688.html"
+  },
+  {
+    "CVE": "CVE-2024-53124",
+    "PoC": "https://cert-portal.siemens.com/productcert/html/ssa-265688.html"
   },
   {
     "CVE": "CVE-2024-53150",
@@ -495968,6 +497852,14 @@
     "PoC": "https://wpscan.com/vulnerability/66d0b4b7-cd4b-4ec4-95c0-d50773cb0b8f/"
   },
   {
+    "CVE": "CVE-2024-5535",
+    "PoC": "https://cert-portal.siemens.com/productcert/html/ssa-265688.html"
+  },
+  {
+    "CVE": "CVE-2024-5535",
+    "PoC": "https://cert-portal.siemens.com/productcert/html/ssa-613116.html"
+  },
+  {
     "CVE": "CVE-2024-55354",
     "PoC": "https://dev.lucee.org/t/lucee-cve-2024-55354-security-advisory-april-2025/14963"
   },
@@ -496560,8 +498452,16 @@
     "PoC": "https://github.com/sbaresearch/advisories/tree/public/2024/SBA-ADV-20240202-02_CraftCMS_Plugin_Two-Factor_Authentication_TOTP_Valid_After_Use"
   },
   {
+    "CVE": "CVE-2024-56631",
+    "PoC": "https://cert-portal.siemens.com/productcert/html/ssa-265688.html"
+  },
+  {
     "CVE": "CVE-2024-56669",
     "PoC": "https://git.kernel.org/stable/c/9a0a72d3ed919ebe6491f527630998be053151d8"
+  },
+  {
+    "CVE": "CVE-2024-56672",
+    "PoC": "https://cert-portal.siemens.com/productcert/html/ssa-265688.html"
   },
   {
     "CVE": "CVE-2024-56705",
@@ -497788,12 +499688,40 @@
     "PoC": "https://github.com/pedrib/PoC/blob/master/fuzzing/raptor-fuzz.md"
   },
   {
+    "CVE": "CVE-2024-57901",
+    "PoC": "https://cert-portal.siemens.com/productcert/html/ssa-265688.html"
+  },
+  {
+    "CVE": "CVE-2024-57902",
+    "PoC": "https://cert-portal.siemens.com/productcert/html/ssa-265688.html"
+  },
+  {
+    "CVE": "CVE-2024-57913",
+    "PoC": "https://cert-portal.siemens.com/productcert/html/ssa-265688.html"
+  },
+  {
     "CVE": "CVE-2024-5792",
     "PoC": "https://favethemes.zendesk.com/hc/en-us/articles/360041639432-Changelog"
   },
   {
+    "CVE": "CVE-2024-57929",
+    "PoC": "https://cert-portal.siemens.com/productcert/html/ssa-265688.html"
+  },
+  {
     "CVE": "CVE-2024-5793",
     "PoC": "https://favethemes.zendesk.com/hc/en-us/articles/360041639432-Changelog"
+  },
+  {
+    "CVE": "CVE-2024-57940",
+    "PoC": "https://cert-portal.siemens.com/productcert/html/ssa-265688.html"
+  },
+  {
+    "CVE": "CVE-2024-57948",
+    "PoC": "https://cert-portal.siemens.com/productcert/html/ssa-265688.html"
+  },
+  {
+    "CVE": "CVE-2024-57951",
+    "PoC": "https://cert-portal.siemens.com/productcert/html/ssa-265688.html"
   },
   {
     "CVE": "CVE-2024-57965",
@@ -497804,24 +499732,88 @@
     "PoC": "https://github.com/darumaseye/CVEs/blob/ec2de9f7ecffde466e687745bfdfc672e86241d7/CVE-2024-57971.md"
   },
   {
+    "CVE": "CVE-2024-57977",
+    "PoC": "https://cert-portal.siemens.com/productcert/html/ssa-265688.html"
+  },
+  {
+    "CVE": "CVE-2024-57979",
+    "PoC": "https://cert-portal.siemens.com/productcert/html/ssa-265688.html"
+  },
+  {
+    "CVE": "CVE-2024-57981",
+    "PoC": "https://cert-portal.siemens.com/productcert/html/ssa-265688.html"
+  },
+  {
+    "CVE": "CVE-2024-57986",
+    "PoC": "https://cert-portal.siemens.com/productcert/html/ssa-265688.html"
+  },
+  {
     "CVE": "CVE-2024-5799",
     "PoC": "https://wpscan.com/vulnerability/3ee3023a-541c-40e6-8d62-24b4b110633c/"
+  },
+  {
+    "CVE": "CVE-2024-58005",
+    "PoC": "https://cert-portal.siemens.com/productcert/html/ssa-265688.html"
+  },
+  {
+    "CVE": "CVE-2024-58009",
+    "PoC": "https://cert-portal.siemens.com/productcert/html/ssa-265688.html"
+  },
+  {
+    "CVE": "CVE-2024-58014",
+    "PoC": "https://cert-portal.siemens.com/productcert/html/ssa-265688.html"
+  },
+  {
+    "CVE": "CVE-2024-58016",
+    "PoC": "https://cert-portal.siemens.com/productcert/html/ssa-265688.html"
+  },
+  {
+    "CVE": "CVE-2024-58017",
+    "PoC": "https://cert-portal.siemens.com/productcert/html/ssa-265688.html"
   },
   {
     "CVE": "CVE-2024-5802",
     "PoC": "https://wpscan.com/vulnerability/cd37f702-9144-4c98-9b08-c63e510cd97f/"
   },
   {
+    "CVE": "CVE-2024-58020",
+    "PoC": "https://cert-portal.siemens.com/productcert/html/ssa-265688.html"
+  },
+  {
     "CVE": "CVE-2024-5803",
     "PoC": "https://support.norton.com/sp/static/external/tools/security-advisories.html"
+  },
+  {
+    "CVE": "CVE-2024-58051",
+    "PoC": "https://cert-portal.siemens.com/productcert/html/ssa-265688.html"
+  },
+  {
+    "CVE": "CVE-2024-58058",
+    "PoC": "https://cert-portal.siemens.com/productcert/html/ssa-265688.html"
+  },
+  {
+    "CVE": "CVE-2024-58063",
+    "PoC": "https://cert-portal.siemens.com/productcert/html/ssa-265688.html"
   },
   {
     "CVE": "CVE-2024-5807",
     "PoC": "https://wpscan.com/vulnerability/badb16b5-8c06-4170-b605-ea7af8982c1f/"
   },
   {
+    "CVE": "CVE-2024-58071",
+    "PoC": "https://cert-portal.siemens.com/productcert/html/ssa-265688.html"
+  },
+  {
+    "CVE": "CVE-2024-58072",
+    "PoC": "https://cert-portal.siemens.com/productcert/html/ssa-265688.html"
+  },
+  {
     "CVE": "CVE-2024-5808",
     "PoC": "https://wpscan.com/vulnerability/1783bbce-3cc3-4a7e-a491-b713cee8278b/"
+  },
+  {
+    "CVE": "CVE-2024-58085",
+    "PoC": "https://cert-portal.siemens.com/productcert/html/ssa-265688.html"
   },
   {
     "CVE": "CVE-2024-5809",
@@ -498090,6 +500082,10 @@
   {
     "CVE": "CVE-2024-58343",
     "PoC": "https://github.com/websec/Vision-Helpdesk-Exploit"
+  },
+  {
+    "CVE": "CVE-2024-58343",
+    "PoC": "https://websec.net/blog/critical-vulnerability-in-vision-helpdesk-allows-unauthorized-session-access-67264646bde7fa99ea26446f"
   },
   {
     "CVE": "CVE-2024-58344",
@@ -498450,6 +500446,10 @@
   {
     "CVE": "CVE-2024-6116",
     "PoC": "https://vuldb.com/?id.268868"
+  },
+  {
+    "CVE": "CVE-2024-6119",
+    "PoC": "https://cert-portal.siemens.com/productcert/html/ssa-613116.html"
   },
   {
     "CVE": "CVE-2024-6127",
@@ -503484,6 +505484,10 @@
     "PoC": "https://portal.perforce.com/s/detail/a91PA000001SYZFYA4"
   },
   {
+    "CVE": "CVE-2024-9143",
+    "PoC": "https://cert-portal.siemens.com/productcert/html/ssa-265688.html"
+  },
+  {
     "CVE": "CVE-2024-9145",
     "PoC": "https://www.wiz.io/security-advisories"
   },
@@ -507938,6 +509942,10 @@
   {
     "CVE": "CVE-2025-11026",
     "PoC": "https://gist.github.com/KhanMarshaI/14b48f974cbdaa3278a81a169e4caae1"
+  },
+  {
+    "CVE": "CVE-2025-11026",
+    "PoC": "https://vuldb.com/?id.325964"
   },
   {
     "CVE": "CVE-2025-11027",
@@ -514829,6 +516837,10 @@
   },
   {
     "CVE": "CVE-2025-15493",
+    "PoC": "https://github.com/xkalami-Tta0/CVE/blob/main/DocSys/sql%E6%B3%A8%E5%85%A52.md"
+  },
+  {
+    "CVE": "CVE-2025-15493",
     "PoC": "https://github.com/xkalami-Tta0/CVE/blob/main/DocSys/sql%E6%B3%A8%E5%85%A52.md#vulnerability-analysis-and-reproduction%E6%BC%8F%E6%B4%9E%E5%88%86%E6%9E%90%E5%A4%8D%E7%8E%B0"
   },
   {
@@ -514866,6 +516878,14 @@
   {
     "CVE": "CVE-2025-1550",
     "PoC": "https://towerofhanoi.it/writeups/cve-2025-1550/"
+  },
+  {
+    "CVE": "CVE-2025-15500",
+    "PoC": "https://github.com/master-abc/cve/issues/11"
+  },
+  {
+    "CVE": "CVE-2025-15500",
+    "PoC": "https://github.com/master-abc/cve/issues/11#issue-3770602189"
   },
   {
     "CVE": "CVE-2025-15501",
@@ -515024,8 +517044,16 @@
     "PoC": "https://mattermost.com/security-updates"
   },
   {
+    "CVE": "CVE-2025-15582",
+    "PoC": "https://github.com/detronetdip/E-commerce/issues/23"
+  },
+  {
     "CVE": "CVE-2025-15583",
     "PoC": "https://github.com/Nixon-H/PHP-Stored-XSS-Bypass-Real-Escape"
+  },
+  {
+    "CVE": "CVE-2025-15583",
+    "PoC": "https://github.com/detronetdip/E-commerce/issues/23"
   },
   {
     "CVE": "CVE-2025-15585",
@@ -517156,6 +519184,54 @@
     "PoC": "https://github.com/glpi-project/glpi/releases/tag/10.0.18"
   },
   {
+    "CVE": "CVE-2025-21638",
+    "PoC": "https://cert-portal.siemens.com/productcert/html/ssa-265688.html"
+  },
+  {
+    "CVE": "CVE-2025-21639",
+    "PoC": "https://cert-portal.siemens.com/productcert/html/ssa-265688.html"
+  },
+  {
+    "CVE": "CVE-2025-21640",
+    "PoC": "https://cert-portal.siemens.com/productcert/html/ssa-265688.html"
+  },
+  {
+    "CVE": "CVE-2025-21647",
+    "PoC": "https://cert-portal.siemens.com/productcert/html/ssa-265688.html"
+  },
+  {
+    "CVE": "CVE-2025-21648",
+    "PoC": "https://cert-portal.siemens.com/productcert/html/ssa-265688.html"
+  },
+  {
+    "CVE": "CVE-2025-21653",
+    "PoC": "https://cert-portal.siemens.com/productcert/html/ssa-265688.html"
+  },
+  {
+    "CVE": "CVE-2025-21664",
+    "PoC": "https://cert-portal.siemens.com/productcert/html/ssa-265688.html"
+  },
+  {
+    "CVE": "CVE-2025-21666",
+    "PoC": "https://cert-portal.siemens.com/productcert/html/ssa-265688.html"
+  },
+  {
+    "CVE": "CVE-2025-21669",
+    "PoC": "https://cert-portal.siemens.com/productcert/html/ssa-265688.html"
+  },
+  {
+    "CVE": "CVE-2025-21678",
+    "PoC": "https://cert-portal.siemens.com/productcert/html/ssa-265688.html"
+  },
+  {
+    "CVE": "CVE-2025-21683",
+    "PoC": "https://cert-portal.siemens.com/productcert/html/ssa-265688.html"
+  },
+  {
+    "CVE": "CVE-2025-21692",
+    "PoC": "https://cert-portal.siemens.com/productcert/html/ssa-265688.html"
+  },
+  {
     "CVE": "CVE-2025-21692",
     "PoC": "https://git.kernel.org/stable/c/03c56665dab1f4ac844bc156652d50d639093fa5"
   },
@@ -517184,16 +519260,148 @@
     "PoC": "https://git.kernel.org/stable/c/f6b0f05fbfa4044f890e8a348288c0d9a20bd1d0"
   },
   {
+    "CVE": "CVE-2025-21694",
+    "PoC": "https://cert-portal.siemens.com/productcert/html/ssa-265688.html"
+  },
+  {
+    "CVE": "CVE-2025-21704",
+    "PoC": "https://cert-portal.siemens.com/productcert/html/ssa-265688.html"
+  },
+  {
+    "CVE": "CVE-2025-21711",
+    "PoC": "https://cert-portal.siemens.com/productcert/html/ssa-265688.html"
+  },
+  {
+    "CVE": "CVE-2025-21719",
+    "PoC": "https://cert-portal.siemens.com/productcert/html/ssa-265688.html"
+  },
+  {
+    "CVE": "CVE-2025-21726",
+    "PoC": "https://cert-portal.siemens.com/productcert/html/ssa-265688.html"
+  },
+  {
+    "CVE": "CVE-2025-21727",
+    "PoC": "https://cert-portal.siemens.com/productcert/html/ssa-265688.html"
+  },
+  {
+    "CVE": "CVE-2025-21728",
+    "PoC": "https://cert-portal.siemens.com/productcert/html/ssa-265688.html"
+  },
+  {
     "CVE": "CVE-2025-2173",
     "PoC": "https://vuldb.com/?id.299202"
+  },
+  {
+    "CVE": "CVE-2025-21735",
+    "PoC": "https://cert-portal.siemens.com/productcert/html/ssa-265688.html"
   },
   {
     "CVE": "CVE-2025-21742",
     "PoC": "https://git.kernel.org/stable/c/86586dcb75cb8fd062a518aca8ee667938b91efb"
   },
   {
+    "CVE": "CVE-2025-21744",
+    "PoC": "https://cert-portal.siemens.com/productcert/html/ssa-265688.html"
+  },
+  {
+    "CVE": "CVE-2025-21745",
+    "PoC": "https://cert-portal.siemens.com/productcert/html/ssa-265688.html"
+  },
+  {
+    "CVE": "CVE-2025-21753",
+    "PoC": "https://cert-portal.siemens.com/productcert/html/ssa-265688.html"
+  },
+  {
+    "CVE": "CVE-2025-21756",
+    "PoC": "https://cert-portal.siemens.com/productcert/html/ssa-265688.html"
+  },
+  {
+    "CVE": "CVE-2025-21760",
+    "PoC": "https://cert-portal.siemens.com/productcert/html/ssa-265688.html"
+  },
+  {
+    "CVE": "CVE-2025-21761",
+    "PoC": "https://cert-portal.siemens.com/productcert/html/ssa-265688.html"
+  },
+  {
+    "CVE": "CVE-2025-21762",
+    "PoC": "https://cert-portal.siemens.com/productcert/html/ssa-265688.html"
+  },
+  {
+    "CVE": "CVE-2025-21763",
+    "PoC": "https://cert-portal.siemens.com/productcert/html/ssa-265688.html"
+  },
+  {
+    "CVE": "CVE-2025-21764",
+    "PoC": "https://cert-portal.siemens.com/productcert/html/ssa-265688.html"
+  },
+  {
+    "CVE": "CVE-2025-21765",
+    "PoC": "https://cert-portal.siemens.com/productcert/html/ssa-265688.html"
+  },
+  {
     "CVE": "CVE-2025-2177",
     "PoC": "https://vuldb.com/?id.299206"
+  },
+  {
+    "CVE": "CVE-2025-21772",
+    "PoC": "https://cert-portal.siemens.com/productcert/html/ssa-265688.html"
+  },
+  {
+    "CVE": "CVE-2025-21776",
+    "PoC": "https://cert-portal.siemens.com/productcert/html/ssa-265688.html"
+  },
+  {
+    "CVE": "CVE-2025-21787",
+    "PoC": "https://cert-portal.siemens.com/productcert/html/ssa-265688.html"
+  },
+  {
+    "CVE": "CVE-2025-21795",
+    "PoC": "https://cert-portal.siemens.com/productcert/html/ssa-265688.html"
+  },
+  {
+    "CVE": "CVE-2025-21796",
+    "PoC": "https://cert-portal.siemens.com/productcert/html/ssa-265688.html"
+  },
+  {
+    "CVE": "CVE-2025-21806",
+    "PoC": "https://cert-portal.siemens.com/productcert/html/ssa-265688.html"
+  },
+  {
+    "CVE": "CVE-2025-21814",
+    "PoC": "https://cert-portal.siemens.com/productcert/html/ssa-265688.html"
+  },
+  {
+    "CVE": "CVE-2025-21826",
+    "PoC": "https://cert-portal.siemens.com/productcert/html/ssa-265688.html"
+  },
+  {
+    "CVE": "CVE-2025-21835",
+    "PoC": "https://cert-portal.siemens.com/productcert/html/ssa-265688.html"
+  },
+  {
+    "CVE": "CVE-2025-21844",
+    "PoC": "https://cert-portal.siemens.com/productcert/html/ssa-265688.html"
+  },
+  {
+    "CVE": "CVE-2025-21846",
+    "PoC": "https://cert-portal.siemens.com/productcert/html/ssa-265688.html"
+  },
+  {
+    "CVE": "CVE-2025-21858",
+    "PoC": "https://cert-portal.siemens.com/productcert/html/ssa-265688.html"
+  },
+  {
+    "CVE": "CVE-2025-21859",
+    "PoC": "https://cert-portal.siemens.com/productcert/html/ssa-265688.html"
+  },
+  {
+    "CVE": "CVE-2025-21862",
+    "PoC": "https://cert-portal.siemens.com/productcert/html/ssa-265688.html"
+  },
+  {
+    "CVE": "CVE-2025-21865",
+    "PoC": "https://cert-portal.siemens.com/productcert/html/ssa-265688.html"
   },
   {
     "CVE": "CVE-2025-21876",
@@ -521664,8 +523872,28 @@
     "PoC": "https://www.bleepingcomputer.com/news/security/undocumented-commands-found-in-bluetooth-chip-used-by-a-billion-devices/"
   },
   {
+    "CVE": "CVE-2025-27845",
+    "PoC": "https://espec.com"
+  },
+  {
+    "CVE": "CVE-2025-27845",
+    "PoC": "https://espec.com/na/about/detail/cve_2025_27845"
+  },
+  {
+    "CVE": "CVE-2025-27846",
+    "PoC": "https://espec.com"
+  },
+  {
     "CVE": "CVE-2025-27846",
     "PoC": "https://espec.com/na/about/detail/cve_2025_27846"
+  },
+  {
+    "CVE": "CVE-2025-27847",
+    "PoC": "https://espec.com"
+  },
+  {
+    "CVE": "CVE-2025-27847",
+    "PoC": "https://espec.com/na/about/detail/cve_2025_27847"
   },
   {
     "CVE": "CVE-2025-27889",
@@ -524126,6 +526354,10 @@
   {
     "CVE": "CVE-2025-3197",
     "PoC": "https://security.snyk.io/vuln/SNYK-JS-EXPANDOBJECT-5821390"
+  },
+  {
+    "CVE": "CVE-2025-3198",
+    "PoC": "https://cert-portal.siemens.com/productcert/html/ssa-265688.html"
   },
   {
     "CVE": "CVE-2025-3199",
@@ -533510,6 +535742,14 @@
   {
     "CVE": "CVE-2025-52410",
     "PoC": "https://github.com/mathurvishal/Institute-of-Current-Students---PHP-Project/issues/2"
+  },
+  {
+    "CVE": "CVE-2025-5244",
+    "PoC": "https://cert-portal.siemens.com/productcert/html/ssa-265688.html"
+  },
+  {
+    "CVE": "CVE-2025-5245",
+    "PoC": "https://cert-portal.siemens.com/productcert/html/ssa-265688.html"
   },
   {
     "CVE": "CVE-2025-52456",
@@ -545160,6 +547400,10 @@
     "PoC": "https://github.com/HDFGroup/hdf5/issues/5571"
   },
   {
+    "CVE": "CVE-2025-68160",
+    "PoC": "https://cert-portal.siemens.com/productcert/html/ssa-265688.html"
+  },
+  {
     "CVE": "CVE-2025-6817",
     "PoC": "https://github.com/HDFGroup/hdf5/issues/5572"
   },
@@ -545596,8 +547840,24 @@
     "PoC": "https://github.com/awindog/cve/blob/main/688/27.md#poc"
   },
   {
+    "CVE": "CVE-2025-69418",
+    "PoC": "https://cert-portal.siemens.com/productcert/html/ssa-265688.html"
+  },
+  {
+    "CVE": "CVE-2025-69419",
+    "PoC": "https://cert-portal.siemens.com/productcert/html/ssa-265688.html"
+  },
+  {
     "CVE": "CVE-2025-6942",
     "PoC": "https://trust.delinea.com/?tcuUid=2b68edca-7930-438d-b960-2d6da07cdde9"
+  },
+  {
+    "CVE": "CVE-2025-69420",
+    "PoC": "https://cert-portal.siemens.com/productcert/html/ssa-265688.html"
+  },
+  {
+    "CVE": "CVE-2025-69421",
+    "PoC": "https://cert-portal.siemens.com/productcert/html/ssa-265688.html"
   },
   {
     "CVE": "CVE-2025-6943",
@@ -546676,6 +548936,10 @@
     "PoC": "https://github.com/wudipjq/my_vuln/blob/main/Tenda3/vuln_56/56.md#poc"
   },
   {
+    "CVE": "CVE-2025-7425",
+    "PoC": "https://cert-portal.siemens.com/productcert/html/ssa-265688.html"
+  },
+  {
     "CVE": "CVE-2025-7426",
     "PoC": "https://www.cryptron.ch/en/blog-detail/security-advisory-CVE-2025-7426-en.html"
   },
@@ -546970,6 +549234,14 @@
   {
     "CVE": "CVE-2025-7544",
     "PoC": "https://github.com/panda666-888/vuls/blob/main/tenda/ac1206/formSetMacFilterCfg.md#poc"
+  },
+  {
+    "CVE": "CVE-2025-7545",
+    "PoC": "https://cert-portal.siemens.com/productcert/html/ssa-265688.html"
+  },
+  {
+    "CVE": "CVE-2025-7546",
+    "PoC": "https://cert-portal.siemens.com/productcert/html/ssa-265688.html"
   },
   {
     "CVE": "CVE-2025-7546",
@@ -548290,6 +550562,10 @@
   {
     "CVE": "CVE-2025-8223",
     "PoC": "https://github.com/Bemcliu/cve-reports/blob/main/cve-06-%E8%9B%8B%E7%B3%95%E5%95%86%E5%9F%8EJPA%E7%89%88-CSRF/readme.md"
+  },
+  {
+    "CVE": "CVE-2025-8224",
+    "PoC": "https://cert-portal.siemens.com/productcert/html/ssa-265688.html"
   },
   {
     "CVE": "CVE-2025-8229",
@@ -550714,6 +552990,10 @@
   {
     "CVE": "CVE-2025-9216",
     "PoC": "https://ryankozak.com/posts/cve-2025-9216/"
+  },
+  {
+    "CVE": "CVE-2025-9230",
+    "PoC": "https://cert-portal.siemens.com/productcert/html/ssa-265688.html"
   },
   {
     "CVE": "CVE-2025-9231",
@@ -554820,6 +557100,14 @@
     "PoC": "https://github.com/Shirshaw64p/security-advisories/tree/main/CVE-2026-21631"
   },
   {
+    "CVE": "CVE-2026-2164",
+    "PoC": "https://github.com/detronetdip/E-commerce/issues/23"
+  },
+  {
+    "CVE": "CVE-2026-2165",
+    "PoC": "https://github.com/detronetdip/E-commerce/issues/23"
+  },
+  {
     "CVE": "CVE-2026-21678",
     "PoC": "https://github.com/InternationalColorConsortium/iccDEV/issues/55"
   },
@@ -555434,6 +557722,14 @@
   {
     "CVE": "CVE-2026-22794",
     "PoC": "https://github.com/appsmithorg/appsmith/security/advisories/GHSA-7hf5-mc28-xmcv"
+  },
+  {
+    "CVE": "CVE-2026-22795",
+    "PoC": "https://cert-portal.siemens.com/productcert/html/ssa-265688.html"
+  },
+  {
+    "CVE": "CVE-2026-22796",
+    "PoC": "https://cert-portal.siemens.com/productcert/html/ssa-265688.html"
   },
   {
     "CVE": "CVE-2026-22799",
@@ -557960,6 +560256,10 @@
     "PoC": "https://github.com/nolimits4web/swiper/security/advisories/GHSA-hmx5-qpq5-p643"
   },
   {
+    "CVE": "CVE-2026-2725",
+    "PoC": "https://issues.gerritcodereview.com/issues/486131256"
+  },
+  {
     "CVE": "CVE-2026-2728",
     "PoC": "https://projectblack.io/blog/librenms-authenticated-rce-and-xss/#xss-on-showconfig-page-2630"
   },
@@ -558210,6 +560510,10 @@
   {
     "CVE": "CVE-2026-27659",
     "PoC": "https://mattermost.com/security-updates"
+  },
+  {
+    "CVE": "CVE-2026-27663",
+    "PoC": "http://seclists.org/fulldisclosure/2026/Apr/6"
   },
   {
     "CVE": "CVE-2026-27691",
@@ -558690,6 +560994,22 @@
   {
     "CVE": "CVE-2026-28384",
     "PoC": "https://github.com/canonical/lxd/security/advisories/GHSA-4rmf-rcp8-2r9g"
+  },
+  {
+    "CVE": "CVE-2026-28387",
+    "PoC": "https://cert-portal.siemens.com/productcert/html/ssa-265688.html"
+  },
+  {
+    "CVE": "CVE-2026-28388",
+    "PoC": "https://cert-portal.siemens.com/productcert/html/ssa-265688.html"
+  },
+  {
+    "CVE": "CVE-2026-28389",
+    "PoC": "https://cert-portal.siemens.com/productcert/html/ssa-265688.html"
+  },
+  {
+    "CVE": "CVE-2026-28390",
+    "PoC": "https://cert-portal.siemens.com/productcert/html/ssa-265688.html"
   },
   {
     "CVE": "CVE-2026-28403",
@@ -560557,6 +562877,10 @@
   },
   {
     "CVE": "CVE-2026-31431",
+    "PoC": "https://cert-portal.siemens.com/productcert/html/ssa-265688.html"
+  },
+  {
+    "CVE": "CVE-2026-31431",
     "PoC": "https://copy.fail"
   },
   {
@@ -561402,6 +563726,10 @@
   {
     "CVE": "CVE-2026-33870",
     "PoC": "https://w4ke.info/2025/06/18/funky-chunks.html"
+  },
+  {
+    "CVE": "CVE-2026-33874",
+    "PoC": "https://www.machinespirits.de/advisory/2e655e/"
   },
   {
     "CVE": "CVE-2026-3388",
@@ -562292,6 +564620,10 @@
     "PoC": "https://github.com/efekaanakkar/Apartment-Visitors-Management-System-CVEs/"
   },
   {
+    "CVE": "CVE-2026-3925",
+    "PoC": "https://issues.chromium.org/issues/418214610"
+  },
+  {
     "CVE": "CVE-2026-3927",
     "PoC": "https://issues.chromium.org/issues/474948986"
   },
@@ -562992,6 +565324,10 @@
     "PoC": "https://github.com/notamitgamer/mojic/security/advisories/GHSA-wqq3-wfmp-v85g"
   },
   {
+    "CVE": "CVE-2026-41250",
+    "PoC": "https://neodyme.io/en/advisories/cve-2026-41250/"
+  },
+  {
     "CVE": "CVE-2026-41253",
     "PoC": "https://blog.calif.io/p/mad-bugs-even-cat-readmetxt-is-not"
   },
@@ -563238,6 +565574,14 @@
   {
     "CVE": "CVE-2026-4171",
     "PoC": "https://vuldb.com/?id.351078"
+  },
+  {
+    "CVE": "CVE-2026-41712",
+    "PoC": "https://nvd.nist.gov/vuln-metrics/cvss/v3-calculator?vector=AV:N/AC:L/PR:N/UI:N/S:U/C:H/I:N/A:N&version=3.1"
+  },
+  {
+    "CVE": "CVE-2026-41713",
+    "PoC": "https://nvd.nist.gov/vuln-metrics/cvss/v3-calculator?vector=AV:N/AC:L/PR:N/UI:N/S:U/C:L/I:H/A:N&version=3.1"
   },
   {
     "CVE": "CVE-2026-4172",
@@ -563520,6 +565864,10 @@
     "PoC": "https://lowlevel.fun/posts/tiny-udp-cannon-android-vpn-bypass/"
   },
   {
+    "CVE": "CVE-2026-45185",
+    "PoC": "https://xbow.com/blog/dead-letter-cve-2026-45185-xbow-found-rce-exim"
+  },
+  {
     "CVE": "CVE-2026-4533",
     "PoC": "https://github.com/ahmadmarz10-hub/CVEsMarz/blob/main/SQL%20Injection%20(Time-Based%20Blind)Simple%20Food%20Ordering%20System%20in%20PHP.md?plain=1"
   },
@@ -563688,6 +566036,10 @@
     "PoC": "https://github.com/4m3rr0r/PoCVulDb/issues/15"
   },
   {
+    "CVE": "CVE-2026-5146",
+    "PoC": "https://devolutions.net/security/advisories/DEVO-2026-0012"
+  },
+  {
     "CVE": "CVE-2026-5147",
     "PoC": "https://vuldb.com/submit/780191"
   },
@@ -563842,6 +566194,10 @@
   {
     "CVE": "CVE-2026-5656",
     "PoC": "https://gitlab.com/wireshark/wireshark/-/issues/21115"
+  },
+  {
+    "CVE": "CVE-2026-5663",
+    "PoC": "https://machinespirits.com/advisory/2e1627/"
   },
   {
     "CVE": "CVE-2026-5663",
@@ -564150,5 +566506,9 @@
   {
     "CVE": "CVE-2026-8263",
     "PoC": "https://github.com/yaoyue123/iot/blob/main/Tenda/AC10U/fromSetWirelessRepeat.md"
+  },
+  {
+    "CVE": "CVE-2026-8407",
+    "PoC": "https://devolutions.net/security/advisories/DEVO-2026-0010/"
   }
 ]
