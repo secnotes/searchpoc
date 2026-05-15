@@ -76641,6 +76641,10 @@
   },
   {
     "CVE": "CVE-2010-0307",
+    "PoC": "http://www.redhat.com/support/errata/RHSA-2010-0771.html"
+  },
+  {
+    "CVE": "CVE-2010-0307",
     "PoC": "http://www.vmware.com/security/advisories/VMSA-2011-0003.html"
   },
   {
@@ -82789,6 +82793,10 @@
   },
   {
     "CVE": "CVE-2010-2942",
+    "PoC": "http://www.redhat.com/support/errata/RHSA-2010-0771.html"
+  },
+  {
+    "CVE": "CVE-2010-2942",
     "PoC": "http://www.ubuntu.com/usn/USN-1000-1"
   },
   {
@@ -82822,6 +82830,10 @@
   {
     "CVE": "CVE-2010-2954",
     "PoC": "http://www.ubuntu.com/usn/USN-1000-1"
+  },
+  {
+    "CVE": "CVE-2010-2955",
+    "PoC": "http://www.redhat.com/support/errata/RHSA-2010-0771.html"
   },
   {
     "CVE": "CVE-2010-2955",
@@ -83370,6 +83382,10 @@
   {
     "CVE": "CVE-2010-3296",
     "PoC": "http://www.vmware.com/security/advisories/VMSA-2011-0012.html"
+  },
+  {
+    "CVE": "CVE-2010-3297",
+    "PoC": "http://www.redhat.com/support/errata/RHSA-2010-0771.html"
   },
   {
     "CVE": "CVE-2010-3297",
@@ -173100,6 +173116,10 @@
     "PoC": "https://www.exploit-db.com/exploits/44543/"
   },
   {
+    "CVE": "CVE-2016-10036",
+    "PoC": "https://www.jfrog.com/confluence/display/RTF/Release+Notes#ReleaseNotes-Artifactory4.16"
+  },
+  {
     "CVE": "CVE-2016-10043",
     "PoC": "https://www.exploit-db.com/exploits/41179/"
   },
@@ -187950,6 +187970,10 @@
   {
     "CVE": "CVE-2016-6501",
     "PoC": "https://www.blackhat.com/docs/us-16/materials/us-16-Munoz-A-Journey-From-JNDI-LDAP-Manipulation-To-RCE-wp.pdf"
+  },
+  {
+    "CVE": "CVE-2016-6501",
+    "PoC": "https://www.jfrog.com/confluence/display/RTF/Release+Notes#ReleaseNotes-MainUpdates.7"
   },
   {
     "CVE": "CVE-2016-6503",
@@ -276364,6 +276388,14 @@
     "PoC": "https://github.com/eyoucms/eyoucms/issues/1"
   },
   {
+    "CVE": "CVE-2019-17444",
+    "PoC": "https://www.jfrog.com/confluence/display/JFROG/Artifactory+Release+Notes"
+  },
+  {
+    "CVE": "CVE-2019-17444",
+    "PoC": "https://www.jfrog.com/confluence/display/JFROG/JFrog+Artifactory"
+  },
+  {
     "CVE": "CVE-2019-17449",
     "PoC": "https://safebreach.com/Post/Avira-Antivirus-2019-4-Services-DLL-Preloading-and-Potential-Abuses-CVE-2019-17449"
   },
@@ -280038,6 +280070,14 @@
   {
     "CVE": "CVE-2019-19935",
     "PoC": "https://snyk.io/vuln/npm:froala-editor"
+  },
+  {
+    "CVE": "CVE-2019-19937",
+    "PoC": "https://www.jfrog.com/confluence/display/RTF6X/Importing+and+Exporting"
+  },
+  {
+    "CVE": "CVE-2019-19937",
+    "PoC": "https://www.jfrog.com/confluence/display/RTF6X/Release+Notes#ReleaseNotes-Artifactory6.18"
   },
   {
     "CVE": "CVE-2019-19940",
@@ -295706,6 +295746,10 @@
   {
     "CVE": "CVE-2019-9733",
     "PoC": "http://packetstormsecurity.com/files/152172/JFrog-Artifactory-Administrator-Authentication-Bypass.html"
+  },
+  {
+    "CVE": "CVE-2019-9733",
+    "PoC": "https://www.jfrog.com/confluence/display/RTF/Release+Notes#ReleaseNotes-Artifactory6.8.6"
   },
   {
     "CVE": "CVE-2019-9734",
@@ -328440,6 +328484,22 @@
     "PoC": "https://www.exploit-db.com/exploits/47839"
   },
   {
+    "CVE": "CVE-2020-37218",
+    "PoC": "https://www.exploit-db.com/exploits/48242"
+  },
+  {
+    "CVE": "CVE-2020-37219",
+    "PoC": "https://www.exploit-db.com/exploits/48263"
+  },
+  {
+    "CVE": "CVE-2020-37220",
+    "PoC": "https://www.exploit-db.com/exploits/48310"
+  },
+  {
+    "CVE": "CVE-2020-37225",
+    "PoC": "https://www.exploit-db.com/exploits/48656"
+  },
+  {
     "CVE": "CVE-2020-3811",
     "PoC": "https://www.openwall.com/lists/oss-security/2020/05/19/8"
   },
@@ -340850,6 +340910,10 @@
   {
     "CVE": "CVE-2021-2316",
     "PoC": "https://www.oracle.com/security-alerts/cpuapr2021.html"
+  },
+  {
+    "CVE": "CVE-2021-23163",
+    "PoC": "https://www.jfrog.com/confluence/display/JFROG/JFrog+Security+Advisories"
   },
   {
     "CVE": "CVE-2021-23165",
@@ -373280,6 +373344,10 @@
     "PoC": "https://www.oracle.com/security-alerts/cpujul2022.html"
   },
   {
+    "CVE": "CVE-2021-45074",
+    "PoC": "https://www.jfrog.com/confluence/display/JFROG/JFrog+Security+Advisories"
+  },
+  {
     "CVE": "CVE-2021-45078",
     "PoC": "https://sourceware.org/bugzilla/show_bug.cgi?id=28694"
   },
@@ -374140,6 +374208,10 @@
     "PoC": "https://kb.netgear.com/000064528/Security-Advisory-for-Vertical-Privilege-Escalation-on-Some-Routers-PSV-2021-0043"
   },
   {
+    "CVE": "CVE-2021-45721",
+    "PoC": "https://www.jfrog.com/confluence/display/JFROG/JFrog+Security+Advisories"
+  },
+  {
     "CVE": "CVE-2021-45760",
     "PoC": "https://github.com/gpac/gpac/issues/1966"
   },
@@ -374774,6 +374846,10 @@
   {
     "CVE": "CVE-2021-46265",
     "PoC": "https://github.com/Ainevsia/CVE-Request/tree/main/Tenda/13"
+  },
+  {
+    "CVE": "CVE-2021-46270",
+    "PoC": "https://www.jfrog.com/confluence/display/JFROG/JFrog+Security+Advisories"
   },
   {
     "CVE": "CVE-2021-46283",
@@ -375818,6 +375894,10 @@
   {
     "CVE": "CVE-2021-46681",
     "PoC": "https://pandorafms.com/en/security/common-vulnerabilities-and-exposures/"
+  },
+  {
+    "CVE": "CVE-2021-46687",
+    "PoC": "https://www.jfrog.com/confluence/display/JFROG/JFrog+Security+Advisories"
   },
   {
     "CVE": "CVE-2021-46700",
@@ -378584,6 +378664,14 @@
     "PoC": "https://huntr.dev/bounties/bf3e0643-03e9-4436-a1c8-74e7111c32bf"
   },
   {
+    "CVE": "CVE-2022-0573",
+    "PoC": "https://www.jfrog.com/confluence/display/JFROG/CVE-2022-0573%3A+Artifactory+Vulnerable+to+Deserialization+of+Untrusted+Data"
+  },
+  {
+    "CVE": "CVE-2022-0573",
+    "PoC": "https://www.jfrog.com/confluence/display/JFROG/JFrog+Security+Advisories"
+  },
+  {
     "CVE": "CVE-2022-0574",
     "PoC": "https://huntr.dev/bounties/6f322c84-9e20-4df6-97e8-92bc271ede3f"
   },
@@ -378866,6 +378954,10 @@
   {
     "CVE": "CVE-2022-0666",
     "PoC": "https://huntr.dev/bounties/7215afc7-9133-4749-8e8e-0569317dbd55"
+  },
+  {
+    "CVE": "CVE-2022-0668",
+    "PoC": "https://www.jfrog.com/confluence/display/JFROG/CVE-2022-0668%3A+Artifactory+Authentication+Bypass"
   },
   {
     "CVE": "CVE-2022-0669",
@@ -396616,6 +396708,10 @@
     "PoC": "https://dolosgroup.io/blog"
   },
   {
+    "CVE": "CVE-2022-29856",
+    "PoC": "https://www.automationanywhere.com/products/automation-360"
+  },
+  {
     "CVE": "CVE-2022-29858",
     "PoC": "https://huntr.dev/bounties/90e17d95-9f2f-44eb-9f26-49fa13a41d5a/"
   },
@@ -407468,6 +407564,14 @@
     "PoC": "https://wpscan.com/vulnerability/da1f0313-2576-490e-a95f-bf12de340610"
   },
   {
+    "CVE": "CVE-2022-38481",
+    "PoC": "https://www.mega.com/en/hopex-platform"
+  },
+  {
+    "CVE": "CVE-2022-38482",
+    "PoC": "https://www.mega.com/en/hopex-platform"
+  },
+  {
     "CVE": "CVE-2022-38488",
     "PoC": "https://github.com/secoats/cve/tree/master/CVE-2022-38488_sqli_logrocket-oauth2-example"
   },
@@ -414866,6 +414970,10 @@
   {
     "CVE": "CVE-2022-44204",
     "PoC": "https://www.dlink.com/en/security-bulletin/"
+  },
+  {
+    "CVE": "CVE-2022-44213",
+    "PoC": "https://the-it-wonders.blogspot.com/2022/09/zkt-eco-adms-stored-xss.html"
   },
   {
     "CVE": "CVE-2022-44215",
@@ -448008,6 +448116,14 @@
     "PoC": "https://wpscan.com/vulnerability/9c271619-f478-45c3-91d9-be0f55ee06a2"
   },
   {
+    "CVE": "CVE-2023-42508",
+    "PoC": "https://jfrog.com/help/r/jfrog-release-information/jfrog-security-advisories"
+  },
+  {
+    "CVE": "CVE-2023-42509",
+    "PoC": "https://jfrog.com/help/r/jfrog-release-information/jfrog-security-advisories"
+  },
+  {
     "CVE": "CVE-2023-4251",
     "PoC": "https://wpscan.com/vulnerability/ce564628-3d15-4bc5-8b8e-60b71786ac19"
   },
@@ -448306,6 +448422,14 @@
   {
     "CVE": "CVE-2023-4265",
     "PoC": "https://github.com/zephyrproject-rtos/zephyr/security/advisories/GHSA-4vgv-5r6q-r6xh"
+  },
+  {
+    "CVE": "CVE-2023-42661",
+    "PoC": "https://jfrog.com/help/r/jfrog-release-information/jfrog-security-advisories"
+  },
+  {
+    "CVE": "CVE-2023-42662",
+    "PoC": "https://jfrog.com/help/r/jfrog-release-information/jfrog-security-advisories"
   },
   {
     "CVE": "CVE-2023-4269",
@@ -470580,6 +470704,14 @@
     "PoC": "https://github.com/Mintplex-Labs/anything-llm/security/advisories/GHSA-xmj6-g32r-fc5q"
   },
   {
+    "CVE": "CVE-2024-2247",
+    "PoC": "https://jfrog.com/help/r/jfrog-release-information/jfrog-security-advisories"
+  },
+  {
+    "CVE": "CVE-2024-2248",
+    "PoC": "https://jfrog.com/help/r/jfrog-release-information/jfrog-security-advisories"
+  },
+  {
     "CVE": "CVE-2024-22490",
     "PoC": "https://github.com/cui2shark/security/blob/main/beetl-bbs%20-%20A%20reflected%20cross-site%20scripting%20%28XSS%29%20vulnerability%20was%20discovered%20in%20the%20search%20box.md"
   },
@@ -473046,6 +473178,10 @@
   {
     "CVE": "CVE-2024-2515",
     "PoC": "https://github.com/skid-nochizplz/skid-nochizplz/blob/main/TrashBin/CVE/MAGESH-K21%20%20Online-College-Event-Hall-Reservation-System/Reflected%20XSS%20-%20home.php.md"
+  },
+  {
+    "CVE": "CVE-2024-25153",
+    "PoC": "https://github.com/nettitude/CVE-2024-25153/blob/master/CVE-2024-25153.py"
   },
   {
     "CVE": "CVE-2024-2516",
@@ -482288,6 +482424,10 @@
     "PoC": "https://github.com/javahuang/SurveyKing/issues/55"
   },
   {
+    "CVE": "CVE-2024-3505",
+    "PoC": "https://jfrog.com/help/r/jfrog-release-information/jfrog-security-advisories"
+  },
+  {
     "CVE": "CVE-2024-35050",
     "PoC": "https://github.com/javahuang/SurveyKing/issues/57"
   },
@@ -487844,6 +487984,10 @@
     "PoC": "https://medium.com/@aksalsalimi/cve-2024-41226-response-manipulation-led-to-csv-injection-9ae3182dcc02"
   },
   {
+    "CVE": "CVE-2024-41226",
+    "PoC": "https://www.automationanywhere.com/products/automation-360"
+  },
+  {
     "CVE": "CVE-2024-41228",
     "PoC": "https://gist.github.com/cafan/68ed2d065a4b9c1c37c70a18077ad27b"
   },
@@ -488050,6 +488194,10 @@
   {
     "CVE": "CVE-2024-4140",
     "PoC": "https://github.com/rjbs/Email-MIME/issues/66"
+  },
+  {
+    "CVE": "CVE-2024-4142",
+    "PoC": "https://jfrog.com/help/r/jfrog-release-information/jfrog-security-advisories"
   },
   {
     "CVE": "CVE-2024-41437",
@@ -501644,6 +501792,14 @@
     "PoC": "https://cyberdanube.com/en/en-multiple-vulnerabilities-in-perten-processplus/"
   },
   {
+    "CVE": "CVE-2024-6915",
+    "PoC": "https://jfrog.com/help/r/jfrog-release-information/jfrog-security-advisories"
+  },
+  {
+    "CVE": "CVE-2024-6922",
+    "PoC": "https://www.automationanywhere.com/products/automation-360"
+  },
+  {
     "CVE": "CVE-2024-6923",
     "PoC": "https://github.com/python/cpython/pull/122233"
   },
@@ -513312,6 +513468,10 @@
     "PoC": "https://github.com/JasonCyberYu/SimpleCafe/issues/1"
   },
   {
+    "CVE": "CVE-2025-13203",
+    "PoC": "https://vuldb.com/?submit.686708"
+  },
+  {
     "CVE": "CVE-2025-13204",
     "PoC": "https://github.com/silentmatt/expr-eval/pull/252/files"
   },
@@ -515376,6 +515536,10 @@
     "PoC": "https://wpscan.com/vulnerability/872569bc-16fb-427f-accc-147f284137cd/"
   },
   {
+    "CVE": "CVE-2025-14830",
+    "PoC": "https://jfrog.com/help/r/jfrog-release-information/jfrog-security-advisories"
+  },
+  {
     "CVE": "CVE-2025-14832",
     "PoC": "https://github.com/ZhangYu-del/cve/issues/1"
   },
@@ -516354,6 +516518,10 @@
   {
     "CVE": "CVE-2025-1534",
     "PoC": "https://www.gruppotim.it/it/footer/red-team.html"
+  },
+  {
+    "CVE": "CVE-2025-15345",
+    "PoC": "https://research.cleantalk.org/cve-2025-15345"
   },
   {
     "CVE": "CVE-2025-1535",
@@ -525398,6 +525566,10 @@
   {
     "CVE": "CVE-2025-30179",
     "PoC": "https://mattermost.com/security-updates"
+  },
+  {
+    "CVE": "CVE-2025-3018",
+    "PoC": "https://github.com/csemfl/cve/blob/main/sql.md"
   },
   {
     "CVE": "CVE-2025-3018",
@@ -555504,6 +555676,10 @@
     "PoC": "https://gitlab.com/gitlab-org/gitlab/-/issues/584975"
   },
   {
+    "CVE": "CVE-2026-0602",
+    "PoC": "https://gitlab.com/gitlab-org/gitlab/-/work_items/585007"
+  },
+  {
     "CVE": "CVE-2026-0603",
     "PoC": "https://bugzilla.redhat.com/show_bug.cgi?id=2427147"
   },
@@ -556010,6 +556186,10 @@
   {
     "CVE": "CVE-2026-1213",
     "PoC": "https://fluidattacks.com/advisories/ghost"
+  },
+  {
+    "CVE": "CVE-2026-1230",
+    "PoC": "https://gitlab.com/gitlab-org/gitlab/-/work_items/587002"
   },
   {
     "CVE": "CVE-2026-1235",
@@ -561961,6 +562141,10 @@
   },
   {
     "CVE": "CVE-2026-3046",
+    "PoC": "https://vuldb.com/?ctiid.347406"
+  },
+  {
+    "CVE": "CVE-2026-3046",
     "PoC": "https://vuldb.com/?id.347406"
   },
   {
@@ -562622,6 +562806,10 @@
   {
     "CVE": "CVE-2026-31153",
     "PoC": "https://github.com/Henkel-CyberVM/CVEs/tree/main/CVE-2026-31153"
+  },
+  {
+    "CVE": "CVE-2026-31156",
+    "PoC": "https://github.com/unicorn-hyh/CVE-2026-31156"
   },
   {
     "CVE": "CVE-2026-31159",
@@ -565768,6 +565956,10 @@
     "PoC": "https://www.openwall.com/lists/oss-security/2026/04/30/8"
   },
   {
+    "CVE": "CVE-2026-42945",
+    "PoC": "https://depthfirst.com/nginx-rift"
+  },
+  {
     "CVE": "CVE-2026-43002",
     "PoC": "https://bugs.launchpad.net/horizon/+bug/2150331"
   },
@@ -565838,6 +566030,10 @@
   {
     "CVE": "CVE-2026-4474",
     "PoC": "https://github.com/sjkdhl/public/issues/1"
+  },
+  {
+    "CVE": "CVE-2026-44919",
+    "PoC": "https://bugs.launchpad.net/ironic/+bug/2150332"
   },
   {
     "CVE": "CVE-2026-4496",
@@ -566506,6 +566702,10 @@
   {
     "CVE": "CVE-2026-8263",
     "PoC": "https://github.com/yaoyue123/iot/blob/main/Tenda/AC10U/fromSetWirelessRepeat.md"
+  },
+  {
+    "CVE": "CVE-2026-8367",
+    "PoC": "https://www.tenable.com/security/research/tra-2026-38"
   },
   {
     "CVE": "CVE-2026-8407",
