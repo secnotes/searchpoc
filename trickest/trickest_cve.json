@@ -201268,6 +201268,10 @@
     "PoC": "http://lists.openwall.net/full-disclosure/2017/09/14/2"
   },
   {
+    "CVE": "CVE-2017-14503",
+    "PoC": "https://github.com/libarchive/libarchive/issues/948"
+  },
+  {
     "CVE": "CVE-2017-14504",
     "PoC": "https://sourceforge.net/p/graphicsmagick/bugs/466/"
   },
@@ -328316,6 +328320,10 @@
     "PoC": "https://www.exploit-db.com/exploits/47997"
   },
   {
+    "CVE": "CVE-2020-37174",
+    "PoC": "https://www.exploit-db.com/exploits/48088"
+  },
+  {
     "CVE": "CVE-2020-37175",
     "PoC": "https://www.exploit-db.com/exploits/47993"
   },
@@ -328494,6 +328502,10 @@
   {
     "CVE": "CVE-2020-37220",
     "PoC": "https://www.exploit-db.com/exploits/48310"
+  },
+  {
+    "CVE": "CVE-2020-37223",
+    "PoC": "https://www.exploit-db.com/exploits/48543"
   },
   {
     "CVE": "CVE-2020-37225",
@@ -348722,6 +348734,10 @@
   {
     "CVE": "CVE-2021-25631",
     "PoC": "https://www.libreoffice.org/about-us/security/advisories/cve-2021-25631/"
+  },
+  {
+    "CVE": "CVE-2021-25633",
+    "PoC": "https://www.libreoffice.org/about-us/security/advisories/CVE-2021-25633"
   },
   {
     "CVE": "CVE-2021-25634",
@@ -377312,6 +377328,10 @@
     "PoC": "https://www.exploit-db.com/exploits/50447"
   },
   {
+    "CVE": "CVE-2021-47931",
+    "PoC": "https://www.exploit-db.com/exploits/50611"
+  },
+  {
     "CVE": "CVE-2021-47932",
     "PoC": "https://www.exploit-db.com/exploits/50378"
   },
@@ -377328,12 +377348,20 @@
     "PoC": "https://www.exploit-db.com/exploits/50415"
   },
   {
+    "CVE": "CVE-2021-47944",
+    "PoC": "https://www.exploit-db.com/exploits/49977"
+  },
+  {
     "CVE": "CVE-2021-47945",
     "PoC": "https://www.exploit-db.com/exploits/50261"
   },
   {
     "CVE": "CVE-2021-47950",
     "PoC": "https://www.exploit-db.com/exploits/49875"
+  },
+  {
+    "CVE": "CVE-2021-47953",
+    "PoC": "https://www.exploit-db.com/exploits/49970"
   },
   {
     "CVE": "CVE-2022-0001",
@@ -420676,32 +420704,64 @@
     "PoC": "https://www.exploit-db.com/exploits/50693"
   },
   {
+    "CVE": "CVE-2022-50962",
+    "PoC": "https://www.vulnerability-lab.com/get_content.php?id=2289"
+  },
+  {
     "CVE": "CVE-2022-50963",
     "PoC": "https://www.exploit-db.com/exploits/50693"
+  },
+  {
+    "CVE": "CVE-2022-50963",
+    "PoC": "https://www.vulnerability-lab.com/get_content.php?id=2289"
   },
   {
     "CVE": "CVE-2022-50964",
     "PoC": "https://www.exploit-db.com/exploits/50693"
   },
   {
+    "CVE": "CVE-2022-50964",
+    "PoC": "https://www.vulnerability-lab.com/get_content.php?id=2289"
+  },
+  {
     "CVE": "CVE-2022-50965",
     "PoC": "https://www.exploit-db.com/exploits/50693"
+  },
+  {
+    "CVE": "CVE-2022-50965",
+    "PoC": "https://www.vulnerability-lab.com/get_content.php?id=2289"
   },
   {
     "CVE": "CVE-2022-50966",
     "PoC": "https://www.exploit-db.com/exploits/50693"
   },
   {
+    "CVE": "CVE-2022-50966",
+    "PoC": "https://www.vulnerability-lab.com/get_content.php?id=2289"
+  },
+  {
     "CVE": "CVE-2022-50967",
     "PoC": "https://www.exploit-db.com/exploits/50693"
+  },
+  {
+    "CVE": "CVE-2022-50967",
+    "PoC": "https://www.vulnerability-lab.com/get_content.php?id=2289"
   },
   {
     "CVE": "CVE-2022-50968",
     "PoC": "https://www.exploit-db.com/exploits/50693"
   },
   {
+    "CVE": "CVE-2022-50968",
+    "PoC": "https://www.vulnerability-lab.com/get_content.php?id=2289"
+  },
+  {
     "CVE": "CVE-2022-50969",
     "PoC": "https://www.exploit-db.com/exploits/50693"
+  },
+  {
+    "CVE": "CVE-2022-50969",
+    "PoC": "https://www.vulnerability-lab.com/get_content.php?id=2289"
   },
   {
     "CVE": "CVE-2022-50975",
@@ -460400,6 +460460,10 @@
     "PoC": "https://huntr.com/bounties/2cf11678-8793-4fa1-b21a-f135564a105d"
   },
   {
+    "CVE": "CVE-2023-6891",
+    "PoC": "https://peazip.github.io/changelog.html"
+  },
+  {
     "CVE": "CVE-2023-6893",
     "PoC": "https://github.com/willchen0011/cve/blob/main/download.md"
   },
@@ -463722,6 +463786,10 @@
   {
     "CVE": "CVE-2024-10776",
     "PoC": "https://www.first.org/cvss/calculator/3.1"
+  },
+  {
+    "CVE": "CVE-2024-10782",
+    "PoC": "https://www.wordfence.com/threat-intel/vulnerabilities/id/73ad8840-b60f-4a92-b1c9-0996f78ab6b4?source=cve"
   },
   {
     "CVE": "CVE-2024-10791",
@@ -483316,6 +483384,10 @@
     "PoC": "https://github.com/hacklantic/Research/tree/main/CVE-2024-36057"
   },
   {
+    "CVE": "CVE-2024-36058",
+    "PoC": "https://github.com/hacklantic/Research/tree/main/CVE-2024-36058"
+  },
+  {
     "CVE": "CVE-2024-36062",
     "PoC": "https://github.com/actuator/com.callassistant.android/blob/main/CVE-2024-36062"
   },
@@ -492288,6 +492360,14 @@
     "PoC": "https://rhinosecuritylabs.com/research/cve-2024-46506-rce-in-netalertx/"
   },
   {
+    "CVE": "CVE-2024-46507",
+    "PoC": "https://rhinosecuritylabs.com/research/cve-2024-46507-yeti-server-side-template-injection-ssti/"
+  },
+  {
+    "CVE": "CVE-2024-46508",
+    "PoC": "https://rhinosecuritylabs.com/research/cve-2024-46507-yeti-server-side-template-injection-ssti/"
+  },
+  {
     "CVE": "CVE-2024-46528",
     "PoC": "https://okankurtulus.com.tr/2024/09/09/idor-vulnerability-in-kubesphere/"
   },
@@ -501010,6 +501090,10 @@
   {
     "CVE": "CVE-2024-6414",
     "PoC": "https://kiwiyumi.com/post/traksys-export-page-code/"
+  },
+  {
+    "CVE": "CVE-2024-6415",
+    "PoC": "https://gentle-khaan-c53.notion.site/Self-Reflected-XSS-in-Ingenico-The-Estate-Manager-94b4c85ffe074c6b870a6454f73edaf4?pvs=4"
   },
   {
     "CVE": "CVE-2024-6415",
@@ -535740,6 +535824,10 @@
     "PoC": "https://vuldb.com/?submit.582970"
   },
   {
+    "CVE": "CVE-2025-52204",
+    "PoC": "https://github.com/j0qq3r/CVE-2025-52204"
+  },
+  {
     "CVE": "CVE-2025-5224",
     "PoC": "https://github.com/kkive/cve/issues/1"
   },
@@ -555796,6 +555884,10 @@
     "PoC": "https://devolutions.net/security/advisories/DEVO-2026-0002/"
   },
   {
+    "CVE": "CVE-2026-0752",
+    "PoC": "https://gitlab.com/gitlab-org/gitlab/-/issues/585371"
+  },
+  {
     "CVE": "CVE-2026-0803",
     "PoC": "https://note-hxlab.wetolink.com/share/qX132pk8Wofk"
   },
@@ -555874,6 +555966,10 @@
   {
     "CVE": "CVE-2026-0962",
     "PoC": "https://gitlab.com/wireshark/wireshark/-/issues/20945"
+  },
+  {
+    "CVE": "CVE-2026-0972",
+    "PoC": "http://seclists.org/fulldisclosure/2026/Apr/8"
   },
   {
     "CVE": "CVE-2026-0997",
@@ -557286,6 +557382,10 @@
   {
     "CVE": "CVE-2026-2165",
     "PoC": "https://github.com/detronetdip/E-commerce/issues/23"
+  },
+  {
+    "CVE": "CVE-2026-2165",
+    "PoC": "https://vuldb.com/?submit.751857"
   },
   {
     "CVE": "CVE-2026-21678",
@@ -560694,6 +560794,10 @@
   {
     "CVE": "CVE-2026-27663",
     "PoC": "http://seclists.org/fulldisclosure/2026/Apr/6"
+  },
+  {
+    "CVE": "CVE-2026-27664",
+    "PoC": "http://seclists.org/fulldisclosure/2026/Apr/7"
   },
   {
     "CVE": "CVE-2026-27691",
@@ -566708,7 +566812,15 @@
     "PoC": "https://www.tenable.com/security/research/tra-2026-38"
   },
   {
+    "CVE": "CVE-2026-8368",
+    "PoC": "https://metacpan.org/release/OALDERS/libwww-perl-6.83/changes"
+  },
+  {
     "CVE": "CVE-2026-8407",
     "PoC": "https://devolutions.net/security/advisories/DEVO-2026-0010/"
+  },
+  {
+    "CVE": "CVE-2026-8654",
+    "PoC": "https://portal.perforce.com/s/cve/a91Qi000002z78HIAQ/authenticated-os-command-injection-in-delphix-continuous-data-connectors"
   }
 ]
