@@ -42952,6 +42952,10 @@
     "PoC": "http://www.oracle.com/technetwork/topics/security/bulletinapr2016-2952098.html"
   },
   {
+    "CVE": "CVE-2007-6723",
+    "PoC": "http://sourceforge.net/project/shownotes.php?release_id=551544&group_id=159836"
+  },
+  {
     "CVE": "CVE-2007-6725",
     "PoC": "http://www.openwall.com/lists/oss-security/2009/04/01/10"
   },
@@ -284989,6 +284993,10 @@
   },
   {
     "CVE": "CVE-2019-25471",
+    "PoC": "https://github.com/leefish/filethingie/archive/master.zip"
+  },
+  {
+    "CVE": "CVE-2019-25471",
     "PoC": "https://www.exploit-db.com/exploits/47349"
   },
   {
@@ -285974,6 +285982,10 @@
   {
     "CVE": "CVE-2019-25696",
     "PoC": "https://www.exploit-db.com/exploits/46505"
+  },
+  {
+    "CVE": "CVE-2019-25697",
+    "PoC": "https://github.com/VictorAlagwu/CMSsite/archive/master.zip"
   },
   {
     "CVE": "CVE-2019-25697",
@@ -303510,6 +303522,10 @@
   {
     "CVE": "CVE-2020-13301",
     "PoC": "https://gitlab.com/gitlab-org/gitlab/-/issues/219378"
+  },
+  {
+    "CVE": "CVE-2020-13303",
+    "PoC": "https://gitlab.com/gitlab-org/gitlab/-/issues/238887"
   },
   {
     "CVE": "CVE-2020-13304",
@@ -377320,6 +377336,10 @@
     "PoC": "https://www.exploit-db.com/exploits/50563"
   },
   {
+    "CVE": "CVE-2021-47924",
+    "PoC": "https://www.exploit-db.com/exploits/50534"
+  },
+  {
     "CVE": "CVE-2021-47926",
     "PoC": "https://www.exploit-db.com/exploits/50524"
   },
@@ -377362,6 +377382,10 @@
   {
     "CVE": "CVE-2021-47953",
     "PoC": "https://www.exploit-db.com/exploits/49970"
+  },
+  {
+    "CVE": "CVE-2021-47959",
+    "PoC": "https://www.exploit-db.com/exploits/49807"
   },
   {
     "CVE": "CVE-2022-0001",
@@ -442422,6 +442446,10 @@
   {
     "CVE": "CVE-2023-36472",
     "PoC": "https://github.com/strapi/strapi/security/advisories/GHSA-v8gg-4mq2-88q4"
+  },
+  {
+    "CVE": "CVE-2023-36480",
+    "PoC": "https://support.aerospike.com/s/article/CVE-2023-36480-Aerospike-Java-Client-vulnerable-to-unsafe-deserialization-of-server-responses"
   },
   {
     "CVE": "CVE-2023-36481",
@@ -549776,6 +549804,10 @@
     "PoC": "https://github.com/f1rstb100d/myCVE/issues/142"
   },
   {
+    "CVE": "CVE-2025-7602",
+    "PoC": "https://github.com/XiDP0/MyCVE/blob/main/CVE/D-Link%20DI_8100-16.07.26A1/arp_sys_asp/arp_sys_asp.md"
+  },
+  {
     "CVE": "CVE-2025-7604",
     "PoC": "https://github.com/f1rstb100d/myCVE/issues/143"
   },
@@ -564860,6 +564892,10 @@
     "PoC": "https://www.zyenra.com/advisories/netmaker-jwt-verification-bypass/"
   },
   {
+    "CVE": "CVE-2026-38728",
+    "PoC": "https://bytecreator.dev/blog/CVE-2026-38728"
+  },
+  {
     "CVE": "CVE-2026-3877",
     "PoC": "https://www.redguard.ch/blog/2026/04/01/advisory-vertigis-vertigisfm/"
   },
@@ -566822,5 +566858,13 @@
   {
     "CVE": "CVE-2026-8654",
     "PoC": "https://portal.perforce.com/s/cve/a91Qi000002z78HIAQ/authenticated-os-command-injection-in-delphix-continuous-data-connectors"
+  },
+  {
+    "CVE": "CVE-2026-8656",
+    "PoC": "https://security.snyk.io/vuln/SNYK-JS-JSONDIFFPATCH-16635946"
+  },
+  {
+    "CVE": "CVE-2026-8657",
+    "PoC": "https://security.snyk.io/vuln/SNYK-JS-JSONDIFFPATCH-16322990"
   }
 ]

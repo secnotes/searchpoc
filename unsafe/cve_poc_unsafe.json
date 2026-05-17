@@ -1,5 +1,141 @@
 [
   {
+    "CVE": "CVE-2019-0227",
+    "PoC": "https://github.com/1475210817/Axis1.4-CVE-2019-0227"
+  },
+  {
+    "CVE": "CVE-2026-4882",
+    "PoC": "https://github.com/xShadow-Here/CVE-2026-4882"
+  },
+  {
+    "CVE": "CVE-2026-8181",
+    "PoC": "https://github.com/whattheslime/CVE-2026-8181"
+  },
+  {
+    "CVE": "CVE-2026-44578",
+    "PoC": "https://github.com/dinosn/CVE-2026-44578"
+  },
+  {
+    "CVE": "CVE-2026-6433",
+    "PoC": "https://github.com/murrez/CVE-2026-6433"
+  },
+  {
+    "CVE": "CVE-2026-23918",
+    "PoC": "https://github.com/sibersan/apache_audit_cve-2026-23918"
+  },
+  {
+    "CVE": "CVE-2026-42945",
+    "PoC": "https://github.com/sibersan/web-server-audit_CVE-2026-42945"
+  },
+  {
+    "CVE": "CVE-2026-42945",
+    "PoC": "https://github.com/dinosn/cve-2026-42945-nginx32-lab"
+  },
+  {
+    "CVE": "CVE-2026-36436",
+    "PoC": "https://github.com/vtrmK/CVE-2026-36436-Public-Reference-Pack"
+  },
+  {
+    "CVE": "CVE-2026-45091",
+    "PoC": "https://github.com/HORKimhab/CVE-2026-45091"
+  },
+  {
+    "CVE": "CVE-2026-8181",
+    "PoC": "https://github.com/Jenderal92/CVE-2026-8181"
+  },
+  {
+    "CVE": "CVE-2026-6857",
+    "PoC": "https://github.com/HORKimhab/CVE-2026-6857"
+  },
+  {
+    "CVE": "CVE-2026-45672",
+    "PoC": "https://github.com/CryptReaper12/CVE-2026-45672"
+  },
+  {
+    "CVE": "CVE-2026-41096",
+    "PoC": "https://github.com/ByteWraith1/CVE-2026-41096"
+  },
+  {
+    "CVE": "CVE-2026-0265",
+    "PoC": "https://github.com/tstephens1080/palo-alto-cve-2026-0265-checker"
+  },
+  {
+    "CVE": "CVE-2024-42327",
+    "PoC": "https://github.com/fellipefelix06/Zabbix-CVE-2024-42327"
+  },
+  {
+    "CVE": "CVE-2020-3452",
+    "PoC": "https://github.com/curtishoughton/CVE-2020-3452-Cisco-Python-Scanner"
+  },
+  {
+    "CVE": "CVE-2025-20362",
+    "PoC": "https://github.com/curtishoughton/CVE-2025-20362-Cisco-Scanner"
+  },
+  {
+    "CVE": "CVE-2025-20333",
+    "PoC": "https://github.com/curtishoughton/Cisco-ASA-CVE-2025-20333-Scanner"
+  },
+  {
+    "CVE": "CVE-2026-31431",
+    "PoC": "https://github.com/Maxime288/CVE-2026-31431-Copy-Fail-R-pertoire-de-Pr-vention"
+  },
+  {
+    "CVE": "CVE-2026-38526",
+    "PoC": "https://github.com/NathanHimself/CVE-2026-38526-PoC"
+  },
+  {
+    "CVE": "CVE-2025-59528",
+    "PoC": "https://github.com/im-nymii/CVE-2025-59528"
+  },
+  {
+    "CVE": "CVE-2025-58434",
+    "PoC": "https://github.com/vincent-vbg/CVE-2025-58434-PoC"
+  },
+  {
+    "CVE": "CVE-2023-23946",
+    "PoC": "https://github.com/tralsesec/CVE-2023-23946"
+  },
+  {
+    "CVE": "CVE-2023-20052",
+    "PoC": "https://github.com/tralsesec/CVE-2023-20052"
+  },
+  {
+    "CVE": "CVE-2026-43284",
+    "PoC": "https://github.com/whosfault/CVE-2026-43284"
+  },
+  {
+    "CVE": "CVE-2026-31431",
+    "PoC": "https://github.com/adityasingh108/CVE-2026-31431-Metasploit-exploit"
+  },
+  {
+    "CVE": "CVE-2026-34473",
+    "PoC": "https://github.com/minanagehsalalma/cve-2026-34473-root-cause-analysis"
+  },
+  {
+    "CVE": "CVE-2026-34473",
+    "PoC": "https://github.com/minanagehsalalma/cve-2026-34473-no-login-zte-router-dos"
+  },
+  {
+    "CVE": "CVE-2026-34473",
+    "PoC": "https://github.com/minanagehsalalma/cve-2026-34473-unauthenticated-dos-zte-routers"
+  },
+  {
+    "CVE": "CVE-2026-44578",
+    "PoC": "https://github.com/0xBlackash/CVE-2026-44578"
+  },
+  {
+    "CVE": "CVE-2026-46333",
+    "PoC": "https://github.com/VampXDH/CVE-2026-46333"
+  },
+  {
+    "CVE": "CVE-2026-31431",
+    "PoC": "https://github.com/CharBay/Linux-CVE-2026-31431_Public"
+  },
+  {
+    "CVE": "CVE-2024-0519",
+    "PoC": "https://github.com/Insaida/cve-2024-0519-rca-research"
+  },
+  {
     "CVE": "CVE-2022-37969",
     "PoC": "https://github.com/nhh9905/CVE-2022-37969"
   },
