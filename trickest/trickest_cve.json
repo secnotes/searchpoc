@@ -247988,6 +247988,22 @@
     "PoC": "https://www.exploit-db.com/exploits/44381"
   },
   {
+    "CVE": "CVE-2018-25319",
+    "PoC": "https://www.exploit-db.com/exploits/44261"
+  },
+  {
+    "CVE": "CVE-2018-25335",
+    "PoC": "https://www.exploit-db.com/exploits/44737"
+  },
+  {
+    "CVE": "CVE-2018-25336",
+    "PoC": "https://www.exploit-db.com/exploits/44788"
+  },
+  {
+    "CVE": "CVE-2018-25337",
+    "PoC": "https://www.exploit-db.com/exploits/44789"
+  },
+  {
     "CVE": "CVE-2018-2560",
     "PoC": "http://www.oracle.com/technetwork/security-advisory/cpujan2018-3236628.html"
   },
@@ -328536,8 +328552,20 @@
     "PoC": "https://www.exploit-db.com/exploits/49061"
   },
   {
+    "CVE": "CVE-2020-37236",
+    "PoC": "https://www.exploit-db.com/exploits/49160"
+  },
+  {
     "CVE": "CVE-2020-37242",
     "PoC": "https://www.exploit-db.com/exploits/49532"
+  },
+  {
+    "CVE": "CVE-2020-37243",
+    "PoC": "https://www.exploit-db.com/exploits/49533"
+  },
+  {
+    "CVE": "CVE-2020-37246",
+    "PoC": "https://www.exploit-db.com/exploits/49545"
   },
   {
     "CVE": "CVE-2020-3811",
@@ -340950,6 +340978,10 @@
   {
     "CVE": "CVE-2021-2316",
     "PoC": "https://www.oracle.com/security-alerts/cpuapr2021.html"
+  },
+  {
+    "CVE": "CVE-2021-23163",
+    "PoC": "https://www.jfrog.com/confluence/display/JFROG/CVE-2021-23163%3A++Cross-Site+Request+Forgery+on+REST+using+Basic+Auth"
   },
   {
     "CVE": "CVE-2021-23163",
@@ -367872,6 +367904,10 @@
     "PoC": "https://www.oracle.com/security-alerts/cpuapr2022.html"
   },
   {
+    "CVE": "CVE-2021-41834",
+    "PoC": "https://www.jfrog.com/confluence/display/JFROG/CVE-2021-41834%3A+Artifactory+Broken+Access+Control+on+Copy+Artifact"
+  },
+  {
     "CVE": "CVE-2021-4184",
     "PoC": "https://www.oracle.com/security-alerts/cpuapr2022.html"
   },
@@ -374258,6 +374294,10 @@
   {
     "CVE": "CVE-2021-45721",
     "PoC": "https://www.jfrog.com/confluence/display/JFROG/JFrog+Security+Advisories"
+  },
+  {
+    "CVE": "CVE-2021-45730",
+    "PoC": "https://www.jfrog.com/confluence/display/JFROG/CVE-2021-45730%3A+Artifactory+Broken+Access+Control+on+Repository+Layouts+Configuration"
   },
   {
     "CVE": "CVE-2021-45760",
@@ -450305,6 +450345,10 @@
   },
   {
     "CVE": "CVE-2023-4451",
+    "PoC": "https://github.com/MarkLee131/awesome-web-pocs/blob/main/CVE-2023-4451.md"
+  },
+  {
+    "CVE": "CVE-2023-4451",
     "PoC": "https://huntr.dev/bounties/4e111c3e-6cf3-4b4c-b3c1-a540bf30f8fa"
   },
   {
@@ -478902,6 +478946,10 @@
   {
     "CVE": "CVE-2024-30851",
     "PoC": "https://github.com/chebuya/CVE-2024-30851-jasmin-ransomware-path-traversal-poc"
+  },
+  {
+    "CVE": "CVE-2024-30855",
+    "PoC": "https://github.com/Limingqian123/cms/blob/main/1.md"
   },
   {
     "CVE": "CVE-2024-3086",
@@ -540280,6 +540328,10 @@
     "PoC": "https://medium.com/@mhamdanali81/cve-2025-57197-breaking-the-pin-in-payeers-android-app-31e3cdee02ef"
   },
   {
+    "CVE": "CVE-2025-57201",
+    "PoC": "https://github.com/xchg-rax-rax/vulnerability-research/tree/main/CVE-2025-57201"
+  },
+  {
     "CVE": "CVE-2025-57204",
     "PoC": "https://codecanyon.net/item/stockyultimate-inventory-management-system-with-pos/31445124"
   },
@@ -545292,6 +545344,10 @@
     "PoC": "https://github.com/isaacs/node-tar/security/advisories/GHSA-29xp-372q-xqph"
   },
   {
+    "CVE": "CVE-2025-64166",
+    "PoC": "https://github.com/mercurius-js/mercurius/security/advisories/GHSA-v66j-6wwf-jc57"
+  },
+  {
     "CVE": "CVE-2025-64169",
     "PoC": "https://github.com/wazuh/wazuh/security/advisories/GHSA-hc35-h924-8596"
   },
@@ -545388,8 +545444,16 @@
     "PoC": "https://www.openoffice.org/security/cves/CVE-2025-64405.html"
   },
   {
+    "CVE": "CVE-2025-64419",
+    "PoC": "https://github.com/coollabsio/coolify/security/advisories/GHSA-234r-xrrg-m8f3"
+  },
+  {
     "CVE": "CVE-2025-64422",
     "PoC": "https://github.com/coollabsio/coolify/security/advisories/GHSA-688j-rm43-5r8x"
+  },
+  {
+    "CVE": "CVE-2025-64423",
+    "PoC": "https://github.com/coollabsio/coolify/security/advisories/GHSA-4fqm-797g-7m6j"
   },
   {
     "CVE": "CVE-2025-64424",
@@ -545398,6 +545462,10 @@
   {
     "CVE": "CVE-2025-64425",
     "PoC": "https://github.com/coollabsio/coolify/security/advisories/GHSA-f737-2p93-g2cw"
+  },
+  {
+    "CVE": "CVE-2025-64427",
+    "PoC": "https://github.com/IceWhaleTech/ZimaOS/security/advisories/GHSA-m8hj-7xg5-p375"
   },
   {
     "CVE": "CVE-2025-64428",
@@ -545612,6 +545680,10 @@
     "PoC": "https://github.com/pnggroup/libpng/security/advisories/GHSA-hfc7-ph9c-wcww"
   },
   {
+    "CVE": "CVE-2025-64721",
+    "PoC": "https://github.com/sandboxie-plus/Sandboxie/security/advisories/GHSA-w476-j57g-96vp"
+  },
+  {
     "CVE": "CVE-2025-64729",
     "PoC": "https://www.aveva.com/en/support-and-success/cyber-security-updates/"
   },
@@ -545658,6 +545730,10 @@
   {
     "CVE": "CVE-2025-6476",
     "PoC": "https://www.sourcecodester.com/"
+  },
+  {
+    "CVE": "CVE-2025-64764",
+    "PoC": "https://github.com/withastro/astro/security/advisories/GHSA-wrwg-2hg8-v723"
   },
   {
     "CVE": "CVE-2025-64767",
@@ -545926,6 +546002,10 @@
   {
     "CVE": "CVE-2025-6511",
     "PoC": "https://github.com/xiaobor123/vul-finds/tree/main/vul-find-ex6150-netgear#poc"
+  },
+  {
+    "CVE": "CVE-2025-65110",
+    "PoC": "https://github.com/vega/vega/security/advisories/GHSA-829q-m3qg-ph8r"
   },
   {
     "CVE": "CVE-2025-65112",
@@ -547018,6 +547098,10 @@
   {
     "CVE": "CVE-2025-66436",
     "PoC": "https://iamanc.github.io/post/erpnext-ssti-bug-3"
+  },
+  {
+    "CVE": "CVE-2025-66436",
+    "PoC": "https://www.notion.so/SSTI-bug-3-239e6086eadc8020aeecdaf123e32f3d?source=copy_link"
   },
   {
     "CVE": "CVE-2025-66437",
@@ -548672,6 +548756,10 @@
     "PoC": "https://github.com/wudipjq/my_vuln/blob/main/Belkin/vuln_4/4.md#poc"
   },
   {
+    "CVE": "CVE-2025-70849",
+    "PoC": "https://gist.github.com/kazisabu/27f3e272f474005001a9ecd2c258dbea"
+  },
+  {
     "CVE": "CVE-2025-7085",
     "PoC": "https://github.com/wudipjq/my_vuln/blob/main/Belkin/vuln_5/5.md"
   },
@@ -548694,6 +548782,10 @@
   {
     "CVE": "CVE-2025-7087",
     "PoC": "https://github.com/wudipjq/my_vuln/blob/main/Belkin/vuln_7/7.md#poc"
+  },
+  {
+    "CVE": "CVE-2025-70873",
+    "PoC": "https://gist.github.com/cnwangjihe/f496393f30f5ecec5b18c8f5ab072054"
   },
   {
     "CVE": "CVE-2025-7088",
@@ -550906,6 +550998,10 @@
   {
     "CVE": "CVE-2025-8129",
     "PoC": "https://github.com/koajs/koa/issues/1892#issue-3213028583"
+  },
+  {
+    "CVE": "CVE-2025-8131",
+    "PoC": "https://github.com/Thir0th/Thir0th-CVE/blob/main/Tenda_AC20_V16.03.08.05_has_a_stack_overflow.md"
   },
   {
     "CVE": "CVE-2025-8134",
@@ -556918,6 +557014,10 @@
   {
     "CVE": "CVE-2026-1629",
     "PoC": "https://mattermost.com/security-updates"
+  },
+  {
+    "CVE": "CVE-2026-1631",
+    "PoC": "https://wpscan.com/vulnerability/b19596c2-69bc-4e15-8632-eb80f4577e3c/"
   },
   {
     "CVE": "CVE-2026-1637",
@@ -563792,6 +563892,10 @@
     "PoC": "https://github.com/dataease/dataease/security/advisories/GHSA-vgm2-269h-8624"
   },
   {
+    "CVE": "CVE-2026-3220",
+    "PoC": "https://wpscan.com/vulnerability/3ceabf11-23cd-4c38-ba14-014348b0ff2d/"
+  },
+  {
     "CVE": "CVE-2026-3221",
     "PoC": "https://devolutions.net/security/advisories/DEVO-2026-0004/"
   },
@@ -564282,6 +564386,10 @@
   {
     "CVE": "CVE-2026-33874",
     "PoC": "https://www.machinespirits.de/advisory/2e655e/"
+  },
+  {
+    "CVE": "CVE-2026-33875",
+    "PoC": "https://www.machinespirits.com/advisory/f41e56/"
   },
   {
     "CVE": "CVE-2026-3388",
@@ -566880,12 +566988,20 @@
     "PoC": "https://labs.reversec.com/advisories/2026/04/cerberus-ftp-server-elevation-of-privileges"
   },
   {
+    "CVE": "CVE-2026-6381",
+    "PoC": "https://wpscan.com/vulnerability/18b36672-58d7-44fa-b653-b728e9ef257a/"
+  },
+  {
     "CVE": "CVE-2026-6414",
     "PoC": "https://github.com/fastify/middie/security/advisories/GHSA-cxrg-g7r8-w69p"
   },
   {
     "CVE": "CVE-2026-6433",
     "PoC": "https://wpscan.com/vulnerability/a0b1c059-e156-4402-ac8d-67f8ad7386cc/"
+  },
+  {
+    "CVE": "CVE-2026-6495",
+    "PoC": "https://wpscan.com/vulnerability/c52f28c5-547d-48ae-89dd-edcdaeadcec5/"
   },
   {
     "CVE": "CVE-2026-6507",
@@ -566986,6 +567102,10 @@
   {
     "CVE": "CVE-2026-6869",
     "PoC": "https://gitlab.com/wireshark/wireshark/-/work_items/21190"
+  },
+  {
+    "CVE": "CVE-2026-6902",
+    "PoC": "https://portal.perforce.com/s/cve/a91Qi000002zJB3IAM/code-injection-in-perforce-helix-core"
   },
   {
     "CVE": "CVE-2026-6951",
