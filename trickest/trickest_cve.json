@@ -72329,6 +72329,10 @@
   },
   {
     "CVE": "CVE-2009-2654",
+    "PoC": "http://www.redhat.com/support/errata/RHSA-2009-1430.html"
+  },
+  {
+    "CVE": "CVE-2009-2654",
     "PoC": "https://oval.cisecurity.org/repository/search/definition/oval%3Aorg.mitre.oval%3Adef%3A9686"
   },
   {
@@ -72908,12 +72912,24 @@
     "PoC": "http://www.novell.com/linux/security/advisories/2009_48_firefox.html"
   },
   {
+    "CVE": "CVE-2009-3070",
+    "PoC": "http://www.redhat.com/support/errata/RHSA-2009-1430.html"
+  },
+  {
     "CVE": "CVE-2009-3071",
     "PoC": "http://www.novell.com/linux/security/advisories/2009_48_firefox.html"
   },
   {
+    "CVE": "CVE-2009-3071",
+    "PoC": "http://www.redhat.com/support/errata/RHSA-2009-1430.html"
+  },
+  {
     "CVE": "CVE-2009-3072",
     "PoC": "http://www.novell.com/linux/security/advisories/2009_48_firefox.html"
+  },
+  {
+    "CVE": "CVE-2009-3072",
+    "PoC": "http://www.redhat.com/support/errata/RHSA-2009-1430.html"
   },
   {
     "CVE": "CVE-2009-3072",
@@ -72929,6 +72945,10 @@
   },
   {
     "CVE": "CVE-2009-3074",
+    "PoC": "http://www.redhat.com/support/errata/RHSA-2009-1430.html"
+  },
+  {
+    "CVE": "CVE-2009-3074",
     "PoC": "https://oval.cisecurity.org/repository/search/definition/oval%3Aorg.mitre.oval%3Adef%3A9444"
   },
   {
@@ -72936,8 +72956,16 @@
     "PoC": "http://www.novell.com/linux/security/advisories/2009_48_firefox.html"
   },
   {
+    "CVE": "CVE-2009-3075",
+    "PoC": "http://www.redhat.com/support/errata/RHSA-2009-1430.html"
+  },
+  {
     "CVE": "CVE-2009-3076",
     "PoC": "http://www.novell.com/linux/security/advisories/2009_48_firefox.html"
+  },
+  {
+    "CVE": "CVE-2009-3076",
+    "PoC": "http://www.redhat.com/support/errata/RHSA-2009-1430.html"
   },
   {
     "CVE": "CVE-2009-3076",
@@ -72948,12 +72976,24 @@
     "PoC": "http://www.novell.com/linux/security/advisories/2009_48_firefox.html"
   },
   {
+    "CVE": "CVE-2009-3077",
+    "PoC": "http://www.redhat.com/support/errata/RHSA-2009-1430.html"
+  },
+  {
     "CVE": "CVE-2009-3078",
     "PoC": "http://www.novell.com/linux/security/advisories/2009_48_firefox.html"
   },
   {
+    "CVE": "CVE-2009-3078",
+    "PoC": "http://www.redhat.com/support/errata/RHSA-2009-1430.html"
+  },
+  {
     "CVE": "CVE-2009-3079",
     "PoC": "http://www.novell.com/linux/security/advisories/2009_48_firefox.html"
+  },
+  {
+    "CVE": "CVE-2009-3079",
+    "PoC": "http://www.redhat.com/support/errata/RHSA-2009-1430.html"
   },
   {
     "CVE": "CVE-2009-3085",
@@ -77502,6 +77542,10 @@
   {
     "CVE": "CVE-2010-0806",
     "PoC": "https://docs.microsoft.com/en-us/security-updates/securitybulletins/2010/ms10-018"
+  },
+  {
+    "CVE": "CVE-2010-0806",
+    "PoC": "https://learn.microsoft.com/en-us/security-updates/securitybulletins/2010/ms10-018"
   },
   {
     "CVE": "CVE-2010-0807",
@@ -86038,6 +86082,10 @@
   {
     "CVE": "CVE-2010-4374",
     "PoC": "http://forums.winamp.com/showthread.php?threadid=159785"
+  },
+  {
+    "CVE": "CVE-2010-4374",
+    "PoC": "https://oval.cisecurity.org/repository/search/definition/oval%3Aorg.mitre.oval%3Adef%3A12332"
   },
   {
     "CVE": "CVE-2010-4398",
@@ -375205,6 +375253,10 @@
   },
   {
     "CVE": "CVE-2021-46270",
+    "PoC": "https://www.jfrog.com/confluence/display/JFROG/CVE-2021-46270%3A+Artifactory+Project+Admin+Repository+Name+Disclosure"
+  },
+  {
+    "CVE": "CVE-2021-46270",
     "PoC": "https://www.jfrog.com/confluence/display/JFROG/JFrog+Security+Advisories"
   },
   {
@@ -497692,6 +497744,14 @@
     "PoC": "https://cosmosofcyberspace.github.io/ave-system-cve.html"
   },
   {
+    "CVE": "CVE-2024-53412",
+    "PoC": "https://github.com/Buckdray/vulnerability-research/blob/main/CVE-2024-53412/README.md"
+  },
+  {
+    "CVE": "CVE-2024-53412",
+    "PoC": "https://github.com/NietThijmen/ShoppingCart/issues/1"
+  },
+  {
     "CVE": "CVE-2024-53425",
     "PoC": "https://github.com/assimp/assimp/issues/5860"
   },
@@ -548480,6 +548540,10 @@
     "PoC": "https://github.com/Dav1d-safe/cve/issues/2"
   },
   {
+    "CVE": "CVE-2025-6822",
+    "PoC": "https://vuldb.com/?ctiid.314260"
+  },
+  {
     "CVE": "CVE-2025-6823",
     "PoC": "https://github.com/Dav1d-safe/cve/issues/1"
   },
@@ -554292,6 +554356,10 @@
     "PoC": "https://research.cleantalk.org/CVE-2025-9202"
   },
   {
+    "CVE": "CVE-2025-9208",
+    "PoC": "https://github.com/MarioTesoro/vulnerability-research/blob/main/CVE-2025-9208/README.md"
+  },
+  {
     "CVE": "CVE-2025-9215",
     "PoC": "https://github.com/d0n601/CVE-2025-9215"
   },
@@ -556906,6 +556974,10 @@
   {
     "CVE": "CVE-2026-0722",
     "PoC": "https://research.cleantalk.org/cve-2026-0722/"
+  },
+  {
+    "CVE": "CVE-2026-0723",
+    "PoC": "https://gitlab.com/gitlab-org/gitlab/-/issues/585333"
   },
   {
     "CVE": "CVE-2026-0728",
@@ -565348,6 +565420,10 @@
     "PoC": "https://mattermost.com/security-updates"
   },
   {
+    "CVE": "CVE-2026-3537",
+    "PoC": "https://issues.chromium.org/issues/474266014"
+  },
+  {
     "CVE": "CVE-2026-35399",
     "PoC": "https://github.com/LabRedesCefetRJ/WeGIA/security/advisories/GHSA-fmwv-62wf-2hgx"
   },
@@ -567436,6 +567512,14 @@
     "PoC": "https://security.snyk.io/vuln/SNYK-JS-JSRSASIGN-15371176"
   },
   {
+    "CVE": "CVE-2026-46333",
+    "PoC": "http://www.openwall.com/lists/oss-security/2026/05/20/16"
+  },
+  {
+    "CVE": "CVE-2026-4802",
+    "PoC": "http://www.openwall.com/lists/oss-security/2026/05/20/19"
+  },
+  {
     "CVE": "CVE-2026-4802",
     "PoC": "https://bugzilla.redhat.com/show_bug.cgi?id=2451155"
   },
@@ -567578,6 +567662,14 @@
   {
     "CVE": "CVE-2026-5337",
     "PoC": "https://wpscan.com/vulnerability/3e28aa78-3227-474a-b1db-1f5ea2c42d14/"
+  },
+  {
+    "CVE": "CVE-2026-5344",
+    "PoC": "https://vuldb.com/vuln/354696"
+  },
+  {
+    "CVE": "CVE-2026-5344",
+    "PoC": "https://vuldb.com/vuln/354696/cti"
   },
   {
     "CVE": "CVE-2026-5362",
@@ -567728,6 +567820,10 @@
     "PoC": "https://files.catbox.moe/ei31k1.zip"
   },
   {
+    "CVE": "CVE-2026-5902",
+    "PoC": "https://issues.chromium.org/issues/483109205"
+  },
+  {
     "CVE": "CVE-2026-5936",
     "PoC": "https://www.foxit.com/support/security-bulletins.html"
   },
@@ -567782,6 +567878,14 @@
   {
     "CVE": "CVE-2026-6135",
     "PoC": "https://vuldb.com/submit/792877"
+  },
+  {
+    "CVE": "CVE-2026-6157",
+    "PoC": "https://github.com/xyh4ck/iot_poc/blob/main/TOTOLINK/A800R/01_Buffer_Overflow_setAppEasyWizardConfig.md"
+  },
+  {
+    "CVE": "CVE-2026-6158",
+    "PoC": "https://github.com/xyh4ck/iot_poc/tree/main/TOTOLINK/N300RHv4/02_setUpgradeUboot_RCE"
   },
   {
     "CVE": "CVE-2026-6190",
@@ -567928,6 +568032,10 @@
     "PoC": "https://security.snyk.io/vuln/SNYK-JS-SIMPLEGIT-15456078"
   },
   {
+    "CVE": "CVE-2026-6988",
+    "PoC": "https://github.com/xyh4ck/iot_poc/blob/main/Tenda/HG10/01_Buffer_Overflow_nextHop/README.md"
+  },
+  {
     "CVE": "CVE-2026-7021",
     "PoC": "https://gist.github.com/YLChen-007/3d35e0ce8197989ee4de4a93def30d47"
   },
@@ -568000,6 +568108,10 @@
     "PoC": "https://github.com/choieastsea/simple-openstack-mcp/issues/3"
   },
   {
+    "CVE": "CVE-2026-7080",
+    "PoC": "https://github.com/Litengzheng/vuldb_new/blob/main/F456/vul_132/README.md"
+  },
+  {
     "CVE": "CVE-2026-7089",
     "PoC": "https://github.com/Xmyronn/home-service-system-unauth-stored-xss-admin-takeover-code-project.org-.git"
   },
@@ -568028,6 +568140,10 @@
     "PoC": "https://github.com/Litengzheng/vuldb_new/blob/main/F456/vul_136/README.md"
   },
   {
+    "CVE": "CVE-2026-7099",
+    "PoC": "https://github.com/Litengzheng/vuldb_new/blob/main/F456/vul_137/README.md"
+  },
+  {
     "CVE": "CVE-2026-7100",
     "PoC": "https://github.com/Litengzheng/vuldb_new/blob/main/F456/vul_138/README.md"
   },
@@ -568046,6 +568162,14 @@
   {
     "CVE": "CVE-2026-7113",
     "PoC": "https://github.com/NousResearch/hermes-agent/issues/6440"
+  },
+  {
+    "CVE": "CVE-2026-7115",
+    "PoC": "https://github.com/zzzxc643/CVE1/blob/main/EMPLOYEE_MANAGEMENT_SYSTEM/vul5.md"
+  },
+  {
+    "CVE": "CVE-2026-7122",
+    "PoC": "https://github.com/Litengzheng/vuldb_new2/blob/main/A8000RU/vul_307/README.md"
   },
   {
     "CVE": "CVE-2026-7124",
@@ -568094,6 +568218,10 @@
   {
     "CVE": "CVE-2026-7149",
     "PoC": "https://github.com/dexhunter/kaggle-mcp/issues/1"
+  },
+  {
+    "CVE": "CVE-2026-7152",
+    "PoC": "https://github.com/Litengzheng/vuldb_new2/blob/main/A8000RU/vul_316/README.md"
   },
   {
     "CVE": "CVE-2026-7153",
@@ -568172,6 +568300,10 @@
     "PoC": "https://github.com/BigSweetPotatoStudio/HyperChat/issues/142"
   },
   {
+    "CVE": "CVE-2026-7225",
+    "PoC": "https://github.com/fernando-mengali/vulndb-submissions/blob/main/02-vul-SQLI.md"
+  },
+  {
     "CVE": "CVE-2026-7226",
     "PoC": "https://github.com/fernando-mengali/vulndb-submissions/blob/main/03-vul-SQLI.md"
   },
@@ -568206,6 +568338,10 @@
   {
     "CVE": "CVE-2026-7241",
     "PoC": "https://github.com/Litengzheng/vuldb_new2/blob/main/A8000RU/vul_325/README.md"
+  },
+  {
+    "CVE": "CVE-2026-7242",
+    "PoC": "https://github.com/Litengzheng/vuldb_new2/blob/main/A8000RU/vul_326/README.md"
   },
   {
     "CVE": "CVE-2026-7244",
@@ -568306,6 +568442,10 @@
   {
     "CVE": "CVE-2026-7379",
     "PoC": "https://gitlab.com/wireshark/wireshark/-/work_items/21214"
+  },
+  {
+    "CVE": "CVE-2026-7385",
+    "PoC": "https://wpscan.com/vulnerability/1c5949d0-cf50-45d3-a7e2-2f94cdb42405/"
   },
   {
     "CVE": "CVE-2026-7386",
@@ -568530,6 +568670,10 @@
   {
     "CVE": "CVE-2026-7714",
     "PoC": "https://gist.github.com/menelausx/1b45c952d352a2ebdc01cd8d5aa88e87"
+  },
+  {
+    "CVE": "CVE-2026-7716",
+    "PoC": "https://github.com/QAp89/CVE/blob/main/SQL1.md"
   },
   {
     "CVE": "CVE-2026-7722",
