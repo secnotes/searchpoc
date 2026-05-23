@@ -1720,6 +1720,10 @@
     "PoC": "http://security.e-matters.de/advisories/052002.html"
   },
   {
+    "CVE": "CVE-2002-1365",
+    "PoC": "http://www.redhat.com/support/errata/RHSA-2003-155.html"
+  },
+  {
     "CVE": "CVE-2002-1366",
     "PoC": "http://marc.info/?l=bugtraq&m=104032149026670&w=2"
   },
@@ -21126,6 +21130,10 @@
   {
     "CVE": "CVE-2006-4193",
     "PoC": "http://securityreason.com/securityalert/1402"
+  },
+  {
+    "CVE": "CVE-2006-4194",
+    "PoC": "http://searchsecurity.techtarget.com/originalContent/0%2C289142%2Csid14_gci1207450%2C00.html"
   },
   {
     "CVE": "CVE-2006-4195",
@@ -487308,6 +487316,10 @@
     "PoC": "https://github.com/Emm448/vulnerability-research/tree/main/CVE-2024-40112"
   },
   {
+    "CVE": "CVE-2024-40113",
+    "PoC": "https://github.com/Emm448/vulnerability-research/tree/main/CVE-2024-40113"
+  },
+  {
     "CVE": "CVE-2024-40114",
     "PoC": "https://github.com/Emm448/vulnerability-research/tree/main/CVE-2024-40114"
   },
@@ -507462,6 +507474,10 @@
   {
     "CVE": "CVE-2024-9926",
     "PoC": "https://wpscan.com/vulnerability/669382af-f836-4896-bdcb-5c6a57c99bd9/"
+  },
+  {
+    "CVE": "CVE-2024-9932",
+    "PoC": "https://github.com/JoshuaProvoste/0-click-RCE-Exploit-for-CVE-2024-9932"
   },
   {
     "CVE": "CVE-2024-9934",
@@ -532124,6 +532140,10 @@
     "PoC": "https://gist.github.com/ch3tanbug/44aedff79dd5d2d6beadbffcd01e0de5"
   },
   {
+    "CVE": "CVE-2025-45002",
+    "PoC": "https://github.com/ch3tanbug/vulnerability-research/tree/main/CVE-2025-45002"
+  },
+  {
     "CVE": "CVE-2025-45006",
     "PoC": "https://lf-riscv.atlassian.net/wiki/spaces/HOME/pages/16154769/RISC-V+Technical+Specifications#ISA-Specifications"
   },
@@ -532434,6 +532454,10 @@
   {
     "CVE": "CVE-2025-45746",
     "PoC": "https://github.com/mrojz/ZKT-Bio-CVSecurity/blob/main/CVE-2025-45746.md"
+  },
+  {
+    "CVE": "CVE-2025-45751",
+    "PoC": "https://github.com/sw8y/vulnerability_research/blob/main/CVE-2025-45751/CVE-2025-45751.md"
   },
   {
     "CVE": "CVE-2025-45751",
@@ -546028,8 +546052,16 @@
     "PoC": "https://github.com/zzb1388/cve/issues/7"
   },
   {
+    "CVE": "CVE-2025-6424",
+    "PoC": "https://bugzilla.mozilla.org/show_bug.cgi?id=1966423"
+  },
+  {
     "CVE": "CVE-2025-6429",
     "PoC": "https://bugzilla.mozilla.org/show_bug.cgi?id=1970658"
+  },
+  {
+    "CVE": "CVE-2025-6431",
+    "PoC": "https://bugzilla.mozilla.org/show_bug.cgi?id=1942716"
   },
   {
     "CVE": "CVE-2025-64324",
@@ -548230,6 +548262,10 @@
   {
     "CVE": "CVE-2025-67187",
     "PoC": "https://github.com/SunnyYANGyaya/cuicuishark-sheep-fishIOT/blob/main/ToTolink/A950RG/5024-setIpQosRules-comment-buffer.md"
+  },
+  {
+    "CVE": "CVE-2025-67274",
+    "PoC": "https://aangine.com"
   },
   {
     "CVE": "CVE-2025-67278",
@@ -559956,6 +559992,10 @@
     "PoC": "https://github.com/huseyinstif/CVE-2026-2441-PoC/blob/main/poc.html"
   },
   {
+    "CVE": "CVE-2026-2441",
+    "PoC": "https://issues.chromium.org/issues/483569511"
+  },
+  {
     "CVE": "CVE-2026-24415",
     "PoC": "https://github.com/devcode-it/openstamanager/security/advisories/GHSA-jfgp-g7x7-j25j"
   },
@@ -563548,6 +563588,10 @@
     "PoC": "https://github.com/0xghostrush/Research/blob/main/CVE-2026-30603/CVE-2026-30603.md"
   },
   {
+    "CVE": "CVE-2026-3062",
+    "PoC": "https://issues.chromium.org/issues/483751167"
+  },
+  {
     "CVE": "CVE-2026-3064",
     "PoC": "https://github.com/AnalogyC0de/public_exp/issues/8"
   },
@@ -566176,6 +566220,10 @@
     "PoC": "https://github.com/ChurchCRM/CRM/security/advisories/GHSA-pm2v-ggh4-mp7p"
   },
   {
+    "CVE": "CVE-2026-3934",
+    "PoC": "https://issues.chromium.org/issues/478783560"
+  },
+  {
     "CVE": "CVE-2026-39340",
     "PoC": "https://github.com/ChurchCRM/CRM/security/advisories/GHSA-66f7-4p96-mww9"
   },
@@ -567324,6 +567372,10 @@
     "PoC": "https://wpscan.com/vulnerability/50f68395-72fc-4f99-8e6d-6aa90cc640b5/"
   },
   {
+    "CVE": "CVE-2026-43494",
+    "PoC": "http://www.openwall.com/lists/oss-security/2026/05/21/2"
+  },
+  {
     "CVE": "CVE-2026-43504",
     "PoC": "https://prosody.im/security/advisory_735dd9d3/"
   },
@@ -567434,6 +567486,10 @@
   {
     "CVE": "CVE-2026-45185",
     "PoC": "https://xbow.com/blog/dead-letter-cve-2026-45185-xbow-found-rce-exim"
+  },
+  {
+    "CVE": "CVE-2026-45250",
+    "PoC": "http://www.openwall.com/lists/oss-security/2026/05/21/3"
   },
   {
     "CVE": "CVE-2026-4533",
@@ -567818,6 +567874,10 @@
   {
     "CVE": "CVE-2026-5844",
     "PoC": "https://files.catbox.moe/ei31k1.zip"
+  },
+  {
+    "CVE": "CVE-2026-5877",
+    "PoC": "https://issues.chromium.org/issues/333024273"
   },
   {
     "CVE": "CVE-2026-5902",
@@ -568512,6 +568572,10 @@
     "PoC": "https://github.com/PolarVista/Xcode-mcp-server/issues/4"
   },
   {
+    "CVE": "CVE-2026-7420",
+    "PoC": "https://github.com/kirlic123/IOTvulner/blob/main/4035/5/5.md"
+  },
+  {
     "CVE": "CVE-2026-7443",
     "PoC": "https://github.com/BruceJqs/public_exp/issues/22"
   },
@@ -568708,6 +568772,10 @@
     "PoC": "https://github.com/justdan96/tsMuxer/issues/895"
   },
   {
+    "CVE": "CVE-2026-7739",
+    "PoC": "https://vuldb.com/submit/807647"
+  },
+  {
     "CVE": "CVE-2026-7740",
     "PoC": "https://github.com/justdan96/tsMuxer/issues/899"
   },
@@ -568738,6 +568806,10 @@
   {
     "CVE": "CVE-2026-7811",
     "PoC": "https://github.com/54yyyu/code-mcp/issues/4"
+  },
+  {
+    "CVE": "CVE-2026-7833",
+    "PoC": "https://github.com/glkfc/IoT-Vulnerability/blob/main/iptime/c200/sub_409054_vulnerability_report_EN.md"
   },
   {
     "CVE": "CVE-2026-7844",
