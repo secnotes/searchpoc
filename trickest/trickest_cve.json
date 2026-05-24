@@ -168521,6 +168521,10 @@
   },
   {
     "CVE": "CVE-2015-8952",
+    "PoC": "https://github.com/torvalds/linux/commit/82939d7999dfc1f1998c4b1c12e2f19edbdff272"
+  },
+  {
+    "CVE": "CVE-2015-8952",
     "PoC": "https://usn.ubuntu.com/3582-1/"
   },
   {
@@ -279676,6 +279680,10 @@
     "PoC": "https://wiki.freepbx.org/display/FOP/List+of+Securities+Vulnerabilities"
   },
   {
+    "CVE": "CVE-2019-19615",
+    "PoC": "https://wiki.freepbx.org/pages/viewpage.action?pageId=175177911"
+  },
+  {
     "CVE": "CVE-2019-19620",
     "PoC": "https://medium.com/@CowbellSteve/secureworks-red-cloak-local-bypass-bfaed2be407e"
   },
@@ -376310,6 +376318,10 @@
   {
     "CVE": "CVE-2021-46681",
     "PoC": "https://pandorafms.com/en/security/common-vulnerabilities-and-exposures/"
+  },
+  {
+    "CVE": "CVE-2021-46687",
+    "PoC": "https://www.jfrog.com/confluence/display/JFROG/CVE-2021-46687%3A+Sensitive+data+exposure+on+proxy+endpoint+for+Project+Admin"
   },
   {
     "CVE": "CVE-2021-46687",
@@ -476793,6 +476805,10 @@
   },
   {
     "CVE": "CVE-2024-27686",
+    "PoC": "https://github.com/ice-wzl/RouterOS-SMB-DOS-POC"
+  },
+  {
+    "CVE": "CVE-2024-27686",
     "PoC": "https://www.exploit-db.com/exploits/51931"
   },
   {
@@ -493138,6 +493154,10 @@
   {
     "CVE": "CVE-2024-46605",
     "PoC": "https://github.com/achufistov/cve-achufistov/blob/main/CVE-2024-46605.md"
+  },
+  {
+    "CVE": "CVE-2024-46606",
+    "PoC": "https://drive.google.com/drive/u/1/folders/1zirdhXurKVj1XtLlBESmiORuCUXtLGam"
   },
   {
     "CVE": "CVE-2024-46606",
@@ -511605,7 +511625,19 @@
   },
   {
     "CVE": "CVE-2025-11320",
+    "PoC": "https://github.com/xkalami-Tta0/CVE/blob/main/wisdom-education/%E5%89%8D%E5%8F%B0%E4%BB%BB%E6%84%8F%E6%96%87%E4%BB%B6%E4%B8%8A%E4%BC%A0.md"
+  },
+  {
+    "CVE": "CVE-2025-11320",
     "PoC": "https://github.com/xkalami-Tta0/CVE/blob/main/wisdom-education/%E5%89%8D%E5%8F%B0%E4%BB%BB%E6%84%8F%E6%96%87%E4%BB%B6%E4%B8%8A%E4%BC%A0.md#vulnerability-reproduction"
+  },
+  {
+    "CVE": "CVE-2025-11321",
+    "PoC": "https://github.com/xkalami-Tta0/CVE/blob/main/wisdom-education/%E6%B0%B4%E5%B9%B3%E8%B6%8A%E6%9D%832.md"
+  },
+  {
+    "CVE": "CVE-2025-11321",
+    "PoC": "https://github.com/xkalami-Tta0/CVE/blob/main/wisdom-education/%E6%B0%B4%E5%B9%B3%E8%B6%8A%E6%9D%832.md#vulnerability-reproduction"
   },
   {
     "CVE": "CVE-2025-11322",
@@ -511958,6 +511990,10 @@
   {
     "CVE": "CVE-2025-11431",
     "PoC": "https://github.com/asd1238525/cve/blob/main/SQL7.md"
+  },
+  {
+    "CVE": "CVE-2025-11432",
+    "PoC": "https://github.com/romatdibrohiksnov/vulndb.com/tree/main/itsourcecode%20leave%20management%20system%20Bulk%20Password%20Reset%20SQL%20Injection"
   },
   {
     "CVE": "CVE-2025-11433",
@@ -516808,6 +516844,10 @@
     "PoC": "https://hacklab.eu.org/blogs/zlt_m30s_debug_interface"
   },
   {
+    "CVE": "CVE-2025-15087",
+    "PoC": "https://github.com/Hwwg/cve/issues/30"
+  },
+  {
     "CVE": "CVE-2025-15089",
     "PoC": "https://github.com/cymiao1978/cve/blob/main/new/14.md"
   },
@@ -516890,6 +516930,42 @@
   {
     "CVE": "CVE-2025-15116",
     "PoC": "https://gist.github.com/KhanMarshaI/a55f125a55de1c0d4f41e66236027e01#steps-to-reproduce"
+  },
+  {
+    "CVE": "CVE-2025-15118",
+    "PoC": "https://github.com/Hwwg/cve/issues/31"
+  },
+  {
+    "CVE": "CVE-2025-15119",
+    "PoC": "https://github.com/Hwwg/cve/issues/32"
+  },
+  {
+    "CVE": "CVE-2025-15120",
+    "PoC": "https://github.com/Hwwg/cve/issues/33"
+  },
+  {
+    "CVE": "CVE-2025-15121",
+    "PoC": "https://github.com/Hwwg/cve/issues/34"
+  },
+  {
+    "CVE": "CVE-2025-15122",
+    "PoC": "https://github.com/Hwwg/cve/issues/35"
+  },
+  {
+    "CVE": "CVE-2025-15123",
+    "PoC": "https://github.com/Hwwg/cve/issues/36"
+  },
+  {
+    "CVE": "CVE-2025-15124",
+    "PoC": "https://github.com/Hwwg/cve/issues/37"
+  },
+  {
+    "CVE": "CVE-2025-15125",
+    "PoC": "https://github.com/Hwwg/cve/issues/38"
+  },
+  {
+    "CVE": "CVE-2025-15126",
+    "PoC": "https://github.com/Hwwg/cve/issues/39"
   },
   {
     "CVE": "CVE-2025-15127",
@@ -563588,6 +563664,10 @@
     "PoC": "https://github.com/0xghostrush/Research/blob/main/CVE-2026-30603/CVE-2026-30603.md"
   },
   {
+    "CVE": "CVE-2026-3061",
+    "PoC": "https://issues.chromium.org/issues/482862710"
+  },
+  {
     "CVE": "CVE-2026-3062",
     "PoC": "https://issues.chromium.org/issues/483751167"
   },
@@ -566152,6 +566232,10 @@
     "PoC": "https://issues.chromium.org/issues/481776048"
   },
   {
+    "CVE": "CVE-2026-3918",
+    "PoC": "https://issues.chromium.org/issues/483853103"
+  },
+  {
     "CVE": "CVE-2026-3919",
     "PoC": "https://issues.chromium.org/issues/444176961"
   },
@@ -567624,6 +567708,10 @@
     "PoC": "https://www.openwall.com/lists/oss-security/2026/03/26/6"
   },
   {
+    "CVE": "CVE-2026-48700",
+    "PoC": "https://www.openwall.com/lists/oss-security/2026/05/20/2"
+  },
+  {
     "CVE": "CVE-2026-4878",
     "PoC": "http://www.openwall.com/lists/oss-security/2026/04/09/5"
   },
@@ -567674,6 +567762,10 @@
   {
     "CVE": "CVE-2026-5147",
     "PoC": "https://vuldb.com/submit/780191"
+  },
+  {
+    "CVE": "CVE-2026-5171",
+    "PoC": "https://devolutions.net/security/advisories/DEVO-2026-0013/"
   },
   {
     "CVE": "CVE-2026-5175",
@@ -567826,6 +567918,14 @@
   {
     "CVE": "CVE-2026-5538",
     "PoC": "https://github.com/AnalogyC0de/public_exp/issues/27"
+  },
+  {
+    "CVE": "CVE-2026-5562",
+    "PoC": "https://vuldb.com/vuln/355332"
+  },
+  {
+    "CVE": "CVE-2026-5562",
+    "PoC": "https://vuldb.com/vuln/355332/cti"
   },
   {
     "CVE": "CVE-2026-5618",
@@ -568488,6 +568588,10 @@
     "PoC": "https://github.com/elinsky/execution-system-mcp/issues/1"
   },
   {
+    "CVE": "CVE-2026-7325",
+    "PoC": "https://devolutions.net/security/advisories/DEVO-2026-0013/"
+  },
+  {
     "CVE": "CVE-2026-7375",
     "PoC": "https://gitlab.com/wireshark/wireshark/-/work_items/21225"
   },
@@ -568698,6 +568802,10 @@
   {
     "CVE": "CVE-2026-7675",
     "PoC": "https://github.com/hmKunlun/lbt-t300-hw1/blob/main/generate_conf_router(Channel).md"
+  },
+  {
+    "CVE": "CVE-2026-7676",
+    "PoC": "https://vuldb.com/submit/800723"
   },
   {
     "CVE": "CVE-2026-7678",
@@ -568924,6 +569032,10 @@
     "PoC": "https://devolutions.net/security/advisories/DEVO-2026-0010/"
   },
   {
+    "CVE": "CVE-2026-8477",
+    "PoC": "https://devolutions.net/security/advisories/DEVO-2026-0013/"
+  },
+  {
     "CVE": "CVE-2026-8654",
     "PoC": "https://portal.perforce.com/s/cve/a91Qi000002z78HIAQ/authenticated-os-command-injection-in-delphix-continuous-data-connectors"
   },
@@ -568958,5 +569070,45 @@
   {
     "CVE": "CVE-2026-8814",
     "PoC": "https://security.snyk.io/vuln/SNYK-JS-EXIFREADER-16689340"
+  },
+  {
+    "CVE": "CVE-2026-9047",
+    "PoC": "https://devolutions.net/security/advisories/DEVO-2026-0013/"
+  },
+  {
+    "CVE": "CVE-2026-9223",
+    "PoC": "https://devolutions.net/security/advisories/DEVO-2026-0013/"
+  },
+  {
+    "CVE": "CVE-2026-9224",
+    "PoC": "https://devolutions.net/security/advisories/DEVO-2026-0013/"
+  },
+  {
+    "CVE": "CVE-2026-9245",
+    "PoC": "https://devolutions.net/security/advisories/DEVO-2026-0013/"
+  },
+  {
+    "CVE": "CVE-2026-9246",
+    "PoC": "https://devolutions.net/security/advisories/DEVO-2026-0013/"
+  },
+  {
+    "CVE": "CVE-2026-9247",
+    "PoC": "https://devolutions.net/security/advisories/DEVO-2026-0013/"
+  },
+  {
+    "CVE": "CVE-2026-9248",
+    "PoC": "https://devolutions.net/security/advisories/DEVO-2026-0013/"
+  },
+  {
+    "CVE": "CVE-2026-9249",
+    "PoC": "https://devolutions.net/security/advisories/DEVO-2026-0013/"
+  },
+  {
+    "CVE": "CVE-2026-9251",
+    "PoC": "https://devolutions.net/security/advisories/DEVO-2026-0013/"
+  },
+  {
+    "CVE": "CVE-2026-9277",
+    "PoC": "http://www.openwall.com/lists/oss-security/2026/05/23/2"
   }
 ]
