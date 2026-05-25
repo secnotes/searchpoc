@@ -1884,6 +1884,10 @@
     "PoC": "http://www.cisco.com/warp/public/707/cmts-MD5-bypass-pub.shtml"
   },
   {
+    "CVE": "CVE-2002-1720",
+    "PoC": "http://www.securiteam.com/windowsntfocus/5VP030K75G.html"
+  },
+  {
     "CVE": "CVE-2002-1837",
     "PoC": "http://ids.sourceforge.net/ChangeLog.html"
   },
@@ -145756,6 +145760,18 @@
     "PoC": "http://seclists.org/fulldisclosure/2015/Jan/91"
   },
   {
+    "CVE": "CVE-2014-9227",
+    "PoC": "http://www.symantec.com/security_response/securityupdates/detail.jsp?fid=security_advisory&pvid=security_advisory&year=&suid=20150617_00"
+  },
+  {
+    "CVE": "CVE-2014-9228",
+    "PoC": "http://www.symantec.com/security_response/securityupdates/detail.jsp?fid=security_advisory&pvid=security_advisory&year=&suid=20150617_00"
+  },
+  {
+    "CVE": "CVE-2014-9229",
+    "PoC": "http://www.symantec.com/security_response/securityupdates/detail.jsp?fid=security_advisory&pvid=security_advisory&year=&suid=20150617_00"
+  },
+  {
     "CVE": "CVE-2014-9234",
     "PoC": "http://packetstormsecurity.com/files/129138/D-Link-DCS-2103-Directory-Traversal.html"
   },
@@ -248202,6 +248218,82 @@
   {
     "CVE": "CVE-2018-25339",
     "PoC": "https://www.exploit-db.com/exploits/44685"
+  },
+  {
+    "CVE": "CVE-2018-25340",
+    "PoC": "https://www.exploit-db.com/exploits/44823"
+  },
+  {
+    "CVE": "CVE-2018-25341",
+    "PoC": "https://www.exploit-db.com/exploits/44823"
+  },
+  {
+    "CVE": "CVE-2018-25342",
+    "PoC": "https://www.exploit-db.com/exploits/44823"
+  },
+  {
+    "CVE": "CVE-2018-25343",
+    "PoC": "https://www.exploit-db.com/exploits/44824"
+  },
+  {
+    "CVE": "CVE-2018-25344",
+    "PoC": "https://www.exploit-db.com/exploits/44840"
+  },
+  {
+    "CVE": "CVE-2018-25345",
+    "PoC": "https://www.exploit-db.com/exploits/44841"
+  },
+  {
+    "CVE": "CVE-2018-25346",
+    "PoC": "https://www.exploit-db.com/exploits/44853"
+  },
+  {
+    "CVE": "CVE-2018-25347",
+    "PoC": "https://www.exploit-db.com/exploits/44854"
+  },
+  {
+    "CVE": "CVE-2018-25348",
+    "PoC": "https://www.exploit-db.com/exploits/44869"
+  },
+  {
+    "CVE": "CVE-2018-25349",
+    "PoC": "https://www.exploit-db.com/exploits/44871"
+  },
+  {
+    "CVE": "CVE-2018-25350",
+    "PoC": "https://www.exploit-db.com/exploits/44872"
+  },
+  {
+    "CVE": "CVE-2018-25351",
+    "PoC": "https://www.exploit-db.com/exploits/44877"
+  },
+  {
+    "CVE": "CVE-2018-25352",
+    "PoC": "https://www.exploit-db.com/exploits/44884"
+  },
+  {
+    "CVE": "CVE-2018-25353",
+    "PoC": "https://www.exploit-db.com/exploits/44891"
+  },
+  {
+    "CVE": "CVE-2018-25354",
+    "PoC": "https://www.exploit-db.com/exploits/44901"
+  },
+  {
+    "CVE": "CVE-2018-25355",
+    "PoC": "https://www.exploit-db.com/exploits/44903"
+  },
+  {
+    "CVE": "CVE-2018-25356",
+    "PoC": "https://www.exploit-db.com/exploits/44962"
+  },
+  {
+    "CVE": "CVE-2018-25357",
+    "PoC": "https://www.exploit-db.com/exploits/44964"
+  },
+  {
+    "CVE": "CVE-2018-25358",
+    "PoC": "https://www.exploit-db.com/exploits/45002"
   },
   {
     "CVE": "CVE-2018-2560",
@@ -363928,6 +364020,10 @@
     "PoC": "https://www.oracle.com/security-alerts/cpuapr2022.html"
   },
   {
+    "CVE": "CVE-2021-38084",
+    "PoC": "https://sourceforge.net/p/courier/mailman/message/37329216/"
+  },
+  {
     "CVE": "CVE-2021-38085",
     "PoC": "http://packetstormsecurity.com/files/163795/Canon-TR150-Driver-3.71.2.10-Privilege-Escalation.html"
   },
@@ -369086,6 +369182,10 @@
   {
     "CVE": "CVE-2021-42568",
     "PoC": "https://support.sonatype.com/hc/en-us/articles/4408801690515-CVE-2021-42568-Nexus-Repository-Manager-3-Incorrect-Access-Control-October-27-2021"
+  },
+  {
+    "CVE": "CVE-2021-4257",
+    "PoC": "https://vuldb.com/?id.216214"
   },
   {
     "CVE": "CVE-2021-42575",
@@ -504280,6 +504380,10 @@
     "PoC": "https://github.com/DeepMountains/Mirage/blob/main/CVE14-2.md"
   },
   {
+    "CVE": "CVE-2024-7741",
+    "PoC": "https://vuldb.com/?ctiid.274361"
+  },
+  {
     "CVE": "CVE-2024-7742",
     "PoC": "https://github.com/DeepMountains/Mirage/blob/main/CVE14-3.md"
   },
@@ -509812,6 +509916,10 @@
     "PoC": "https://github.com/marcelomulder/CVE/blob/main/i-educar/Cross-Site%20Scripting%20(XSS)%20Reflected%20endpoint%20%60agenda_preferencias.php%60%20parameter%20%60tipoacao%60.md"
   },
   {
+    "CVE": "CVE-2025-10605",
+    "PoC": "https://vuldb.com/?submit.649872"
+  },
+  {
     "CVE": "CVE-2025-10606",
     "PoC": "https://github.com/marcelomulder/CVE/blob/main/i-educar/CVE-2025-10606.md"
   },
@@ -511162,6 +511270,10 @@
   {
     "CVE": "CVE-2025-11079",
     "PoC": "https://github.com/unicorn33355/cve/issues/1"
+  },
+  {
+    "CVE": "CVE-2025-11080",
+    "PoC": "https://github.com/xkalami-Tta0/CVE/blob/main/wisdom-education/%E6%B0%B4%E5%B9%B3%E8%B6%8A%E6%9D%83.md#vulnerability-reproduction"
   },
   {
     "CVE": "CVE-2025-11088",
@@ -512918,6 +513030,10 @@
   {
     "CVE": "CVE-2025-11934",
     "PoC": "https://github.com/wolfSSL/wolfssl/pull/9113"
+  },
+  {
+    "CVE": "CVE-2025-11935",
+    "PoC": "https://github.com/wolfSSL/wolfssl/pull/9112"
   },
   {
     "CVE": "CVE-2025-11939",
@@ -550600,6 +550716,10 @@
     "PoC": "https://github.com/f1rstb100d/myCVE/issues/124"
   },
   {
+    "CVE": "CVE-2025-7522",
+    "PoC": "https://vuldb.com/?submit.610582"
+  },
+  {
     "CVE": "CVE-2025-7523",
     "PoC": "https://github.com/BigMancer/Jinhe-OA-XXE-Vulnerability"
   },
@@ -550750,6 +550870,10 @@
   {
     "CVE": "CVE-2025-7551",
     "PoC": "https://github.com/panda666-888/vuls/blob/main/tenda/fh1201/fromPptpUserAdd_modino.md#poc"
+  },
+  {
+    "CVE": "CVE-2025-7553",
+    "PoC": "https://vuldb.com/?ctiid.316251"
   },
   {
     "CVE": "CVE-2025-7555",
@@ -558924,12 +559048,20 @@
     "PoC": "https://github.com/kmkz/Exploits/blob/master/2026/CVE-2026-22192-22199_Voltronic-Power_Preauth_root_RCE.txt"
   },
   {
+    "CVE": "CVE-2026-2220",
+    "PoC": "https://github.com/tiancesec/CVE/issues/20"
+  },
+  {
     "CVE": "CVE-2026-22207",
     "PoC": "https://github.com/volcengine/OpenViking/issues/302"
   },
   {
     "CVE": "CVE-2026-22208",
     "PoC": "https://github.com/S-100ExpertTeam/OpenS100/commit/753cf294434e8d3961f20a567c4d99151e3b530d"
+  },
+  {
+    "CVE": "CVE-2026-2221",
+    "PoC": "https://github.com/tiancesec/CVE/issues/22"
   },
   {
     "CVE": "CVE-2026-22211",
@@ -558954,6 +559086,18 @@
   {
     "CVE": "CVE-2026-22219",
     "PoC": "https://www.zafran.io/resources/chainleak-critical-ai-framework-vulnerabilities-expose-data-enable-cloud-takeover"
+  },
+  {
+    "CVE": "CVE-2026-2222",
+    "PoC": "https://github.com/tiancesec/CVE/issues/23"
+  },
+  {
+    "CVE": "CVE-2026-2223",
+    "PoC": "https://github.com/tiancesec/CVE/issues/24"
+  },
+  {
+    "CVE": "CVE-2026-2224",
+    "PoC": "https://github.com/tiancesec/CVE/issues/23"
   },
   {
     "CVE": "CVE-2026-22241",
@@ -561408,6 +561552,10 @@
     "PoC": "https://github.com/pastcompute/tichome-poc-1"
   },
   {
+    "CVE": "CVE-2026-2649",
+    "PoC": "https://issues.chromium.org/issues/481074858"
+  },
+  {
     "CVE": "CVE-2026-26514",
     "PoC": "https://github.com/xddxdd/bird-lg-go/issues/136"
   },
@@ -563054,6 +563202,10 @@
   {
     "CVE": "CVE-2026-2911",
     "PoC": "https://vuln.ricky.place/Tenda/FH451/"
+  },
+  {
+    "CVE": "CVE-2026-2912",
+    "PoC": "https://github.com/tiancesec/CVE/issues/25"
   },
   {
     "CVE": "CVE-2026-29169",
@@ -566780,6 +566932,14 @@
     "PoC": "https://vulnerability.circl.lu/vuln/gcve-1-2026-0025"
   },
   {
+    "CVE": "CVE-2026-40596",
+    "PoC": "https://mantisbt.org/bugs/view.php?id=37011"
+  },
+  {
+    "CVE": "CVE-2026-40607",
+    "PoC": "https://mantisbt.org/bugs/view.php?id=37015"
+  },
+  {
     "CVE": "CVE-2026-4064",
     "PoC": "https://devolutions.net/security/advisories/DEVO-2026-0008"
   },
@@ -567652,6 +567812,22 @@
     "PoC": "https://security.snyk.io/vuln/SNYK-JS-JSRSASIGN-15371176"
   },
   {
+    "CVE": "CVE-2026-46300",
+    "PoC": "http://www.openwall.com/lists/oss-security/2026/05/13/5"
+  },
+  {
+    "CVE": "CVE-2026-46300",
+    "PoC": "http://www.openwall.com/lists/oss-security/2026/05/21/11"
+  },
+  {
+    "CVE": "CVE-2026-46300",
+    "PoC": "http://www.openwall.com/lists/oss-security/2026/05/21/12"
+  },
+  {
+    "CVE": "CVE-2026-46300",
+    "PoC": "http://www.openwall.com/lists/oss-security/2026/05/21/13"
+  },
+  {
     "CVE": "CVE-2026-46333",
     "PoC": "http://www.openwall.com/lists/oss-security/2026/05/20/16"
   },
@@ -567718,6 +567894,14 @@
   {
     "CVE": "CVE-2026-4878",
     "PoC": "http://www.openwall.com/lists/oss-security/2026/04/09/6"
+  },
+  {
+    "CVE": "CVE-2026-48829",
+    "PoC": "https://lists.gnu.org/archive/html/help-gsasl/2026-05/msg00000.html"
+  },
+  {
+    "CVE": "CVE-2026-48829",
+    "PoC": "https://lists.gnu.org/archive/html/help-gsasl/2026-05/msg00002.html"
   },
   {
     "CVE": "CVE-2026-4908",
@@ -568560,6 +568744,10 @@
     "PoC": "https://github.com/CDipper/CVE-Test/issues/2"
   },
   {
+    "CVE": "CVE-2026-7288",
+    "PoC": "https://github.com/Kiciot/cve/issues/2"
+  },
+  {
     "CVE": "CVE-2026-7289",
     "PoC": "https://github.com/Kiciot/cve/issues/3"
   },
@@ -568810,6 +568998,10 @@
   {
     "CVE": "CVE-2026-7678",
     "PoC": "https://github.com/9str0IL/CVE/issues/2"
+  },
+  {
+    "CVE": "CVE-2026-7686",
+    "PoC": "https://github.com/xryj920/CVE/blob/main/adblock_plus_CVE_report.md"
   },
   {
     "CVE": "CVE-2026-7689",
