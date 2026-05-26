@@ -9864,6 +9864,10 @@
     "PoC": "http://securityreason.com/securityalert/59"
   },
   {
+    "CVE": "CVE-2005-2340",
+    "PoC": "http://www.vupen.com/english/advisories/2006/0128"
+  },
+  {
     "CVE": "CVE-2005-2365",
     "PoC": "https://oval.cisecurity.org/repository/search/definition/oval%3Aorg.mitre.oval%3Adef%3A9118"
   },
@@ -11772,6 +11776,30 @@
     "PoC": "https://bugs.gentoo.org/show_bug.cgi?id=100519"
   },
   {
+    "CVE": "CVE-2005-3707",
+    "PoC": "http://www.vupen.com/english/advisories/2006/0128"
+  },
+  {
+    "CVE": "CVE-2005-3708",
+    "PoC": "http://www.vupen.com/english/advisories/2006/0128"
+  },
+  {
+    "CVE": "CVE-2005-3709",
+    "PoC": "http://www.vupen.com/english/advisories/2006/0128"
+  },
+  {
+    "CVE": "CVE-2005-3710",
+    "PoC": "http://www.vupen.com/english/advisories/2006/0128"
+  },
+  {
+    "CVE": "CVE-2005-3711",
+    "PoC": "http://www.vupen.com/english/advisories/2006/0128"
+  },
+  {
+    "CVE": "CVE-2005-3713",
+    "PoC": "http://www.vupen.com/english/advisories/2006/0128"
+  },
+  {
     "CVE": "CVE-2005-3732",
     "PoC": "http://cvs.sourceforge.net/viewcvs.py/ipsec-tools/ipsec-tools/src/racoon/isakmp_agg.c?r1=1.20.2.3&r2=1.20.2.4&diff_format=u"
   },
@@ -12090,6 +12118,10 @@
   {
     "CVE": "CVE-2005-4092",
     "PoC": "http://www.security-protocols.com/modules.php?name=News&file=article&sid=3133"
+  },
+  {
+    "CVE": "CVE-2005-4092",
+    "PoC": "http://www.vupen.com/english/advisories/2006/0128"
   },
   {
     "CVE": "CVE-2005-4131",
@@ -157276,6 +157308,14 @@
     "PoC": "https://www.drupal.org/node/2445297"
   },
   {
+    "CVE": "CVE-2015-4359",
+    "PoC": "https://www.drupal.org/node/2465177"
+  },
+  {
+    "CVE": "CVE-2015-4360",
+    "PoC": "https://www.drupal.org/node/2465177"
+  },
+  {
     "CVE": "CVE-2015-4374",
     "PoC": "https://www.drupal.org/node/2454063"
   },
@@ -265873,7 +265913,15 @@
   },
   {
     "CVE": "CVE-2019-12108",
+    "PoC": "https://github.com/miniupnp/miniupnp/commit/86030db849260dd8fb2ed975b9890aef1b62b692"
+  },
+  {
+    "CVE": "CVE-2019-12108",
     "PoC": "https://www.vdoo.com/blog/security-issues-discovered-in-miniupnp"
+  },
+  {
+    "CVE": "CVE-2019-12109",
+    "PoC": "https://github.com/miniupnp/miniupnp/commit/86030db849260dd8fb2ed975b9890aef1b62b692"
   },
   {
     "CVE": "CVE-2019-12109",
@@ -475440,6 +475488,10 @@
     "PoC": "https://wpscan.com/vulnerability/194ebf81-8fe4-4c74-8174-35d0ac00ac93/"
   },
   {
+    "CVE": "CVE-2024-2644",
+    "PoC": "https://github.com/hundanchen69/cve/blob/main/NS-ASG-sql-laddfirewall.md"
+  },
+  {
     "CVE": "CVE-2024-26445",
     "PoC": "https://github.com/xiaolanjing0/cms/blob/main/1.md"
   },
@@ -481046,6 +481098,10 @@
   {
     "CVE": "CVE-2024-32640",
     "PoC": "https://projectdiscovery.io/blog/hacking-apple-with-sql-injection?ref=projectdiscovery-io-blog-newsletter"
+  },
+  {
+    "CVE": "CVE-2024-32642",
+    "PoC": "https://github.com/MasaCMS/MasaCMS/security/advisories/GHSA-qjm6-c8hx-ffh8"
   },
   {
     "CVE": "CVE-2024-32643",
@@ -503174,6 +503230,10 @@
   {
     "CVE": "CVE-2024-7163",
     "PoC": "https://github.com/HuaQiPro/seacms/issues/28"
+  },
+  {
+    "CVE": "CVE-2024-7163",
+    "PoC": "https://vuldb.com/?id.272577"
   },
   {
     "CVE": "CVE-2024-7164",
@@ -548412,6 +548472,14 @@
     "PoC": "https://github.com/johnathanhuutri/CVEReport/tree/master/CVE-2025-67074"
   },
   {
+    "CVE": "CVE-2025-67108",
+    "PoC": "https://gist.github.com/lkloliver/81b5d5a8328d712dbfd497bf11dbe913"
+  },
+  {
+    "CVE": "CVE-2025-67109",
+    "PoC": "https://gist.github.com/lkloliver/669e15bc7e6194133e4ee1026ce157e6"
+  },
+  {
     "CVE": "CVE-2025-67111",
     "PoC": "https://github.com/lkloliver/poc/blob/main/POC_OpenDDS.md"
   },
@@ -548440,6 +548508,10 @@
     "PoC": "https://neutsec.io/advisories/cve-2025-67135"
   },
   {
+    "CVE": "CVE-2025-67146",
+    "PoC": "https://github.com/AbhishekMali21/GYM-MANAGEMENT-SYSTEM/issues/4"
+  },
+  {
     "CVE": "CVE-2025-6715",
     "PoC": "https://wpscan.com/vulnerability/357aba51-b65e-4691-864b-fef1c78a9362/"
   },
@@ -548452,8 +548524,16 @@
     "PoC": "https://github.com/mbiesiad/vulnerability-research/tree/main/CVE-2025-67163"
   },
   {
+    "CVE": "CVE-2025-67174",
+    "PoC": "https://github.com/mbiesiad/vulnerability-research/tree/main/CVE-2025-67174"
+  },
+  {
     "CVE": "CVE-2025-67187",
     "PoC": "https://github.com/SunnyYANGyaya/cuicuishark-sheep-fishIOT/blob/main/ToTolink/A950RG/5024-setIpQosRules-comment-buffer.md"
+  },
+  {
+    "CVE": "CVE-2025-67259",
+    "PoC": "https://github.com/classroomio/classroomio/issues/642"
   },
   {
     "CVE": "CVE-2025-67274",
@@ -548557,6 +548637,10 @@
   },
   {
     "CVE": "CVE-2025-67511",
+    "PoC": "https://github.com/aliasrobotics/cai/security/advisories/GHSA-4c65-9gqf-4w8h"
+  },
+  {
+    "CVE": "CVE-2025-67511",
     "PoC": "https://www.hacktivesecurity.com/blog/2025/12/10/cve-2025-67511-tricking-a-security-ai-agent-into-pwning-itself"
   },
   {
@@ -548610,6 +548694,10 @@
   {
     "CVE": "CVE-2025-6774",
     "PoC": "https://github.com/gooaclok819/sublinkX/issues/68#issuecomment-2957290524"
+  },
+  {
+    "CVE": "CVE-2025-67744",
+    "PoC": "https://github.com/ThinkInAIXYZ/deepchat/security/advisories/GHSA-w8w8-82pv-5rg9"
   },
   {
     "CVE": "CVE-2025-6775",
@@ -549520,6 +549608,14 @@
     "PoC": "https://github.com/akuma-QAQ/CVEreport/tree/main/D-link/CVE-2025-70238"
   },
   {
+    "CVE": "CVE-2025-70239",
+    "PoC": "https://github.com/akuma-QAQ/CVEreport/tree/main/D-link/CVE-2025-70239"
+  },
+  {
+    "CVE": "CVE-2025-70240",
+    "PoC": "https://github.com/akuma-QAQ/CVEreport/tree/main/D-link/CVE-2025-70240"
+  },
+  {
     "CVE": "CVE-2025-70241",
     "PoC": "https://github.com/akuma-QAQ/CVEreport/tree/main/D-link/CVE-2025-70241"
   },
@@ -549654,6 +549750,10 @@
   {
     "CVE": "CVE-2025-70746",
     "PoC": "https://github.com/0-fool/VulnbyCola/blob/main/Tenda/AX-1806/4/1.md"
+  },
+  {
+    "CVE": "CVE-2025-70747",
+    "PoC": "https://github.com/0-fool/VulnbyCola/blob/main/Tenda/AX-1806/6/1.md"
   },
   {
     "CVE": "CVE-2025-70753",
@@ -549866,6 +549966,14 @@
   {
     "CVE": "CVE-2025-7095",
     "PoC": "https://drive.google.com/file/d/1qnWarYsTSc5_sV6o8ULv0LBvGfKKXPxn/view?usp=sharing"
+  },
+  {
+    "CVE": "CVE-2025-70950",
+    "PoC": "https://gist.github.com/Lime-Cocoa/202127ae5f4dcc4b39909ce7ac1c8466"
+  },
+  {
+    "CVE": "CVE-2025-70950",
+    "PoC": "https://github.com/itang/gohttp/issues/13"
   },
   {
     "CVE": "CVE-2025-70954",
@@ -566912,6 +567020,10 @@
     "PoC": "https://fluidattacks.com/es/advisories/prisioneros"
   },
   {
+    "CVE": "CVE-2026-40313",
+    "PoC": "https://thehackernews.com/2024/08/github-vulnerability-artipacked-exposes.html"
+  },
+  {
     "CVE": "CVE-2026-40355",
     "PoC": "https://cems.fun/2026/04/27/krb5-two-unauthenticated-network-vulnerabilities.html"
   },
@@ -568322,6 +568434,10 @@
   {
     "CVE": "CVE-2026-6568",
     "PoC": "https://vulnplus-note.wetolink.com/share/JyHBnRUaoOY2"
+  },
+  {
+    "CVE": "CVE-2026-6576",
+    "PoC": "https://vuldb.com/vuln/358211/cti"
   },
   {
     "CVE": "CVE-2026-6622",
