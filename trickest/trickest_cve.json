@@ -84624,6 +84624,14 @@
     "PoC": "http://packetstormsecurity.org/1009-exploits/wpquiz27-sql.txt"
   },
   {
+    "CVE": "CVE-2010-3613",
+    "PoC": "http://www.redhat.com/support/errata/RHSA-2010-0975.html"
+  },
+  {
+    "CVE": "CVE-2010-3614",
+    "PoC": "http://www.redhat.com/support/errata/RHSA-2010-0975.html"
+  },
+  {
     "CVE": "CVE-2010-3629",
     "PoC": "https://oval.cisecurity.org/repository/search/definition/oval%3Aorg.mitre.oval%3Adef%3A7007"
   },
@@ -150192,6 +150200,10 @@
     "PoC": "https://github.com/wp-plugins/landing-pages/commit/c8e22c1340c11fedfb0a0a67ea690421bdb62b94"
   },
   {
+    "CVE": "CVE-2015-10092",
+    "PoC": "https://github.com/wp-plugins/qtranslate-slug/commit/74b3932696f9868e14563e51b7d0bb68c53bf5e4"
+  },
+  {
     "CVE": "CVE-2015-10101",
     "PoC": "https://github.com/wp-plugins/google-analytics-top-posts-widget/commit/25bb1dea113716200a6f0f3135801d84a7a65540"
   },
@@ -169342,6 +169354,10 @@
   {
     "CVE": "CVE-2015-9230",
     "PoC": "https://wpvulndb.com/vulnerabilities/8224"
+  },
+  {
+    "CVE": "CVE-2015-9232",
+    "PoC": "https://community.blackberry.com/community/blogs/blog/2015/10/02/what-you-need-to-know-modzero-insecure-application-coupling"
   },
   {
     "CVE": "CVE-2015-9232",
@@ -248340,6 +248356,98 @@
     "PoC": "https://www.exploit-db.com/exploits/45002"
   },
   {
+    "CVE": "CVE-2018-25359",
+    "PoC": "https://www.exploit-db.com/exploits/45072"
+  },
+  {
+    "CVE": "CVE-2018-25360",
+    "PoC": "https://www.exploit-db.com/exploits/45151"
+  },
+  {
+    "CVE": "CVE-2018-25361",
+    "PoC": "https://www.exploit-db.com/exploits/45171"
+  },
+  {
+    "CVE": "CVE-2018-25362",
+    "PoC": "https://www.exploit-db.com/exploits/45230"
+  },
+  {
+    "CVE": "CVE-2018-25363",
+    "PoC": "https://www.exploit-db.com/exploits/45232"
+  },
+  {
+    "CVE": "CVE-2018-25364",
+    "PoC": "https://www.exploit-db.com/exploits/45247"
+  },
+  {
+    "CVE": "CVE-2018-25365",
+    "PoC": "https://www.exploit-db.com/exploits/45248"
+  },
+  {
+    "CVE": "CVE-2018-25366",
+    "PoC": "https://www.exploit-db.com/exploits/45259"
+  },
+  {
+    "CVE": "CVE-2018-25367",
+    "PoC": "https://www.exploit-db.com/exploits/45281"
+  },
+  {
+    "CVE": "CVE-2018-25368",
+    "PoC": "https://www.exploit-db.com/exploits/45304"
+  },
+  {
+    "CVE": "CVE-2018-25369",
+    "PoC": "https://www.exploit-db.com/exploits/45316"
+  },
+  {
+    "CVE": "CVE-2018-25370",
+    "PoC": "https://www.exploit-db.com/exploits/45322"
+  },
+  {
+    "CVE": "CVE-2018-25371",
+    "PoC": "https://www.exploit-db.com/exploits/45330"
+  },
+  {
+    "CVE": "CVE-2018-25372",
+    "PoC": "https://www.exploit-db.com/exploits/45344"
+  },
+  {
+    "CVE": "CVE-2018-25373",
+    "PoC": "https://www.exploit-db.com/exploits/45346"
+  },
+  {
+    "CVE": "CVE-2018-25374",
+    "PoC": "https://www.exploit-db.com/exploits/45347"
+  },
+  {
+    "CVE": "CVE-2018-25375",
+    "PoC": "https://www.exploit-db.com/exploits/45350"
+  },
+  {
+    "CVE": "CVE-2018-25376",
+    "PoC": "https://www.exploit-db.com/exploits/45352"
+  },
+  {
+    "CVE": "CVE-2018-25377",
+    "PoC": "https://www.exploit-db.com/exploits/45355"
+  },
+  {
+    "CVE": "CVE-2018-25378",
+    "PoC": "https://www.exploit-db.com/exploits/45420"
+  },
+  {
+    "CVE": "CVE-2018-25379",
+    "PoC": "https://www.exploit-db.com/exploits/45446"
+  },
+  {
+    "CVE": "CVE-2018-25380",
+    "PoC": "https://www.exploit-db.com/exploits/45472"
+  },
+  {
+    "CVE": "CVE-2018-25381",
+    "PoC": "https://www.exploit-db.com/exploits/45491"
+  },
+  {
     "CVE": "CVE-2018-2560",
     "PoC": "http://www.oracle.com/technetwork/security-advisory/cpujan2018-3236628.html"
   },
@@ -324612,6 +324720,10 @@
     "PoC": "https://kb.netgear.com/000062667/Security-Advisory-for-Stored-Cross-Site-Scripting-on-Some-Routers-and-WiFi-Systems-PSV-2018-0496"
   },
   {
+    "CVE": "CVE-2020-35821",
+    "PoC": "https://kb.netgear.com/000062659/Security-Advisory-for-Stored-Cross-Site-Scripting-on-Some-Routers-and-WiFi-Systems-PSV-2018-0497"
+  },
+  {
     "CVE": "CVE-2020-35825",
     "PoC": "https://kb.netgear.com/000062642/Security-Advisory-for-Stored-Cross-Site-Scripting-on-Some-Routers-and-WiFi-Systems-PSV-2018-0502"
   },
@@ -377262,6 +377374,10 @@
   {
     "CVE": "CVE-2021-47788",
     "PoC": "https://www.exploit-db.com/exploits/50310"
+  },
+  {
+    "CVE": "CVE-2021-47789",
+    "PoC": "https://github.com/Quadron-Research-Lab/Kernel_Driver_bugs/tree/main/GM312Fltr"
   },
   {
     "CVE": "CVE-2021-47789",
@@ -557704,6 +557820,10 @@
     "PoC": "https://github.com/birkir/prime/issues/547"
   },
   {
+    "CVE": "CVE-2026-1169",
+    "PoC": "https://vuldb.com/?submit.731287"
+  },
+  {
     "CVE": "CVE-2026-1170",
     "PoC": "https://github.com/birkir/prime/issues/541"
   },
@@ -558714,6 +558834,18 @@
   {
     "CVE": "CVE-2026-20911",
     "PoC": "https://www.talosintelligence.com/vulnerability_reports/TALOS-2026-2330"
+  },
+  {
+    "CVE": "CVE-2026-20921",
+    "PoC": "https://www.vicarius.io/vsociety/posts/cve-2026-20921-detection-script-race-condition-vulnerability-in-windows-smb-server"
+  },
+  {
+    "CVE": "CVE-2026-20921",
+    "PoC": "https://www.vicarius.io/vsociety/posts/cve-2026-20921-remediation-script-race-condition-vulnerability-in-windows-smb-server"
+  },
+  {
+    "CVE": "CVE-2026-20931",
+    "PoC": "https://www.vicarius.io/vsociety/posts/cve-2026-20931-detection-script-elevation-of-privilege-vulnerability-in-windows-telephony-service"
   },
   {
     "CVE": "CVE-2026-2106",
@@ -560824,6 +560956,14 @@
     "PoC": "https://talosintelligence.com/vulnerability_reports/TALOS-2026-2367"
   },
   {
+    "CVE": "CVE-2026-25104",
+    "PoC": "https://www.talosintelligence.com/vulnerability_reports/TALOS-2026-2367"
+  },
+  {
+    "CVE": "CVE-2026-25112",
+    "PoC": "https://resources.genetec.com/security-advisories/vulnerability-affecting-rabbitmq-deployment-in-genetec-products"
+  },
+  {
     "CVE": "CVE-2026-25116",
     "PoC": "https://github.com/runtipi/runtipi/security/advisories/GHSA-mwg8-x997-cqw6"
   },
@@ -561446,6 +561586,18 @@
   {
     "CVE": "CVE-2026-26068",
     "PoC": "https://github.com/jm33-m0/emp3r0r/security/advisories/GHSA-h5p4-4xp4-vjpp"
+  },
+  {
+    "CVE": "CVE-2026-26128",
+    "PoC": "https://www.vicarius.io/vsociety/posts/cve-2026-26128-detection-script-improper-authentication-in-windows-smb-server"
+  },
+  {
+    "CVE": "CVE-2026-26128",
+    "PoC": "https://www.vicarius.io/vsociety/posts/cve-2026-26128-mitigation-script-improper-authentication-in-windows-smb-server"
+  },
+  {
+    "CVE": "CVE-2026-26151",
+    "PoC": "https://www.vicarius.io/vsociety/posts/cve-2026-26151-detection-script-spoofing-vulnerability-affecting-windows-remote-desktop"
   },
   {
     "CVE": "CVE-2026-2618",
@@ -565096,8 +565248,24 @@
     "PoC": "https://github.com/dataease/dataease/security/advisories/GHSA-vgm2-269h-8624"
   },
   {
+    "CVE": "CVE-2026-32181",
+    "PoC": "https://www.vicarius.io/vsociety/posts/cve-2026-32181-detection-script-dos-vulnerability-in-windows-connected-user-experiences-and-telemetry-service"
+  },
+  {
+    "CVE": "CVE-2026-32181",
+    "PoC": "https://www.vicarius.io/vsociety/posts/cve-2026-32181-mitigation-script-dos-vulnerability-in-windows-connected-user-experiences-and-telemetry-service"
+  },
+  {
     "CVE": "CVE-2026-3220",
     "PoC": "https://wpscan.com/vulnerability/3ceabf11-23cd-4c38-ba14-014348b0ff2d/"
+  },
+  {
+    "CVE": "CVE-2026-32202",
+    "PoC": "https://www.vicarius.io/vsociety/posts/cve-2026-32202-detection-script-spoofing-vulnerability-in-windows-shell"
+  },
+  {
+    "CVE": "CVE-2026-32202",
+    "PoC": "https://www.vicarius.io/vsociety/posts/cve-2026-32202-mitigation-script-spoofing-vulnerability-in-windows-shell"
   },
   {
     "CVE": "CVE-2026-3221",
@@ -565734,6 +565902,14 @@
   {
     "CVE": "CVE-2026-34429",
     "PoC": "https://delta.cyberm.ca/bugbin/ur66bvB7BYTC9y0eCIk3uzhZQgbjzAkG/"
+  },
+  {
+    "CVE": "CVE-2026-34486",
+    "PoC": "https://www.vicarius.io/vsociety/posts/cve-2026-34486-detection-script-rce-on-apache-tomcat"
+  },
+  {
+    "CVE": "CVE-2026-34486",
+    "PoC": "https://www.vicarius.io/vsociety/posts/cve-2026-34486-mitigation-script-rce-on-apache-tomcat"
   },
   {
     "CVE": "CVE-2026-3449",
@@ -566984,6 +567160,10 @@
     "PoC": "https://www.sysdig.com/blog/marimo-oss-python-notebook-rce-from-disclosure-to-exploitation-in-under-10-hours"
   },
   {
+    "CVE": "CVE-2026-40034",
+    "PoC": "https://red.anthropic.com/2026/cvd/findings/ANT-2026-6SNS6KMP"
+  },
+  {
     "CVE": "CVE-2026-40038",
     "PoC": "https://www.zeroscience.mk/en/vulnerabilities/ZSL-2026-5980.php"
   },
@@ -567344,6 +567524,10 @@
     "PoC": "https://github.com/dgraph-io/dgraph/security/advisories/GHSA-x92x-px7w-4gx4"
   },
   {
+    "CVE": "CVE-2026-41401",
+    "PoC": "https://red.anthropic.com/2026/cvd/findings/ANT-2026-TZQ1KH7E"
+  },
+  {
     "CVE": "CVE-2026-41411",
     "PoC": "https://github.com/vim/vim/security/advisories/GHSA-cwgx-gcj7-6qh8"
   },
@@ -567532,6 +567716,14 @@
     "PoC": "https://hackmd.io/@YzU_KiOzT86cEbFQdBceVg/Bk56LQQYbe"
   },
   {
+    "CVE": "CVE-2026-41917",
+    "PoC": "https://terrasystemlabs.com/post?slug=openkm-zero-day-vulnerabilities-terra-system-labs"
+  },
+  {
+    "CVE": "CVE-2026-41917",
+    "PoC": "https://www.exploit-db.com/exploits/52520"
+  },
+  {
     "CVE": "CVE-2026-41922",
     "PoC": "https://mstreet97.github.io/security-research/iot/vulnerability-disclosure/ai-assisted-research/cybersecurity/cve/2026/05/04/Teaching_the_Machine_Where_to_Look.html"
   },
@@ -567700,6 +567892,18 @@
     "PoC": "https://github.com/ltranquility/cve_submit/issues/13"
   },
   {
+    "CVE": "CVE-2026-42425",
+    "PoC": "https://terrasystemlabs.com/post?slug=openkm-zero-day-vulnerabilities-terra-system-labs"
+  },
+  {
+    "CVE": "CVE-2026-42425",
+    "PoC": "https://www.exploit-db.com/exploits/52520"
+  },
+  {
+    "CVE": "CVE-2026-42425",
+    "PoC": "https://www.vulncheck.com/advisories/openkm-unrestricted-sql-execution-via-databasequery"
+  },
+  {
     "CVE": "CVE-2026-4254",
     "PoC": "https://github.com/digitalandrew/tenda_ac8_v5/blob/main/CVE_Report_Tenda_AC8_SysToolChangePwd_BOF.md"
   },
@@ -567726,6 +567930,18 @@
   {
     "CVE": "CVE-2026-4274",
     "PoC": "https://mattermost.com/security-updates"
+  },
+  {
+    "CVE": "CVE-2026-42785",
+    "PoC": "https://terrasystemlabs.com/post?slug=openkm-zero-day-vulnerabilities-terra-system-labs"
+  },
+  {
+    "CVE": "CVE-2026-42785",
+    "PoC": "https://www.exploit-db.com/exploits/52520"
+  },
+  {
+    "CVE": "CVE-2026-42785",
+    "PoC": "https://www.vulncheck.com/advisories/openkm-remote-code-execution-via-administrative-scripting"
   },
   {
     "CVE": "CVE-2026-42798",
@@ -567972,6 +568188,10 @@
     "PoC": "http://www.openwall.com/lists/oss-security/2026/05/20/16"
   },
   {
+    "CVE": "CVE-2026-46368",
+    "PoC": "https://www.exploit-db.com/exploits/52521"
+  },
+  {
     "CVE": "CVE-2026-4802",
     "PoC": "http://www.openwall.com/lists/oss-security/2026/05/20/19"
   },
@@ -568026,6 +568246,18 @@
   {
     "CVE": "CVE-2026-48700",
     "PoC": "https://www.openwall.com/lists/oss-security/2026/05/20/2"
+  },
+  {
+    "CVE": "CVE-2026-48710",
+    "PoC": "https://ostif.org/disclosing-the-badhost-vulnerability-in-starlette"
+  },
+  {
+    "CVE": "CVE-2026-48710",
+    "PoC": "https://www.secwest.net/starlette"
+  },
+  {
+    "CVE": "CVE-2026-48710",
+    "PoC": "https://www.x41-dsec.de/lab/advisories/x41-2026-002-starlette"
   },
   {
     "CVE": "CVE-2026-4878",
@@ -568386,6 +568618,10 @@
   {
     "CVE": "CVE-2026-6265",
     "PoC": "https://labs.reversec.com/advisories/2026/04/cerberus-ftp-server-elevation-of-privileges"
+  },
+  {
+    "CVE": "CVE-2026-6268",
+    "PoC": "https://wpscan.com/vulnerability/77192aeb-8e4b-4057-b5d7-2b95da634edd/"
   },
   {
     "CVE": "CVE-2026-6379",
@@ -569446,5 +569682,21 @@
   {
     "CVE": "CVE-2026-9277",
     "PoC": "http://www.openwall.com/lists/oss-security/2026/05/23/2"
+  },
+  {
+    "CVE": "CVE-2026-9495",
+    "PoC": "https://security.snyk.io/vuln/SNYK-JS-KOAROUTER-12215044"
+  },
+  {
+    "CVE": "CVE-2026-9496",
+    "PoC": "https://security.snyk.io/vuln/SNYK-JAVA-ORGWEBJARSNPM-16874025"
+  },
+  {
+    "CVE": "CVE-2026-9496",
+    "PoC": "https://security.snyk.io/vuln/SNYK-JS-PACOTE-8225084"
+  },
+  {
+    "CVE": "CVE-2026-9606",
+    "PoC": "https://lhzzz08.github.io/posts/cveapplication3/"
   }
 ]
