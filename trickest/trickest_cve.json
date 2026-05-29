@@ -21337,6 +21337,10 @@
   },
   {
     "CVE": "CVE-2006-4253",
+    "PoC": "http://www.redhat.com/support/errata/RHSA-2006-0677.html"
+  },
+  {
+    "CVE": "CVE-2006-4253",
     "PoC": "http://www.securiteam.com/securitynews/5VP0M0AJFW.html"
   },
   {
@@ -21622,6 +21626,10 @@
   {
     "CVE": "CVE-2006-4339",
     "PoC": "http://www.vupen.com/english/advisories/2006/3936"
+  },
+  {
+    "CVE": "CVE-2006-4340",
+    "PoC": "http://www.redhat.com/support/errata/RHSA-2006-0677.html"
   },
   {
     "CVE": "CVE-2006-4340",
@@ -22193,6 +22201,10 @@
   },
   {
     "CVE": "CVE-2006-4565",
+    "PoC": "http://www.redhat.com/support/errata/RHSA-2006-0677.html"
+  },
+  {
+    "CVE": "CVE-2006-4565",
     "PoC": "http://www.ubuntu.com/usn/usn-361-1"
   },
   {
@@ -22201,11 +22213,19 @@
   },
   {
     "CVE": "CVE-2006-4566",
+    "PoC": "http://www.redhat.com/support/errata/RHSA-2006-0677.html"
+  },
+  {
+    "CVE": "CVE-2006-4566",
     "PoC": "http://www.vupen.com/english/advisories/2008/0083"
   },
   {
     "CVE": "CVE-2006-4566",
     "PoC": "https://oval.cisecurity.org/repository/search/definition/oval%3Aorg.mitre.oval%3Adef%3A9637"
+  },
+  {
+    "CVE": "CVE-2006-4567",
+    "PoC": "http://www.redhat.com/support/errata/RHSA-2006-0677.html"
   },
   {
     "CVE": "CVE-2006-4567",
@@ -22229,7 +22249,15 @@
   },
   {
     "CVE": "CVE-2006-4570",
+    "PoC": "http://www.redhat.com/support/errata/RHSA-2006-0677.html"
+  },
+  {
+    "CVE": "CVE-2006-4570",
     "PoC": "http://www.ubuntu.com/usn/usn-361-1"
+  },
+  {
+    "CVE": "CVE-2006-4571",
+    "PoC": "http://www.redhat.com/support/errata/RHSA-2006-0677.html"
   },
   {
     "CVE": "CVE-2006-4571",
@@ -103338,6 +103366,10 @@
   {
     "CVE": "CVE-2012-4326",
     "PoC": "http://packetstormsecurity.org/files/111563/AlstraSoft-Site-Uptime-Cross-Site-Request-Forgery.html"
+  },
+  {
+    "CVE": "CVE-2012-4328",
+    "PoC": "https://www.vbulletin.com/forum/showthread.php/400164-vBulletin-Security-Patch-for-vBulletin-4-1-2-4-1-11-for-Suite-amp-Forum-04-23-2012"
   },
   {
     "CVE": "CVE-2012-4329",
@@ -253158,6 +253190,10 @@
   {
     "CVE": "CVE-2018-4243",
     "PoC": "https://www.exploit-db.com/exploits/44848/"
+  },
+  {
+    "CVE": "CVE-2018-4247",
+    "PoC": "https://twitter.com/Nate_Kappa/status/1004399403220766725"
   },
   {
     "CVE": "CVE-2018-4249",
@@ -533880,6 +533916,10 @@
     "PoC": "https://github.com/lche511/cve/issues/1"
   },
   {
+    "CVE": "CVE-2025-4748",
+    "PoC": "https://cna.erlef.org/cves/CVE-2025-4748.html"
+  },
+  {
     "CVE": "CVE-2025-4749",
     "PoC": "https://github.com/at0de/my_vulns/blob/main/Dlink/Di-7003GV2/backup.md"
   },
@@ -533898,6 +533938,10 @@
   {
     "CVE": "CVE-2025-4753",
     "PoC": "https://github.com/at0de/my_vulns/blob/main/Dlink/Di-7003GV2/login.md"
+  },
+  {
+    "CVE": "CVE-2025-4754",
+    "PoC": "https://cna.erlef.org/cves/CVE-2025-4754.html"
   },
   {
     "CVE": "CVE-2025-47549",
@@ -534222,6 +534266,34 @@
   {
     "CVE": "CVE-2025-48025",
     "PoC": "https://semiconductor.samsung.com/support/quality-support/product-security-updates/cve-2025-48025/"
+  },
+  {
+    "CVE": "CVE-2025-48038",
+    "PoC": "https://cna.erlef.org/cves/CVE-2025-48038.html"
+  },
+  {
+    "CVE": "CVE-2025-48039",
+    "PoC": "https://cna.erlef.org/cves/CVE-2025-48039.html"
+  },
+  {
+    "CVE": "CVE-2025-48040",
+    "PoC": "https://cna.erlef.org/cves/CVE-2025-48040.html"
+  },
+  {
+    "CVE": "CVE-2025-48041",
+    "PoC": "https://cna.erlef.org/cves/CVE-2025-48041.html"
+  },
+  {
+    "CVE": "CVE-2025-48042",
+    "PoC": "https://cna.erlef.org/cves/CVE-2025-48042.html"
+  },
+  {
+    "CVE": "CVE-2025-48043",
+    "PoC": "https://cna.erlef.org/cves/CVE-2025-48043.html"
+  },
+  {
+    "CVE": "CVE-2025-48044",
+    "PoC": "https://cna.erlef.org/cves/CVE-2025-48044.html"
   },
   {
     "CVE": "CVE-2025-48044",
@@ -556984,6 +557056,10 @@
     "PoC": "https://github.com/mybonn/CVE/issues/2"
   },
   {
+    "CVE": "CVE-2025-9838",
+    "PoC": "https://vuldb.com/?ctiid.322185"
+  },
+  {
     "CVE": "CVE-2025-9839",
     "PoC": "https://github.com/mybonn/CVE/issues/3"
   },
@@ -557912,6 +557988,10 @@
     "PoC": "https://wpscan.com/vulnerability/c7eb234e-3113-40db-a00d-358604d91e3f/"
   },
   {
+    "CVE": "CVE-2026-1248",
+    "PoC": "https://www.ibm.com/support/pages/node/7271445"
+  },
+  {
     "CVE": "CVE-2026-1267",
     "PoC": "https://www.ibm.com/support/pages/node/7263581"
   },
@@ -558752,6 +558832,10 @@
     "PoC": "https://mattermost.com/security-updates"
   },
   {
+    "CVE": "CVE-2026-2075",
+    "PoC": "https://vuldb.com/?id.344641"
+  },
+  {
     "CVE": "CVE-2026-20761",
     "PoC": "https://enoceanwiki.atlassian.net/wiki/spaces/DrftSSIoT/pages/1475410/SmartServer+IoT+Release+Notes#Current-Stable-Release"
   },
@@ -558780,12 +558864,24 @@
     "PoC": "https://github.com/master-abc/cve/issues/22#issue-3847400767"
   },
   {
+    "CVE": "CVE-2026-20817",
+    "PoC": "https://www.vicarius.io/vsociety/posts/cve-2026-20817-detection-script-eop-vulnerabilit-in-windows-error-reporting"
+  },
+  {
     "CVE": "CVE-2026-2086",
     "PoC": "https://github.com/alc9700jmo/CVE/issues/22"
   },
   {
     "CVE": "CVE-2026-2086",
     "PoC": "https://github.com/alc9700jmo/CVE/issues/22#issue-3851242657"
+  },
+  {
+    "CVE": "CVE-2026-20864",
+    "PoC": "https://www.vicarius.io/vsociety/posts/cve-2026-20864-detection-script-heap-based-buffer-overflow-in-windows-connected-devices-platform-service"
+  },
+  {
+    "CVE": "CVE-2026-20864",
+    "PoC": "https://www.vicarius.io/vsociety/posts/cve-2026-20864-mitigation-script-heap-based-buffer-overflow-in-windows-connected-devices-platform-service"
   },
   {
     "CVE": "CVE-2026-20868",
@@ -558846,6 +558942,10 @@
   {
     "CVE": "CVE-2026-20931",
     "PoC": "https://www.vicarius.io/vsociety/posts/cve-2026-20931-detection-script-elevation-of-privilege-vulnerability-in-windows-telephony-service"
+  },
+  {
+    "CVE": "CVE-2026-20931",
+    "PoC": "https://www.vicarius.io/vsociety/posts/cve-2026-20931-mitigation-script-elevation-of-privilege-vulnerability-in-windows-telephony-service"
   },
   {
     "CVE": "CVE-2026-2106",
@@ -559010,6 +559110,26 @@
   {
     "CVE": "CVE-2026-2160",
     "PoC": "https://www.sourcecodester.com/"
+  },
+  {
+    "CVE": "CVE-2026-21618",
+    "PoC": "https://cna.erlef.org/cves/CVE-2026-21618.html"
+  },
+  {
+    "CVE": "CVE-2026-21619",
+    "PoC": "https://cna.erlef.org/cves/CVE-2026-21619.html"
+  },
+  {
+    "CVE": "CVE-2026-21620",
+    "PoC": "https://cna.erlef.org/cves/CVE-2026-21620.html"
+  },
+  {
+    "CVE": "CVE-2026-21621",
+    "PoC": "https://cna.erlef.org/cves/CVE-2026-21621.html"
+  },
+  {
+    "CVE": "CVE-2026-21622",
+    "PoC": "https://cna.erlef.org/cves/CVE-2026-21622.html"
   },
   {
     "CVE": "CVE-2026-21631",
@@ -560214,6 +560334,26 @@
   {
     "CVE": "CVE-2026-23918",
     "PoC": "http://www.openwall.com/lists/oss-security/2026/05/04/19"
+  },
+  {
+    "CVE": "CVE-2026-23939",
+    "PoC": "https://cna.erlef.org/cves/CVE-2026-23939.html"
+  },
+  {
+    "CVE": "CVE-2026-23940",
+    "PoC": "https://cna.erlef.org/cves/CVE-2026-23940.html"
+  },
+  {
+    "CVE": "CVE-2026-23941",
+    "PoC": "https://cna.erlef.org/cves/CVE-2026-23941.html"
+  },
+  {
+    "CVE": "CVE-2026-23942",
+    "PoC": "https://cna.erlef.org/cves/CVE-2026-23942.html"
+  },
+  {
+    "CVE": "CVE-2026-23943",
+    "PoC": "https://cna.erlef.org/cves/CVE-2026-23943.html"
   },
   {
     "CVE": "CVE-2026-23947",
@@ -563328,8 +563468,28 @@
     "PoC": "https://github.com/devcode-it/openstamanager/security/advisories/GHSA-3gw8-3mg3-jmpc"
   },
   {
+    "CVE": "CVE-2026-28806",
+    "PoC": "https://cna.erlef.org/cves/CVE-2026-28806.html"
+  },
+  {
+    "CVE": "CVE-2026-28807",
+    "PoC": "https://cna.erlef.org/cves/CVE-2026-28807.html"
+  },
+  {
     "CVE": "CVE-2026-28807",
     "PoC": "https://github.com/gleam-wisp/wisp/security/advisories/GHSA-h7cj-j2vv-qw8r"
+  },
+  {
+    "CVE": "CVE-2026-28808",
+    "PoC": "https://cna.erlef.org/cves/CVE-2026-28808.html"
+  },
+  {
+    "CVE": "CVE-2026-28809",
+    "PoC": "https://cna.erlef.org/cves/CVE-2026-28809.html"
+  },
+  {
+    "CVE": "CVE-2026-28810",
+    "PoC": "https://cna.erlef.org/cves/CVE-2026-28810.html"
   },
   {
     "CVE": "CVE-2026-28815",
@@ -565228,6 +565388,14 @@
     "PoC": "https://devolutions.net/security/advisories/DEVO-2026-0005"
   },
   {
+    "CVE": "CVE-2026-32077",
+    "PoC": "https://www.vicarius.io/vsociety/posts/cve-2026-32077-detection-script-elevation-of-privilege-vulnerability-affecting-windows-upnp"
+  },
+  {
+    "CVE": "CVE-2026-32077",
+    "PoC": "https://www.vicarius.io/vsociety/posts/cve-2026-32077-mitigation-script-elevation-of-privilege-vulnerability-affecting-windows-upnp"
+  },
+  {
     "CVE": "CVE-2026-32094",
     "PoC": "https://github.com/ericcornelissen/shescape/security/advisories/GHSA-9jfh-9xrq-4vwm"
   },
@@ -565246,6 +565414,26 @@
   {
     "CVE": "CVE-2026-32137",
     "PoC": "https://github.com/dataease/dataease/security/advisories/GHSA-vgm2-269h-8624"
+  },
+  {
+    "CVE": "CVE-2026-32144",
+    "PoC": "https://cna.erlef.org/cves/CVE-2026-32144.html"
+  },
+  {
+    "CVE": "CVE-2026-32145",
+    "PoC": "https://cna.erlef.org/cves/CVE-2026-32145.html"
+  },
+  {
+    "CVE": "CVE-2026-32146",
+    "PoC": "https://cna.erlef.org/cves/CVE-2026-32146.html"
+  },
+  {
+    "CVE": "CVE-2026-32147",
+    "PoC": "https://cna.erlef.org/cves/CVE-2026-32147.html"
+  },
+  {
+    "CVE": "CVE-2026-32148",
+    "PoC": "https://cna.erlef.org/cves/CVE-2026-32148.html"
   },
   {
     "CVE": "CVE-2026-32181",
@@ -565270,6 +565458,10 @@
   {
     "CVE": "CVE-2026-3221",
     "PoC": "https://devolutions.net/security/advisories/DEVO-2026-0004/"
+  },
+  {
+    "CVE": "CVE-2026-32223",
+    "PoC": "https://www.vicarius.io/vsociety/posts/cve-2026-32223-mitigation-script-heap-based-buffer-overflow-in-windows-usb-print-driver"
   },
   {
     "CVE": "CVE-2026-32230",
@@ -565362,6 +565554,22 @@
   {
     "CVE": "CVE-2026-3268",
     "PoC": "https://github.com/AnalogyC0de/public_exp/issues/14"
+  },
+  {
+    "CVE": "CVE-2026-32686",
+    "PoC": "https://cna.erlef.org/cves/CVE-2026-32686.html"
+  },
+  {
+    "CVE": "CVE-2026-32687",
+    "PoC": "https://cna.erlef.org/cves/CVE-2026-32687.html"
+  },
+  {
+    "CVE": "CVE-2026-32688",
+    "PoC": "https://cna.erlef.org/cves/CVE-2026-32688.html"
+  },
+  {
+    "CVE": "CVE-2026-32689",
+    "PoC": "https://cna.erlef.org/cves/CVE-2026-32689.html"
   },
   {
     "CVE": "CVE-2026-3269",
@@ -566440,6 +566648,18 @@
     "PoC": "https://github.com/xiahao90/CVEproject/blob/main/xiahao.webray.com.cn/Resort-Reservation-System---SQLi.md"
   },
   {
+    "CVE": "CVE-2026-37711",
+    "PoC": "https://bryamzxz.github.io/2026/05/25/dol_eval-five-years/"
+  },
+  {
+    "CVE": "CVE-2026-37712",
+    "PoC": "https://bryamzxz.github.io/2026/05/25/dol_eval-five-years/"
+  },
+  {
+    "CVE": "CVE-2026-37713",
+    "PoC": "https://bryamzxz.github.io/2026/05/25/dol_eval-five-years/"
+  },
+  {
     "CVE": "CVE-2026-3774",
     "PoC": "https://www.foxit.com/support/security-bulletins.html"
   },
@@ -567030,6 +567250,26 @@
   {
     "CVE": "CVE-2026-3980",
     "PoC": "https://github.com/vasable/automatic-parakeet/issues/2"
+  },
+  {
+    "CVE": "CVE-2026-39803",
+    "PoC": "https://cna.erlef.org/cves/CVE-2026-39803.html"
+  },
+  {
+    "CVE": "CVE-2026-39804",
+    "PoC": "https://cna.erlef.org/cves/CVE-2026-39804.html"
+  },
+  {
+    "CVE": "CVE-2026-39805",
+    "PoC": "https://cna.erlef.org/cves/CVE-2026-39805.html"
+  },
+  {
+    "CVE": "CVE-2026-39806",
+    "PoC": "https://cna.erlef.org/cves/CVE-2026-39806.html"
+  },
+  {
+    "CVE": "CVE-2026-39807",
+    "PoC": "https://cna.erlef.org/cves/CVE-2026-39807.html"
   },
   {
     "CVE": "CVE-2026-3981",
@@ -567724,6 +567964,10 @@
     "PoC": "https://www.exploit-db.com/exploits/52520"
   },
   {
+    "CVE": "CVE-2026-41917",
+    "PoC": "https://www.vulncheck.com/advisories/openkm-local-file-inclusion-via-admin-scripting"
+  },
+  {
     "CVE": "CVE-2026-41922",
     "PoC": "https://mstreet97.github.io/security-research/iot/vulnerability-disclosure/ai-assisted-research/cybersecurity/cve/2026/05/04/Teaching_the_Machine_Where_to_Look.html"
   },
@@ -567944,6 +568188,34 @@
     "PoC": "https://www.vulncheck.com/advisories/openkm-remote-code-execution-via-administrative-scripting"
   },
   {
+    "CVE": "CVE-2026-42786",
+    "PoC": "https://cna.erlef.org/cves/CVE-2026-42786.html"
+  },
+  {
+    "CVE": "CVE-2026-42788",
+    "PoC": "https://cna.erlef.org/cves/CVE-2026-42788.html"
+  },
+  {
+    "CVE": "CVE-2026-42789",
+    "PoC": "https://cna.erlef.org/cves/CVE-2026-42789.html"
+  },
+  {
+    "CVE": "CVE-2026-42790",
+    "PoC": "https://cna.erlef.org/cves/CVE-2026-42790.html"
+  },
+  {
+    "CVE": "CVE-2026-42791",
+    "PoC": "https://cna.erlef.org/cves/CVE-2026-42791.html"
+  },
+  {
+    "CVE": "CVE-2026-42793",
+    "PoC": "https://cna.erlef.org/cves/CVE-2026-42793.html"
+  },
+  {
+    "CVE": "CVE-2026-42794",
+    "PoC": "https://cna.erlef.org/cves/CVE-2026-42794.html"
+  },
+  {
     "CVE": "CVE-2026-42798",
     "PoC": "https://www.openwall.com/lists/oss-security/2026/04/30/8"
   },
@@ -567966,6 +568238,10 @@
   {
     "CVE": "CVE-2026-4318",
     "PoC": "https://github.com/xiaoheshang404/cve/issues/1#issue-4026284809"
+  },
+  {
+    "CVE": "CVE-2026-43284",
+    "PoC": "https://www.vicarius.io/vsociety/posts/cve-2026-43284-detection-script-dirty-frag-linux-kernel-local-privilege-escalation"
   },
   {
     "CVE": "CVE-2026-4338",
@@ -568016,6 +568292,22 @@
     "PoC": "https://devolutions.net/security/advisories/DEVO-2026-0009/"
   },
   {
+    "CVE": "CVE-2026-43967",
+    "PoC": "https://cna.erlef.org/cves/CVE-2026-43967.html"
+  },
+  {
+    "CVE": "CVE-2026-43968",
+    "PoC": "https://cna.erlef.org/cves/CVE-2026-43968.html"
+  },
+  {
+    "CVE": "CVE-2026-43969",
+    "PoC": "https://cna.erlef.org/cves/CVE-2026-43969.html"
+  },
+  {
+    "CVE": "CVE-2026-43970",
+    "PoC": "https://cna.erlef.org/cves/CVE-2026-43970.html"
+  },
+  {
     "CVE": "CVE-2026-44125",
     "PoC": "https://labs.infoguard.ch/posts/seppmail_secure_e-mail_gateway_rce_vulnerabilities_cve-2026-2743_cve-2026-7864_cve-2026-44127_cve-2026-44128/"
   },
@@ -568050,6 +568342,10 @@
   {
     "CVE": "CVE-2026-4434",
     "PoC": "https://devolutions.net/security/advisories/DEVO-2026-0005/"
+  },
+  {
+    "CVE": "CVE-2026-44604",
+    "PoC": "https://bugzilla.redhat.com/show_bug.cgi?id=2460967"
   },
   {
     "CVE": "CVE-2026-4474",
@@ -568192,6 +568488,14 @@
     "PoC": "https://www.exploit-db.com/exploits/52521"
   },
   {
+    "CVE": "CVE-2026-47067",
+    "PoC": "https://cna.erlef.org/cves/CVE-2026-47067.html"
+  },
+  {
+    "CVE": "CVE-2026-47077",
+    "PoC": "https://cna.erlef.org/cves/CVE-2026-47077.html"
+  },
+  {
     "CVE": "CVE-2026-4802",
     "PoC": "http://www.openwall.com/lists/oss-security/2026/05/20/19"
   },
@@ -568242,6 +568546,14 @@
   {
     "CVE": "CVE-2026-4851",
     "PoC": "https://www.openwall.com/lists/oss-security/2026/03/26/6"
+  },
+  {
+    "CVE": "CVE-2026-48592",
+    "PoC": "https://cna.erlef.org/cves/CVE-2026-48592.html"
+  },
+  {
+    "CVE": "CVE-2026-48593",
+    "PoC": "https://cna.erlef.org/cves/CVE-2026-48593.html"
   },
   {
     "CVE": "CVE-2026-48700",
@@ -568464,6 +568776,14 @@
     "PoC": "https://www.machinespirits.de/"
   },
   {
+    "CVE": "CVE-2026-5468",
+    "PoC": "https://vuldb.com/vuln/355072"
+  },
+  {
+    "CVE": "CVE-2026-5468",
+    "PoC": "https://vuldb.com/vuln/355072/cti"
+  },
+  {
     "CVE": "CVE-2026-5535",
     "PoC": "https://github.com/AnalogyC0de/public_exp/issues/25"
   },
@@ -568538,6 +568858,22 @@
   {
     "CVE": "CVE-2026-5902",
     "PoC": "https://issues.chromium.org/issues/483109205"
+  },
+  {
+    "CVE": "CVE-2026-5907",
+    "PoC": "https://issues.chromium.org/issues/484665123"
+  },
+  {
+    "CVE": "CVE-2026-5908",
+    "PoC": "https://issues.chromium.org/issues/485115554"
+  },
+  {
+    "CVE": "CVE-2026-5909",
+    "PoC": "https://issues.chromium.org/issues/485203821"
+  },
+  {
+    "CVE": "CVE-2026-5910",
+    "PoC": "https://issues.chromium.org/issues/485212874"
   },
   {
     "CVE": "CVE-2026-5936",
@@ -569288,6 +569624,10 @@
     "PoC": "https://github.com/xyh4ck/iot_poc/blob/main/TOTOLINK/A800R/02_Buffer_Overflow_setWiFiMultipleConfig.md"
   },
   {
+    "CVE": "CVE-2026-7528",
+    "PoC": "https://www.ibm.com/support/pages/node/7273427"
+  },
+  {
     "CVE": "CVE-2026-7545",
     "PoC": "https://github.com/eqwerwq/CVE/issues/2"
   },
@@ -569480,6 +569820,10 @@
     "PoC": "https://github.com/A-G-U-P-T-A/wireshark-mcp/issues/1"
   },
   {
+    "CVE": "CVE-2026-7790",
+    "PoC": "https://cna.erlef.org/cves/CVE-2026-7790.html"
+  },
+  {
     "CVE": "CVE-2026-7810",
     "PoC": "https://github.com/UsamaK98/python-notebook-mcp/issues/5"
   },
@@ -569514,6 +569858,10 @@
   {
     "CVE": "CVE-2026-7856",
     "PoC": "https://github.com/draw-ctf/report/blob/main/DI-8100/url_member_asp_overflow.md"
+  },
+  {
+    "CVE": "CVE-2026-7862",
+    "PoC": "https://wpscan.com/vulnerability/b4ce2a06-b435-4b77-851f-4406f2a91ca6/"
   },
   {
     "CVE": "CVE-2026-7864",
@@ -569592,6 +569940,30 @@
     "PoC": "https://github.com/yaoyue123/iot/blob/main/Tenda/AC10U/fromSetWirelessRepeat.md"
   },
   {
+    "CVE": "CVE-2026-8359",
+    "PoC": "https://www.tenable.com/security/research/TRA-2026-45"
+  },
+  {
+    "CVE": "CVE-2026-8360",
+    "PoC": "https://www.tenable.com/security/research/TRA-2026-45"
+  },
+  {
+    "CVE": "CVE-2026-8361",
+    "PoC": "https://www.tenable.com/security/research/TRA-2026-45"
+  },
+  {
+    "CVE": "CVE-2026-8362",
+    "PoC": "https://www.tenable.com/security/research/TRA-2026-45"
+  },
+  {
+    "CVE": "CVE-2026-8363",
+    "PoC": "https://www.tenable.com/security/research/TRA-2026-45"
+  },
+  {
+    "CVE": "CVE-2026-8364",
+    "PoC": "https://www.tenable.com/security/research/TRA-2026-45"
+  },
+  {
     "CVE": "CVE-2026-8367",
     "PoC": "https://www.tenable.com/security/research/tra-2026-38"
   },
@@ -569602,6 +569974,26 @@
   {
     "CVE": "CVE-2026-8407",
     "PoC": "https://devolutions.net/security/advisories/DEVO-2026-0010/"
+  },
+  {
+    "CVE": "CVE-2026-8466",
+    "PoC": "https://cna.erlef.org/cves/CVE-2026-8466.html"
+  },
+  {
+    "CVE": "CVE-2026-8467",
+    "PoC": "https://cna.erlef.org/cves/CVE-2026-8467.html"
+  },
+  {
+    "CVE": "CVE-2026-8468",
+    "PoC": "https://cna.erlef.org/cves/CVE-2026-8466.html"
+  },
+  {
+    "CVE": "CVE-2026-8468",
+    "PoC": "https://cna.erlef.org/cves/CVE-2026-8468.html"
+  },
+  {
+    "CVE": "CVE-2026-8469",
+    "PoC": "https://cna.erlef.org/cves/CVE-2026-8469.html"
   },
   {
     "CVE": "CVE-2026-8477",
