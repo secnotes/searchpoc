@@ -134673,6 +134673,10 @@
   },
   {
     "CVE": "CVE-2014-6457",
+    "PoC": "http://linux.oracle.com/errata/ELSA-2014-1634.html"
+  },
+  {
+    "CVE": "CVE-2014-6457",
     "PoC": "http://www-01.ibm.com/support/docview.wss?uid=swg21688283"
   },
   {
@@ -134937,6 +134941,10 @@
   },
   {
     "CVE": "CVE-2014-6502",
+    "PoC": "http://linux.oracle.com/errata/ELSA-2014-1634.html"
+  },
+  {
+    "CVE": "CVE-2014-6502",
     "PoC": "http://www-01.ibm.com/support/docview.wss?uid=swg21688283"
   },
   {
@@ -134953,6 +134961,10 @@
   },
   {
     "CVE": "CVE-2014-6504",
+    "PoC": "http://linux.oracle.com/errata/ELSA-2014-1634.html"
+  },
+  {
+    "CVE": "CVE-2014-6504",
     "PoC": "http://www.oracle.com/technetwork/topics/security/cpuoct2014-1972960.html"
   },
   {
@@ -134962,6 +134974,10 @@
   {
     "CVE": "CVE-2014-6505",
     "PoC": "http://www.oracle.com/technetwork/topics/security/cpuoct2014-1972960.html"
+  },
+  {
+    "CVE": "CVE-2014-6506",
+    "PoC": "http://linux.oracle.com/errata/ELSA-2014-1634.html"
   },
   {
     "CVE": "CVE-2014-6506",
@@ -134997,6 +135013,10 @@
   },
   {
     "CVE": "CVE-2014-6511",
+    "PoC": "http://linux.oracle.com/errata/ELSA-2014-1634.html"
+  },
+  {
+    "CVE": "CVE-2014-6511",
     "PoC": "http://www-01.ibm.com/support/docview.wss?uid=swg21688283"
   },
   {
@@ -135006,6 +135026,10 @@
   {
     "CVE": "CVE-2014-6511",
     "PoC": "http://www.oracle.com/technetwork/topics/security/cpuoct2014-1972960.html"
+  },
+  {
+    "CVE": "CVE-2014-6512",
+    "PoC": "http://linux.oracle.com/errata/ELSA-2014-1634.html"
   },
   {
     "CVE": "CVE-2014-6512",
@@ -135045,6 +135069,10 @@
   },
   {
     "CVE": "CVE-2014-6517",
+    "PoC": "http://linux.oracle.com/errata/ELSA-2014-1634.html"
+  },
+  {
+    "CVE": "CVE-2014-6517",
     "PoC": "http://www.oracle.com/technetwork/topics/security/cpuoct2014-1972960.html"
   },
   {
@@ -135054,6 +135082,10 @@
   {
     "CVE": "CVE-2014-6518",
     "PoC": "http://www.oracle.com/technetwork/topics/security/cpujan2015-1972971.html"
+  },
+  {
+    "CVE": "CVE-2014-6519",
+    "PoC": "http://linux.oracle.com/errata/ELSA-2014-1634.html"
   },
   {
     "CVE": "CVE-2014-6519",
@@ -135114,6 +135146,10 @@
   {
     "CVE": "CVE-2014-6530",
     "PoC": "http://www.oracle.com/technetwork/topics/security/cpuoct2014-1972960.html"
+  },
+  {
+    "CVE": "CVE-2014-6531",
+    "PoC": "http://linux.oracle.com/errata/ELSA-2014-1634.html"
   },
   {
     "CVE": "CVE-2014-6531",
@@ -135242,6 +135278,10 @@
   {
     "CVE": "CVE-2014-6557",
     "PoC": "http://www.oracle.com/technetwork/topics/security/cpuoct2014-1972960.html"
+  },
+  {
+    "CVE": "CVE-2014-6558",
+    "PoC": "http://linux.oracle.com/errata/ELSA-2014-1634.html"
   },
   {
     "CVE": "CVE-2014-6558",
@@ -225688,6 +225728,10 @@
     "PoC": "https://drive.google.com/drive/u/1/folders/1qtq272m7jJaEUPGFLvyXmIl5zNJv7rd1"
   },
   {
+    "CVE": "CVE-2018-10776",
+    "PoC": "https://docs.google.com/document/d/1gkHfRWO9f-FTBhZ3ZT3RMZZ_JbJ18ZIkH2GlVTV35cQ/edit"
+  },
+  {
     "CVE": "CVE-2018-10779",
     "PoC": "http://bugzilla.maptools.org/show_bug.cgi?id=2788"
   },
@@ -248486,6 +248530,22 @@
   {
     "CVE": "CVE-2018-25381",
     "PoC": "https://www.exploit-db.com/exploits/45491"
+  },
+  {
+    "CVE": "CVE-2018-25393",
+    "PoC": "https://www.exploit-db.com/exploits/45615"
+  },
+  {
+    "CVE": "CVE-2018-25394",
+    "PoC": "https://www.exploit-db.com/exploits/45617"
+  },
+  {
+    "CVE": "CVE-2018-25395",
+    "PoC": "https://www.exploit-db.com/exploits/45617"
+  },
+  {
+    "CVE": "CVE-2018-25396",
+    "PoC": "https://www.exploit-db.com/exploits/45623"
   },
   {
     "CVE": "CVE-2018-2560",
@@ -324574,6 +324634,10 @@
   {
     "CVE": "CVE-2020-35738",
     "PoC": "https://github.com/dbry/WavPack/issues/91"
+  },
+  {
+    "CVE": "CVE-2020-35745",
+    "PoC": "https://medium.com/%40ashketchum/privilege-escalation-unauthenticated-access-to-admin-portal-cve-2020-35745-bb5d5dca97a0"
   },
   {
     "CVE": "CVE-2020-35745",
@@ -496940,6 +497004,10 @@
     "PoC": "https://github.com/Buckdray/vulnerability-research/tree/main/CVE-2024-51223"
   },
   {
+    "CVE": "CVE-2024-51224",
+    "PoC": "https://github.com/Buckdray/vulnerability-research/tree/main/CVE-2024-51224"
+  },
+  {
     "CVE": "CVE-2024-51228",
     "PoC": "https://github.com/yckuo-sdc/totolink-boa-api-vulnerabilities"
   },
@@ -496994,6 +497062,10 @@
   {
     "CVE": "CVE-2024-51346",
     "PoC": "https://github.com/victorGoeman/Eufy-Ecosystem-Security-Research/blob/main/CVE-2024-51346.md"
+  },
+  {
+    "CVE": "CVE-2024-51346",
+    "PoC": "https://github.com/victorGoeman/Eufy-Ecosystem-Security-Research/blob/main/README.md"
   },
   {
     "CVE": "CVE-2024-5135",
@@ -549944,6 +550016,10 @@
     "PoC": "https://github.com/hungnqdz/cve-research/blob/main/CVE-2025-70095.md"
   },
   {
+    "CVE": "CVE-2025-70103",
+    "PoC": "https://infosec.exchange/@sigdevel/116642233929409910"
+  },
+  {
     "CVE": "CVE-2025-7012",
     "PoC": "https://support.catonetworks.com/hc/en-us/articles/28552501717405-CVE-2025-7012-Linux-Client-Local-Privilege-Escalation-via-Symbolic-Link-Handling"
   },
@@ -555693,6 +555769,10 @@
   },
   {
     "CVE": "CVE-2025-9387",
+    "PoC": "https://github.com/lin-3-start/lin-cve/blob/main/DCME-720/DCME-720.md"
+  },
+  {
+    "CVE": "CVE-2025-9387",
     "PoC": "https://github.com/lin-3-start/lin-cve/blob/main/DCME-720/DCME-720.md#%E9%AA%8C%E8%AF%81"
   },
   {
@@ -559126,6 +559206,10 @@
   {
     "CVE": "CVE-2026-20817",
     "PoC": "https://www.vicarius.io/vsociety/posts/cve-2026-20817-detection-script-eop-vulnerabilit-in-windows-error-reporting"
+  },
+  {
+    "CVE": "CVE-2026-20817",
+    "PoC": "https://www.vicarius.io/vsociety/posts/cve-2026-20817-mitigation-script-eop-vulnerability-in-windows-error-reporting"
   },
   {
     "CVE": "CVE-2026-2086",
@@ -565805,6 +565889,10 @@
   },
   {
     "CVE": "CVE-2026-32223",
+    "PoC": "https://www.vicarius.io/vsociety/posts/cve-2026-32223-detection-script-heap-based-buffer-overflow-in-windows-usb-print-driver"
+  },
+  {
+    "CVE": "CVE-2026-32223",
     "PoC": "https://www.vicarius.io/vsociety/posts/cve-2026-32223-mitigation-script-heap-based-buffer-overflow-in-windows-usb-print-driver"
   },
   {
@@ -566572,6 +566660,10 @@
     "PoC": "https://mattermost.com/security-updates"
   },
   {
+    "CVE": "CVE-2026-3536",
+    "PoC": "https://issues.chromium.org/issues/485622239"
+  },
+  {
     "CVE": "CVE-2026-3537",
     "PoC": "https://issues.chromium.org/issues/474266014"
   },
@@ -566582,6 +566674,10 @@
   {
     "CVE": "CVE-2026-3541",
     "PoC": "https://issues.chromium.org/issues/484811719"
+  },
+  {
+    "CVE": "CVE-2026-3543",
+    "PoC": "https://issues.chromium.org/issues/485267831"
   },
   {
     "CVE": "CVE-2026-35535",
@@ -567282,6 +567378,10 @@
   {
     "CVE": "CVE-2026-3914",
     "PoC": "https://issues.chromium.org/issues/481776048"
+  },
+  {
+    "CVE": "CVE-2026-3915",
+    "PoC": "https://issues.chromium.org/issues/483971526"
   },
   {
     "CVE": "CVE-2026-3916",
@@ -569300,6 +569400,14 @@
     "PoC": "https://issues.chromium.org/issues/333024273"
   },
   {
+    "CVE": "CVE-2026-5880",
+    "PoC": "https://issues.chromium.org/issues/424995036"
+  },
+  {
+    "CVE": "CVE-2026-5894",
+    "PoC": "https://issues.chromium.org/issues/481882038"
+  },
+  {
     "CVE": "CVE-2026-5896",
     "PoC": "https://issues.chromium.org/issues/40064543"
   },
@@ -569766,6 +569874,10 @@
   {
     "CVE": "CVE-2026-7200",
     "PoC": "https://github.com/3436567162/vlun/issues/1"
+  },
+  {
+    "CVE": "CVE-2026-7202",
+    "PoC": "https://github.com/Litengzheng/vuldb_new2/blob/main/A8000RU/vul_321/README.md"
   },
   {
     "CVE": "CVE-2026-7206",
@@ -570270,6 +570382,10 @@
   {
     "CVE": "CVE-2026-7785",
     "PoC": "https://github.com/A-G-U-P-T-A/wireshark-mcp/issues/1"
+  },
+  {
+    "CVE": "CVE-2026-7788",
+    "PoC": "https://github.com/Axle-Bucamp/MCP-Docusaurus/issues/2"
   },
   {
     "CVE": "CVE-2026-7790",
