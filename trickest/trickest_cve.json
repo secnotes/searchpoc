@@ -7476,6 +7476,10 @@
     "PoC": "http://marc.info/?l=full-disclosure&m=110961578504928&w=2"
   },
   {
+    "CVE": "CVE-2005-0626",
+    "PoC": "http://www.redhat.com/support/errata/RHSA-2005-415.html"
+  },
+  {
     "CVE": "CVE-2005-0627",
     "PoC": "http://bugs.gentoo.org/show_bug.cgi?id=75181"
   },
@@ -7558,6 +7562,10 @@
   {
     "CVE": "CVE-2005-0711",
     "PoC": "https://oval.cisecurity.org/repository/search/definition/oval%3Aorg.mitre.oval%3Adef%3A9591"
+  },
+  {
+    "CVE": "CVE-2005-0718",
+    "PoC": "http://www.redhat.com/support/errata/RHSA-2005-415.html"
   },
   {
     "CVE": "CVE-2005-0726",
@@ -8422,6 +8430,10 @@
   {
     "CVE": "CVE-2005-1329",
     "PoC": "http://lostmon.blogspot.com/2005/04/oneworldstore-user-information.html"
+  },
+  {
+    "CVE": "CVE-2005-1345",
+    "PoC": "http://www.redhat.com/support/errata/RHSA-2005-415.html"
   },
   {
     "CVE": "CVE-2005-1345",
@@ -9662,6 +9674,10 @@
   {
     "CVE": "CVE-2005-2193",
     "PoC": "http://marc.info/?l=bugtraq&m=112084384928950&w=2"
+  },
+  {
+    "CVE": "CVE-2005-2203",
+    "PoC": "http://unix.freshmeat.net/projects/phpwishlist/?branch_id=53897&release_id=200925"
   },
   {
     "CVE": "CVE-2005-2204",
@@ -189544,6 +189560,10 @@
     "PoC": "https://www.exploit-db.com/exploits/40661/"
   },
   {
+    "CVE": "CVE-2016-7394",
+    "PoC": "https://sourceforge.net/p/tikiwiki/code/59653/"
+  },
+  {
     "CVE": "CVE-2016-7398",
     "PoC": "https://bugs.php.net/bug.php?id=73055"
   },
@@ -248650,6 +248670,10 @@
   {
     "CVE": "CVE-2018-25396",
     "PoC": "https://www.exploit-db.com/exploits/45623"
+  },
+  {
+    "CVE": "CVE-2018-25397",
+    "PoC": "https://github.com/joeyrush/PHP-SHOP/archive/master.zip"
   },
   {
     "CVE": "CVE-2018-25397",
@@ -487992,6 +488016,10 @@
     "PoC": "https://github.com/brendontkl/My-CVEs/tree/main/CVE-2024-40125"
   },
   {
+    "CVE": "CVE-2024-4013",
+    "PoC": "https://community.silabs.com/068Vm000006rR53"
+  },
+  {
     "CVE": "CVE-2024-40137",
     "PoC": "https://github.com/c0d3x27/CVEs/tree/main/CVE-2024-40137"
   },
@@ -533036,6 +533064,10 @@
     "PoC": "https://gist.github.com/superboy-zjc/2a727cb0c1d468f21a91e0416d006ffe"
   },
   {
+    "CVE": "CVE-2025-45160",
+    "PoC": "https://gist.github.com/BEND0US/49d76897a5bb676d8c3f51425553cc32"
+  },
+  {
     "CVE": "CVE-2025-4524",
     "PoC": "https://www.exploit-db.com/exploits/52487"
   },
@@ -558272,6 +558304,10 @@
     "PoC": "https://devolutions.net/security/advisories/DEVO-2026-0003/"
   },
   {
+    "CVE": "CVE-2026-10216",
+    "PoC": "https://gist.github.com/YLChen-007/2639ccaefd55ef4309953b76bc4c737e/raw"
+  },
+  {
     "CVE": "CVE-2026-1046",
     "PoC": "https://mattermost.com/security-updates"
   },
@@ -564356,6 +564392,10 @@
     "PoC": "https://www.vulncheck.com/advisories/netbox-rce-via-rendertemplatemixin"
   },
   {
+    "CVE": "CVE-2026-29518",
+    "PoC": "https://michael.stapelberg.ch/posts/2026-05-24-minimal-memory-safe-go-rsync-vulns/"
+  },
+  {
     "CVE": "CVE-2026-2952",
     "PoC": "https://github.com/CVE-Hunter-Leo/CVE/issues/10"
   },
@@ -569416,6 +569456,10 @@
     "PoC": "https://www.foxit.com/support/security-bulletins.html"
   },
   {
+    "CVE": "CVE-2026-49489",
+    "PoC": "https://www.exploit-db.com/exploits/52579"
+  },
+  {
     "CVE": "CVE-2026-4968",
     "PoC": "https://gist.github.com/Mohdanass/50a525ba0a72e10fda85f0db11eeed92"
   },
@@ -570876,6 +570920,10 @@
     "PoC": "https://cna.erlef.org/cves/CVE-2026-8469.html"
   },
   {
+    "CVE": "CVE-2026-8474",
+    "PoC": "https://advisories.stormshield.eu/2026-003/"
+  },
+  {
     "CVE": "CVE-2026-8477",
     "PoC": "https://devolutions.net/security/advisories/DEVO-2026-0013/"
   },
@@ -570962,6 +571010,10 @@
   {
     "CVE": "CVE-2026-9277",
     "PoC": "http://www.openwall.com/lists/oss-security/2026/05/23/2"
+  },
+  {
+    "CVE": "CVE-2026-9435",
+    "PoC": "https://vuldb.com/submit/813908"
   },
   {
     "CVE": "CVE-2026-9495",
