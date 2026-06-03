@@ -248796,6 +248796,26 @@
     "PoC": "https://www.exploit-db.com/exploits/45769"
   },
   {
+    "CVE": "CVE-2018-25427",
+    "PoC": "https://www.exploit-db.com/exploits/45796"
+  },
+  {
+    "CVE": "CVE-2018-25428",
+    "PoC": "https://www.exploit-db.com/exploits/45810"
+  },
+  {
+    "CVE": "CVE-2018-25429",
+    "PoC": "https://www.exploit-db.com/exploits/45810"
+  },
+  {
+    "CVE": "CVE-2018-25430",
+    "PoC": "https://www.exploit-db.com/exploits/45810"
+  },
+  {
+    "CVE": "CVE-2018-25434",
+    "PoC": "https://www.exploit-db.com/exploits/45977"
+  },
+  {
     "CVE": "CVE-2018-2560",
     "PoC": "http://www.oracle.com/technetwork/security-advisory/cpujan2018-3236628.html"
   },
@@ -359560,6 +359580,10 @@
     "PoC": "https://youtu.be/RLjXfvb0ADw"
   },
   {
+    "CVE": "CVE-2021-33897",
+    "PoC": "https://isopach.dev/CVE-2021-33897"
+  },
+  {
     "CVE": "CVE-2021-33904",
     "PoC": "http://packetstormsecurity.com/files/163093/Accela-Civic-Platorm-21.1-Cross-Site-Scripting.html"
   },
@@ -414798,6 +414822,10 @@
   {
     "CVE": "CVE-2022-43022",
     "PoC": "https://github.com/hansmach1ne/opencats_zero-days/blob/main/SQLI_tag_deletion.md"
+  },
+  {
+    "CVE": "CVE-2022-43023",
+    "PoC": "https://github.com/hansmach1ne/CVE-portfolio/tree/main/CVE-2022-43023"
   },
   {
     "CVE": "CVE-2022-43023",
@@ -513616,6 +513644,10 @@
     "PoC": "https://github.com/wolfSSL/wolfssl/pull/9112"
   },
   {
+    "CVE": "CVE-2025-11936",
+    "PoC": "https://github.com/wolfSSL/wolfssl/pull/9117"
+  },
+  {
     "CVE": "CVE-2025-11939",
     "PoC": "https://github.com/uartu0/advisories/blob/main/churchcrm-path-traversal-rce-2025.md"
   },
@@ -525708,6 +525740,22 @@
     "PoC": "https://espec.com/na/about/detail/cve_2025_27847"
   },
   {
+    "CVE": "CVE-2025-27850",
+    "PoC": "https://garmin.com"
+  },
+  {
+    "CVE": "CVE-2025-27851",
+    "PoC": "https://garmin.com"
+  },
+  {
+    "CVE": "CVE-2025-27852",
+    "PoC": "https://garmin.com"
+  },
+  {
+    "CVE": "CVE-2025-27853",
+    "PoC": "https://garmin.com"
+  },
+  {
     "CVE": "CVE-2025-27889",
     "PoC": "https://github.com/MrTuxracer/advisories/blob/master/CVEs/CVE-2025-27889.txt"
   },
@@ -537468,6 +537516,18 @@
     "PoC": "https://github.com/j0qq3r/CVE-2025-52204"
   },
   {
+    "CVE": "CVE-2025-52217",
+    "PoC": "https://selectzero.io/change-log/"
+  },
+  {
+    "CVE": "CVE-2025-52218",
+    "PoC": "https://selectzero.io/change-log/"
+  },
+  {
+    "CVE": "CVE-2025-52219",
+    "PoC": "https://selectzero.io/change-log/"
+  },
+  {
     "CVE": "CVE-2025-5224",
     "PoC": "https://github.com/kkive/cve/issues/1"
   },
@@ -540362,6 +540422,14 @@
   {
     "CVE": "CVE-2025-55634",
     "PoC": "https://relieved-knuckle-264.notion.site/RTMP-Injection-DoS-through-Unauthenticated-Stream-Publish-23c437003642800297c8c128b6117885?pvs=74"
+  },
+  {
+    "CVE": "CVE-2025-55664",
+    "PoC": "http://www.openwall.com/lists/oss-security/2026/06/01/10"
+  },
+  {
+    "CVE": "CVE-2025-55664",
+    "PoC": "https://infosec.exchange/@sigdevel/116659245751279377"
   },
   {
     "CVE": "CVE-2025-5569",
@@ -544020,6 +544088,26 @@
     "PoC": "https://snowhy77.github.io/2025/08/22/Stored-XSS-in-MetInfo-Image-Module/"
   },
   {
+    "CVE": "CVE-2025-60481",
+    "PoC": "https://infosec.exchange/@sigdevel/116659159345966316"
+  },
+  {
+    "CVE": "CVE-2025-60483",
+    "PoC": "https://infosec.exchange/@sigdevel/116659111520602254"
+  },
+  {
+    "CVE": "CVE-2025-60485",
+    "PoC": "https://infosec.exchange/@sigdevel/116662498332150083"
+  },
+  {
+    "CVE": "CVE-2025-60486",
+    "PoC": "https://infosec.exchange/@sigdevel/116662544397024289"
+  },
+  {
+    "CVE": "CVE-2025-60495",
+    "PoC": "https://infosec.exchange/@sigdevel/116659058320692913"
+  },
+  {
     "CVE": "CVE-2025-6050",
     "PoC": "https://github.com/stephenmcd/mezzanine/discussions/2080"
   },
@@ -546700,12 +546788,20 @@
     "PoC": "https://github.com/minhajultaivin/security-advisories/blob/main/CVE-2025-63883.md"
   },
   {
+    "CVE": "CVE-2025-63891",
+    "PoC": "https://github.com/lucascdsm/CVEs/blob/main/CVE-2025-63891.md"
+  },
+  {
     "CVE": "CVE-2025-63892",
     "PoC": "https://github.com/minhajultaivin/security-advisories/blob/main/CVE-2025-63892.md"
   },
   {
     "CVE": "CVE-2025-63896",
     "PoC": "https://github.com/thorat-shubham/JXL_Infotainment_CVE/blob/main/README.md"
+  },
+  {
+    "CVE": "CVE-2025-63911",
+    "PoC": "https://gist.github.com/GregDurys/8b7a3022c04b6cee8c1e1af04f5671b2"
   },
   {
     "CVE": "CVE-2025-63914",
@@ -546752,8 +546848,20 @@
     "PoC": "https://github.com/alexlee820/CVE-2025-63946-Tencent-PC-Manager-EoP/blob/main/README.md"
   },
   {
+    "CVE": "CVE-2025-63947",
+    "PoC": "https://github.com/solonbarroso/vulnerability-research/blob/main/advisories/phpMsAdmin/CVE-2025-63947.md"
+  },
+  {
     "CVE": "CVE-2025-63948",
     "PoC": "https://github.com/solonbarroso/vulnerability-research/blob/main/advisories/phpMsAdmin/CVE-2025-63948.md"
+  },
+  {
+    "CVE": "CVE-2025-63950",
+    "PoC": "https://github.com/solonbarroso/vulnerability-research/blob/main/advisories/Twittodon/CVE-2025-63950.md"
+  },
+  {
+    "CVE": "CVE-2025-63950",
+    "PoC": "https://github.com/solonbarroso/vulnerability-research/blob/main/advisories/Twittodon/CVE-pending-Deserialization.md"
   },
   {
     "CVE": "CVE-2025-63951",
@@ -550292,6 +550400,10 @@
     "PoC": "https://github.com/hungnqdz/cve-research/blob/main/CVE-2025-70095.md"
   },
   {
+    "CVE": "CVE-2025-70099",
+    "PoC": "https://infosec.exchange/@sigdevel/116668939725424227"
+  },
+  {
     "CVE": "CVE-2025-70103",
     "PoC": "http://www.openwall.com/lists/oss-security/2026/05/30/7"
   },
@@ -550302,6 +550414,10 @@
   {
     "CVE": "CVE-2025-70116",
     "PoC": "http://www.openwall.com/lists/oss-security/2026/05/30/2"
+  },
+  {
+    "CVE": "CVE-2025-70116",
+    "PoC": "https://infosec.exchange/@sigdevel/116624563750949972"
   },
   {
     "CVE": "CVE-2025-7012",
@@ -550694,6 +550810,10 @@
   {
     "CVE": "CVE-2025-70886",
     "PoC": "https://github.com/HowieHz/CVE-2025-70886"
+  },
+  {
+    "CVE": "CVE-2025-70886",
+    "PoC": "https://howiehz.top/archives/halo-comment-payload-tweaker"
   },
   {
     "CVE": "CVE-2025-7089",
@@ -558308,6 +558428,14 @@
     "PoC": "https://gist.github.com/YLChen-007/2639ccaefd55ef4309953b76bc4c737e/raw"
   },
   {
+    "CVE": "CVE-2026-10287",
+    "PoC": "https://hackmd.io/@Kq4PsjnpQ5WfoMt8ho48LA/By9GXDkyGe"
+  },
+  {
+    "CVE": "CVE-2026-10295",
+    "PoC": "https://pastebin.com/Ud5vaGp6"
+  },
+  {
     "CVE": "CVE-2026-1046",
     "PoC": "https://mattermost.com/security-updates"
   },
@@ -558318,6 +558446,10 @@
   {
     "CVE": "CVE-2026-1050",
     "PoC": "https://github.com/risesoft-y9/Digital-Infrastructure/issues/2#issue-3777863959"
+  },
+  {
+    "CVE": "CVE-2026-10528",
+    "PoC": "https://orthanc.uclouvain.be/bugs/show_bug.cgi?id=258#c4"
   },
   {
     "CVE": "CVE-2026-1059",
@@ -566960,6 +567092,10 @@
     "PoC": "https://issues.chromium.org/issues/474266014"
   },
   {
+    "CVE": "CVE-2026-3538",
+    "PoC": "https://issues.chromium.org/issues/484983991"
+  },
+  {
     "CVE": "CVE-2026-35399",
     "PoC": "https://github.com/LabRedesCefetRJ/WeGIA/security/advisories/GHSA-fmwv-62wf-2hgx"
   },
@@ -566968,8 +567104,16 @@
     "PoC": "https://issues.chromium.org/issues/484811719"
   },
   {
+    "CVE": "CVE-2026-3542",
+    "PoC": "https://issues.chromium.org/issues/485152421"
+  },
+  {
     "CVE": "CVE-2026-3543",
     "PoC": "https://issues.chromium.org/issues/485267831"
+  },
+  {
+    "CVE": "CVE-2026-3544",
+    "PoC": "https://issues.chromium.org/issues/485683110"
   },
   {
     "CVE": "CVE-2026-35535",
@@ -569068,6 +569212,10 @@
     "PoC": "https://github.com/i-Corner/cve/issues/41"
   },
   {
+    "CVE": "CVE-2026-43958",
+    "PoC": "https://bugzilla.redhat.com/show_bug.cgi?id=2460932"
+  },
+  {
     "CVE": "CVE-2026-4396",
     "PoC": "https://devolutions.net/security/advisories/DEVO-2026-0009/"
   },
@@ -569252,6 +569400,10 @@
     "PoC": "https://security.snyk.io/vuln/SNYK-JS-JSRSASIGN-15371176"
   },
   {
+    "CVE": "CVE-2026-46243",
+    "PoC": "http://www.openwall.com/lists/oss-security/2026/06/01/6"
+  },
+  {
     "CVE": "CVE-2026-46300",
     "PoC": "http://www.openwall.com/lists/oss-security/2026/05/13/5"
   },
@@ -569374,6 +569526,10 @@
   {
     "CVE": "CVE-2026-4851",
     "PoC": "https://www.openwall.com/lists/oss-security/2026/03/26/6"
+  },
+  {
+    "CVE": "CVE-2026-48559",
+    "PoC": "https://www.zeroscience.mk/#/advisories/ZSL-2026-5987"
   },
   {
     "CVE": "CVE-2026-48592",
@@ -570862,6 +571018,10 @@
   {
     "CVE": "CVE-2026-8263",
     "PoC": "https://github.com/yaoyue123/iot/blob/main/Tenda/AC10U/fromSetWirelessRepeat.md"
+  },
+  {
+    "CVE": "CVE-2026-8293",
+    "PoC": "https://wpscan.com/vulnerability/1de69ef9-6226-4292-8e36-b331a37f043e/"
   },
   {
     "CVE": "CVE-2026-8359",
