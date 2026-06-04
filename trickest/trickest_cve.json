@@ -21613,6 +21613,10 @@
   },
   {
     "CVE": "CVE-2006-4339",
+    "PoC": "http://www.redhat.com/support/errata/RHSA-2007-0072.html"
+  },
+  {
+    "CVE": "CVE-2006-4339",
     "PoC": "http://www.redhat.com/support/errata/RHSA-2007-0073.html"
   },
   {
@@ -27049,6 +27053,10 @@
   },
   {
     "CVE": "CVE-2006-6731",
+    "PoC": "http://www.redhat.com/support/errata/RHSA-2007-0072.html"
+  },
+  {
+    "CVE": "CVE-2006-6731",
     "PoC": "http://www.redhat.com/support/errata/RHSA-2007-0073.html"
   },
   {
@@ -27057,11 +27065,19 @@
   },
   {
     "CVE": "CVE-2006-6736",
+    "PoC": "http://www.redhat.com/support/errata/RHSA-2007-0072.html"
+  },
+  {
+    "CVE": "CVE-2006-6736",
     "PoC": "http://www.redhat.com/support/errata/RHSA-2007-0073.html"
   },
   {
     "CVE": "CVE-2006-6736",
     "PoC": "https://oval.cisecurity.org/repository/search/definition/oval%3Aorg.mitre.oval%3Adef%3A9729"
+  },
+  {
+    "CVE": "CVE-2006-6737",
+    "PoC": "http://www.redhat.com/support/errata/RHSA-2007-0072.html"
   },
   {
     "CVE": "CVE-2006-6737",
@@ -121272,6 +121288,10 @@
     "PoC": "https://github.com/jonschlinkert/remarkable/issues/97"
   },
   {
+    "CVE": "CVE-2014-10070",
+    "PoC": "http://zsh.sourceforge.net/releases.html"
+  },
+  {
     "CVE": "CVE-2014-10074",
     "PoC": "http://issues.umbraco.org/issue/U4-5901"
   },
@@ -209436,6 +209456,10 @@
     "PoC": "https://kb.netgear.com/000038799/Security-Fix-for-Password-Management-in-NETGEAR-Insight-App-PSV-2017-1978"
   },
   {
+    "CVE": "CVE-2017-18858",
+    "PoC": "https://kb.netgear.com/000038655/Security-Advisory-for-Unauthenticated-Remote-Code-Execution-on-M4200-and-M4300-PSV-2017-1971"
+  },
+  {
     "CVE": "CVE-2017-18860",
     "PoC": "https://kb.netgear.com/000038519/Security-Advisory-for-Authentication-Bypass-and-Remote-Command-Execution-on-Some-Smart-and-Managed-Switches-PSV-2017-0857"
   },
@@ -248124,6 +248148,10 @@
     "PoC": "https://www.exploit-db.com/exploits/45492"
   },
   {
+    "CVE": "CVE-2018-25263",
+    "PoC": "https://www.vulncheck.com/advisories/faleemi-desktop-software-local-buffer-overflow-seh"
+  },
+  {
     "CVE": "CVE-2018-25264",
     "PoC": "https://www.exploit-db.com/exploits/45493"
   },
@@ -248812,8 +248840,24 @@
     "PoC": "https://www.exploit-db.com/exploits/45810"
   },
   {
+    "CVE": "CVE-2018-25431",
+    "PoC": "https://www.exploit-db.com/exploits/45903"
+  },
+  {
+    "CVE": "CVE-2018-25432",
+    "PoC": "https://www.exploit-db.com/exploits/45907"
+  },
+  {
+    "CVE": "CVE-2018-25433",
+    "PoC": "https://www.exploit-db.com/exploits/45930"
+  },
+  {
     "CVE": "CVE-2018-25434",
     "PoC": "https://www.exploit-db.com/exploits/45977"
+  },
+  {
+    "CVE": "CVE-2018-25435",
+    "PoC": "https://www.exploit-db.com/exploits/46027"
   },
   {
     "CVE": "CVE-2018-2560",
@@ -281260,6 +281304,10 @@
     "PoC": "http://seclists.org/fulldisclosure/2020/May/59"
   },
   {
+    "CVE": "CVE-2019-20044",
+    "PoC": "http://zsh.sourceforge.net/releases.html"
+  },
+  {
     "CVE": "CVE-2019-20047",
     "PoC": "https://packetstormsecurity.com/files/155595/Alcatel-Lucent-Omnivista-8770-Remote-Code-Execution.html"
   },
@@ -286830,6 +286878,10 @@
   {
     "CVE": "CVE-2019-25691",
     "PoC": "https://www.exploit-db.com/exploits/46269"
+  },
+  {
+    "CVE": "CVE-2019-25691",
+    "PoC": "https://www.vulncheck.com/advisories/faleemi-desktop-software-local-buffer-overflow-seh-dep-bypass"
   },
   {
     "CVE": "CVE-2019-25692",
@@ -374413,6 +374465,10 @@
   },
   {
     "CVE": "CVE-2021-45074",
+    "PoC": "https://www.jfrog.com/confluence/display/JFROG/CVE-2021-45074%3A+Artifactory+Broken+Access+Control+on+Delete+OAuth+Tokens"
+  },
+  {
+    "CVE": "CVE-2021-45074",
     "PoC": "https://www.jfrog.com/confluence/display/JFROG/JFrog+Security+Advisories"
   },
   {
@@ -375274,6 +375330,10 @@
   {
     "CVE": "CVE-2021-45679",
     "PoC": "https://kb.netgear.com/000064528/Security-Advisory-for-Vertical-Privilege-Escalation-on-Some-Routers-PSV-2021-0043"
+  },
+  {
+    "CVE": "CVE-2021-45721",
+    "PoC": "https://www.jfrog.com/confluence/display/JFROG/CVE-2021-45721%3A+Cross-Site+Script+%28XSS%29+on+User+REST+API"
   },
   {
     "CVE": "CVE-2021-45721",
@@ -497300,6 +497360,10 @@
     "PoC": "https://github.com/Buckdray/vulnerability-research/tree/main/CVE-2024-51224"
   },
   {
+    "CVE": "CVE-2024-51225",
+    "PoC": "https://github.com/Buckdray/vulnerability-research/tree/main/CVE-2024-51225"
+  },
+  {
     "CVE": "CVE-2024-51228",
     "PoC": "https://github.com/yckuo-sdc/totolink-boa-api-vulnerabilities"
   },
@@ -497358,6 +497422,10 @@
   {
     "CVE": "CVE-2024-51346",
     "PoC": "https://github.com/victorGoeman/Eufy-Ecosystem-Security-Research/blob/main/README.md"
+  },
+  {
+    "CVE": "CVE-2024-51347",
+    "PoC": "https://github.com/victorGoeman/LSC-Indoor-Camera-Security-Research/blob/main/CVE-2024-51347.md"
   },
   {
     "CVE": "CVE-2024-5135",
@@ -511464,6 +511532,10 @@
     "PoC": "https://github.com/LazyAGI/LazyLLM/issues/764"
   },
   {
+    "CVE": "CVE-2025-10966",
+    "PoC": "https://cert-portal.siemens.com/productcert/html/ssa-253495.html"
+  },
+  {
     "CVE": "CVE-2025-10967",
     "PoC": "https://github.com/Miker132/CVE-/issues/3"
   },
@@ -515624,6 +515696,10 @@
     "PoC": "https://wpscan.com/vulnerability/5872ece6-52cb-4306-b7ee-41282815a243/"
   },
   {
+    "CVE": "CVE-2025-13465",
+    "PoC": "https://cert-portal.siemens.com/productcert/html/ssa-253495.html"
+  },
+  {
     "CVE": "CVE-2025-13468",
     "PoC": "https://hackmd.io/@mlgzackfly/SourceCodester"
   },
@@ -515650,6 +515726,10 @@
   {
     "CVE": "CVE-2025-13488",
     "PoC": "https://support.sonatype.com/hc/en-us/articles/46896142768019"
+  },
+  {
+    "CVE": "CVE-2025-1352",
+    "PoC": "https://cert-portal.siemens.com/productcert/html/ssa-253495.html"
   },
   {
     "CVE": "CVE-2025-1352",
@@ -515872,6 +515952,10 @@
     "PoC": "https://ryankozak.com/posts/cve-2025-13597"
   },
   {
+    "CVE": "CVE-2025-13601",
+    "PoC": "https://cert-portal.siemens.com/productcert/html/ssa-253495.html"
+  },
+  {
     "CVE": "CVE-2025-1362",
     "PoC": "https://wpscan.com/vulnerability/035cc502-a514-440f-8808-5655c8c915e2/"
   },
@@ -515974,6 +516058,10 @@
   {
     "CVE": "CVE-2025-13758",
     "PoC": "https://devolutions.net/security/advisories/DEVO-2025-0018/"
+  },
+  {
+    "CVE": "CVE-2025-1376",
+    "PoC": "https://cert-portal.siemens.com/productcert/html/ssa-253495.html"
   },
   {
     "CVE": "CVE-2025-13763",
@@ -531496,6 +531584,10 @@
     "PoC": "https://github.com/MichaelZhuang521/cve/blob/main/rce.md"
   },
   {
+    "CVE": "CVE-2025-39913",
+    "PoC": "https://cert-portal.siemens.com/productcert/html/ssa-253495.html"
+  },
+  {
     "CVE": "CVE-2025-3995",
     "PoC": "https://vuldb.com/?id.306331"
   },
@@ -531564,6 +531656,10 @@
     "PoC": "https://github.com/plj-sudo/cve/blob/main/README.md"
   },
   {
+    "CVE": "CVE-2025-40214",
+    "PoC": "https://cert-portal.siemens.com/productcert/html/ssa-253495.html"
+  },
+  {
     "CVE": "CVE-2025-4022",
     "PoC": "https://vuldb.com/?id.306376"
   },
@@ -531576,20 +531672,80 @@
     "PoC": "https://github.com/xingyu-wu4678/cve/issues/2"
   },
   {
+    "CVE": "CVE-2025-40248",
+    "PoC": "https://cert-portal.siemens.com/productcert/html/ssa-253495.html"
+  },
+  {
     "CVE": "CVE-2025-4025",
     "PoC": "https://github.com/xingyu-wu4678/cve/issues/3"
+  },
+  {
+    "CVE": "CVE-2025-40250",
+    "PoC": "https://cert-portal.siemens.com/productcert/html/ssa-253495.html"
+  },
+  {
+    "CVE": "CVE-2025-40251",
+    "PoC": "https://cert-portal.siemens.com/productcert/html/ssa-253495.html"
+  },
+  {
+    "CVE": "CVE-2025-40252",
+    "PoC": "https://cert-portal.siemens.com/productcert/html/ssa-253495.html"
+  },
+  {
+    "CVE": "CVE-2025-40254",
+    "PoC": "https://cert-portal.siemens.com/productcert/html/ssa-253495.html"
+  },
+  {
+    "CVE": "CVE-2025-40257",
+    "PoC": "https://cert-portal.siemens.com/productcert/html/ssa-253495.html"
+  },
+  {
+    "CVE": "CVE-2025-40258",
+    "PoC": "https://cert-portal.siemens.com/productcert/html/ssa-253495.html"
   },
   {
     "CVE": "CVE-2025-4026",
     "PoC": "https://github.com/changan520374/cve/issues/1"
   },
   {
+    "CVE": "CVE-2025-40261",
+    "PoC": "https://cert-portal.siemens.com/productcert/html/ssa-253495.html"
+  },
+  {
+    "CVE": "CVE-2025-40262",
+    "PoC": "https://cert-portal.siemens.com/productcert/html/ssa-253495.html"
+  },
+  {
+    "CVE": "CVE-2025-40263",
+    "PoC": "https://cert-portal.siemens.com/productcert/html/ssa-253495.html"
+  },
+  {
+    "CVE": "CVE-2025-40264",
+    "PoC": "https://cert-portal.siemens.com/productcert/html/ssa-253495.html"
+  },
+  {
     "CVE": "CVE-2025-4027",
     "PoC": "https://github.com/Q3qc1n/myCVE/issues/2"
   },
   {
+    "CVE": "CVE-2025-40271",
+    "PoC": "https://cert-portal.siemens.com/productcert/html/ssa-253495.html"
+  },
+  {
+    "CVE": "CVE-2025-40278",
+    "PoC": "https://cert-portal.siemens.com/productcert/html/ssa-253495.html"
+  },
+  {
     "CVE": "CVE-2025-4028",
     "PoC": "https://github.com/JunZ-Leo/CVE/issues/1"
+  },
+  {
+    "CVE": "CVE-2025-40280",
+    "PoC": "https://cert-portal.siemens.com/productcert/html/ssa-253495.html"
+  },
+  {
+    "CVE": "CVE-2025-40281",
+    "PoC": "https://cert-portal.siemens.com/productcert/html/ssa-253495.html"
   },
   {
     "CVE": "CVE-2025-4029",
@@ -531610,6 +531766,10 @@
   {
     "CVE": "CVE-2025-4034",
     "PoC": "https://github.com/hhhanxx/attack/issues/1"
+  },
+  {
+    "CVE": "CVE-2025-40345",
+    "PoC": "https://cert-portal.siemens.com/productcert/html/ssa-253495.html"
   },
   {
     "CVE": "CVE-2025-4037",
@@ -533788,6 +533948,10 @@
     "PoC": "https://github.com/ImageMagick/Website/blob/main/ChangeLog.md#711-44---2025-02-22"
   },
   {
+    "CVE": "CVE-2025-46394",
+    "PoC": "https://cert-portal.siemens.com/productcert/html/ssa-253495.html"
+  },
+  {
     "CVE": "CVE-2025-46407",
     "PoC": "https://talosintelligence.com/vulnerability_reports/TALOS-2025-2215"
   },
@@ -535862,6 +536026,18 @@
   {
     "CVE": "CVE-2025-4978",
     "PoC": "https://github.com/at0de/my_vulns/blob/main/Netgear/DGND3700v2/backdoor.md"
+  },
+  {
+    "CVE": "CVE-2025-49794",
+    "PoC": "https://cert-portal.siemens.com/productcert/html/ssa-253495.html"
+  },
+  {
+    "CVE": "CVE-2025-49795",
+    "PoC": "https://cert-portal.siemens.com/productcert/html/ssa-253495.html"
+  },
+  {
+    "CVE": "CVE-2025-49796",
+    "PoC": "https://cert-portal.siemens.com/productcert/html/ssa-253495.html"
   },
   {
     "CVE": "CVE-2025-4980",
@@ -544089,7 +544265,15 @@
   },
   {
     "CVE": "CVE-2025-60481",
+    "PoC": "http://www.openwall.com/lists/oss-security/2026/06/01/8"
+  },
+  {
+    "CVE": "CVE-2025-60481",
     "PoC": "https://infosec.exchange/@sigdevel/116659159345966316"
+  },
+  {
+    "CVE": "CVE-2025-60483",
+    "PoC": "http://www.openwall.com/lists/oss-security/2026/06/01/9"
   },
   {
     "CVE": "CVE-2025-60483",
@@ -544097,11 +544281,23 @@
   },
   {
     "CVE": "CVE-2025-60485",
+    "PoC": "http://www.openwall.com/lists/oss-security/2026/06/01/11"
+  },
+  {
+    "CVE": "CVE-2025-60485",
     "PoC": "https://infosec.exchange/@sigdevel/116662498332150083"
   },
   {
     "CVE": "CVE-2025-60486",
+    "PoC": "http://www.openwall.com/lists/oss-security/2026/06/01/12"
+  },
+  {
+    "CVE": "CVE-2025-60486",
     "PoC": "https://infosec.exchange/@sigdevel/116662544397024289"
+  },
+  {
+    "CVE": "CVE-2025-60495",
+    "PoC": "http://www.openwall.com/lists/oss-security/2026/06/01/13"
   },
   {
     "CVE": "CVE-2025-60495",
@@ -544150,6 +544346,10 @@
   {
     "CVE": "CVE-2025-60514",
     "PoC": "https://www.secstrike.ai/cve-2025-60514-tillywork-sql-injection-public-disclosure/"
+  },
+  {
+    "CVE": "CVE-2025-6052",
+    "PoC": "https://cert-portal.siemens.com/productcert/html/ssa-253495.html"
   },
   {
     "CVE": "CVE-2025-60535",
@@ -544518,6 +544718,10 @@
   {
     "CVE": "CVE-2025-60852",
     "PoC": "https://github.com/valeriocassoni/CSV-Injection-in-Instant-Developer-Foundation-25.0-PoC"
+  },
+  {
+    "CVE": "CVE-2025-60876",
+    "PoC": "https://cert-portal.siemens.com/productcert/html/ssa-253495.html"
   },
   {
     "CVE": "CVE-2025-60876",
@@ -544969,6 +545173,10 @@
   },
   {
     "CVE": "CVE-2025-6141",
+    "PoC": "https://cert-portal.siemens.com/productcert/html/ssa-253495.html"
+  },
+  {
+    "CVE": "CVE-2025-6141",
     "PoC": "https://lists.gnu.org/archive/html/bug-ncurses/2025-03/msg00107.html"
   },
   {
@@ -545306,6 +545514,10 @@
   {
     "CVE": "CVE-2025-61689",
     "PoC": "https://github.com/JuliaWeb/HTTP.jl/security/advisories/GHSA-h3x8-ppwj-6vcj"
+  },
+  {
+    "CVE": "CVE-2025-6170",
+    "PoC": "https://cert-portal.siemens.com/productcert/html/ssa-253495.html"
   },
   {
     "CVE": "CVE-2025-6174",
@@ -546210,6 +546422,10 @@
   {
     "CVE": "CVE-2025-63307",
     "PoC": "https://github.com/Theethat-Thamwasin/CVE-2025-63307/blob/main/POC-CVE-63307.md"
+  },
+  {
+    "CVE": "CVE-2025-6331",
+    "PoC": "https://vuldb.com/?ctiid.313327"
   },
   {
     "CVE": "CVE-2025-63317",
@@ -548428,6 +548644,10 @@
     "PoC": "https://github.com/fonttools/fonttools/security/advisories/GHSA-768j-98cg-p3fv"
   },
   {
+    "CVE": "CVE-2025-66035",
+    "PoC": "https://cert-portal.siemens.com/productcert/html/ssa-253495.html"
+  },
+  {
     "CVE": "CVE-2025-66037",
     "PoC": "https://github.com/OpenSC/OpenSC/security/advisories/GHSA-m58q-rmjm-mmfx"
   },
@@ -548752,6 +548972,10 @@
     "PoC": "https://servicedesk.logpoint.com/hc/en-us/articles/29160993806749-Process-Data-Exposure-Under-High-Load"
   },
   {
+    "CVE": "CVE-2025-66382",
+    "PoC": "https://cert-portal.siemens.com/productcert/html/ssa-253495.html"
+  },
+  {
     "CVE": "CVE-2025-66395",
     "PoC": "https://github.com/ChurchCRM/CRM/security/advisories/GHSA-c9xf-f3gr-xfwv"
   },
@@ -548782,6 +549006,10 @@
   {
     "CVE": "CVE-2025-66410",
     "PoC": "https://github.com/flipped-aurora/gin-vue-admin/security/advisories/GHSA-jrhg-82w2-vvj7"
+  },
+  {
+    "CVE": "CVE-2025-66412",
+    "PoC": "https://cert-portal.siemens.com/productcert/html/ssa-253495.html"
   },
   {
     "CVE": "CVE-2025-66413",
@@ -550352,6 +550580,10 @@
     "PoC": "https://seclists.org/fulldisclosure/2026/Feb/16"
   },
   {
+    "CVE": "CVE-2025-69720",
+    "PoC": "https://cert-portal.siemens.com/productcert/html/ssa-253495.html"
+  },
+  {
     "CVE": "CVE-2025-69783",
     "PoC": "https://scavengersecurity.com/posts/edr-as-rootkit-2/"
   },
@@ -550594,6 +550826,10 @@
   {
     "CVE": "CVE-2025-70347",
     "PoC": "https://github.com/bellard/mquickjs/issues/56"
+  },
+  {
+    "CVE": "CVE-2025-7039",
+    "PoC": "https://cert-portal.siemens.com/productcert/html/ssa-253495.html"
   },
   {
     "CVE": "CVE-2025-70457",
@@ -551068,8 +551304,32 @@
     "PoC": "https://github.com/d2pq/cve/blob/main/616/8.md#poc"
   },
   {
+    "CVE": "CVE-2025-71185",
+    "PoC": "https://cert-portal.siemens.com/productcert/html/ssa-253495.html"
+  },
+  {
+    "CVE": "CVE-2025-71186",
+    "PoC": "https://cert-portal.siemens.com/productcert/html/ssa-253495.html"
+  },
+  {
+    "CVE": "CVE-2025-71188",
+    "PoC": "https://cert-portal.siemens.com/productcert/html/ssa-253495.html"
+  },
+  {
+    "CVE": "CVE-2025-71189",
+    "PoC": "https://cert-portal.siemens.com/productcert/html/ssa-253495.html"
+  },
+  {
     "CVE": "CVE-2025-7119",
     "PoC": "https://github.com/ez-lbz/poc/issues/42"
+  },
+  {
+    "CVE": "CVE-2025-71190",
+    "PoC": "https://cert-portal.siemens.com/productcert/html/ssa-253495.html"
+  },
+  {
+    "CVE": "CVE-2025-71191",
+    "PoC": "https://cert-portal.siemens.com/productcert/html/ssa-253495.html"
   },
   {
     "CVE": "CVE-2025-7120",
@@ -551446,6 +551706,10 @@
   {
     "CVE": "CVE-2025-7220",
     "PoC": "https://github.com/skyrainoh/CVE/issues/8"
+  },
+  {
+    "CVE": "CVE-2025-7220",
+    "PoC": "https://vuldb.com/?ctiid.315169"
   },
   {
     "CVE": "CVE-2025-7339",
@@ -553944,6 +554208,10 @@
     "PoC": "https://karinagante.github.io/cve-2025-8538/"
   },
   {
+    "CVE": "CVE-2025-8538",
+    "PoC": "https://vuldb.com/?ctiid.318667"
+  },
+  {
     "CVE": "CVE-2025-8539",
     "PoC": "https://github.com/KarinaGante/KGSec/blob/main/CVEs/i-educar/CVE-2025-8539.md"
   },
@@ -554194,6 +554462,10 @@
   {
     "CVE": "CVE-2025-8729",
     "PoC": "https://github.com/MigoXLab/LMeterX/issues/10#issuecomment-3136380379"
+  },
+  {
+    "CVE": "CVE-2025-8732",
+    "PoC": "https://cert-portal.siemens.com/productcert/html/ssa-253495.html"
   },
   {
     "CVE": "CVE-2025-8732",
@@ -555280,6 +555552,10 @@
     "PoC": "https://mattermost.com/security-updates"
   },
   {
+    "CVE": "CVE-2025-9086",
+    "PoC": "https://cert-portal.siemens.com/productcert/html/ssa-253495.html"
+  },
+  {
     "CVE": "CVE-2025-9087",
     "PoC": "https://github.com/ZZ2266/.github.io/tree/main/AC20/formSetQosBand"
   },
@@ -555673,11 +555949,23 @@
   },
   {
     "CVE": "CVE-2025-9230",
+    "PoC": "https://cert-portal.siemens.com/productcert/html/ssa-253495.html"
+  },
+  {
+    "CVE": "CVE-2025-9230",
     "PoC": "https://cert-portal.siemens.com/productcert/html/ssa-265688.html"
   },
   {
     "CVE": "CVE-2025-9231",
     "PoC": "http://www.openwall.com/lists/oss-security/2026/05/11/11"
+  },
+  {
+    "CVE": "CVE-2025-9231",
+    "PoC": "https://cert-portal.siemens.com/productcert/html/ssa-253495.html"
+  },
+  {
+    "CVE": "CVE-2025-9232",
+    "PoC": "https://cert-portal.siemens.com/productcert/html/ssa-253495.html"
   },
   {
     "CVE": "CVE-2025-9233",
@@ -558068,6 +558356,10 @@
     "PoC": "https://security.paloaltonetworks.com/CVE-2026-0227"
   },
   {
+    "CVE": "CVE-2026-0257",
+    "PoC": "https://security.paloaltonetworks.com/CVE-2026-0257"
+  },
+  {
     "CVE": "CVE-2026-0521",
     "PoC": "https://www.redguard.ch/blog/2026/02/05/advisory-tydac-mapplus/"
   },
@@ -558870,6 +559162,14 @@
   {
     "CVE": "CVE-2026-1470",
     "PoC": "https://research.jfrog.com/vulnerabilities/n8n-expression-node-rce/"
+  },
+  {
+    "CVE": "CVE-2026-1484",
+    "PoC": "https://cert-portal.siemens.com/productcert/html/ssa-253495.html"
+  },
+  {
+    "CVE": "CVE-2026-1489",
+    "PoC": "https://cert-portal.siemens.com/productcert/html/ssa-253495.html"
   },
   {
     "CVE": "CVE-2026-1504",
@@ -560368,6 +560668,10 @@
     "PoC": "https://github.com/trailofbits/fickling/security/advisories/GHSA-q5qq-mvfm-j35x"
   },
   {
+    "CVE": "CVE-2026-22610",
+    "PoC": "https://cert-portal.siemens.com/productcert/html/ssa-253495.html"
+  },
+  {
     "CVE": "CVE-2026-22612",
     "PoC": "https://github.com/trailofbits/fickling/security/advisories/GHSA-h4rm-mm56-xf63"
   },
@@ -560724,6 +561028,54 @@
     "PoC": "https://fluidattacks.com/advisories/neton"
   },
   {
+    "CVE": "CVE-2026-22976",
+    "PoC": "https://cert-portal.siemens.com/productcert/html/ssa-253495.html"
+  },
+  {
+    "CVE": "CVE-2026-22977",
+    "PoC": "https://cert-portal.siemens.com/productcert/html/ssa-253495.html"
+  },
+  {
+    "CVE": "CVE-2026-23025",
+    "PoC": "https://cert-portal.siemens.com/productcert/html/ssa-253495.html"
+  },
+  {
+    "CVE": "CVE-2026-23026",
+    "PoC": "https://cert-portal.siemens.com/productcert/html/ssa-253495.html"
+  },
+  {
+    "CVE": "CVE-2026-23030",
+    "PoC": "https://cert-portal.siemens.com/productcert/html/ssa-253495.html"
+  },
+  {
+    "CVE": "CVE-2026-23031",
+    "PoC": "https://cert-portal.siemens.com/productcert/html/ssa-253495.html"
+  },
+  {
+    "CVE": "CVE-2026-23032",
+    "PoC": "https://cert-portal.siemens.com/productcert/html/ssa-253495.html"
+  },
+  {
+    "CVE": "CVE-2026-23033",
+    "PoC": "https://cert-portal.siemens.com/productcert/html/ssa-253495.html"
+  },
+  {
+    "CVE": "CVE-2026-23037",
+    "PoC": "https://cert-portal.siemens.com/productcert/html/ssa-253495.html"
+  },
+  {
+    "CVE": "CVE-2026-23038",
+    "PoC": "https://cert-portal.siemens.com/productcert/html/ssa-253495.html"
+  },
+  {
+    "CVE": "CVE-2026-23111",
+    "PoC": "https://cert-portal.siemens.com/productcert/html/ssa-253495.html"
+  },
+  {
+    "CVE": "CVE-2026-23112",
+    "PoC": "https://cert-portal.siemens.com/productcert/html/ssa-253495.html"
+  },
+  {
     "CVE": "CVE-2026-2316",
     "PoC": "https://issues.chromium.org/issues/422531206"
   },
@@ -560742,6 +561094,38 @@
   {
     "CVE": "CVE-2026-2322",
     "PoC": "https://issues.chromium.org/issues/470928605"
+  },
+  {
+    "CVE": "CVE-2026-23220",
+    "PoC": "https://cert-portal.siemens.com/productcert/html/ssa-253495.html"
+  },
+  {
+    "CVE": "CVE-2026-23222",
+    "PoC": "https://cert-portal.siemens.com/productcert/html/ssa-253495.html"
+  },
+  {
+    "CVE": "CVE-2026-23228",
+    "PoC": "https://cert-portal.siemens.com/productcert/html/ssa-253495.html"
+  },
+  {
+    "CVE": "CVE-2026-23229",
+    "PoC": "https://cert-portal.siemens.com/productcert/html/ssa-253495.html"
+  },
+  {
+    "CVE": "CVE-2026-23230",
+    "PoC": "https://cert-portal.siemens.com/productcert/html/ssa-253495.html"
+  },
+  {
+    "CVE": "CVE-2026-23231",
+    "PoC": "https://cert-portal.siemens.com/productcert/html/ssa-253495.html"
+  },
+  {
+    "CVE": "CVE-2026-23236",
+    "PoC": "https://cert-portal.siemens.com/productcert/html/ssa-253495.html"
+  },
+  {
+    "CVE": "CVE-2026-23238",
+    "PoC": "https://cert-portal.siemens.com/productcert/html/ssa-253495.html"
   },
   {
     "CVE": "CVE-2026-23268",
@@ -561480,6 +561864,10 @@
     "PoC": "https://github.com/MobSF/Mobile-Security-Framework-MobSF/security/advisories/GHSA-8hf7-h89p-3pqj"
   },
   {
+    "CVE": "CVE-2026-24515",
+    "PoC": "https://cert-portal.siemens.com/productcert/html/ssa-253495.html"
+  },
+  {
     "CVE": "CVE-2026-24516",
     "PoC": "https://github.com/poxsky/CVE-2026-24516-DigitalOcean-RCE"
   },
@@ -561938,6 +562326,10 @@
   {
     "CVE": "CVE-2026-25187",
     "PoC": "https://www.vicarius.io/vsociety/posts/cve-2026-25187-mitigation-script-winlogon-elevation-of-privilege-vulnerability"
+  },
+  {
+    "CVE": "CVE-2026-25210",
+    "PoC": "https://cert-portal.siemens.com/productcert/html/ssa-253495.html"
   },
   {
     "CVE": "CVE-2026-25222",
@@ -562522,6 +562914,14 @@
   {
     "CVE": "CVE-2026-26151",
     "PoC": "https://www.vicarius.io/vsociety/posts/cve-2026-26151-mitigation-script-spoofing-vulnerability-affecting-windows-remote-desktop"
+  },
+  {
+    "CVE": "CVE-2026-26157",
+    "PoC": "https://cert-portal.siemens.com/productcert/html/ssa-253495.html"
+  },
+  {
+    "CVE": "CVE-2026-26158",
+    "PoC": "https://cert-portal.siemens.com/productcert/html/ssa-253495.html"
   },
   {
     "CVE": "CVE-2026-2618",
@@ -566412,6 +566812,10 @@
     "PoC": "https://github.com/AnalogyC0de/public_exp/issues/14"
   },
   {
+    "CVE": "CVE-2026-32685",
+    "PoC": "https://cna.erlef.org/cves/CVE-2026-32685.html"
+  },
+  {
     "CVE": "CVE-2026-32686",
     "PoC": "https://cna.erlef.org/cves/CVE-2026-32686.html"
   },
@@ -567117,6 +567521,10 @@
   },
   {
     "CVE": "CVE-2026-35535",
+    "PoC": "https://cert-portal.siemens.com/productcert/html/ssa-253495.html"
+  },
+  {
+    "CVE": "CVE-2026-35535",
     "PoC": "https://www.qualys.com/2026/03/10/crack-armor.txt"
   },
   {
@@ -567588,6 +567996,10 @@
     "PoC": "https://www.foxit.com/support/security-bulletins.html"
   },
   {
+    "CVE": "CVE-2026-3784",
+    "PoC": "https://cert-portal.siemens.com/productcert/html/ssa-253495.html"
+  },
+  {
     "CVE": "CVE-2026-3785",
     "PoC": "https://github.com/ueh1013/VULN/issues/19"
   },
@@ -567830,6 +568242,10 @@
   {
     "CVE": "CVE-2026-3919",
     "PoC": "https://issues.chromium.org/issues/444176961"
+  },
+  {
+    "CVE": "CVE-2026-3922",
+    "PoC": "https://issues.chromium.org/issues/485397139"
   },
   {
     "CVE": "CVE-2026-3925",
@@ -568408,6 +568824,10 @@
     "PoC": "https://mantisbt.org/bugs/view.php?id=37015"
   },
   {
+    "CVE": "CVE-2026-40619",
+    "PoC": "https://resources.genetec.com/security-advisories/vulnerability-affecting-security-center-systems-main-server-installations"
+  },
+  {
     "CVE": "CVE-2026-4064",
     "PoC": "https://devolutions.net/security/advisories/DEVO-2026-0008"
   },
@@ -568880,6 +569300,10 @@
     "PoC": "https://www.vulncheck.com/advisories/openkm-local-file-inclusion-via-admin-scripting"
   },
   {
+    "CVE": "CVE-2026-41918",
+    "PoC": "https://cert-portal.siemens.com/productcert/html/ssa-253495.html"
+  },
+  {
     "CVE": "CVE-2026-41922",
     "PoC": "https://mstreet97.github.io/security-research/iot/vulnerability-disclosure/ai-assisted-research/cybersecurity/cve/2026/05/04/Teaching_the_Machine_Where_to_Look.html"
   },
@@ -569140,6 +569564,10 @@
     "PoC": "https://cna.erlef.org/cves/CVE-2026-42794.html"
   },
   {
+    "CVE": "CVE-2026-42795",
+    "PoC": "https://cna.erlef.org/cves/CVE-2026-42795.html"
+  },
+  {
     "CVE": "CVE-2026-42798",
     "PoC": "https://www.openwall.com/lists/oss-security/2026/04/30/8"
   },
@@ -569218,6 +569646,10 @@
   {
     "CVE": "CVE-2026-4396",
     "PoC": "https://devolutions.net/security/advisories/DEVO-2026-0009/"
+  },
+  {
+    "CVE": "CVE-2026-43965",
+    "PoC": "https://cna.erlef.org/cves/CVE-2026-43965.html"
   },
   {
     "CVE": "CVE-2026-43967",
@@ -569540,6 +569972,26 @@
     "PoC": "https://cna.erlef.org/cves/CVE-2026-48593.html"
   },
   {
+    "CVE": "CVE-2026-48594",
+    "PoC": "https://cna.erlef.org/cves/CVE-2026-48594.html"
+  },
+  {
+    "CVE": "CVE-2026-48595",
+    "PoC": "https://cna.erlef.org/cves/CVE-2026-48595.html"
+  },
+  {
+    "CVE": "CVE-2026-48596",
+    "PoC": "https://cna.erlef.org/cves/CVE-2026-48596.html"
+  },
+  {
+    "CVE": "CVE-2026-48597",
+    "PoC": "https://cna.erlef.org/cves/CVE-2026-48597.html"
+  },
+  {
+    "CVE": "CVE-2026-48598",
+    "PoC": "https://cna.erlef.org/cves/CVE-2026-48598.html"
+  },
+  {
     "CVE": "CVE-2026-48700",
     "PoC": "https://www.openwall.com/lists/oss-security/2026/05/20/2"
   },
@@ -569570,6 +570022,14 @@
   {
     "CVE": "CVE-2026-48829",
     "PoC": "https://lists.gnu.org/archive/html/help-gsasl/2026-05/msg00002.html"
+  },
+  {
+    "CVE": "CVE-2026-48861",
+    "PoC": "https://cna.erlef.org/cves/CVE-2026-48861.html"
+  },
+  {
+    "CVE": "CVE-2026-48862",
+    "PoC": "https://cna.erlef.org/cves/CVE-2026-48862.html"
   },
   {
     "CVE": "CVE-2026-4908",
@@ -569620,8 +570080,24 @@
     "PoC": "https://gist.github.com/Mohdanass/50a525ba0a72e10fda85f0db11eeed92"
   },
   {
+    "CVE": "CVE-2026-49753",
+    "PoC": "https://cna.erlef.org/cves/CVE-2026-49753.html"
+  },
+  {
+    "CVE": "CVE-2026-49754",
+    "PoC": "https://cna.erlef.org/cves/CVE-2026-49754.html"
+  },
+  {
     "CVE": "CVE-2026-4989",
     "PoC": "https://devolutions.net/security/advisories/DEVO-2026-0010"
+  },
+  {
+    "CVE": "CVE-2026-50031",
+    "PoC": "https://savannah.gnu.org/bugs/index.php?68363"
+  },
+  {
+    "CVE": "CVE-2026-50031",
+    "PoC": "https://savannah.gnu.org/bugs/index.php?68364"
   },
   {
     "CVE": "CVE-2026-5031",
@@ -569706,6 +570182,10 @@
   {
     "CVE": "CVE-2026-5368",
     "PoC": "https://vuldb.com/submit/781665"
+  },
+  {
+    "CVE": "CVE-2026-5385",
+    "PoC": "https://fluidattacks.com/es/advisories/bizkit"
   },
   {
     "CVE": "CVE-2026-5394",
@@ -569864,12 +570344,20 @@
     "PoC": "https://files.catbox.moe/ei31k1.zip"
   },
   {
+    "CVE": "CVE-2026-5876",
+    "PoC": "https://issues.chromium.org/issues/41485206"
+  },
+  {
     "CVE": "CVE-2026-5877",
     "PoC": "https://issues.chromium.org/issues/333024273"
   },
   {
     "CVE": "CVE-2026-5880",
     "PoC": "https://issues.chromium.org/issues/424995036"
+  },
+  {
+    "CVE": "CVE-2026-5886",
+    "PoC": "https://issues.chromium.org/issues/485397283"
   },
   {
     "CVE": "CVE-2026-5894",
@@ -571186,6 +571674,14 @@
   {
     "CVE": "CVE-2026-9496",
     "PoC": "https://security.snyk.io/vuln/SNYK-JS-PACOTE-8225084"
+  },
+  {
+    "CVE": "CVE-2026-9522",
+    "PoC": "https://devolutions.net/security/advisories/DEVO-2026-0014/"
+  },
+  {
+    "CVE": "CVE-2026-9590",
+    "PoC": "https://devolutions.net/security/advisories/DEVO-2026-0014/"
   },
   {
     "CVE": "CVE-2026-9606",
