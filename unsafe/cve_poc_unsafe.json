@@ -1,5 +1,157 @@
 [
   {
+    "CVE": "CVE-2023-4863",
+    "PoC": "https://github.com/Shcesama/cve-2023-4863-analysis"
+  },
+  {
+    "CVE": "CVE-2026-47423",
+    "PoC": "https://github.com/Galaxy-sc/CVE-2026-47423-dompurify-xss-detector"
+  },
+  {
+    "CVE": "CVE-2026-42588",
+    "PoC": "https://github.com/strivepan/ActiveMQ-cve-2026-42588"
+  },
+  {
+    "CVE": "CVE-2026-42588",
+    "PoC": "https://github.com/strivepan/ActiveMQ-cve-2026-42588-scanner-gui"
+  },
+  {
+    "CVE": "CVE-2026-8732",
+    "PoC": "https://github.com/Diznev/CVE-2026-8732-EXPLOIT"
+  },
+  {
+    "CVE": "CVE-2026-8389",
+    "PoC": "https://github.com/crixpwn/CVE-2026-8389"
+  },
+  {
+    "CVE": "CVE-2026-6815",
+    "PoC": "https://github.com/danilo-dellorco/CVE-2026-6815"
+  },
+  {
+    "CVE": "CVE-2024-1813",
+    "PoC": "https://github.com/pierre-louis-mobeta/CVE-2024-1813"
+  },
+  {
+    "CVE": "CVE-2026-41089",
+    "PoC": "https://github.com/Vanquishermacdetach/CVE-2026-41089-509"
+  },
+  {
+    "CVE": "CVE-2026-41096",
+    "PoC": "https://github.com/TwoSevenOneT/CVE-2026-41096-Attack-Surface"
+  },
+  {
+    "CVE": "CVE-2026-34234",
+    "PoC": "https://github.com/rootdirective-sec/CVE-2026-34234-Lab"
+  },
+  {
+    "CVE": "CVE-2026-45247",
+    "PoC": "https://github.com/HORKimhab/CVE-2026-45247"
+  },
+  {
+    "CVE": "CVE-2019-14234",
+    "PoC": "https://github.com/giuliodamico/CVE-2019-14234"
+  },
+  {
+    "CVE": "CVE-2026-5076",
+    "PoC": "https://github.com/zycoder0day/CVE-2026-5076"
+  },
+  {
+    "CVE": "CVE-2026-50142",
+    "PoC": "https://github.com/MuhammedHussein17/libheif-cve-2026-50142"
+  },
+  {
+    "CVE": "CVE-2014-6271",
+    "PoC": "https://github.com/Reflyzal106/Cve-2014-Error-What-Is-The-Cve-2014-6271-Bash-Vulnerability"
+  },
+  {
+    "CVE": "CVE-2026-49975",
+    "PoC": "https://github.com/mrx-arafat/CVE-2026-49975-POC"
+  },
+  {
+    "CVE": "CVE-2024-1698",
+    "PoC": "https://github.com/Dhananjayasj/CVE-2024-1698-NotificationX-WordPress-Plugin-SQL-Injection-to-Admin-Credential-Extraction"
+  },
+  {
+    "CVE": "CVE-2026-0073",
+    "PoC": "https://github.com/fredevsec/CVE-2026-0073"
+  },
+  {
+    "CVE": "CVE-2026-20230",
+    "PoC": "https://github.com/HORKimhab/CVE-2026-20230"
+  },
+  {
+    "CVE": "CVE-2026-31431",
+    "PoC": "https://github.com/zs1n/copy-fail-CVE-2026-31431"
+  },
+  {
+    "CVE": "CVE-2022-46395",
+    "PoC": "https://github.com/Gao-Zuin/cve-2022-46395-qemu"
+  },
+  {
+    "CVE": "CVE-2021-44228",
+    "PoC": "https://github.com/horrister/Log4Shell-CVE-2021-44228-"
+  },
+  {
+    "CVE": "CVE-2020-10148",
+    "PoC": "https://github.com/horrister/solarwinds_orion_vulnerability-CVE-2020-10148-"
+  },
+  {
+    "CVE": "CVE-2026-3180",
+    "PoC": "https://github.com/cardosource/cve-2026-3180"
+  },
+  {
+    "CVE": "CVE-2026-23479",
+    "PoC": "https://github.com/pduggusa/redis-cve-2026-23479-check"
+  },
+  {
+    "CVE": "CVE-2026-41089",
+    "PoC": "https://github.com/VergeWarlord/CVE-2026-41089-806"
+  },
+  {
+    "CVE": "CVE-2026-41089",
+    "PoC": "https://github.com/ElephantVelocity36/CVE-2026-41089-769"
+  },
+  {
+    "CVE": "CVE-2026-41089",
+    "PoC": "https://github.com/SlateDisplayRouter/CVE-2026-41089-863"
+  },
+  {
+    "CVE": "CVE-2026-41089",
+    "PoC": "https://github.com/CrowEvaluate/CVE-2026-41089-646"
+  },
+  {
+    "CVE": "CVE-2026-41089",
+    "PoC": "https://github.com/Retrodraseparator/CVE-2026-41089-874"
+  },
+  {
+    "CVE": "CVE-2026-41089",
+    "PoC": "https://github.com/yarnbladefigure/CVE-2026-41089-342"
+  },
+  {
+    "CVE": "CVE-2026-41089",
+    "PoC": "https://github.com/LastPrincipal/CVE-2026-41089-940"
+  },
+  {
+    "CVE": "CVE-2026-41089",
+    "PoC": "https://github.com/Hiddenraglide/CVE-2026-41089-806"
+  },
+  {
+    "CVE": "CVE-2026-41089",
+    "PoC": "https://github.com/Darkuoremember32/CVE-2026-41089-470"
+  },
+  {
+    "CVE": "CVE-2026-26555",
+    "PoC": "https://github.com/horrister/axios-supply-chain-cve-2026-26555"
+  },
+  {
+    "CVE": "CVE-2026-41089",
+    "PoC": "https://github.com/Darkuoremember32/CVE-2026-41089-532"
+  },
+  {
+    "CVE": "CVE-2026-23744",
+    "PoC": "https://github.com/avivyap/CVE-2026-23744"
+  },
+  {
     "CVE": "CVE-2026-33829",
     "PoC": "https://github.com/tiffanykarihi23/CVE-2026-33829"
   },

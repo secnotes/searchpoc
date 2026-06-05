@@ -14260,6 +14260,10 @@
     "PoC": "http://securityreason.com/securityalert/413"
   },
   {
+    "CVE": "CVE-2006-0591",
+    "PoC": "http://www.redhat.com/support/errata/RHSA-2006-0526.html"
+  },
+  {
     "CVE": "CVE-2006-0602",
     "PoC": "http://evuln.com/vulns/58/summary.html"
   },
@@ -17509,7 +17513,15 @@
   },
   {
     "CVE": "CVE-2006-2313",
+    "PoC": "http://www.redhat.com/support/errata/RHSA-2006-0526.html"
+  },
+  {
+    "CVE": "CVE-2006-2313",
     "PoC": "http://www.ubuntu.com/usn/usn-288-2"
+  },
+  {
+    "CVE": "CVE-2006-2314",
+    "PoC": "http://www.redhat.com/support/errata/RHSA-2006-0526.html"
   },
   {
     "CVE": "CVE-2006-2314",
@@ -207050,6 +207062,22 @@
   {
     "CVE": "CVE-2017-17672",
     "PoC": "https://www.exploit-db.com/exploits/43362/"
+  },
+  {
+    "CVE": "CVE-2017-17674",
+    "PoC": "http://remedy.com"
+  },
+  {
+    "CVE": "CVE-2017-17675",
+    "PoC": "http://remedy.com"
+  },
+  {
+    "CVE": "CVE-2017-17677",
+    "PoC": "http://remedy.com"
+  },
+  {
+    "CVE": "CVE-2017-17678",
+    "PoC": "http://remedy.com"
   },
   {
     "CVE": "CVE-2017-17681",
@@ -534352,6 +534380,10 @@
     "PoC": "https://github.com/lanxia0/CVE/issues/10"
   },
   {
+    "CVE": "CVE-2025-4716",
+    "PoC": "https://vuldb.com/?id.309014"
+  },
+  {
     "CVE": "CVE-2025-4717",
     "PoC": "https://github.com/baixiaobai001/myCVE/issues/7"
   },
@@ -544262,6 +544294,10 @@
   {
     "CVE": "CVE-2025-60454",
     "PoC": "https://snowhy77.github.io/2025/08/22/Stored-XSS-in-MetInfo-Image-Module/"
+  },
+  {
+    "CVE": "CVE-2025-60477",
+    "PoC": "https://infosec.exchange/@sigdevel/116658486442433074"
   },
   {
     "CVE": "CVE-2025-60481",
@@ -558741,6 +558777,10 @@
   },
   {
     "CVE": "CVE-2026-10528",
+    "PoC": "https://orthanc.uclouvain.be/bugs/attachment.cgi?id=150"
+  },
+  {
+    "CVE": "CVE-2026-10528",
     "PoC": "https://orthanc.uclouvain.be/bugs/show_bug.cgi?id=258#c4"
   },
   {
@@ -567624,6 +567664,10 @@
     "PoC": "https://gist.github.com/Lytes/571902a31a3d543da009554a82f2d00c"
   },
   {
+    "CVE": "CVE-2026-36748",
+    "PoC": "https://raxis.com/blog/cve-2026-36748-xss-in-rock-rms-leads-to-privilege-escalation/"
+  },
+  {
     "CVE": "CVE-2026-3675",
     "PoC": "https://gist.github.com/Lytes/1078d9e16897ed95ad24143952adfba6"
   },
@@ -568242,6 +568286,10 @@
   {
     "CVE": "CVE-2026-3919",
     "PoC": "https://issues.chromium.org/issues/444176961"
+  },
+  {
+    "CVE": "CVE-2026-3921",
+    "PoC": "https://issues.chromium.org/issues/484946544"
   },
   {
     "CVE": "CVE-2026-3922",
@@ -569572,6 +569620,14 @@
     "PoC": "https://www.openwall.com/lists/oss-security/2026/04/30/8"
   },
   {
+    "CVE": "CVE-2026-42839",
+    "PoC": "https://fluidattacks.com/es/advisories/pink"
+  },
+  {
+    "CVE": "CVE-2026-42840",
+    "PoC": "https://fluidattacks.com/es/advisories/weeknd"
+  },
+  {
     "CVE": "CVE-2026-42881",
     "PoC": "https://www.bitwizemusic.com/security/advisories/bve-2026-0007"
   },
@@ -570632,6 +570688,10 @@
     "PoC": "https://github.com/Xmyronn/CodeAstro-Online-Job-Portal-SQLi-Delete-All.git"
   },
   {
+    "CVE": "CVE-2026-7030",
+    "PoC": "https://github.com/Litengzheng/vuldb_new/blob/main/F456/vul_120/README.md"
+  },
+  {
     "CVE": "CVE-2026-7031",
     "PoC": "https://github.com/Litengzheng/vuldb_new/blob/main/F456/vul_121/README.md"
   },
@@ -571066,6 +571126,10 @@
   {
     "CVE": "CVE-2026-7393",
     "PoC": "https://github.com/Xmyronn/Unrestricted-File-Upload-leading-to-Remote-Code-Execution-in-Pizzafy-Ecommerce-System.git"
+  },
+  {
+    "CVE": "CVE-2026-7397",
+    "PoC": "https://github.com/NousResearch/hermes-agent/issues/8734"
   },
   {
     "CVE": "CVE-2026-7398",
@@ -571690,5 +571754,9 @@
   {
     "CVE": "CVE-2026-9673",
     "PoC": "https://security.snyk.io/vuln/SNYK-JS-JSON2CSV-14221326"
+  },
+  {
+    "CVE": "CVE-2026-9844",
+    "PoC": "https://diagnostics.roche.com/global/en/legal/product-security-advisory.html"
   }
 ]
