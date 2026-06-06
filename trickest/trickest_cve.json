@@ -248233,6 +248233,10 @@
   },
   {
     "CVE": "CVE-2018-25277",
+    "PoC": "http://www.br-software.com/pixgps11_setup.exe"
+  },
+  {
+    "CVE": "CVE-2018-25277",
     "PoC": "https://www.exploit-db.com/exploits/45381"
   },
   {
@@ -252934,6 +252938,10 @@
   {
     "CVE": "CVE-2018-3927",
     "PoC": "https://talosintelligence.com/vulnerability_reports/TALOS-2018-0594"
+  },
+  {
+    "CVE": "CVE-2018-3928",
+    "PoC": "https://www.talosintelligence.com/vulnerability_reports/TALOS-2018-0595"
   },
   {
     "CVE": "CVE-2018-3934",
@@ -287020,12 +287028,92 @@
     "PoC": "http://www.oracle.com/technetwork/security-advisory/cpuapr2019-5072813.html"
   },
   {
+    "CVE": "CVE-2019-25726",
+    "PoC": "https://www.exploit-db.com/exploits/46077"
+  },
+  {
+    "CVE": "CVE-2019-25727",
+    "PoC": "https://www.exploit-db.com/exploits/46252"
+  },
+  {
+    "CVE": "CVE-2019-25728",
+    "PoC": "https://www.exploit-db.com/exploits/46268"
+  },
+  {
+    "CVE": "CVE-2019-25729",
+    "PoC": "https://www.exploit-db.com/exploits/46276"
+  },
+  {
     "CVE": "CVE-2019-2573",
     "PoC": "http://www.oracle.com/technetwork/security-advisory/cpuapr2019-5072813.html"
   },
   {
+    "CVE": "CVE-2019-25730",
+    "PoC": "https://www.exploit-db.com/exploits/46419"
+  },
+  {
+    "CVE": "CVE-2019-25731",
+    "PoC": "https://www.exploit-db.com/exploits/46420"
+  },
+  {
+    "CVE": "CVE-2019-25732",
+    "PoC": "https://www.exploit-db.com/exploits/46440"
+  },
+  {
+    "CVE": "CVE-2019-25733",
+    "PoC": "https://www.exploit-db.com/exploits/46578"
+  },
+  {
+    "CVE": "CVE-2019-25734",
+    "PoC": "https://www.exploit-db.com/exploits/46661"
+  },
+  {
+    "CVE": "CVE-2019-25735",
+    "PoC": "https://www.exploit-db.com/exploits/46668"
+  },
+  {
+    "CVE": "CVE-2019-25736",
+    "PoC": "https://www.exploit-db.com/exploits/46737"
+  },
+  {
+    "CVE": "CVE-2019-25737",
+    "PoC": "https://www.exploit-db.com/exploits/47037"
+  },
+  {
+    "CVE": "CVE-2019-25738",
+    "PoC": "https://www.exploit-db.com/exploits/47154"
+  },
+  {
+    "CVE": "CVE-2019-25739",
+    "PoC": "https://www.exploit-db.com/exploits/47185"
+  },
+  {
     "CVE": "CVE-2019-2574",
     "PoC": "http://www.oracle.com/technetwork/security-advisory/cpuapr2019-5072813.html"
+  },
+  {
+    "CVE": "CVE-2019-25740",
+    "PoC": "https://www.exploit-db.com/exploits/47281"
+  },
+  {
+    "CVE": "CVE-2019-25741",
+    "PoC": "https://www.exploit-db.com/exploits/47429"
+  },
+  {
+    "CVE": "CVE-2019-25742",
+    "PoC": "https://www.exploit-db.com/exploits/47436"
+  },
+  {
+    "CVE": "CVE-2019-25743",
+    "PoC": "https://www.exploit-db.com/exploits/47517"
+  },
+  {
+    "CVE": "CVE-2019-25744",
+    "PoC": "https://www.exploit-db.com/exploits/47518"
+  },
+  {
+    "CVE": "CVE-2019-25745",
+    "PoC": "https://www.exploit-db.com/exploits/47567"
   },
   {
     "CVE": "CVE-2019-2575",
@@ -325102,6 +325190,10 @@
   {
     "CVE": "CVE-2020-35789",
     "PoC": "https://kb.netgear.com/000062686/Security-Advisory-for-Post-Authentication-Command-Injection-on-NMS300-PSV-2020-0559"
+  },
+  {
+    "CVE": "CVE-2020-35790",
+    "PoC": "https://kb.netgear.com/000062639/Security-Advisory-for-Post-Authentication-Command-Injection-on-Some-Routers-PSV-2018-0571"
   },
   {
     "CVE": "CVE-2020-35791",
@@ -400089,7 +400181,15 @@
   },
   {
     "CVE": "CVE-2022-31322",
+    "PoC": "https://medium.com/%40_sadshade/wapples-web-application-firewall-multiple-vulnerabilities-35bdee52c8fb"
+  },
+  {
+    "CVE": "CVE-2022-31322",
     "PoC": "https://medium.com/@_sadshade/wapples-web-application-firewall-multiple-vulnerabilities-35bdee52c8fb"
+  },
+  {
+    "CVE": "CVE-2022-31324",
+    "PoC": "https://medium.com/%40_sadshade/wapples-web-application-firewall-multiple-vulnerabilities-35bdee52c8fb"
   },
   {
     "CVE": "CVE-2022-31324",
@@ -405129,6 +405229,10 @@
   },
   {
     "CVE": "CVE-2022-35413",
+    "PoC": "https://medium.com/%40_sadshade/wapples-web-application-firewall-multiple-vulnerabilities-35bdee52c8fb"
+  },
+  {
+    "CVE": "CVE-2022-35413",
     "PoC": "https://medium.com/@_sadshade/wapples-web-application-firewall-multiple-vulnerabilities-35bdee52c8fb"
   },
   {
@@ -405286,6 +405390,10 @@
   {
     "CVE": "CVE-2022-3558",
     "PoC": "https://wpscan.com/vulnerability/e3d72e04-9cdf-4b7d-953e-876e26abdfc6"
+  },
+  {
+    "CVE": "CVE-2022-35582",
+    "PoC": "https://medium.com/%40_sadshade/wapples-web-application-firewall-multiple-vulnerabilities-35bdee52c8fb"
   },
   {
     "CVE": "CVE-2022-35582",
@@ -497392,6 +497500,10 @@
     "PoC": "https://github.com/Buckdray/vulnerability-research/tree/main/CVE-2024-51225"
   },
   {
+    "CVE": "CVE-2024-51226",
+    "PoC": "https://github.com/Buckdray/vulnerability-research/tree/main/CVE-2024-51226"
+  },
+  {
     "CVE": "CVE-2024-51228",
     "PoC": "https://github.com/yckuo-sdc/totolink-boa-api-vulnerabilities"
   },
@@ -545408,6 +545520,10 @@
     "PoC": "https://github.com/xiaobor123/vul-finds/tree/main/vul-find-dir665-dlink#poc"
   },
   {
+    "CVE": "CVE-2025-6158",
+    "PoC": "https://vuldb.com/?ctiid.312633"
+  },
+  {
     "CVE": "CVE-2025-61586",
     "PoC": "https://github.com/FreshRSS/FreshRSS/security/advisories/GHSA-w35p-p867-qr4f"
   },
@@ -545438,6 +545554,10 @@
   {
     "CVE": "CVE-2025-61601",
     "PoC": "https://github.com/bigbluebutton/bigbluebutton/security/advisories/GHSA-73j3-v3fq-fqx5"
+  },
+  {
+    "CVE": "CVE-2025-61601",
+    "PoC": "https://www.youtube.com/watch?v=BwROSVIYjOY"
   },
   {
     "CVE": "CVE-2025-61602",
@@ -550672,6 +550792,14 @@
     "PoC": "https://infosec.exchange/@sigdevel/116668939725424227"
   },
   {
+    "CVE": "CVE-2025-70100",
+    "PoC": "https://infosec.exchange/@sigdevel/116668952003072580"
+  },
+  {
+    "CVE": "CVE-2025-70101",
+    "PoC": "https://infosec.exchange/@sigdevel/116668958927817708"
+  },
+  {
     "CVE": "CVE-2025-70103",
     "PoC": "http://www.openwall.com/lists/oss-security/2026/05/30/7"
   },
@@ -551434,6 +551562,10 @@
   {
     "CVE": "CVE-2025-7131",
     "PoC": "https://github.com/wyl091256/CVE/issues/19"
+  },
+  {
+    "CVE": "CVE-2025-71316",
+    "PoC": "https://i.blackhat.com/EU-24/Presentations/EU-24-Tsai-V2-WorstFit-Unveiling-Hidden-Transformers-in-Windows-ANSI.pdf"
   },
   {
     "CVE": "CVE-2025-7132",
@@ -558794,6 +558926,10 @@
   {
     "CVE": "CVE-2026-1064",
     "PoC": "https://github.com/AnalogyC0de/public_exp/blob/main/archives/Bastillion/report2.md"
+  },
+  {
+    "CVE": "CVE-2026-10732",
+    "PoC": "https://security.snyk.io/vuln/SNYK-JS-DECOMPRESS-16415209"
   },
   {
     "CVE": "CVE-2026-1105",
@@ -568296,6 +568432,14 @@
     "PoC": "https://issues.chromium.org/issues/485397139"
   },
   {
+    "CVE": "CVE-2026-3923",
+    "PoC": "https://issues.chromium.org/issues/485935314"
+  },
+  {
+    "CVE": "CVE-2026-3924",
+    "PoC": "https://issues.chromium.org/issues/487338366"
+  },
+  {
     "CVE": "CVE-2026-3925",
     "PoC": "https://issues.chromium.org/issues/418214610"
   },
@@ -569316,6 +569460,10 @@
     "PoC": "https://github.com/AnalogyC0de/public_exp/issues/21"
   },
   {
+    "CVE": "CVE-2026-4174",
+    "PoC": "https://vuldb.com/?ctiid.351081"
+  },
+  {
     "CVE": "CVE-2026-4181",
     "PoC": "https://vuldb.com/?ctiid.351085"
   },
@@ -569500,6 +569648,10 @@
     "PoC": "https://github.com/ltranquility/cve_submit/issues/12"
   },
   {
+    "CVE": "CVE-2026-42329",
+    "PoC": "http://www.openwall.com/lists/oss-security/2026/05/19/7"
+  },
+  {
     "CVE": "CVE-2026-4233",
     "PoC": "https://vuldb.com/?id.351156"
   },
@@ -569544,8 +569696,24 @@
     "PoC": "https://www.vulncheck.com/advisories/openkm-unrestricted-sql-execution-via-databasequery"
   },
   {
+    "CVE": "CVE-2026-42538",
+    "PoC": "http://www.openwall.com/lists/oss-security/2026/05/19/8"
+  },
+  {
+    "CVE": "CVE-2026-42539",
+    "PoC": "http://www.openwall.com/lists/oss-security/2026/05/19/9"
+  },
+  {
     "CVE": "CVE-2026-4254",
     "PoC": "https://github.com/digitalandrew/tenda_ac8_v5/blob/main/CVE_Report_Tenda_AC8_SysToolChangePwd_BOF.md"
+  },
+  {
+    "CVE": "CVE-2026-42543",
+    "PoC": "http://www.openwall.com/lists/oss-security/2026/05/19/11"
+  },
+  {
+    "CVE": "CVE-2026-42547",
+    "PoC": "http://www.openwall.com/lists/oss-security/2026/05/19/12"
   },
   {
     "CVE": "CVE-2026-4255",
@@ -569650,6 +569818,10 @@
   {
     "CVE": "CVE-2026-43284",
     "PoC": "https://www.vicarius.io/vsociety/posts/cve-2026-43284-detection-script-dirty-frag-linux-kernel-local-privilege-escalation"
+  },
+  {
+    "CVE": "CVE-2026-43284",
+    "PoC": "https://www.vicarius.io/vsociety/posts/cve-2026-43284-mitigation-script-dirty-frag-linux-kernel-local-privilege-escalation"
   },
   {
     "CVE": "CVE-2026-4338",
@@ -570408,6 +570580,10 @@
     "PoC": "https://issues.chromium.org/issues/333024273"
   },
   {
+    "CVE": "CVE-2026-5878",
+    "PoC": "https://issues.chromium.org/issues/365089001"
+  },
+  {
     "CVE": "CVE-2026-5880",
     "PoC": "https://issues.chromium.org/issues/424995036"
   },
@@ -570446,6 +570622,10 @@
   {
     "CVE": "CVE-2026-5910",
     "PoC": "https://issues.chromium.org/issues/485212874"
+  },
+  {
+    "CVE": "CVE-2026-5912",
+    "PoC": "https://issues.chromium.org/issues/486498791"
   },
   {
     "CVE": "CVE-2026-5936",
@@ -571502,6 +571682,10 @@
   {
     "CVE": "CVE-2026-7875",
     "PoC": "https://github.com/qwibitai/nanoclaw/pull/2001"
+  },
+  {
+    "CVE": "CVE-2026-7930",
+    "PoC": "https://issues.chromium.org/issues/434825208"
   },
   {
     "CVE": "CVE-2026-8031",
