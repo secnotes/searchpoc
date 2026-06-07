@@ -912,6 +912,10 @@
     "PoC": "http://marc.info/?l=bugtraq&m=105829174431769&w=2"
   },
   {
+    "CVE": "CVE-2001-1416",
+    "PoC": "http://www.windowsitpro.com/Articles/Index.cfm?ArticleID=19811&DisplayTab=Article"
+  },
+  {
     "CVE": "CVE-2001-1434",
     "PoC": "http://www.cisco.com/warp/public/707/ios-snmp-community-vulns-pub.shtml"
   },
@@ -3556,6 +3560,10 @@
     "PoC": "https://oval.cisecurity.org/repository/search/definition/oval%3Aorg.mitre.oval%3Adef%3A9462"
   },
   {
+    "CVE": "CVE-2004-0181",
+    "PoC": "http://www.redhat.com/support/errata/RHSA-2005-663.html"
+  },
+  {
     "CVE": "CVE-2004-0183",
     "PoC": "https://oval.cisecurity.org/repository/search/definition/oval%3Aorg.mitre.oval%3Adef%3A972"
   },
@@ -4798,6 +4806,10 @@
   {
     "CVE": "CVE-2004-1052",
     "PoC": "http://marc.info/?l=bugtraq&m=110011817627839&w=2"
+  },
+  {
+    "CVE": "CVE-2004-1056",
+    "PoC": "http://www.redhat.com/support/errata/RHSA-2005-663.html"
   },
   {
     "CVE": "CVE-2004-1056",
@@ -6729,6 +6741,10 @@
   },
   {
     "CVE": "CVE-2005-0124",
+    "PoC": "http://www.redhat.com/support/errata/RHSA-2005-663.html"
+  },
+  {
+    "CVE": "CVE-2005-0124",
     "PoC": "http://www.securityfocus.com/archive/1/428028/100/0/threaded"
   },
   {
@@ -6738,6 +6754,10 @@
   {
     "CVE": "CVE-2005-0135",
     "PoC": "https://oval.cisecurity.org/repository/search/definition/oval%3Aorg.mitre.oval%3Adef%3A9040"
+  },
+  {
+    "CVE": "CVE-2005-0136",
+    "PoC": "http://www.redhat.com/support/errata/RHSA-2005-663.html"
   },
   {
     "CVE": "CVE-2005-0142",
@@ -6766,6 +6786,10 @@
   {
     "CVE": "CVE-2005-0161",
     "PoC": "http://www.novell.com/linux/security/advisories/2005_16_sr.html"
+  },
+  {
+    "CVE": "CVE-2005-0179",
+    "PoC": "http://www.redhat.com/support/errata/RHSA-2005-663.html"
   },
   {
     "CVE": "CVE-2005-0179",
@@ -7156,6 +7180,10 @@
     "PoC": "http://www.redhat.com/support/errata/RHSA-2005-366.html"
   },
   {
+    "CVE": "CVE-2005-0400",
+    "PoC": "http://www.redhat.com/support/errata/RHSA-2005-663.html"
+  },
+  {
     "CVE": "CVE-2005-0401",
     "PoC": "http://marc.info/?l=bugtraq&m=111168413007891&w=2"
   },
@@ -7266,6 +7294,10 @@
   {
     "CVE": "CVE-2005-0501",
     "PoC": "http://aluigi.altervista.org/adv/bontagobof-adv.txt"
+  },
+  {
+    "CVE": "CVE-2005-0504",
+    "PoC": "http://www.redhat.com/support/errata/RHSA-2005-663.html"
   },
   {
     "CVE": "CVE-2005-0504",
@@ -7612,6 +7644,10 @@
     "PoC": "http://pb.specialised.info/all/adv/real-ram-adv.txt"
   },
   {
+    "CVE": "CVE-2005-0756",
+    "PoC": "http://www.redhat.com/support/errata/RHSA-2005-663.html"
+  },
+  {
     "CVE": "CVE-2005-0758",
     "PoC": "https://oval.cisecurity.org/repository/search/definition/oval%3Aorg.mitre.oval%3Adef%3A9797"
   },
@@ -7702,6 +7738,10 @@
   {
     "CVE": "CVE-2005-0815",
     "PoC": "http://www.redhat.com/support/errata/RHSA-2005-366.html"
+  },
+  {
+    "CVE": "CVE-2005-0815",
+    "PoC": "http://www.redhat.com/support/errata/RHSA-2005-663.html"
   },
   {
     "CVE": "CVE-2005-0815",
@@ -8992,8 +9032,24 @@
     "PoC": "https://oval.cisecurity.org/repository/search/definition/oval%3Aorg.mitre.oval%3Adef%3A9522"
   },
   {
+    "CVE": "CVE-2005-1761",
+    "PoC": "http://www.redhat.com/support/errata/RHSA-2005-663.html"
+  },
+  {
+    "CVE": "CVE-2005-1762",
+    "PoC": "http://www.redhat.com/support/errata/RHSA-2005-663.html"
+  },
+  {
     "CVE": "CVE-2005-1766",
     "PoC": "https://oval.cisecurity.org/repository/search/definition/oval%3Aorg.mitre.oval%3Adef%3A9509"
+  },
+  {
+    "CVE": "CVE-2005-1767",
+    "PoC": "http://www.redhat.com/support/errata/RHSA-2005-663.html"
+  },
+  {
+    "CVE": "CVE-2005-1768",
+    "PoC": "http://www.redhat.com/support/errata/RHSA-2005-663.html"
   },
   {
     "CVE": "CVE-2005-1769",
@@ -9976,6 +10032,10 @@
     "PoC": "http://www.cisco.com/warp/public/707/cisco-sa-20050729-ipv6.shtml"
   },
   {
+    "CVE": "CVE-2005-2456",
+    "PoC": "http://www.redhat.com/support/errata/RHSA-2005-663.html"
+  },
+  {
     "CVE": "CVE-2005-2458",
     "PoC": "http://www.securityfocus.com/archive/1/428028/100/0/threaded"
   },
@@ -9998,6 +10058,10 @@
   {
     "CVE": "CVE-2005-2483",
     "PoC": "http://sourceforge.net/mailarchive/message.php?msg_id=12539317"
+  },
+  {
+    "CVE": "CVE-2005-2490",
+    "PoC": "http://www.redhat.com/support/errata/RHSA-2005-663.html"
   },
   {
     "CVE": "CVE-2005-2490",
@@ -10065,7 +10129,15 @@
   },
   {
     "CVE": "CVE-2005-2553",
+    "PoC": "http://www.redhat.com/support/errata/RHSA-2005-663.html"
+  },
+  {
+    "CVE": "CVE-2005-2553",
     "PoC": "https://oval.cisecurity.org/repository/search/definition/oval%3Aorg.mitre.oval%3Adef%3A9647"
+  },
+  {
+    "CVE": "CVE-2005-2555",
+    "PoC": "http://www.redhat.com/support/errata/RHSA-2005-663.html"
   },
   {
     "CVE": "CVE-2005-2556",
@@ -11145,11 +11217,19 @@
   },
   {
     "CVE": "CVE-2005-3273",
+    "PoC": "http://www.redhat.com/support/errata/RHSA-2005-663.html"
+  },
+  {
+    "CVE": "CVE-2005-3273",
     "PoC": "http://www.securityfocus.com/archive/1/428028/100/0/threaded"
   },
   {
     "CVE": "CVE-2005-3273",
     "PoC": "https://oval.cisecurity.org/repository/search/definition/oval%3Aorg.mitre.oval%3Adef%3A9552"
+  },
+  {
+    "CVE": "CVE-2005-3274",
+    "PoC": "http://www.redhat.com/support/errata/RHSA-2005-663.html"
   },
   {
     "CVE": "CVE-2005-3274",
@@ -18669,6 +18749,10 @@
   },
   {
     "CVE": "CVE-2006-2937",
+    "PoC": "http://www.vmware.com/support/esx25/doc/esx-254-200612-patch.html"
+  },
+  {
+    "CVE": "CVE-2006-2937",
     "PoC": "http://www.vmware.com/support/player/doc/releasenotes_player.html"
   },
   {
@@ -18714,6 +18798,10 @@
   {
     "CVE": "CVE-2006-2940",
     "PoC": "http://www.vmware.com/support/esx2/doc/esx-202-200612-patch.html"
+  },
+  {
+    "CVE": "CVE-2006-2940",
+    "PoC": "http://www.vmware.com/support/esx25/doc/esx-254-200612-patch.html"
   },
   {
     "CVE": "CVE-2006-2940",
@@ -19668,6 +19756,10 @@
     "PoC": "http://www.vmware.com/support/esx2/doc/esx-202-200612-patch.html"
   },
   {
+    "CVE": "CVE-2006-3589",
+    "PoC": "http://www.vmware.com/support/esx25/doc/esx-254-200612-patch.html"
+  },
+  {
     "CVE": "CVE-2006-3590",
     "PoC": "http://isc.sans.org/diary.php?storyid=1484"
   },
@@ -19894,6 +19986,10 @@
   {
     "CVE": "CVE-2006-3738",
     "PoC": "http://www.vmware.com/support/esx2/doc/esx-202-200612-patch.html"
+  },
+  {
+    "CVE": "CVE-2006-3738",
+    "PoC": "http://www.vmware.com/support/esx25/doc/esx-254-200612-patch.html"
   },
   {
     "CVE": "CVE-2006-3738",
@@ -21641,6 +21737,10 @@
   },
   {
     "CVE": "CVE-2006-4339",
+    "PoC": "http://www.vmware.com/support/esx25/doc/esx-254-200612-patch.html"
+  },
+  {
+    "CVE": "CVE-2006-4339",
     "PoC": "http://www.vmware.com/support/player/doc/releasenotes_player.html"
   },
   {
@@ -21698,6 +21798,10 @@
   {
     "CVE": "CVE-2006-4343",
     "PoC": "http://www.vmware.com/support/esx2/doc/esx-202-200612-patch.html"
+  },
+  {
+    "CVE": "CVE-2006-4343",
+    "PoC": "http://www.vmware.com/support/esx25/doc/esx-254-200612-patch.html"
   },
   {
     "CVE": "CVE-2006-4343",
@@ -293881,6 +293985,14 @@
   },
   {
     "CVE": "CVE-2019-7386",
+    "PoC": "https://developer.kaiostech.com/bugzilla-reports/report_141873.html"
+  },
+  {
+    "CVE": "CVE-2019-7386",
+    "PoC": "https://developer.kaiostech.com/bugzilla-reports/report_58204.html"
+  },
+  {
+    "CVE": "CVE-2019-7386",
     "PoC": "https://s3curityb3ast.github.io"
   },
   {
@@ -411294,6 +411406,10 @@
   {
     "CVE": "CVE-2022-40684",
     "PoC": "http://packetstormsecurity.com/files/171515/Fortinet-7.2.1-Authentication-Bypass.html"
+  },
+  {
+    "CVE": "CVE-2022-40686",
+    "PoC": "https://patchstack.com/database/vulnerability/creative-mail-by-constant-contact/wordpress-creative-mail-plugin-1-5-4-cross-site-request-forgery-csrf-vulnerability?_s_id=cve"
   },
   {
     "CVE": "CVE-2022-4069",
@@ -558884,6 +559000,10 @@
     "PoC": "https://devolutions.net/security/advisories/DEVO-2026-0003/"
   },
   {
+    "CVE": "CVE-2026-10174",
+    "PoC": "https://vuldb.com/submit/819901"
+  },
+  {
     "CVE": "CVE-2026-10216",
     "PoC": "https://gist.github.com/YLChen-007/2639ccaefd55ef4309953b76bc4c737e/raw"
   },
@@ -558930,6 +559050,10 @@
   {
     "CVE": "CVE-2026-10732",
     "PoC": "https://security.snyk.io/vuln/SNYK-JS-DECOMPRESS-16415209"
+  },
+  {
+    "CVE": "CVE-2026-10879",
+    "PoC": "https://metacpan.org/release/HMBRAND/DBI-1.648/changes"
   },
   {
     "CVE": "CVE-2026-1105",
@@ -558980,6 +559104,10 @@
     "PoC": "https://github.com/LX-66-LX/cve/issues/7"
   },
   {
+    "CVE": "CVE-2026-11216",
+    "PoC": "https://issues.chromium.org/issues/474583539"
+  },
+  {
     "CVE": "CVE-2026-1122",
     "PoC": "https://github.com/LX-66-LX/cve/issues/8"
   },
@@ -559022,6 +559150,10 @@
   {
     "CVE": "CVE-2026-1132",
     "PoC": "https://github.com/LX-66-LX/cve/issues/15"
+  },
+  {
+    "CVE": "CVE-2026-11326",
+    "PoC": "https://www.hacktron.ai/blog/hacking-openai-atlas-browser"
   },
   {
     "CVE": "CVE-2026-1133",
@@ -560198,6 +560330,10 @@
   {
     "CVE": "CVE-2026-2116",
     "PoC": "https://github.com/zpf7029/oblong/issues/1"
+  },
+  {
+    "CVE": "CVE-2026-2121",
+    "PoC": "https://youtu.be/kbSqUuEAyho"
   },
   {
     "CVE": "CVE-2026-21253",
@@ -568528,6 +568664,10 @@
     "PoC": "https://github.com/ChurchCRM/CRM/security/advisories/GHSA-rx8c-j7x8-w3hj"
   },
   {
+    "CVE": "CVE-2026-3935",
+    "PoC": "https://issues.chromium.org/issues/479326680"
+  },
+  {
     "CVE": "CVE-2026-39354",
     "PoC": "https://github.com/Erudika/scoold/security/advisories/GHSA-768r-cv9p-wrcm"
   },
@@ -570144,6 +570284,38 @@
     "PoC": "https://bugzilla.redhat.com/show_bug.cgi?id=2451155"
   },
   {
+    "CVE": "CVE-2026-48092",
+    "PoC": "https://securitylab.github.com/advisories/GHSL-2026-115_GHSL-2026-122_7-zip/"
+  },
+  {
+    "CVE": "CVE-2026-48095",
+    "PoC": "https://securitylab.github.com/advisories/GHSL-2026-140_7-Zip/"
+  },
+  {
+    "CVE": "CVE-2026-48101",
+    "PoC": "https://securitylab.github.com/advisories/GHSL-2026-115_GHSL-2026-122_7-zip/"
+  },
+  {
+    "CVE": "CVE-2026-48102",
+    "PoC": "https://securitylab.github.com/advisories/GHSL-2026-115_GHSL-2026-122_7-zip/"
+  },
+  {
+    "CVE": "CVE-2026-48103",
+    "PoC": "https://securitylab.github.com/advisories/GHSL-2026-115_GHSL-2026-122_7-zip/"
+  },
+  {
+    "CVE": "CVE-2026-48104",
+    "PoC": "https://securitylab.github.com/advisories/GHSL-2026-115_GHSL-2026-122_7-zip/"
+  },
+  {
+    "CVE": "CVE-2026-48111",
+    "PoC": "https://securitylab.github.com/advisories/GHSL-2026-115_GHSL-2026-122_7-zip/"
+  },
+  {
+    "CVE": "CVE-2026-48112",
+    "PoC": "https://securitylab.github.com/advisories/GHSL-2026-115_GHSL-2026-122_7-zip/"
+  },
+  {
     "CVE": "CVE-2026-4828",
     "PoC": "https://devolutions.net/security/advisories/DEVO-2026-0010"
   },
@@ -570326,6 +570498,30 @@
   {
     "CVE": "CVE-2026-50031",
     "PoC": "https://savannah.gnu.org/bugs/index.php?68364"
+  },
+  {
+    "CVE": "CVE-2026-50230",
+    "PoC": "https://www.zeroscience.mk/en/vulnerabilities/ZSL-2026-5988.php"
+  },
+  {
+    "CVE": "CVE-2026-50231",
+    "PoC": "https://www.zeroscience.mk/en/vulnerabilities/ZSL-2026-5989.php"
+  },
+  {
+    "CVE": "CVE-2026-50232",
+    "PoC": "https://www.zeroscience.mk/en/vulnerabilities/ZSL-2026-5990.php"
+  },
+  {
+    "CVE": "CVE-2026-50233",
+    "PoC": "https://www.zeroscience.mk/en/vulnerabilities/ZSL-2026-5991.php"
+  },
+  {
+    "CVE": "CVE-2026-50234",
+    "PoC": "https://www.zeroscience.mk/en/vulnerabilities/ZSL-2026-5992.php"
+  },
+  {
+    "CVE": "CVE-2026-50235",
+    "PoC": "https://www.zeroscience.mk/en/vulnerabilities/ZSL-2026-5993.php"
   },
   {
     "CVE": "CVE-2026-5031",
@@ -570572,6 +570768,10 @@
     "PoC": "https://files.catbox.moe/ei31k1.zip"
   },
   {
+    "CVE": "CVE-2026-5861",
+    "PoC": "https://issues.chromium.org/issues/486927780"
+  },
+  {
     "CVE": "CVE-2026-5876",
     "PoC": "https://issues.chromium.org/issues/41485206"
   },
@@ -570604,6 +570804,10 @@
     "PoC": "https://issues.chromium.org/issues/419921726"
   },
   {
+    "CVE": "CVE-2026-5901",
+    "PoC": "https://issues.chromium.org/issues/479673903"
+  },
+  {
     "CVE": "CVE-2026-5902",
     "PoC": "https://issues.chromium.org/issues/483109205"
   },
@@ -570626,6 +570830,10 @@
   {
     "CVE": "CVE-2026-5912",
     "PoC": "https://issues.chromium.org/issues/486498791"
+  },
+  {
+    "CVE": "CVE-2026-5919",
+    "PoC": "https://issues.chromium.org/issues/483423893"
   },
   {
     "CVE": "CVE-2026-5936",
@@ -571408,6 +571616,14 @@
     "PoC": "https://www.ibm.com/support/pages/node/7273427"
   },
   {
+    "CVE": "CVE-2026-7537",
+    "PoC": "https://github.com/d0n601/CVE-2026-7537"
+  },
+  {
+    "CVE": "CVE-2026-7537",
+    "PoC": "https://ryankozak.com/posts/cve-2026-7537/"
+  },
+  {
     "CVE": "CVE-2026-7538",
     "PoC": "https://github.com/Litengzheng/vuldb_new2/blob/main/A8000RU/vul_329/README.md"
   },
@@ -571704,6 +571920,10 @@
     "PoC": "https://labs.itresit.es/2026/05/07/cashdro-vulnerabilities-from-pentest-to-stealing-money/"
   },
   {
+    "CVE": "CVE-2026-8143",
+    "PoC": "https://codecanyon.net/item/hbook-hotel-booking-system-wordpress-plugin/15059946"
+  },
+  {
     "CVE": "CVE-2026-8207",
     "PoC": "https://projectblack.io/blog/gibbon-v30-authenticated-sql-injection-and-rce/#sql-injectiongetting-warmed-up"
   },
@@ -571938,6 +572158,10 @@
   {
     "CVE": "CVE-2026-9673",
     "PoC": "https://security.snyk.io/vuln/SNYK-JS-JSON2CSV-14221326"
+  },
+  {
+    "CVE": "CVE-2026-9759",
+    "PoC": "https://gitlab.com/wireshark/wireshark/-/work_items/21243"
   },
   {
     "CVE": "CVE-2026-9844",
