@@ -422300,6 +422300,10 @@
     "PoC": "https://www.vulnerability-lab.com/get_content.php?id=2315"
   },
   {
+    "CVE": "CVE-2022-50953",
+    "PoC": "https://www.exploit-db.com/exploits/50845"
+  },
+  {
     "CVE": "CVE-2022-50954",
     "PoC": "https://www.exploit-db.com/exploits/50843"
   },
@@ -532216,6 +532220,10 @@
     "PoC": "https://github.com/sbaresearch/advisories/tree/public/2025/SBA-ADV-20250325-02_Cyberduck_Mountain_Duck_Weak_Hash"
   },
   {
+    "CVE": "CVE-2025-41259",
+    "PoC": "https://github.com/sbaresearch/advisories/tree/public/2025/SBA-ADV-20251206-01_SWUpdate_Untrusted_Script_Execution_via_Signed_Update_TOCTOU"
+  },
+  {
     "CVE": "CVE-2025-4128",
     "PoC": "https://mattermost.com/security-updates"
   },
@@ -535278,6 +535286,10 @@
   {
     "CVE": "CVE-2025-4815",
     "PoC": "https://github.com/iGGbondTC/cve/issues/2"
+  },
+  {
+    "CVE": "CVE-2025-4815",
+    "PoC": "https://vuldb.com/?id.309272"
   },
   {
     "CVE": "CVE-2025-4816",
@@ -547348,8 +547360,16 @@
     "PoC": "https://github.com/solonbarroso/vulnerability-research/blob/main/advisories/phpMsAdmin/CVE-2025-63947.md"
   },
   {
+    "CVE": "CVE-2025-63947",
+    "PoC": "https://github.com/solonbarroso/vulnerability-research/blob/main/advisories/phpMsAdmin/CVE-pending-phpMsAdmin.md"
+  },
+  {
     "CVE": "CVE-2025-63948",
     "PoC": "https://github.com/solonbarroso/vulnerability-research/blob/main/advisories/phpMsAdmin/CVE-2025-63948.md"
+  },
+  {
+    "CVE": "CVE-2025-63948",
+    "PoC": "https://github.com/solonbarroso/vulnerability-research/blob/main/advisories/phpMsAdmin/CVE-pending-phpMsAdmin.md"
   },
   {
     "CVE": "CVE-2025-63950",
@@ -550136,6 +550156,14 @@
     "PoC": "https://vulnerability.circl.lu/vuln/gcve-1-2025-0031"
   },
   {
+    "CVE": "CVE-2025-68110",
+    "PoC": "https://github.com/ChurchCRM/CRM/security/advisories/GHSA-82mq-xc2j-3qv2"
+  },
+  {
+    "CVE": "CVE-2025-68111",
+    "PoC": "https://github.com/ChurchCRM/CRM/security/advisories/GHSA-c4vm-87vf-hmx9"
+  },
+  {
     "CVE": "CVE-2025-68112",
     "PoC": "https://github.com/ChurchCRM/CRM/security/advisories/GHSA-hxf4-3vhp-wqcq"
   },
@@ -550152,16 +550180,36 @@
     "PoC": "https://github.com/trpc/trpc/security/advisories/GHSA-43p4-m455-4f4j"
   },
   {
+    "CVE": "CVE-2025-68131",
+    "PoC": "https://github.com/agronholm/cbor2/security/advisories/GHSA-wcj4-jw5j-44wh"
+  },
+  {
     "CVE": "CVE-2025-68135",
     "PoC": "https://github.com/EVerest/everest-core/security/advisories/GHSA-g7mm-r6qp-96vh"
+  },
+  {
+    "CVE": "CVE-2025-68136",
+    "PoC": "https://github.com/EVerest/everest-core/security/advisories/GHSA-4h8h-x5cp-g22r"
   },
   {
     "CVE": "CVE-2025-68137",
     "PoC": "https://github.com/EVerest/everest-core/security/advisories/GHSA-7qq4-q9r8-wc7w"
   },
   {
+    "CVE": "CVE-2025-68139",
+    "PoC": "https://github.com/EVerest/everest-core/security/advisories/GHSA-wqh4-pj54-6xv9"
+  },
+  {
+    "CVE": "CVE-2025-68140",
+    "PoC": "https://github.com/EVerest/everest-core/security/advisories/GHSA-w385-3jwp-x47x"
+  },
+  {
     "CVE": "CVE-2025-68141",
     "PoC": "https://github.com/EVerest/everest-core/security/advisories/GHSA-ph4w-r9q8-vm9h"
+  },
+  {
+    "CVE": "CVE-2025-68142",
+    "PoC": "https://github.com/facelessuser/pymdown-extensions/security/advisories/GHSA-r6h4-mm7h-8pmq"
   },
   {
     "CVE": "CVE-2025-68146",
@@ -550178,6 +550226,10 @@
   {
     "CVE": "CVE-2025-68148",
     "PoC": "https://github.com/FreshRSS/FreshRSS/security/advisories/GHSA-qw34-frg7-gf78"
+  },
+  {
+    "CVE": "CVE-2025-68152",
+    "PoC": "https://github.com/juju/juju/security/advisories/GHSA-j6f6-jp3p-53mw"
   },
   {
     "CVE": "CVE-2025-68153",
@@ -550260,6 +550312,14 @@
     "PoC": "https://github.com/YunQipao/cve/issues/3"
   },
   {
+    "CVE": "CVE-2025-68272",
+    "PoC": "https://github.com/SignalK/signalk-server/security/advisories/GHSA-7rqc-ff8m-7j23"
+  },
+  {
+    "CVE": "CVE-2025-68273",
+    "PoC": "https://github.com/SignalK/signalk-server/security/advisories/GHSA-fpf5-w967-rr2m"
+  },
+  {
     "CVE": "CVE-2025-68275",
     "PoC": "https://github.com/ChurchCRM/CRM/security/advisories/GHSA-3q97-q4hv-gxwr"
   },
@@ -550298,6 +550358,10 @@
   {
     "CVE": "CVE-2025-6840",
     "PoC": "https://github.com/ez-lbz/poc/issues/10"
+  },
+  {
+    "CVE": "CVE-2025-68400",
+    "PoC": "https://github.com/ChurchCRM/CRM/security/advisories/GHSA-v54g-2pvg-gvp2"
   },
   {
     "CVE": "CVE-2025-68401",
@@ -550346,6 +550410,10 @@
   {
     "CVE": "CVE-2025-68463",
     "PoC": "http://www.openwall.com/lists/oss-security/2026/05/08/16"
+  },
+  {
+    "CVE": "CVE-2025-68469",
+    "PoC": "https://github.com/ImageMagick/ImageMagick/security/advisories/GHSA-fff3-4rp7-px97"
   },
   {
     "CVE": "CVE-2025-6847",
@@ -550428,8 +550496,16 @@
     "PoC": "https://www.vicarius.io/vsociety/posts/cve-2025-68615-mitigation-script-buffer-overflow-vulnerability-affecting-net-snmp"
   },
   {
+    "CVE": "CVE-2025-68616",
+    "PoC": "https://github.com/Kozea/WeasyPrint/security/advisories/GHSA-983w-rhvv-gwmv"
+  },
+  {
     "CVE": "CVE-2025-68618",
     "PoC": "https://github.com/ImageMagick/ImageMagick/security/advisories/GHSA-p27m-hp98-6637"
+  },
+  {
+    "CVE": "CVE-2025-68619",
+    "PoC": "https://github.com/SignalK/signalk-server/security/advisories/GHSA-93jc-vqqc-vvvh"
   },
   {
     "CVE": "CVE-2025-6862",
@@ -550438,6 +550514,10 @@
   {
     "CVE": "CVE-2025-6862",
     "PoC": "https://www.sourcecodester.com/"
+  },
+  {
+    "CVE": "CVE-2025-68620",
+    "PoC": "https://github.com/SignalK/signalk-server/security/advisories/GHSA-fq56-hvg6-wvm5"
   },
   {
     "CVE": "CVE-2025-6863",
@@ -550450,6 +550530,10 @@
   {
     "CVE": "CVE-2025-6865",
     "PoC": "https://github.com/wwm1995/weiming_wang/blob/main/daicuocms_1.md"
+  },
+  {
+    "CVE": "CVE-2025-68657",
+    "PoC": "https://github.com/espressif/esp-usb/security/advisories/GHSA-gp8r-qjfr-gqfv"
   },
   {
     "CVE": "CVE-2025-6866",
@@ -550482,6 +550566,10 @@
   {
     "CVE": "CVE-2025-6869",
     "PoC": "https://www.sourcecodester.com/"
+  },
+  {
+    "CVE": "CVE-2025-68696",
+    "PoC": "https://github.com/jnunemaker/httparty/security/advisories/GHSA-hm5p-x4rq-38w4"
   },
   {
     "CVE": "CVE-2025-68699",
@@ -550602,6 +550690,10 @@
   {
     "CVE": "CVE-2025-68916",
     "PoC": "https://github.com/gerico-lab/riello-multiple-vulnerabilities-2025"
+  },
+  {
+    "CVE": "CVE-2025-68927",
+    "PoC": "https://github.com/abhinavxd/libredesk/security/advisories/GHSA-wh6m-h6f4-rjf4"
   },
   {
     "CVE": "CVE-2025-68930",
@@ -559122,6 +559214,10 @@
   {
     "CVE": "CVE-2026-11216",
     "PoC": "https://issues.chromium.org/issues/474583539"
+  },
+  {
+    "CVE": "CVE-2026-11218",
+    "PoC": "https://issues.chromium.org/issues/476862276"
   },
   {
     "CVE": "CVE-2026-1122",
@@ -570692,6 +570788,10 @@
     "PoC": "https://www.exploit-db.com/exploits/52579"
   },
   {
+    "CVE": "CVE-2026-49494",
+    "PoC": "https://www.vulncheck.com/advisories/comodo-internet-security-inspect-sys-ipv6-integer-underflow-remote-denial-of-service"
+  },
+  {
     "CVE": "CVE-2026-4968",
     "PoC": "https://gist.github.com/Mohdanass/50a525ba0a72e10fda85f0db11eeed92"
   },
@@ -571270,6 +571370,26 @@
   {
     "CVE": "CVE-2026-6988",
     "PoC": "https://github.com/xyh4ck/iot_poc/blob/main/Tenda/HG10/01_Buffer_Overflow_nextHop/README.md"
+  },
+  {
+    "CVE": "CVE-2026-7018",
+    "PoC": "https://github.com/datavane/datavines/"
+  },
+  {
+    "CVE": "CVE-2026-7018",
+    "PoC": "https://github.com/datavane/datavines/issues/580"
+  },
+  {
+    "CVE": "CVE-2026-7018",
+    "PoC": "https://github.com/datavane/datavines/issues/580#issue-4206839649"
+  },
+  {
+    "CVE": "CVE-2026-7018",
+    "PoC": "https://github.com/datavane/datavines/pull/579"
+  },
+  {
+    "CVE": "CVE-2026-7018",
+    "PoC": "https://github.com/datavane/datavines/pull/579/changes/e540d6dc04e2e6ad11907fb655f3728a13e7b939"
   },
   {
     "CVE": "CVE-2026-7021",
