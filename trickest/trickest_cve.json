@@ -66412,6 +66412,10 @@
     "PoC": "http://www.oracle.com/technetwork/topics/security/cpuapr2013-1899555.html"
   },
   {
+    "CVE": "CVE-2009-0023",
+    "PoC": "http://www.redhat.com/support/errata/RHSA-2009-1107.html"
+  },
+  {
     "CVE": "CVE-2009-0026",
     "PoC": "http://securityreason.com/securityalert/4942"
   },
@@ -71217,6 +71221,10 @@
   },
   {
     "CVE": "CVE-2009-1955",
+    "PoC": "http://www.redhat.com/support/errata/RHSA-2009-1107.html"
+  },
+  {
+    "CVE": "CVE-2009-1955",
     "PoC": "http://www.vupen.com/english/advisories/2010/1107"
   },
   {
@@ -71234,6 +71242,10 @@
   {
     "CVE": "CVE-2009-1956",
     "PoC": "http://www.oracle.com/technetwork/topics/security/cpuapr2013-1899555.html"
+  },
+  {
+    "CVE": "CVE-2009-1956",
+    "PoC": "http://www.redhat.com/support/errata/RHSA-2009-1107.html"
   },
   {
     "CVE": "CVE-2009-1960",
@@ -177848,6 +177860,22 @@
     "PoC": "https://www.exploit-db.com/exploits/40497"
   },
   {
+    "CVE": "CVE-2016-20062",
+    "PoC": "https://www.exploit-db.com/exploits/40971"
+  },
+  {
+    "CVE": "CVE-2016-20063",
+    "PoC": "https://www.exploit-db.com/exploits/40870"
+  },
+  {
+    "CVE": "CVE-2016-20064",
+    "PoC": "https://www.exploit-db.com/exploits/40850"
+  },
+  {
+    "CVE": "CVE-2016-20065",
+    "PoC": "https://www.exploit-db.com/exploits/40783"
+  },
+  {
     "CVE": "CVE-2016-2007",
     "PoC": "https://h20566.www2.hpe.com/portal/site/hpsc/public/kb/docDisplay?docId=emr_na-c05085988"
   },
@@ -210766,6 +210794,42 @@
   {
     "CVE": "CVE-2017-20239",
     "PoC": "https://www.exploit-db.com/exploits/46097"
+  },
+  {
+    "CVE": "CVE-2017-20243",
+    "PoC": "https://www.exploit-db.com/exploits/43012"
+  },
+  {
+    "CVE": "CVE-2017-20244",
+    "PoC": "https://www.exploit-db.com/exploits/41922"
+  },
+  {
+    "CVE": "CVE-2017-20245",
+    "PoC": "https://www.exploit-db.com/exploits/41921"
+  },
+  {
+    "CVE": "CVE-2017-20246",
+    "PoC": "https://www.exploit-db.com/exploits/41919"
+  },
+  {
+    "CVE": "CVE-2017-20247",
+    "PoC": "https://www.exploit-db.com/exploits/41569"
+  },
+  {
+    "CVE": "CVE-2017-20248",
+    "PoC": "https://www.exploit-db.com/exploits/41568"
+  },
+  {
+    "CVE": "CVE-2017-20249",
+    "PoC": "https://www.exploit-db.com/exploits/41567"
+  },
+  {
+    "CVE": "CVE-2017-20250",
+    "PoC": "https://www.exploit-db.com/exploits/41566"
+  },
+  {
+    "CVE": "CVE-2017-20251",
+    "PoC": "https://www.exploit-db.com/exploits/41308"
   },
   {
     "CVE": "CVE-2017-2096",
@@ -292680,6 +292744,10 @@
     "PoC": "https://github.com/sass/libsass/issues/2815"
   },
   {
+    "CVE": "CVE-2019-6288",
+    "PoC": "https://twitter.com/r00treaver/status/1232407881464635401"
+  },
+  {
     "CVE": "CVE-2019-6290",
     "PoC": "https://bugzilla.nasm.us/show_bug.cgi?id=3392548"
   },
@@ -323538,6 +323606,10 @@
   {
     "CVE": "CVE-2020-29372",
     "PoC": "https://git.kernel.org/pub/scm/linux/kernel/git/torvalds/linux.git/commit/?id=bc0c4d1e176eeb614dc8734fc3ace34292771f11"
+  },
+  {
+    "CVE": "CVE-2020-29372",
+    "PoC": "https://project-zero.issues.chromium.org/issues/42451131"
   },
   {
     "CVE": "CVE-2020-29373",
@@ -378928,6 +379000,18 @@
     "PoC": "https://www.exploit-db.com/exploits/50530"
   },
   {
+    "CVE": "CVE-2021-47982",
+    "PoC": "https://www.exploit-db.com/exploits/49355"
+  },
+  {
+    "CVE": "CVE-2021-47983",
+    "PoC": "https://www.exploit-db.com/exploits/49354"
+  },
+  {
+    "CVE": "CVE-2021-47984",
+    "PoC": "https://www.exploit-db.com/exploits/49377"
+  },
+  {
     "CVE": "CVE-2022-0001",
     "PoC": "https://www.kb.cert.org/vuls/id/155143"
   },
@@ -390926,6 +391010,10 @@
   {
     "CVE": "CVE-2022-24952",
     "PoC": "https://github.com/metaredteam/external-disclosures/security/advisories/GHSA-8cw3-6r98-g7cw"
+  },
+  {
+    "CVE": "CVE-2022-24954",
+    "PoC": "https://twitter.com/l33d0hyun/status/1487047927415459851"
   },
   {
     "CVE": "CVE-2022-24954",
@@ -459804,6 +459892,18 @@
     "PoC": "https://www.exploit-db.com/exploits/51219"
   },
   {
+    "CVE": "CVE-2023-54350",
+    "PoC": "https://www.exploit-db.com/exploits/51788"
+  },
+  {
+    "CVE": "CVE-2023-54351",
+    "PoC": "https://www.exploit-db.com/exploits/51739"
+  },
+  {
+    "CVE": "CVE-2023-54352",
+    "PoC": "https://www.exploit-db.com/exploits/51789"
+  },
+  {
     "CVE": "CVE-2023-54358",
     "PoC": "https://www.exploit-db.com/exploits/51663"
   },
@@ -497968,6 +498068,10 @@
     "PoC": "https://news.ycombinator.com/item?id=42004219"
   },
   {
+    "CVE": "CVE-2024-51791",
+    "PoC": "https://github.com/JoshuaProvoste/0-click-RCE-Exploit-for-CVE-2024-51791"
+  },
+  {
     "CVE": "CVE-2024-51793",
     "PoC": "https://github.com/JoshuaProvoste/0-click-RCE-Exploit-for-CVE-2024-51793"
   },
@@ -502114,6 +502218,14 @@
   {
     "CVE": "CVE-2024-58344",
     "PoC": "https://www.exploit-db.com/exploits/52043"
+  },
+  {
+    "CVE": "CVE-2024-58348",
+    "PoC": "https://www.exploit-db.com/exploits/51998"
+  },
+  {
+    "CVE": "CVE-2024-58349",
+    "PoC": "https://www.exploit-db.com/exploits/51969"
   },
   {
     "CVE": "CVE-2024-5835",
@@ -538052,6 +538164,14 @@
     "PoC": "https://vuldb.com/?id.310328"
   },
   {
+    "CVE": "CVE-2025-52292",
+    "PoC": "https://infosec.exchange/@sigdevel/116707273214520860"
+  },
+  {
+    "CVE": "CVE-2025-52293",
+    "PoC": "https://infosec.exchange/@sigdevel/116710484148913883"
+  },
+  {
     "CVE": "CVE-2025-52294",
     "PoC": "https://pastebin.com/3K4kt713"
   },
@@ -540890,6 +541010,22 @@
   {
     "CVE": "CVE-2025-55634",
     "PoC": "https://relieved-knuckle-264.notion.site/RTMP-Injection-DoS-through-Unauthenticated-Stream-Publish-23c437003642800297c8c128b6117885?pvs=74"
+  },
+  {
+    "CVE": "CVE-2025-55651",
+    "PoC": "https://infosec.exchange/@sigdevel/116710512103919834"
+  },
+  {
+    "CVE": "CVE-2025-55657",
+    "PoC": "https://infosec.exchange/@sigdevel/116710754169365223"
+  },
+  {
+    "CVE": "CVE-2025-55658",
+    "PoC": "https://infosec.exchange/@sigdevel/116710224797830572"
+  },
+  {
+    "CVE": "CVE-2025-55659",
+    "PoC": "https://infosec.exchange/@sigdevel/116710743410087676"
   },
   {
     "CVE": "CVE-2025-55664",
@@ -559688,6 +559824,14 @@
     "PoC": "https://github.com/Asim-QAZi/CSRF-Add-Subadmin-in-News-Portal-Project-in-PHP-and-MySql-in-PHPGurukul"
   },
   {
+    "CVE": "CVE-2026-11434",
+    "PoC": "https://karinagante.github.io/cve-2026-11434/"
+  },
+  {
+    "CVE": "CVE-2026-11434",
+    "PoC": "https://karinagante.github.io/cve-2026-11434/#proof-of-concept-poc"
+  },
+  {
     "CVE": "CVE-2026-1144",
     "PoC": "https://github.com/quickjs-ng/quickjs/issues/1301"
   },
@@ -562604,6 +562748,18 @@
     "PoC": "https://r.sec-consult.com/arturia"
   },
   {
+    "CVE": "CVE-2026-24064",
+    "PoC": "https://r.sec-consult.com/waves"
+  },
+  {
+    "CVE": "CVE-2026-24065",
+    "PoC": "https://r.sec-consult.com/waves"
+  },
+  {
+    "CVE": "CVE-2026-24065",
+    "PoC": "https://sec-consult.com/vulnerability-lab/advisory/multiple-local-privilege-escalation-vulnerabilities-in-waves-audio-waves-central/"
+  },
+  {
     "CVE": "CVE-2026-24068",
     "PoC": "http://seclists.org/fulldisclosure/2026/Apr/3"
   },
@@ -564142,6 +564298,10 @@
   {
     "CVE": "CVE-2026-2637",
     "PoC": "https://fluidattacks.com/advisories/cuarteto"
+  },
+  {
+    "CVE": "CVE-2026-2638",
+    "PoC": "https://fluidattacks.com/es/advisories/soad"
   },
   {
     "CVE": "CVE-2026-26422",
@@ -568084,6 +568244,10 @@
     "PoC": "https://redmine.freeciv.org/issues/1955"
   },
   {
+    "CVE": "CVE-2026-3326",
+    "PoC": "https://wpscan.com/vulnerability/2c5bdb17-8b12-45b5-878b-627056dc8956/"
+  },
+  {
     "CVE": "CVE-2026-33265",
     "PoC": "https://www.openwall.com/lists/oss-security/2026/03/18/3"
   },
@@ -570828,8 +570992,24 @@
     "PoC": "https://bugs.launchpad.net/keystone/+bug/2150379"
   },
   {
+    "CVE": "CVE-2026-4442",
+    "PoC": "https://issues.chromium.org/issues/484751092"
+  },
+  {
+    "CVE": "CVE-2026-4449",
+    "PoC": "https://issues.chromium.org/issues/487117772"
+  },
+  {
+    "CVE": "CVE-2026-4450",
+    "PoC": "https://issues.chromium.org/issues/487746373"
+  },
+  {
     "CVE": "CVE-2026-4455",
     "PoC": "https://issues.chromium.org/issues/488585504"
+  },
+  {
+    "CVE": "CVE-2026-4457",
+    "PoC": "https://issues.chromium.org/issues/488803413"
   },
   {
     "CVE": "CVE-2026-44604",
@@ -571260,6 +571440,10 @@
     "PoC": "https://cna.erlef.org/cves/CVE-2026-49756.html"
   },
   {
+    "CVE": "CVE-2026-49762",
+    "PoC": "https://cna.erlef.org/cves/CVE-2026-49762.html"
+  },
+  {
     "CVE": "CVE-2026-4986",
     "PoC": "https://wpscan.com/vulnerability/1d99eed6-9a16-4d5a-90f9-ab604dfd5b92/"
   },
@@ -571574,6 +571758,14 @@
   {
     "CVE": "CVE-2026-5886",
     "PoC": "https://issues.chromium.org/issues/485397283"
+  },
+  {
+    "CVE": "CVE-2026-5888",
+    "PoC": "https://issues.chromium.org/issues/486506202"
+  },
+  {
+    "CVE": "CVE-2026-5893",
+    "PoC": "https://issues.chromium.org/issues/487768771"
   },
   {
     "CVE": "CVE-2026-5894",
@@ -572720,6 +572912,10 @@
     "PoC": "https://docs.google.com/document/d/1w1veNs8I3nxsVxbSiIgJmt-4S5a0rW0bvjDvEe7iDr0/edit?usp=sharing"
   },
   {
+    "CVE": "CVE-2026-8071",
+    "PoC": "https://wpscan.com/vulnerability/0d4635b5-2d79-4337-a1ad-6b8d02cfd64b/"
+  },
+  {
     "CVE": "CVE-2026-8076",
     "PoC": "https://labs.itresit.es/2026/05/07/cashdro-vulnerabilities-from-pentest-to-stealing-money/"
   },
@@ -572902,6 +573098,14 @@
   {
     "CVE": "CVE-2026-9047",
     "PoC": "https://devolutions.net/security/advisories/DEVO-2026-0013/"
+  },
+  {
+    "CVE": "CVE-2026-9060",
+    "PoC": "https://wpscan.com/vulnerability/1ed01413-09a2-4a2e-be5b-375f2a327d0d/"
+  },
+  {
+    "CVE": "CVE-2026-9067",
+    "PoC": "https://wpscan.com/vulnerability/7fac98eb-f82c-4705-a956-aba650945826/"
   },
   {
     "CVE": "CVE-2026-9223",
