@@ -399348,6 +399348,10 @@
     "PoC": "https://cdn.kernel.org/pub/linux/kernel/v5.x/ChangeLog-5.17.2"
   },
   {
+    "CVE": "CVE-2022-30597",
+    "PoC": "https://moodle.org/mod/forum/discuss.php?d=434579"
+  },
+  {
     "CVE": "CVE-2022-3060",
     "PoC": "https://gitlab.com/gitlab-org/gitlab/-/issues/365427"
   },
@@ -559292,6 +559296,10 @@
     "PoC": "https://github.com/open5gs/open5gs/pull/4527"
   },
   {
+    "CVE": "CVE-2026-10118",
+    "PoC": "https://bugzilla.redhat.com/show_bug.cgi?id=2460428"
+  },
+  {
     "CVE": "CVE-2026-10120",
     "PoC": "https://github.com/wudipjq/my_vuln/blob/main/TRENDnet/vuln_7/7.md"
   },
@@ -559944,6 +559952,10 @@
     "PoC": "https://github.com/LX-66-LX/cve/issues/19"
   },
   {
+    "CVE": "CVE-2026-11790",
+    "PoC": "https://bugzilla.redhat.com/show_bug.cgi?id=2485421"
+  },
+  {
     "CVE": "CVE-2026-1193",
     "PoC": "https://github.com/SourByte05/MineAdmin-Vulnerability/issues/6"
   },
@@ -559974,6 +559986,10 @@
   {
     "CVE": "CVE-2026-1213",
     "PoC": "https://fluidattacks.com/advisories/ghost"
+  },
+  {
+    "CVE": "CVE-2026-1220",
+    "PoC": "https://issues.chromium.org/issues/473851441"
   },
   {
     "CVE": "CVE-2026-1230",
@@ -562758,6 +562774,22 @@
   {
     "CVE": "CVE-2026-24065",
     "PoC": "https://sec-consult.com/vulnerability-lab/advisory/multiple-local-privilege-escalation-vulnerabilities-in-waves-audio-waves-central/"
+  },
+  {
+    "CVE": "CVE-2026-24066",
+    "PoC": "https://r.sec-consult.com/slate"
+  },
+  {
+    "CVE": "CVE-2026-24066",
+    "PoC": "https://sec-consult.com/vulnerability-lab/advisory/local-privilege-escalation-in-slate-digital-connect/"
+  },
+  {
+    "CVE": "CVE-2026-24067",
+    "PoC": "https://r.sec-consult.com/slate"
+  },
+  {
+    "CVE": "CVE-2026-24067",
+    "PoC": "https://sec-consult.com/vulnerability-lab/advisory/local-privilege-escalation-in-slate-digital-connect/"
   },
   {
     "CVE": "CVE-2026-24068",
@@ -570992,8 +571024,16 @@
     "PoC": "https://bugs.launchpad.net/keystone/+bug/2150379"
   },
   {
+    "CVE": "CVE-2026-4440",
+    "PoC": "https://issues.chromium.org/issues/485935305"
+  },
+  {
     "CVE": "CVE-2026-4442",
     "PoC": "https://issues.chromium.org/issues/484751092"
+  },
+  {
+    "CVE": "CVE-2026-4448",
+    "PoC": "https://issues.chromium.org/issues/486972661"
   },
   {
     "CVE": "CVE-2026-4449",
@@ -571364,6 +571404,26 @@
     "PoC": "https://lists.gnu.org/archive/html/help-gsasl/2026-05/msg00002.html"
   },
   {
+    "CVE": "CVE-2026-48855",
+    "PoC": "https://cna.erlef.org/cves/CVE-2026-48855.html"
+  },
+  {
+    "CVE": "CVE-2026-48856",
+    "PoC": "https://cna.erlef.org/cves/CVE-2026-48856.html"
+  },
+  {
+    "CVE": "CVE-2026-48858",
+    "PoC": "https://cna.erlef.org/cves/CVE-2026-48858.html"
+  },
+  {
+    "CVE": "CVE-2026-48859",
+    "PoC": "https://cna.erlef.org/cves/CVE-2026-48859.html"
+  },
+  {
+    "CVE": "CVE-2026-48860",
+    "PoC": "https://cna.erlef.org/cves/CVE-2026-48860.html"
+  },
+  {
     "CVE": "CVE-2026-48861",
     "PoC": "https://cna.erlef.org/cves/CVE-2026-48861.html"
   },
@@ -571438,6 +571498,10 @@
   {
     "CVE": "CVE-2026-49756",
     "PoC": "https://cna.erlef.org/cves/CVE-2026-49756.html"
+  },
+  {
+    "CVE": "CVE-2026-49759",
+    "PoC": "https://cna.erlef.org/cves/CVE-2026-49759.html"
   },
   {
     "CVE": "CVE-2026-49762",
@@ -571760,6 +571824,10 @@
     "PoC": "https://issues.chromium.org/issues/485397283"
   },
   {
+    "CVE": "CVE-2026-5887",
+    "PoC": "https://issues.chromium.org/issues/486079015"
+  },
+  {
     "CVE": "CVE-2026-5888",
     "PoC": "https://issues.chromium.org/issues/486506202"
   },
@@ -572018,6 +572086,10 @@
   {
     "CVE": "CVE-2026-6869",
     "PoC": "https://gitlab.com/wireshark/wireshark/-/work_items/21190"
+  },
+  {
+    "CVE": "CVE-2026-6893",
+    "PoC": "https://bugzilla.redhat.com/show_bug.cgi?id=2459963"
   },
   {
     "CVE": "CVE-2026-6902",
