@@ -475425,6 +475425,10 @@
   },
   {
     "CVE": "CVE-2024-25260",
+    "PoC": "https://github.com/schsiung/fuzzer_issues/issues/1"
+  },
+  {
+    "CVE": "CVE-2024-25260",
     "PoC": "https://sourceware.org/bugzilla/show_bug.cgi?id=31058"
   },
   {
@@ -503002,6 +503006,10 @@
   {
     "CVE": "CVE-2024-6308",
     "PoC": "https://vuldb.com/?id.269620"
+  },
+  {
+    "CVE": "CVE-2024-6308",
+    "PoC": "https://vuldb.com/?submit.363955"
   },
   {
     "CVE": "CVE-2024-6330",
@@ -541228,8 +541236,16 @@
     "PoC": "https://infosec.exchange/@sigdevel/116736775314270129"
   },
   {
+    "CVE": "CVE-2025-55642",
+    "PoC": "https://infosec.exchange/@sigdevel/116736787186993437"
+  },
+  {
     "CVE": "CVE-2025-55643",
     "PoC": "http://www.openwall.com/lists/oss-security/2026/06/13/5"
+  },
+  {
+    "CVE": "CVE-2025-55643",
+    "PoC": "https://infosec.exchange/@sigdevel/116736819671963019"
   },
   {
     "CVE": "CVE-2025-55644",
@@ -560192,6 +560208,10 @@
     "PoC": "https://github.com/ltranquility/vuln_submit/issues/10"
   },
   {
+    "CVE": "CVE-2026-10303",
+    "PoC": "https://remyhax.xyz/posts/reproducing-lawful-tls-wiretapping/"
+  },
+  {
     "CVE": "CVE-2026-1046",
     "PoC": "https://mattermost.com/security-updates"
   },
@@ -560688,6 +560708,10 @@
     "PoC": "https://bugzilla.redhat.com/show_bug.cgi?id=2485421"
   },
   {
+    "CVE": "CVE-2026-11890",
+    "PoC": "https://devolutions.net/security/advisories/DEVO-2026-0017/"
+  },
+  {
     "CVE": "CVE-2026-1193",
     "PoC": "https://github.com/SourByte05/MineAdmin-Vulnerability/issues/6"
   },
@@ -560720,6 +560744,14 @@
     "PoC": "https://www.gendigital.com/us/en/contact-us/security-advisories/"
   },
   {
+    "CVE": "CVE-2026-12105",
+    "PoC": "https://devolutions.net/security/advisories/DEVO-2026-0017/"
+  },
+  {
+    "CVE": "CVE-2026-12117",
+    "PoC": "https://devolutions.net/security/advisories/DEVO-2026-0017/"
+  },
+  {
     "CVE": "CVE-2026-1213",
     "PoC": "https://fluidattacks.com/advisories/ghost"
   },
@@ -560732,8 +560764,16 @@
     "PoC": "https://devolutions.net/security/advisories/DEVO-2026-0018/"
   },
   {
+    "CVE": "CVE-2026-12193",
+    "PoC": "https://youtu.be/JR0KPjWRTns?si=Ff2bUDvv3butJyfP"
+  },
+  {
     "CVE": "CVE-2026-1220",
     "PoC": "https://issues.chromium.org/issues/473851441"
+  },
+  {
+    "CVE": "CVE-2026-12202",
+    "PoC": "https://karinagante.github.io/cve-2026-12202/#proof-of-concept-poc"
   },
   {
     "CVE": "CVE-2026-1230",
@@ -561232,6 +561272,10 @@
     "PoC": "https://github.com/bolo-blog/bolo-solo/issues/325#issue-3828755519"
   },
   {
+    "CVE": "CVE-2026-1699",
+    "PoC": "https://gitlab.eclipse.org/security/vulnerability-reports/-/issues/332"
+  },
+  {
     "CVE": "CVE-2026-1700",
     "PoC": "https://github.com/jiahao412/CVE/issues/3"
   },
@@ -561348,12 +561392,20 @@
     "PoC": "https://wpscan.com/vulnerability/c42dbab9-b729-4748-88e5-0bd2f6d66e3d/"
   },
   {
+    "CVE": "CVE-2026-1764",
+    "PoC": "https://bugzilla.redhat.com/show_bug.cgi?id=2435980"
+  },
+  {
     "CVE": "CVE-2026-1765",
     "PoC": "https://bugzilla.redhat.com/show_bug.cgi?id=2435981"
   },
   {
     "CVE": "CVE-2026-1766",
     "PoC": "https://bugzilla.redhat.com/show_bug.cgi?id=2435982"
+  },
+  {
+    "CVE": "CVE-2026-1767",
+    "PoC": "https://bugzilla.redhat.com/show_bug.cgi?id=2435983"
   },
   {
     "CVE": "CVE-2026-1768",
@@ -561550,6 +561602,10 @@
   {
     "CVE": "CVE-2026-2025",
     "PoC": "https://wpscan.com/vulnerability/1b815cde-cd9d-46fa-a6ab-3d2851705e7b/"
+  },
+  {
+    "CVE": "CVE-2026-20253",
+    "PoC": "https://labs.watchtowr.com/why-use-app-level-auth-when-every-database-has-auth-splunk-enterprise-cve-2026-20253-pre-auth-rce/"
   },
   {
     "CVE": "CVE-2026-2055",
@@ -563260,6 +563316,10 @@
     "PoC": "https://github.com/emkaix/security-research/tree/main/CVE-2026-23764"
   },
   {
+    "CVE": "CVE-2026-2381",
+    "PoC": "https://research.cleantalk.org/cve-2026-2381"
+  },
+  {
     "CVE": "CVE-2026-23829",
     "PoC": "https://github.com/axllent/mailpit/security/advisories/GHSA-54wq-72mp-cq7c"
   },
@@ -564826,6 +564886,10 @@
   {
     "CVE": "CVE-2026-26029",
     "PoC": "https://github.com/akutishevsky/sf-mcp-server/security/advisories/GHSA-h4w9-g9c5-vfwq"
+  },
+  {
+    "CVE": "CVE-2026-2604",
+    "PoC": "https://bugzilla.redhat.com/show_bug.cgi?id=2440301"
   },
   {
     "CVE": "CVE-2026-26055",
@@ -572780,6 +572844,10 @@
     "PoC": "https://vuldb.com/vuln/355332/cti"
   },
   {
+    "CVE": "CVE-2026-55706",
+    "PoC": "https://www.openwall.com/lists/oss-security/2026/06/16/9"
+  },
+  {
     "CVE": "CVE-2026-5618",
     "PoC": "https://vulnplus-note.wetolink.com/share/3VtzyzYgcS4b"
   },
@@ -572860,6 +572928,10 @@
     "PoC": "https://issues.chromium.org/issues/424995036"
   },
   {
+    "CVE": "CVE-2026-5883",
+    "PoC": "https://issues.chromium.org/issues/482958590"
+  },
+  {
     "CVE": "CVE-2026-5884",
     "PoC": "https://issues.chromium.org/issues/484547633"
   },
@@ -572926,6 +572998,10 @@
   {
     "CVE": "CVE-2026-5912",
     "PoC": "https://issues.chromium.org/issues/486498791"
+  },
+  {
+    "CVE": "CVE-2026-5918",
+    "PoC": "https://issues.chromium.org/issues/490139441"
   },
   {
     "CVE": "CVE-2026-5919",
@@ -573780,6 +573856,14 @@
     "PoC": "https://github.com/r3ng4f/Pizzafy_1/blob/main/02-exploit.md"
   },
   {
+    "CVE": "CVE-2026-7411",
+    "PoC": "https://gitlab.eclipse.org/security/vulnerability-reports/-/issues/423"
+  },
+  {
+    "CVE": "CVE-2026-7412",
+    "PoC": "https://gitlab.eclipse.org/security/vulnerability-reports/-/issues/423"
+  },
+  {
     "CVE": "CVE-2026-7413",
     "PoC": "https://github.com/Bin4ry/yarbo-nat-in-my-back-yard"
   },
@@ -574116,6 +574200,10 @@
     "PoC": "https://github.com/chatchat-space/Langchain-Chatchat/issues/5463"
   },
   {
+    "CVE": "CVE-2026-7850",
+    "PoC": "https://wpscan.com/vulnerability/30f408dd-4b9a-438c-8dc4-c6daafe237fe/"
+  },
+  {
     "CVE": "CVE-2026-7851",
     "PoC": "https://github.com/draw-ctf/report/blob/main/DI-8100/yyxz_dlink_asp_overflow.md"
   },
@@ -574166,6 +574254,10 @@
   {
     "CVE": "CVE-2026-8077",
     "PoC": "https://labs.itresit.es/2026/05/07/cashdro-vulnerabilities-from-pentest-to-stealing-money/"
+  },
+  {
+    "CVE": "CVE-2026-8089",
+    "PoC": "https://wpscan.com/vulnerability/f00c1853-a4b2-4e91-99b3-fed8acbe6da7/"
   },
   {
     "CVE": "CVE-2026-8143",
@@ -574450,6 +574542,10 @@
   {
     "CVE": "CVE-2026-9522",
     "PoC": "https://devolutions.net/security/advisories/DEVO-2026-0014/"
+  },
+  {
+    "CVE": "CVE-2026-9570",
+    "PoC": "https://wpscan.com/vulnerability/e9abd7eb-39f1-49d7-a70e-b07cf3680399/"
   },
   {
     "CVE": "CVE-2026-9590",
