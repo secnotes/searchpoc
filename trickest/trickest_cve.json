@@ -81612,6 +81612,10 @@
     "PoC": "http://www.redhat.com/support/errata/RHSA-2010-0470.html"
   },
   {
+    "CVE": "CVE-2010-2164",
+    "PoC": "https://oval.cisecurity.org/repository/search/definition/oval%3Aorg.mitre.oval%3Adef%3A6765"
+  },
+  {
     "CVE": "CVE-2010-2165",
     "PoC": "http://www.redhat.com/support/errata/RHSA-2010-0470.html"
   },
@@ -98708,6 +98712,10 @@
     "PoC": "http://www.exploit-db.com/exploits/18922"
   },
   {
+    "CVE": "CVE-2012-1154",
+    "PoC": "https://issues.jboss.org/browse/MODCLUSTER-253"
+  },
+  {
     "CVE": "CVE-2012-1173",
     "PoC": "https://bugzilla.redhat.com/show_bug.cgi?id=803078"
   },
@@ -110224,6 +110232,10 @@
     "PoC": "http://www.oracle.com/technetwork/topics/security/cpujuly2013-1899826.html"
   },
   {
+    "CVE": "CVE-2013-1861",
+    "PoC": "https://mariadb.atlassian.net/browse/MDEV-4252"
+  },
+  {
     "CVE": "CVE-2013-1862",
     "PoC": "http://www-01.ibm.com/support/docview.wss?uid=swg21644047"
   },
@@ -110854,6 +110866,10 @@
   {
     "CVE": "CVE-2013-2294",
     "PoC": "http://www.exploit-db.com/exploits/24862"
+  },
+  {
+    "CVE": "CVE-2013-2296",
+    "PoC": "https://eucalyptus.atlassian.net/browse/EUCA-3074"
   },
   {
     "CVE": "CVE-2013-2299",
@@ -143498,6 +143514,10 @@
   {
     "CVE": "CVE-2014-7830",
     "PoC": "https://moodle.org/mod/forum/discuss.php?d=275147"
+  },
+  {
+    "CVE": "CVE-2014-7839",
+    "PoC": "https://issues.jboss.org/browse/RESTEASY-1130"
   },
   {
     "CVE": "CVE-2014-7840",
@@ -178176,8 +178196,52 @@
     "PoC": "https://www.exploit-db.com/exploits/39341"
   },
   {
+    "CVE": "CVE-2016-20085",
+    "PoC": "https://www.exploit-db.com/exploits/40587"
+  },
+  {
+    "CVE": "CVE-2016-20086",
+    "PoC": "https://www.exploit-db.com/exploits/40582"
+  },
+  {
+    "CVE": "CVE-2016-20087",
+    "PoC": "https://www.exploit-db.com/exploits/40461"
+  },
+  {
+    "CVE": "CVE-2016-20088",
+    "PoC": "https://www.exploit-db.com/exploits/40473"
+  },
+  {
+    "CVE": "CVE-2016-20089",
+    "PoC": "https://www.exploit-db.com/exploits/40427"
+  },
+  {
     "CVE": "CVE-2016-2009",
     "PoC": "https://h20566.www2.hpe.com/portal/site/hpsc/public/kb/docDisplay?docId=emr_na-c05103564"
+  },
+  {
+    "CVE": "CVE-2016-20090",
+    "PoC": "https://www.exploit-db.com/exploits/40471"
+  },
+  {
+    "CVE": "CVE-2016-20091",
+    "PoC": "https://www.exploit-db.com/exploits/40443"
+  },
+  {
+    "CVE": "CVE-2016-20092",
+    "PoC": "https://www.exploit-db.com/exploits/40422"
+  },
+  {
+    "CVE": "CVE-2016-20093",
+    "PoC": "https://www.exploit-db.com/exploits/40417"
+  },
+  {
+    "CVE": "CVE-2016-20094",
+    "PoC": "https://www.exploit-db.com/exploits/40410"
+  },
+  {
+    "CVE": "CVE-2016-20095",
+    "PoC": "https://www.exploit-db.com/exploits/39908"
   },
   {
     "CVE": "CVE-2016-2010",
@@ -199076,6 +199140,10 @@
     "PoC": "https://usn.ubuntu.com/3698-2/"
   },
   {
+    "CVE": "CVE-2017-12196",
+    "PoC": "https://issues.jboss.org/browse/UNDERTOW-1190"
+  },
+  {
     "CVE": "CVE-2017-12199",
     "PoC": "https://github.com/kevins1022/cve/blob/master/wordpress-product-catalog.md"
   },
@@ -211138,6 +211206,130 @@
   {
     "CVE": "CVE-2017-20251",
     "PoC": "https://www.exploit-db.com/exploits/41308"
+  },
+  {
+    "CVE": "CVE-2017-20252",
+    "PoC": "https://www.exploit-db.com/exploits/43365"
+  },
+  {
+    "CVE": "CVE-2017-20253",
+    "PoC": "https://www.exploit-db.com/exploits/43358"
+  },
+  {
+    "CVE": "CVE-2017-20254",
+    "PoC": "https://www.exploit-db.com/exploits/43357"
+  },
+  {
+    "CVE": "CVE-2017-20255",
+    "PoC": "https://www.exploit-db.com/exploits/43350"
+  },
+  {
+    "CVE": "CVE-2017-20256",
+    "PoC": "https://www.exploit-db.com/exploits/42606"
+  },
+  {
+    "CVE": "CVE-2017-20257",
+    "PoC": "https://www.exploit-db.com/exploits/42589"
+  },
+  {
+    "CVE": "CVE-2017-20258",
+    "PoC": "https://www.exploit-db.com/exploits/42564"
+  },
+  {
+    "CVE": "CVE-2017-20259",
+    "PoC": "https://www.exploit-db.com/exploits/42561"
+  },
+  {
+    "CVE": "CVE-2017-20260",
+    "PoC": "https://www.exploit-db.com/exploits/42553"
+  },
+  {
+    "CVE": "CVE-2017-20261",
+    "PoC": "https://www.exploit-db.com/exploits/42552"
+  },
+  {
+    "CVE": "CVE-2017-20262",
+    "PoC": "https://www.exploit-db.com/exploits/42532"
+  },
+  {
+    "CVE": "CVE-2017-20263",
+    "PoC": "https://www.exploit-db.com/exploits/42530"
+  },
+  {
+    "CVE": "CVE-2017-20264",
+    "PoC": "https://www.exploit-db.com/exploits/42525"
+  },
+  {
+    "CVE": "CVE-2017-20265",
+    "PoC": "https://www.exploit-db.com/exploits/42524"
+  },
+  {
+    "CVE": "CVE-2017-20266",
+    "PoC": "https://www.exploit-db.com/exploits/42502"
+  },
+  {
+    "CVE": "CVE-2017-20267",
+    "PoC": "https://www.exploit-db.com/exploits/42501"
+  },
+  {
+    "CVE": "CVE-2017-20268",
+    "PoC": "https://www.exploit-db.com/exploits/42500"
+  },
+  {
+    "CVE": "CVE-2017-20269",
+    "PoC": "https://www.exploit-db.com/exploits/42494"
+  },
+  {
+    "CVE": "CVE-2017-20270",
+    "PoC": "https://www.exploit-db.com/exploits/42493"
+  },
+  {
+    "CVE": "CVE-2017-20271",
+    "PoC": "https://www.exploit-db.com/exploits/42423"
+  },
+  {
+    "CVE": "CVE-2017-20272",
+    "PoC": "https://www.exploit-db.com/exploits/42417"
+  },
+  {
+    "CVE": "CVE-2017-20273",
+    "PoC": "https://www.exploit-db.com/exploits/42416"
+  },
+  {
+    "CVE": "CVE-2017-20274",
+    "PoC": "https://www.exploit-db.com/exploits/42415"
+  },
+  {
+    "CVE": "CVE-2017-20275",
+    "PoC": "https://www.exploit-db.com/exploits/42414"
+  },
+  {
+    "CVE": "CVE-2017-20276",
+    "PoC": "https://www.exploit-db.com/exploits/42413"
+  },
+  {
+    "CVE": "CVE-2017-20277",
+    "PoC": "https://www.exploit-db.com/exploits/42347"
+  },
+  {
+    "CVE": "CVE-2017-20278",
+    "PoC": "https://www.exploit-db.com/exploits/42185"
+  },
+  {
+    "CVE": "CVE-2017-20279",
+    "PoC": "https://www.exploit-db.com/exploits/42113"
+  },
+  {
+    "CVE": "CVE-2017-20280",
+    "PoC": "https://www.exploit-db.com/exploits/41930"
+  },
+  {
+    "CVE": "CVE-2017-20281",
+    "PoC": "https://www.exploit-db.com/exploits/41663"
+  },
+  {
+    "CVE": "CVE-2017-20282",
+    "PoC": "https://www.exploit-db.com/exploits/41642"
   },
   {
     "CVE": "CVE-2017-2096",
@@ -287632,12 +287824,76 @@
     "PoC": "https://www.exploit-db.com/exploits/47540"
   },
   {
+    "CVE": "CVE-2019-25747",
+    "PoC": "https://www.exploit-db.com/exploits/47584"
+  },
+  {
+    "CVE": "CVE-2019-25748",
+    "PoC": "https://www.exploit-db.com/exploits/46234"
+  },
+  {
+    "CVE": "CVE-2019-25749",
+    "PoC": "https://www.exploit-db.com/exploits/46233"
+  },
+  {
     "CVE": "CVE-2019-2575",
     "PoC": "http://www.oracle.com/technetwork/security-advisory/cpuapr2019-5072813.html"
   },
   {
+    "CVE": "CVE-2019-25750",
+    "PoC": "https://www.exploit-db.com/exploits/46232"
+  },
+  {
+    "CVE": "CVE-2019-25751",
+    "PoC": "https://www.exploit-db.com/exploits/46231"
+  },
+  {
+    "CVE": "CVE-2019-25752",
+    "PoC": "https://www.exploit-db.com/exploits/46230"
+  },
+  {
+    "CVE": "CVE-2019-25753",
+    "PoC": "https://www.exploit-db.com/exploits/46229"
+  },
+  {
+    "CVE": "CVE-2019-25754",
+    "PoC": "https://www.exploit-db.com/exploits/46228"
+  },
+  {
+    "CVE": "CVE-2019-25755",
+    "PoC": "https://www.exploit-db.com/exploits/46227"
+  },
+  {
+    "CVE": "CVE-2019-25756",
+    "PoC": "https://www.exploit-db.com/exploits/46226"
+  },
+  {
+    "CVE": "CVE-2019-25757",
+    "PoC": "https://www.exploit-db.com/exploits/46225"
+  },
+  {
+    "CVE": "CVE-2019-25758",
+    "PoC": "https://www.exploit-db.com/exploits/46224"
+  },
+  {
+    "CVE": "CVE-2019-25759",
+    "PoC": "https://www.exploit-db.com/exploits/46223"
+  },
+  {
     "CVE": "CVE-2019-2576",
     "PoC": "http://www.oracle.com/technetwork/security-advisory/cpuapr2019-5072813.html"
+  },
+  {
+    "CVE": "CVE-2019-25760",
+    "PoC": "https://www.exploit-db.com/exploits/46219"
+  },
+  {
+    "CVE": "CVE-2019-25761",
+    "PoC": "https://www.exploit-db.com/exploits/46122"
+  },
+  {
+    "CVE": "CVE-2019-25762",
+    "PoC": "https://www.exploit-db.com/exploits/46121"
   },
   {
     "CVE": "CVE-2019-2577",
@@ -307110,6 +307366,10 @@
   {
     "CVE": "CVE-2020-14356",
     "PoC": "https://usn.ubuntu.com/4526-1/"
+  },
+  {
+    "CVE": "CVE-2020-14359",
+    "PoC": "https://issues.jboss.org/browse/KEYCLOAK-14090"
   },
   {
     "CVE": "CVE-2020-14363",
@@ -330262,6 +330522,26 @@
   {
     "CVE": "CVE-2020-37247",
     "PoC": "https://www.exploit-db.com/exploits/50975"
+  },
+  {
+    "CVE": "CVE-2020-37250",
+    "PoC": "https://www.exploit-db.com/exploits/49852"
+  },
+  {
+    "CVE": "CVE-2020-37251",
+    "PoC": "https://www.exploit-db.com/exploits/49021"
+  },
+  {
+    "CVE": "CVE-2020-37252",
+    "PoC": "https://www.exploit-db.com/exploits/49015"
+  },
+  {
+    "CVE": "CVE-2020-37253",
+    "PoC": "https://www.exploit-db.com/exploits/49004"
+  },
+  {
+    "CVE": "CVE-2020-37254",
+    "PoC": "https://www.exploit-db.com/exploits/40535"
   },
   {
     "CVE": "CVE-2020-3811",
@@ -379416,6 +379696,10 @@
     "PoC": "https://www.exploit-db.com/exploits/49377"
   },
   {
+    "CVE": "CVE-2021-47985",
+    "PoC": "https://www.exploit-db.com/exploits/50061"
+  },
+  {
     "CVE": "CVE-2022-0001",
     "PoC": "https://www.kb.cert.org/vuls/id/155143"
   },
@@ -422904,6 +423188,10 @@
     "PoC": "https://www.exploit-db.com/exploits/50643"
   },
   {
+    "CVE": "CVE-2022-50971",
+    "PoC": "https://www.exploit-db.com/exploits/50806"
+  },
+  {
     "CVE": "CVE-2022-50975",
     "PoC": "https://www.innomic.com/.well-known/csaf/white/2026/ids-2026-0001.html"
   },
@@ -460352,6 +460640,14 @@
     "PoC": "https://www.exploit-db.com/exploits/51789"
   },
   {
+    "CVE": "CVE-2023-54353",
+    "PoC": "https://www.exploit-db.com/exploits/51210"
+  },
+  {
+    "CVE": "CVE-2023-54357",
+    "PoC": "https://www.exploit-db.com/exploits/51595"
+  },
+  {
     "CVE": "CVE-2023-54358",
     "PoC": "https://www.exploit-db.com/exploits/51663"
   },
@@ -496070,6 +496366,10 @@
   {
     "CVE": "CVE-2024-48336",
     "PoC": "https://github.com/canyie/MagiskEoP"
+  },
+  {
+    "CVE": "CVE-2024-48341",
+    "PoC": "https://github.com/Jiingh/cms/tree/main/6/readme.md"
   },
   {
     "CVE": "CVE-2024-4835",
@@ -552792,6 +553092,10 @@
     "PoC": "https://github.com/wyl091256/CVE/issues/20"
   },
   {
+    "CVE": "CVE-2025-71326",
+    "PoC": "https://www.exploit-db.com/exploits/52510"
+  },
+  {
     "CVE": "CVE-2025-7133",
     "PoC": "https://github.com/Vanshdhawan188/Online-Movie-Ticket-Booking-System-in-Python-/blob/main/Online%20Movie%20Ticket%20Booking%20System%20in%20Python.md"
   },
@@ -561270,6 +561574,10 @@
   {
     "CVE": "CVE-2026-1197",
     "PoC": "https://github.com/SourByte05/MineAdmin-Vulnerability/issues/2"
+  },
+  {
+    "CVE": "CVE-2026-11982",
+    "PoC": "https://fluidattacks.com/es/advisories/luis"
   },
   {
     "CVE": "CVE-2026-1200",
@@ -570560,6 +570868,10 @@
     "PoC": "https://github.com/CH0ico/CVE_choco_2/blob/main/report.md"
   },
   {
+    "CVE": "CVE-2026-3744",
+    "PoC": "https://vuldb.com/?id.349722"
+  },
+  {
     "CVE": "CVE-2026-3745",
     "PoC": "https://github.com/CH0ico/CVE_choco_4/blob/main/report.md"
   },
@@ -572624,6 +572936,10 @@
     "PoC": "https://issues.chromium.org/issues/491080830"
   },
   {
+    "CVE": "CVE-2026-4463",
+    "PoC": "https://issues.chromium.org/issues/491358681"
+  },
+  {
     "CVE": "CVE-2026-4464",
     "PoC": "https://issues.chromium.org/issues/487208468"
   },
@@ -572798,6 +573114,10 @@
   {
     "CVE": "CVE-2026-4674",
     "PoC": "https://issues.chromium.org/issues/488188166"
+  },
+  {
+    "CVE": "CVE-2026-4675",
+    "PoC": "https://issues.chromium.org/issues/488270257"
   },
   {
     "CVE": "CVE-2026-4676",
@@ -573505,11 +573825,19 @@
   },
   {
     "CVE": "CVE-2026-56099",
+    "PoC": "http://www.openwall.com/lists/oss-security/2026/06/19/3"
+  },
+  {
+    "CVE": "CVE-2026-56099",
     "PoC": "https://pop.argus-systems.ai/advisory/adv-040.html"
   },
   {
     "CVE": "CVE-2026-5618",
     "PoC": "https://vulnplus-note.wetolink.com/share/3VtzyzYgcS4b"
+  },
+  {
+    "CVE": "CVE-2026-56211",
+    "PoC": "https://bugzilla.redhat.com/show_bug.cgi?id=2490802"
   },
   {
     "CVE": "CVE-2026-5656",
@@ -573568,6 +573896,14 @@
     "PoC": "https://issues.chromium.org/issues/486927780"
   },
   {
+    "CVE": "CVE-2026-5864",
+    "PoC": "https://issues.chromium.org/issues/490642831"
+  },
+  {
+    "CVE": "CVE-2026-5865",
+    "PoC": "https://issues.chromium.org/issues/491884710"
+  },
+  {
     "CVE": "CVE-2026-5876",
     "PoC": "https://issues.chromium.org/issues/41485206"
   },
@@ -573586,6 +573922,10 @@
   {
     "CVE": "CVE-2026-5880",
     "PoC": "https://issues.chromium.org/issues/424995036"
+  },
+  {
+    "CVE": "CVE-2026-5881",
+    "PoC": "https://issues.chromium.org/issues/454162508"
   },
   {
     "CVE": "CVE-2026-5883",
