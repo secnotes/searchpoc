@@ -2032,6 +2032,10 @@
     "PoC": "http://www.deerfield.com/products/visnetic_website/"
   },
   {
+    "CVE": "CVE-2002-2250",
+    "PoC": "http://www.appsecinc.com/resources/alerts/sybase/02-0003.html"
+  },
+  {
     "CVE": "CVE-2002-2268",
     "PoC": "http://www.securiteam.com/windowsntfocus/6R0030A6AY.html"
   },
@@ -103968,6 +103972,10 @@
     "PoC": "http://rhn.redhat.com/errata/RHSA-2013-1437.html"
   },
   {
+    "CVE": "CVE-2012-4529",
+    "PoC": "https://issues.jboss.org/browse/JBWEB-249"
+  },
+  {
     "CVE": "CVE-2012-4530",
     "PoC": "http://git.kernel.org/?p=linux/kernel/git/torvalds/linux-2.6.git;a=commit;h=b66c5984017533316fd1951770302649baf1aa33"
   },
@@ -105486,6 +105494,10 @@
   {
     "CVE": "CVE-2012-5633",
     "PoC": "http://stackoverflow.com/questions/7933293/why-does-apache-cxf-ws-security-implementation-ignore-get-requests"
+  },
+  {
+    "CVE": "CVE-2012-5633",
+    "PoC": "https://issues.jboss.org/browse/JBWS-3575"
   },
   {
     "CVE": "CVE-2012-5656",
@@ -156814,6 +156826,10 @@
   {
     "CVE": "CVE-2015-3636",
     "PoC": "http://www.ubuntu.com/usn/USN-2632-1"
+  },
+  {
+    "CVE": "CVE-2015-3636",
+    "PoC": "https://github.com/torvalds/linux/commit/a134f083e79fb4c3d0a925691e732c56911b4326"
   },
   {
     "CVE": "CVE-2015-3643",
@@ -307324,6 +307340,10 @@
     "PoC": "https://usn.ubuntu.com/4454-2/"
   },
   {
+    "CVE": "CVE-2020-14305",
+    "PoC": "https://bugs.openvz.org/browse/OVZ-7188"
+  },
+  {
     "CVE": "CVE-2020-14314",
     "PoC": "https://git.kernel.org/pub/scm/linux/kernel/git/torvalds/linux.git/commit/?id=5872331b3d91820e14716632ebb56b1399b34fe1"
   },
@@ -311838,6 +311858,10 @@
   {
     "CVE": "CVE-2020-1757",
     "PoC": "https://bugzilla.redhat.com/show_bug.cgi?id=CVE-2020-1757"
+  },
+  {
+    "CVE": "CVE-2020-1758",
+    "PoC": "https://issues.redhat.com/browse/KEYCLOAK-13285"
   },
   {
     "CVE": "CVE-2020-1763",
@@ -507409,6 +507433,10 @@
   },
   {
     "CVE": "CVE-2024-8258",
+    "PoC": "https://nvd.nist.gov/vuln/detail/CVE-2023-49314"
+  },
+  {
+    "CVE": "CVE-2024-8258",
     "PoC": "https://nvd.nist.gov/vuln/detail/CVE-2023-50643"
   },
   {
@@ -511298,6 +511326,10 @@
   {
     "CVE": "CVE-2025-10373",
     "PoC": "https://karinagante.github.io/cve-2025-10373/#proof-of-concept-poc"
+  },
+  {
+    "CVE": "CVE-2025-10385",
+    "PoC": "https://github.com/Jjx-wy/kt/blob/main/KT%20KM08-708H.md"
   },
   {
     "CVE": "CVE-2025-10386",
@@ -521444,6 +521476,10 @@
     "PoC": "https://github.com/ubfbuz3/cve/issues/9"
   },
   {
+    "CVE": "CVE-2025-20701",
+    "PoC": "http://seclists.org/fulldisclosure/2026/Jun/18"
+  },
+  {
     "CVE": "CVE-2025-2073",
     "PoC": "https://issuetracker.google.com/issues/380043638"
   },
@@ -525668,6 +525704,10 @@
     "PoC": "https://habuon.github.io/2025/03/12/pdfkit-vulnerability-%28CVE-2025-26240%29.html"
   },
   {
+    "CVE": "CVE-2025-26240",
+    "PoC": "https://www.csirt.gov.sk/the-python-pdfkit-library-vulnerability.html"
+  },
+  {
     "CVE": "CVE-2025-26241",
     "PoC": "https://members.backbox.org/osticket-sql-injection-bypass/"
   },
@@ -526628,6 +526668,10 @@
     "PoC": "https://vuldb.com/?id.300855"
   },
   {
+    "CVE": "CVE-2025-27505",
+    "PoC": "https://osgeo-org.atlassian.net/browse/GEOS-11664"
+  },
+  {
     "CVE": "CVE-2025-27506",
     "PoC": "https://github.com/nocodb/nocodb/security/advisories/GHSA-wf6c-hrhf-86cw"
   },
@@ -526650,6 +526694,10 @@
   {
     "CVE": "CVE-2025-27510",
     "PoC": "https://github.com/conda-forge/conda-forge-metadata/security/advisories/GHSA-vwfh-m3q7-9jpw"
+  },
+  {
+    "CVE": "CVE-2025-27511",
+    "PoC": "https://osgeo-org.atlassian.net/browse/GEOT-7725"
   },
   {
     "CVE": "CVE-2025-2752",
@@ -527550,6 +527598,10 @@
   {
     "CVE": "CVE-2025-2825",
     "PoC": "https://projectdiscovery.io/blog/crushftp-authentication-bypass"
+  },
+  {
+    "CVE": "CVE-2025-28343",
+    "PoC": "https://github.com/striso/striso-control-firmware/issues/5"
   },
   {
     "CVE": "CVE-2025-28354",
@@ -537408,6 +537460,10 @@
     "PoC": "https://github.com/conda-forge/conda-forge-ci-setup-feedstock/security/advisories/GHSA-jh2q-mrmj-hff3"
   },
   {
+    "CVE": "CVE-2025-49599",
+    "PoC": "https://www.youtube.com/watch?v=l1eYpcNvZdQ"
+  },
+  {
     "CVE": "CVE-2025-49619",
     "PoC": "https://cristibtz.github.io/posts/CVE-2025-49619/"
   },
@@ -545040,6 +545096,10 @@
     "PoC": "https://github.com/coollabsio/coolify/security/advisories/GHSA-5cg9-38qj-8mc3"
   },
   {
+    "CVE": "CVE-2025-59158",
+    "PoC": "https://github.com/coollabsio/coolify/security/advisories/GHSA-h52r-jxv9-9vhf"
+  },
+  {
     "CVE": "CVE-2025-59159",
     "PoC": "https://github.com/SillyTavern/SillyTavern/security/advisories/GHSA-7cxj-w27x-x78q"
   },
@@ -548860,8 +548920,20 @@
     "PoC": "https://github.com/nasa/CryptoLib/security/advisories/GHSA-w6c3-pxvr-6m6j"
   },
   {
+    "CVE": "CVE-2025-64097",
+    "PoC": "https://github.com/nerves-hub/nerves_hub_web/releases/tag/v2.3.0"
+  },
+  {
+    "CVE": "CVE-2025-64097",
+    "PoC": "https://github.com/nerves-hub/nerves_hub_web/security/advisories/GHSA-m9vj-776q-vc8m"
+  },
+  {
     "CVE": "CVE-2025-64104",
     "PoC": "https://github.com/langchain-ai/langgraph/security/advisories/GHSA-7p73-8jqx-23r8"
+  },
+  {
+    "CVE": "CVE-2025-64111",
+    "PoC": "https://github.com/gogs/gogs/security/advisories/GHSA-gg64-xxr9-qhjp"
   },
   {
     "CVE": "CVE-2025-64115",
@@ -548876,6 +548948,10 @@
     "PoC": "https://github.com/isaacs/node-tar/security/advisories/GHSA-29xp-372q-xqph"
   },
   {
+    "CVE": "CVE-2025-64155",
+    "PoC": "https://github.com/horizon3ai/CVE-2025-64155"
+  },
+  {
     "CVE": "CVE-2025-64166",
     "PoC": "https://github.com/mercurius-js/mercurius/security/advisories/GHSA-v66j-6wwf-jc57"
   },
@@ -548886,6 +548962,10 @@
   {
     "CVE": "CVE-2025-64174",
     "PoC": "https://github.com/OpenMage/magento-lts/security/advisories/GHSA-qv78-c8hc-438r"
+  },
+  {
+    "CVE": "CVE-2025-64175",
+    "PoC": "https://github.com/gogs/gogs/security/advisories/GHSA-p6x6-9mx6-26wj"
   },
   {
     "CVE": "CVE-2025-64176",
@@ -548962,6 +549042,10 @@
   {
     "CVE": "CVE-2025-64335",
     "PoC": "https://www.vicarius.io/vsociety/posts/cve-2025-64335-mitigate-suricata-vulnerability"
+  },
+  {
+    "CVE": "CVE-2025-64340",
+    "PoC": "https://github.com/PrefectHQ/fastmcp/security/advisories/GHSA-m8x7-r2rg-vh5g"
   },
   {
     "CVE": "CVE-2025-6435",
@@ -553036,8 +553120,16 @@
     "PoC": "https://vuldb.com/?id.315016"
   },
   {
+    "CVE": "CVE-2025-71021",
+    "PoC": "https://github.com/0-fool/VulnbyCola/blob/main/Tenda/AX-1806/7/1.md"
+  },
+  {
     "CVE": "CVE-2025-71025",
     "PoC": "https://github.com/0-fool/VulnbyCola/blob/main/Tenda/AX-3/10/1.md"
+  },
+  {
+    "CVE": "CVE-2025-71026",
+    "PoC": "https://github.com/0-fool/VulnbyCola/blob/main/Tenda/AX-3/9/1.md"
   },
   {
     "CVE": "CVE-2025-71027",
@@ -553126,6 +553218,10 @@
   {
     "CVE": "CVE-2025-7117",
     "PoC": "https://github.com/d2pq/cve/blob/main/616/9.md#poc"
+  },
+  {
+    "CVE": "CVE-2025-71176",
+    "PoC": "https://github.com/pytest-dev/pytest/issues/13669"
   },
   {
     "CVE": "CVE-2025-71179",
@@ -553248,24 +553344,72 @@
     "PoC": "https://www.exploit-db.com/exploits/52183"
   },
   {
+    "CVE": "CVE-2025-71319",
+    "PoC": "https://joshua.hu/image-size-infinite-loop-dos-vulnerabilities"
+  },
+  {
     "CVE": "CVE-2025-7132",
     "PoC": "https://github.com/wyl091256/CVE/issues/20"
+  },
+  {
+    "CVE": "CVE-2025-71320",
+    "PoC": "https://github.com/mmaitre314/picklescan/security/advisories/GHSA-84r2-jw7c-4r5q"
+  },
+  {
+    "CVE": "CVE-2025-71321",
+    "PoC": "https://github.com/mmaitre314/picklescan/security/advisories/GHSA-m273-6v24-x4m4"
+  },
+  {
+    "CVE": "CVE-2025-71322",
+    "PoC": "https://github.com/mmaitre314/picklescan/security/advisories/GHSA-hgrh-qx5j-jfwx"
+  },
+  {
+    "CVE": "CVE-2025-71323",
+    "PoC": "https://github.com/mmaitre314/picklescan/security/advisories/GHSA-4675-36f9-wf6r"
+  },
+  {
+    "CVE": "CVE-2025-71325",
+    "PoC": "https://github.com/mmaitre314/picklescan/security/advisories/GHSA-9gvj-pp9x-gcfr"
   },
   {
     "CVE": "CVE-2025-71326",
     "PoC": "https://www.exploit-db.com/exploits/52510"
   },
   {
+    "CVE": "CVE-2025-71329",
+    "PoC": "https://joshua.hu/image-size-infinite-loop-dos-vulnerabilities"
+  },
+  {
     "CVE": "CVE-2025-7133",
     "PoC": "https://github.com/Vanshdhawan188/Online-Movie-Ticket-Booking-System-in-Python-/blob/main/Online%20Movie%20Ticket%20Booking%20System%20in%20Python.md"
+  },
+  {
+    "CVE": "CVE-2025-71330",
+    "PoC": "https://joshua.hu/image-size-infinite-loop-dos-vulnerabilities"
+  },
+  {
+    "CVE": "CVE-2025-71331",
+    "PoC": "https://github.com/FlowiseAI/Flowise/security/advisories/GHSA-4fr9-3x69-36wv"
   },
   {
     "CVE": "CVE-2025-7134",
     "PoC": "https://github.com/wyl091256/CVE/issues/21"
   },
   {
+    "CVE": "CVE-2025-71348",
+    "PoC": "https://github.com/mmaitre314/picklescan/security/advisories/GHSA-vv6j-3g6g-2pvj"
+  },
+  {
     "CVE": "CVE-2025-7135",
     "PoC": "https://github.com/wyl091256/CVE/issues/22"
+  },
+  {
+    "CVE": "CVE-2025-71351",
+    "PoC": "https://github.com/mmaitre314/picklescan/security/advisories/GHSA-v7x6-rv5q-mhwc"
+  },
+  {
+    "CVE": "CVE-2025-71357",
+    "PoC": "https://github.com/mmaitre314/picklescan/security/advisories/GHSA-j343-8v2j-ff7w"
   },
   {
     "CVE": "CVE-2025-7136",
@@ -553274,6 +553418,10 @@
   {
     "CVE": "CVE-2025-7137",
     "PoC": "https://www.sourcecodester.com/"
+  },
+  {
+    "CVE": "CVE-2025-71378",
+    "PoC": "https://github.com/mmaitre314/picklescan/security/advisories/GHSA-9w88-8rmg-7g2p"
   },
   {
     "CVE": "CVE-2025-7138",
@@ -561180,6 +561328,10 @@
     "PoC": "https://orthanc.uclouvain.be/bugs/show_bug.cgi?id=258#c4"
   },
   {
+    "CVE": "CVE-2026-10530",
+    "PoC": "https://wpscan.com/vulnerability/bd3fe1d2-9f21-4b51-9112-2971a25a7e62/"
+  },
+  {
     "CVE": "CVE-2026-10544",
     "PoC": "https://devolutions.net/security/advisories/DEVO-2026-0015/"
   },
@@ -561542,6 +561694,10 @@
   {
     "CVE": "CVE-2026-1140",
     "PoC": "https://github.com/cymiao1978/cve/blob/main/new/35.md"
+  },
+  {
+    "CVE": "CVE-2026-11406",
+    "PoC": "https://vuldb.com/submit/820049"
   },
   {
     "CVE": "CVE-2026-11408",
@@ -561934,6 +562090,10 @@
   {
     "CVE": "CVE-2026-12202",
     "PoC": "https://karinagante.github.io/cve-2026-12202/#proof-of-concept-poc"
+  },
+  {
+    "CVE": "CVE-2026-12225",
+    "PoC": "http://seclists.org/fulldisclosure/2026/Jun/16"
   },
   {
     "CVE": "CVE-2026-12225",
@@ -572624,6 +572784,10 @@
     "PoC": "https://github.com/OpenPrinting/cups/security/advisories/GHSA-6wpw-g8g6-wvrv"
   },
   {
+    "CVE": "CVE-2026-4110",
+    "PoC": "https://wpscan.com/vulnerability/bd44396a-7723-4876-a9c6-266442879bcb/"
+  },
+  {
     "CVE": "CVE-2026-41113",
     "PoC": "http://www.openwall.com/lists/oss-security/2026/04/18/5"
   },
@@ -573394,6 +573558,10 @@
   {
     "CVE": "CVE-2026-4258",
     "PoC": "https://security.snyk.io/vuln/SNYK-JS-SJCL-15369617"
+  },
+  {
+    "CVE": "CVE-2026-4259",
+    "PoC": "https://wpscan.com/vulnerability/a98d234b-11e8-4a07-8593-982d656a4fd3/"
   },
   {
     "CVE": "CVE-2026-4265",
@@ -575381,6 +575549,10 @@
   },
   {
     "CVE": "CVE-2026-56099",
+    "PoC": "http://seclists.org/fulldisclosure/2026/Jun/17"
+  },
+  {
+    "CVE": "CVE-2026-56099",
     "PoC": "http://www.openwall.com/lists/oss-security/2026/06/19/3"
   },
   {
@@ -575398,6 +575570,10 @@
   {
     "CVE": "CVE-2026-56355",
     "PoC": "https://www.hacktron.ai"
+  },
+  {
+    "CVE": "CVE-2026-56355",
+    "PoC": "https://www.mallory.ai/stories/019ee445-bdd4-7775-93b5-a8faaf5c2eb7"
   },
   {
     "CVE": "CVE-2026-5656",
@@ -576146,6 +576322,10 @@
   {
     "CVE": "CVE-2026-6845",
     "PoC": "https://bugzilla.redhat.com/show_bug.cgi?id=2460012"
+  },
+  {
+    "CVE": "CVE-2026-6858",
+    "PoC": "https://wpscan.com/vulnerability/81035d75-81a5-486a-a9fb-b0d1e0befe3c/"
   },
   {
     "CVE": "CVE-2026-6867",
@@ -577188,6 +577368,10 @@
     "PoC": "https://github.com/draw-ctf/report/blob/main/DI-8100/url_member_asp_overflow.md"
   },
   {
+    "CVE": "CVE-2026-7859",
+    "PoC": "https://wpscan.com/vulnerability/3c11e490-92d8-46e1-a0ae-7c4c703ac411/"
+  },
+  {
     "CVE": "CVE-2026-7862",
     "PoC": "https://wpscan.com/vulnerability/b4ce2a06-b435-4b77-851f-4406f2a91ca6/"
   },
@@ -577230,6 +577414,10 @@
   {
     "CVE": "CVE-2026-8143",
     "PoC": "https://codecanyon.net/item/hbook-hotel-booking-system-wordpress-plugin/15059946"
+  },
+  {
+    "CVE": "CVE-2026-8157",
+    "PoC": "https://wpscan.com/vulnerability/6680cc6a-9758-4040-bb39-7b9545041dc3/"
   },
   {
     "CVE": "CVE-2026-8207",
