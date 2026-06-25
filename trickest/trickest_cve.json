@@ -72008,12 +72008,20 @@
     "PoC": "http://www.vmware.com/security/advisories/VMSA-2009-0016.html"
   },
   {
+    "CVE": "CVE-2009-2414",
+    "PoC": "http://www.vupen.com/english/advisories/2009/3217"
+  },
+  {
     "CVE": "CVE-2009-2416",
     "PoC": "http://www.ubuntu.com/usn/USN-815-1"
   },
   {
     "CVE": "CVE-2009-2416",
     "PoC": "http://www.vmware.com/security/advisories/VMSA-2009-0016.html"
+  },
+  {
+    "CVE": "CVE-2009-2416",
+    "PoC": "http://www.vupen.com/english/advisories/2009/3217"
   },
   {
     "CVE": "CVE-2009-2416",
@@ -72860,6 +72868,10 @@
     "PoC": "http://www.exploit-db.com/exploits/9313"
   },
   {
+    "CVE": "CVE-2009-2804",
+    "PoC": "http://www.vupen.com/english/advisories/2009/3217"
+  },
+  {
     "CVE": "CVE-2009-2813",
     "PoC": "http://www.ubuntu.com/usn/USN-839-1"
   },
@@ -72868,12 +72880,24 @@
     "PoC": "https://oval.cisecurity.org/repository/search/definition/oval%3Aorg.mitre.oval%3Adef%3A9191"
   },
   {
+    "CVE": "CVE-2009-2816",
+    "PoC": "http://www.vupen.com/english/advisories/2009/3217"
+  },
+  {
     "CVE": "CVE-2009-2820",
     "PoC": "https://oval.cisecurity.org/repository/search/definition/oval%3Aorg.mitre.oval%3Adef%3A9153"
   },
   {
     "CVE": "CVE-2009-2841",
     "PoC": "http://threatpost.com/en_us/blogs/apple-patches-critical-safari-vulnerabilities-111109"
+  },
+  {
+    "CVE": "CVE-2009-2841",
+    "PoC": "http://www.vupen.com/english/advisories/2009/3217"
+  },
+  {
+    "CVE": "CVE-2009-2842",
+    "PoC": "http://www.vupen.com/english/advisories/2009/3217"
   },
   {
     "CVE": "CVE-2009-2842",
@@ -73746,6 +73770,10 @@
   {
     "CVE": "CVE-2009-3380",
     "PoC": "https://oval.cisecurity.org/repository/search/definition/oval%3Aorg.mitre.oval%3Adef%3A9463"
+  },
+  {
+    "CVE": "CVE-2009-3384",
+    "PoC": "http://www.vupen.com/english/advisories/2009/3217"
   },
   {
     "CVE": "CVE-2009-3389",
@@ -126210,6 +126238,10 @@
   {
     "CVE": "CVE-2014-3647",
     "PoC": "https://bugzilla.redhat.com/show_bug.cgi?id=1144897"
+  },
+  {
+    "CVE": "CVE-2014-3648",
+    "PoC": "https://issues.redhat.com/browse/AEROGEAR-6091"
   },
   {
     "CVE": "CVE-2014-3650",
@@ -389864,6 +389896,10 @@
     "PoC": "https://wpscan.com/vulnerability/67f3948e-27d4-47a8-8572-616143b9cf43"
   },
   {
+    "CVE": "CVE-2022-2356",
+    "PoC": "https://wpscan.com/vulnerability/67f3948e-27d4-47a8-8572-616143b9cf43/"
+  },
+  {
     "CVE": "CVE-2022-2357",
     "PoC": "https://wpscan.com/vulnerability/42499b84-684e-42e1-b7f0-de206d4da553"
   },
@@ -495093,6 +495129,10 @@
   },
   {
     "CVE": "CVE-2024-46508",
+    "PoC": "https://github.com/RhinoSecurityLabs/CVEs/tree/master/CVE-2024-46507"
+  },
+  {
+    "CVE": "CVE-2024-46508",
     "PoC": "https://rhinosecuritylabs.com/research/cve-2024-46507-yeti-server-side-template-injection-ssti/"
   },
   {
@@ -515770,6 +515810,10 @@
   {
     "CVE": "CVE-2025-12378",
     "PoC": "https://github.com/tinggeogle01-lang/cve/issues/1"
+  },
+  {
+    "CVE": "CVE-2025-12383",
+    "PoC": "https://gitlab.eclipse.org/security/cve-assignment/-/issues/74"
   },
   {
     "CVE": "CVE-2025-12394",
@@ -556600,6 +556644,14 @@
     "PoC": "https://github.com/appneta/tcpreplay/issues/957#issuecomment-3124774393"
   },
   {
+    "CVE": "CVE-2025-8751",
+    "PoC": "https://news.fmisec.com/self-html-injection-in-total-webshield-chrome-extension"
+  },
+  {
+    "CVE": "CVE-2025-8751",
+    "PoC": "https://news.fmisec.com/self-html-injection-in-total-webshield-chrome-extension#heading-vulnerability-details"
+  },
+  {
     "CVE": "CVE-2025-8752",
     "PoC": "https://gitee.com/wangzhixuan/spring-shiro-training/issues/ICP2ME"
   },
@@ -558746,6 +558798,10 @@
   {
     "CVE": "CVE-2025-9432",
     "PoC": "https://gitee.com/mtons/mblog/issues/ICPMMQ"
+  },
+  {
+    "CVE": "CVE-2025-9432",
+    "PoC": "https://vuldb.com/?id.321273"
   },
   {
     "CVE": "CVE-2025-9434",
@@ -560924,6 +560980,10 @@
     "PoC": "https://github.com/wudipjq/my_vuln/blob/main/TRENDnet/vuln_16/16.md"
   },
   {
+    "CVE": "CVE-2026-10180",
+    "PoC": "https://github.com/wudipjq/my_vuln/blob/main/TRENDnet/vuln_17/17.md"
+  },
+  {
     "CVE": "CVE-2026-10181",
     "PoC": "https://github.com/wudipjq/my_vuln/blob/main/TRENDnet/vuln_18/18.md"
   },
@@ -561356,6 +561416,10 @@
     "PoC": "https://wpscan.com/vulnerability/bd3fe1d2-9f21-4b51-9112-2971a25a7e62/"
   },
   {
+    "CVE": "CVE-2026-10531",
+    "PoC": "https://wpscan.com/vulnerability/ebc956c2-42f4-495f-a37e-f83ed156af08/"
+  },
+  {
     "CVE": "CVE-2026-10544",
     "PoC": "https://devolutions.net/security/advisories/DEVO-2026-0015/"
   },
@@ -561486,6 +561550,14 @@
   {
     "CVE": "CVE-2026-10732",
     "PoC": "https://security.snyk.io/vuln/SNYK-JS-DECOMPRESS-16415209"
+  },
+  {
+    "CVE": "CVE-2026-10749",
+    "PoC": "https://wpscan.com/vulnerability/224c36b5-e604-4eb3-aad8-47283b95e994/"
+  },
+  {
+    "CVE": "CVE-2026-10753",
+    "PoC": "https://wpscan.com/vulnerability/824a5c04-c7d6-4286-a499-48452db4d002/"
   },
   {
     "CVE": "CVE-2026-10771",
@@ -561977,6 +562049,10 @@
   },
   {
     "CVE": "CVE-2026-11785",
+    "PoC": "https://bugzilla.redhat.com/show_bug.cgi?id=2485427"
+  },
+  {
+    "CVE": "CVE-2026-11785",
     "PoC": "https://redhat.atlassian.net/browse/PSIRTSUPT-7600"
   },
   {
@@ -562156,8 +562232,20 @@
     "PoC": "https://www.ibm.com/support/pages/node/7263581"
   },
   {
+    "CVE": "CVE-2026-12778",
+    "PoC": "https://winslow1984.com/books/cve-collection/page/aomei-partition-assistant-10101-kernel-driver-ampa10sys-local-privilege-escalation"
+  },
+  {
+    "CVE": "CVE-2026-12779",
+    "PoC": "https://winslow1984.com/books/cve-collection/page/aomei-dynamic-disk-manager-10101-kernel-driver-ddmdrvsys-local-privilege-escalation"
+  },
+  {
     "CVE": "CVE-2026-12780",
     "PoC": "https://winslow1984.com/books/cve-collection/page/aomei-backupper-830-kernel-driver-amwrtdrvsys-local-privilege-escalation"
+  },
+  {
+    "CVE": "CVE-2026-12786",
+    "PoC": "https://winslow1984.com/books/cve-collection/page/ultraiso-premium-976-kernel-driver-bootpt64sys-local-privilege-escalation"
   },
   {
     "CVE": "CVE-2026-12866",
@@ -567120,6 +567208,10 @@
     "PoC": "https://github.com/modoboa/modoboa/security/advisories/GHSA-wwv8-cqpr-vx3m"
   },
   {
+    "CVE": "CVE-2026-27604",
+    "PoC": "https://www.vulncheck.com/blog/fossbilling-auth-bypass-ssti-rce"
+  },
+  {
     "CVE": "CVE-2026-27606",
     "PoC": "https://github.com/rollup/rollup/security/advisories/GHSA-mw96-cpmx-2vgc"
   },
@@ -567846,6 +567938,10 @@
   {
     "CVE": "CVE-2026-28495",
     "PoC": "https://github.com/GetSimpleCMS-CE/GetSimpleCMS-CE/security/advisories/GHSA-92wv-q2jp-qg88"
+  },
+  {
+    "CVE": "CVE-2026-28496",
+    "PoC": "https://www.vulncheck.com/blog/fossbilling-auth-bypass-ssti-rce"
   },
   {
     "CVE": "CVE-2026-28497",
@@ -571006,6 +571102,18 @@
   {
     "CVE": "CVE-2026-34881",
     "PoC": "https://bugs.launchpad.net/glance/+bug/2138602"
+  },
+  {
+    "CVE": "CVE-2026-34908",
+    "PoC": "https://www.pwndefend.com/2026/06/09/cve-2026-34910-exploitation-itw-building-a-botnet-mirai/"
+  },
+  {
+    "CVE": "CVE-2026-34909",
+    "PoC": "https://www.pwndefend.com/2026/06/09/cve-2026-34910-exploitation-itw-building-a-botnet-mirai/"
+  },
+  {
+    "CVE": "CVE-2026-34910",
+    "PoC": "https://www.pwndefend.com/2026/06/09/cve-2026-34910-exploitation-itw-building-a-botnet-mirai/"
   },
   {
     "CVE": "CVE-2026-34933",
@@ -575192,6 +575300,10 @@
     "PoC": "https://www.vulncheck.com/advisories/comodo-internet-security-inspect-sys-ipv6-integer-underflow-remote-denial-of-service"
   },
   {
+    "CVE": "CVE-2026-49494",
+    "PoC": "https://www.vulncheck.com/advisories/xcitium-client-security-comodo-internet-security-remote-dos"
+  },
+  {
     "CVE": "CVE-2026-49495",
     "PoC": "https://github.com/NationalSecurityAgency/ghidra/security/advisories/GHSA-wm33-9f68-3vjg"
   },
@@ -575532,8 +575644,16 @@
     "PoC": "https://github.com/CC-T-454455/Vulnerabilities/tree/master/z9527-admin/vulnerability-10"
   },
   {
+    "CVE": "CVE-2026-5275",
+    "PoC": "https://issues.chromium.org/issues/489494022"
+  },
+  {
     "CVE": "CVE-2026-5278",
     "PoC": "https://issues.chromium.org/issues/490254128"
+  },
+  {
+    "CVE": "CVE-2026-5285",
+    "PoC": "https://issues.chromium.org/issues/492228019"
   },
   {
     "CVE": "CVE-2026-5306",
@@ -575680,6 +575800,10 @@
     "PoC": "https://vuldb.com/vuln/355072/cti"
   },
   {
+    "CVE": "CVE-2026-54892",
+    "PoC": "https://cna.erlef.org/cves/CVE-2026-54892.html"
+  },
+  {
     "CVE": "CVE-2026-5535",
     "PoC": "https://github.com/AnalogyC0de/public_exp/issues/25"
   },
@@ -575710,6 +575834,10 @@
   {
     "CVE": "CVE-2026-55706",
     "PoC": "https://www.openwall.com/lists/oss-security/2026/06/16/9"
+  },
+  {
+    "CVE": "CVE-2026-55736",
+    "PoC": "https://cna.erlef.org/cves/CVE-2026-55736.html"
   },
   {
     "CVE": "CVE-2026-56099",
@@ -576384,6 +576512,10 @@
     "PoC": "https://gist.github.com/YLChen-007/1d91fabb465284d7a974746f7e6cc5cc"
   },
   {
+    "CVE": "CVE-2026-6596",
+    "PoC": "https://vuldb.com/vuln/358231/cti"
+  },
+  {
     "CVE": "CVE-2026-6603",
     "PoC": "https://gist.github.com/YLChen-007/c084d69aaeda6729f3988603f2b0ce6e"
   },
@@ -576722,6 +576854,10 @@
   {
     "CVE": "CVE-2026-7098",
     "PoC": "https://github.com/Litengzheng/vuldb_new/blob/main/F456/vul_136/README.md"
+  },
+  {
+    "CVE": "CVE-2026-7098",
+    "PoC": "https://vuldb.com/submit/798471"
   },
   {
     "CVE": "CVE-2026-7099",
@@ -577560,6 +577696,10 @@
     "PoC": "https://issues.chromium.org/issues/434825208"
   },
   {
+    "CVE": "CVE-2026-7938",
+    "PoC": "https://issues.chromium.org/issues/492735384"
+  },
+  {
     "CVE": "CVE-2026-8031",
     "PoC": "https://docs.google.com/document/d/1FByC9x21c5503cQg6lkxjffIwWlEAHtHi_83vk2eUdk/edit?usp=sharing"
   },
@@ -577744,8 +577884,20 @@
     "PoC": "https://devolutions.net/security/advisories/DEVO-2026-0013/"
   },
   {
+    "CVE": "CVE-2026-8529",
+    "PoC": "https://issues.chromium.org/issues/490222151"
+  },
+  {
+    "CVE": "CVE-2026-8531",
+    "PoC": "https://issues.chromium.org/issues/492350403"
+  },
+  {
     "CVE": "CVE-2026-8564",
     "PoC": "https://issues.chromium.org/issues/418273622"
+  },
+  {
+    "CVE": "CVE-2026-8571",
+    "PoC": "https://issues.chromium.org/issues/491422244"
   },
   {
     "CVE": "CVE-2026-8654",
@@ -577826,6 +577978,10 @@
   {
     "CVE": "CVE-2026-9067",
     "PoC": "https://wpscan.com/vulnerability/7fac98eb-f82c-4705-a956-aba650945826/"
+  },
+  {
+    "CVE": "CVE-2026-9113",
+    "PoC": "https://issues.chromium.org/issues/489585044"
   },
   {
     "CVE": "CVE-2026-9223",
@@ -577978,6 +578134,14 @@
   {
     "CVE": "CVE-2026-9698",
     "PoC": "https://metacpan.org/release/HMBRAND/DBI-1.648/changes"
+  },
+  {
+    "CVE": "CVE-2026-9709",
+    "PoC": "https://wpscan.com/vulnerability/3ade0e4e-2070-4d3b-8f31-0d446839efd0/"
+  },
+  {
+    "CVE": "CVE-2026-9710",
+    "PoC": "https://wpscan.com/vulnerability/4fc21e38-f2df-41be-86b7-a897483574bb/"
   },
   {
     "CVE": "CVE-2026-9759",
