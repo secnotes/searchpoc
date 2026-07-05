@@ -76608,6 +76608,14 @@
     "PoC": "http://tlhsecurity.blogspot.com/2009/10/palm-pre-webos-version-11-floating.html"
   },
   {
+    "CVE": "CVE-2009-5099",
+    "PoC": "http://jira.pentaho.com/browse/BISERVER-2698?page=com.atlassian.jira.plugin.system.issuetabpanels:all-tabpanel"
+  },
+  {
+    "CVE": "CVE-2009-5100",
+    "PoC": "http://jira.pentaho.com/browse/BISERVER-2698?page=com.atlassian.jira.plugin.system.issuetabpanels:all-tabpanel"
+  },
+  {
     "CVE": "CVE-2009-5115",
     "PoC": "https://kc.mcafee.com/corporate/index?page=content&id=SB10002"
   },
@@ -404048,8 +404056,24 @@
     "PoC": "https://puppet.com/security/cve/CVE-2022-3275"
   },
   {
+    "CVE": "CVE-2022-32751",
+    "PoC": "https://www.ibm.com/support/pages/node/7145001"
+  },
+  {
+    "CVE": "CVE-2022-32753",
+    "PoC": "https://www.ibm.com/support/pages/node/7145001"
+  },
+  {
+    "CVE": "CVE-2022-32754",
+    "PoC": "https://www.ibm.com/support/pages/node/7145001"
+  },
+  {
     "CVE": "CVE-2022-32755",
     "PoC": "https://www.ibm.com/support/pages/node/7047428"
+  },
+  {
+    "CVE": "CVE-2022-32756",
+    "PoC": "https://www.ibm.com/support/pages/node/7145001"
   },
   {
     "CVE": "CVE-2022-3276",
@@ -434260,8 +434284,40 @@
     "PoC": "https://huntr.dev/bounties/ab0b4655-f57a-4113-849b-2237eeb75b32"
   },
   {
+    "CVE": "CVE-2023-25527",
+    "PoC": "https://nvidia.custhelp.com/app/answers/detail/a_id/5473"
+  },
+  {
+    "CVE": "CVE-2023-25528",
+    "PoC": "https://nvidia.custhelp.com/app/answers/detail/a_id/5473"
+  },
+  {
+    "CVE": "CVE-2023-25529",
+    "PoC": "https://nvidia.custhelp.com/app/answers/detail/a_id/5473"
+  },
+  {
     "CVE": "CVE-2023-2553",
     "PoC": "https://huntr.dev/bounties/4e1f5b56-e846-40d8-a83c-533efd56aacf"
+  },
+  {
+    "CVE": "CVE-2023-25530",
+    "PoC": "https://nvidia.custhelp.com/app/answers/detail/a_id/5473"
+  },
+  {
+    "CVE": "CVE-2023-25531",
+    "PoC": "https://nvidia.custhelp.com/app/answers/detail/a_id/5473"
+  },
+  {
+    "CVE": "CVE-2023-25532",
+    "PoC": "https://nvidia.custhelp.com/app/answers/detail/a_id/5473"
+  },
+  {
+    "CVE": "CVE-2023-25533",
+    "PoC": "https://nvidia.custhelp.com/app/answers/detail/a_id/5473"
+  },
+  {
+    "CVE": "CVE-2023-25534",
+    "PoC": "https://nvidia.custhelp.com/app/answers/detail/a_id/5473"
   },
   {
     "CVE": "CVE-2023-2554",
@@ -440778,6 +440834,34 @@
   {
     "CVE": "CVE-2023-31006",
     "PoC": "http://seclists.org/fulldisclosure/2024/Nov/0"
+  },
+  {
+    "CVE": "CVE-2023-31008",
+    "PoC": "https://nvidia.custhelp.com/app/answers/detail/a_id/5473"
+  },
+  {
+    "CVE": "CVE-2023-31009",
+    "PoC": "https://nvidia.custhelp.com/app/answers/detail/a_id/5473"
+  },
+  {
+    "CVE": "CVE-2023-31010",
+    "PoC": "https://nvidia.custhelp.com/app/answers/detail/a_id/5473"
+  },
+  {
+    "CVE": "CVE-2023-31011",
+    "PoC": "https://nvidia.custhelp.com/app/answers/detail/a_id/5473"
+  },
+  {
+    "CVE": "CVE-2023-31012",
+    "PoC": "https://nvidia.custhelp.com/app/answers/detail/a_id/5473"
+  },
+  {
+    "CVE": "CVE-2023-31013",
+    "PoC": "https://nvidia.custhelp.com/app/answers/detail/a_id/5473"
+  },
+  {
+    "CVE": "CVE-2023-31015",
+    "PoC": "https://nvidia.custhelp.com/app/answers/detail/a_id/5473"
   },
   {
     "CVE": "CVE-2023-31016",
@@ -484860,12 +484944,24 @@
     "PoC": "https://mattermost.com/security-updates"
   },
   {
+    "CVE": "CVE-2024-34044",
+    "PoC": "https://jira.o-ran-sc.org/browse/RIC-1043"
+  },
+  {
     "CVE": "CVE-2024-34045",
     "PoC": "https://jira.o-ran-sc.org/browse/RIC-1047"
   },
   {
     "CVE": "CVE-2024-34046",
     "PoC": "https://jira.o-ran-sc.org/browse/RIC-1047"
+  },
+  {
+    "CVE": "CVE-2024-34047",
+    "PoC": "https://jira.o-ran-sc.org/browse/RIC-1044"
+  },
+  {
+    "CVE": "CVE-2024-34048",
+    "PoC": "https://jira.o-ran-sc.org/browse/RIC-1044"
   },
   {
     "CVE": "CVE-2024-3405",
@@ -507710,6 +507806,10 @@
   {
     "CVE": "CVE-2024-7936",
     "PoC": "https://github.com/DeepMountains/zzz/blob/main/CVE3-4.md"
+  },
+  {
+    "CVE": "CVE-2024-7936",
+    "PoC": "https://vuldb.com/?ctiid.275121"
   },
   {
     "CVE": "CVE-2024-7936",
@@ -539528,6 +539628,10 @@
     "PoC": "https://github.com/tansique-17/CVE-2025-51411/"
   },
   {
+    "CVE": "CVE-2025-51427",
+    "PoC": "https://github.com/JIRUWOZHI/vulnerability-disclosure/blob/main/CVE-2025-51427/CVE_2025_51427.md"
+  },
+  {
     "CVE": "CVE-2025-5145",
     "PoC": "https://github.com/Exploo0Osion/netcore_unauth"
   },
@@ -547613,6 +547717,10 @@
   },
   {
     "CVE": "CVE-2025-6105",
+    "PoC": "https://vuldb.com/?ctiid.312574"
+  },
+  {
+    "CVE": "CVE-2025-6105",
     "PoC": "https://vuldb.com/?id.312574"
   },
   {
@@ -551896,6 +552004,10 @@
     "PoC": "https://cert-portal.siemens.com/productcert/html/ssa-253495.html"
   },
   {
+    "CVE": "CVE-2025-66391",
+    "PoC": "https://github.com/mandeepsohal/CVE-2025-66391/blob/main/Exploit.md"
+  },
+  {
     "CVE": "CVE-2025-66395",
     "PoC": "https://github.com/ChurchCRM/CRM/security/advisories/GHSA-c9xf-f3gr-xfwv"
   },
@@ -552282,6 +552394,10 @@
   {
     "CVE": "CVE-2025-66864",
     "PoC": "https://github.com/caozhzh/CRGF-Vul/blob/main/cxxfilt/crash5.md"
+  },
+  {
+    "CVE": "CVE-2025-66865",
+    "PoC": "https://github.com/caozhzh/CRGF-Vul/blob/main/cxxfilt/crash4.md"
   },
   {
     "CVE": "CVE-2025-66866",
@@ -562064,6 +562180,10 @@
     "PoC": "https://github.com/Usagi-org/ai-goofish-monitor/issues/488"
   },
   {
+    "CVE": "CVE-2026-10054",
+    "PoC": "https://gitlab.eclipse.org/security/vulnerability-reports/-/work_items/376"
+  },
+  {
     "CVE": "CVE-2026-10060",
     "PoC": "https://github.com/wudipjq/my_vuln/blob/main/TRENDnet/vuln_1/1.md"
   },
@@ -563558,6 +563678,10 @@
   {
     "CVE": "CVE-2026-12193",
     "PoC": "https://youtu.be/JR0KPjWRTns?si=Ff2bUDvv3butJyfP"
+  },
+  {
+    "CVE": "CVE-2026-12194",
+    "PoC": "https://projectblack.io/blog/local-ai-for-cyber-security/#the-benchmark-vulnerabilityphpipam-authenticated-lfi"
   },
   {
     "CVE": "CVE-2026-1220",
@@ -567438,6 +567562,10 @@
   {
     "CVE": "CVE-2026-24857",
     "PoC": "https://github.com/simsong/bulk_extractor/security/advisories/GHSA-rh8m-9xrx-q64q"
+  },
+  {
+    "CVE": "CVE-2026-24868",
+    "PoC": "https://bugzilla.mozilla.org/show_bug.cgi?id=2007302"
   },
   {
     "CVE": "CVE-2026-24881",
@@ -579148,6 +579276,10 @@
     "PoC": "https://github.com/gogs/gogs/security/advisories/GHSA-3w28-36p9-w929"
   },
   {
+    "CVE": "CVE-2026-5282",
+    "PoC": "https://issues.chromium.org/issues/491655161"
+  },
+  {
     "CVE": "CVE-2026-5283",
     "PoC": "https://issues.chromium.org/issues/492131521"
   },
@@ -579620,6 +579752,10 @@
     "PoC": "https://issues.chromium.org/issues/496281816"
   },
   {
+    "CVE": "CVE-2026-5873",
+    "PoC": "https://issues.chromium.org/issues/496301615"
+  },
+  {
     "CVE": "CVE-2026-5876",
     "PoC": "https://issues.chromium.org/issues/41485206"
   },
@@ -580058,6 +580194,10 @@
   {
     "CVE": "CVE-2026-6301",
     "PoC": "https://issues.chromium.org/issues/495273999"
+  },
+  {
+    "CVE": "CVE-2026-6305",
+    "PoC": "https://issues.chromium.org/issues/496618639"
   },
   {
     "CVE": "CVE-2026-6333",
@@ -581528,6 +581668,10 @@
     "PoC": "https://issues.chromium.org/issues/496259890"
   },
   {
+    "CVE": "CVE-2026-7951",
+    "PoC": "https://issues.chromium.org/issues/496266456"
+  },
+  {
     "CVE": "CVE-2026-7953",
     "PoC": "https://issues.chromium.org/issues/496379792"
   },
@@ -581754,6 +581898,10 @@
   {
     "CVE": "CVE-2026-8575",
     "PoC": "https://issues.chromium.org/issues/496217775"
+  },
+  {
+    "CVE": "CVE-2026-8576",
+    "PoC": "https://issues.chromium.org/issues/496231853"
   },
   {
     "CVE": "CVE-2026-8654",
@@ -581998,6 +582146,10 @@
   {
     "CVE": "CVE-2026-9606",
     "PoC": "https://lhzzz08.github.io/posts/cveapplication3/"
+  },
+  {
+    "CVE": "CVE-2026-9673",
+    "PoC": "https://security.snyk.io/vuln/SNYK-JAVA-ORGWEBJARSNPM-17115116"
   },
   {
     "CVE": "CVE-2026-9673",
