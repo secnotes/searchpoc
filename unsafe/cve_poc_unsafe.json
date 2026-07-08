@@ -1,5 +1,189 @@
 [
   {
+    "CVE": "CVE-2026-14382",
+    "PoC": "https://github.com/jaf0rk/CVE-2026-14382"
+  },
+  {
+    "CVE": "CVE-2026-40519",
+    "PoC": "https://github.com/namu1030/Nginx-CVE-2026-40519"
+  },
+  {
+    "CVE": "CVE-2026-40519",
+    "PoC": "https://github.com/namu1030/CVE-2026-40519"
+  },
+  {
+    "CVE": "CVE-2026-53359",
+    "PoC": "https://github.com/HORKimhab/CVE-2026-53359"
+  },
+  {
+    "CVE": "CVE-2026-25262",
+    "PoC": "https://github.com/shurikgo/cve-2026-25262-sm8450-research"
+  },
+  {
+    "CVE": "CVE-2026-42980",
+    "PoC": "https://github.com/G4sp4rCS/CVE-2026-42980-POC"
+  },
+  {
+    "CVE": "CVE-2018-6574",
+    "PoC": "https://github.com/f0nesec/CVE-2018-6574"
+  },
+  {
+    "CVE": "CVE-2026-23697",
+    "PoC": "https://github.com/JivaSecurity/VTIGER-CRM-RCE-CVE-2026-23697"
+  },
+  {
+    "CVE": "CVE-2022-46364",
+    "PoC": "https://github.com/c0gnit00/CVE-2022-46364"
+  },
+  {
+    "CVE": "CVE-2025-29927",
+    "PoC": "https://github.com/surajpandeyp/CVE-2025-29927"
+  },
+  {
+    "CVE": "CVE-2025-64459",
+    "PoC": "https://github.com/rafaelchriss/RedTeamBrasil-CVE-2025-64459"
+  },
+  {
+    "CVE": "CVE-2026-48611",
+    "PoC": "https://github.com/wanmywan/CVE-2026-48611-phpBB"
+  },
+  {
+    "CVE": "CVE-2023-31488",
+    "PoC": "https://github.com/ly1g3/cisco-CVE-2023-31488"
+  },
+  {
+    "CVE": "CVE-2023-20075",
+    "PoC": "https://github.com/ly1g3/cisco-CVE-2023-20075"
+  },
+  {
+    "CVE": "CVE-2023-20009",
+    "PoC": "https://github.com/ly1g3/cisco-CVE-2023-20009"
+  },
+  {
+    "CVE": "CVE-2023-0090",
+    "PoC": "https://github.com/ly1g3/proofpoint-CVE-2023-0090"
+  },
+  {
+    "CVE": "CVE-2023-0089",
+    "PoC": "https://github.com/ly1g3/proofpoint-CVE-2023-0089"
+  },
+  {
+    "CVE": "CVE-2026-39492",
+    "PoC": "https://github.com/shinthink/CVE-2026-39492"
+  },
+  {
+    "CVE": "CVE-2026-14762",
+    "PoC": "https://github.com/tc4dy/CVE-2026-14762-PoC-Exploit"
+  },
+  {
+    "CVE": "CVE-2023-4861",
+    "PoC": "https://github.com/nomaisthere/CVE-2023-4861-PoC"
+  },
+  {
+    "CVE": "CVE-2026-14191",
+    "PoC": "https://github.com/HORKimhab/CVE-2026-14191"
+  },
+  {
+    "CVE": "CVE-2024-36401",
+    "PoC": "https://github.com/keelanbrady1011/CVE-2024-36401"
+  },
+  {
+    "CVE": "CVE-2022-22965",
+    "PoC": "https://github.com/RootEvil333/CVE-2022-22965"
+  },
+  {
+    "CVE": "CVE-2021-41773",
+    "PoC": "https://github.com/Park123r/CVE-2021-41773"
+  },
+  {
+    "CVE": "CVE-2026-11405",
+    "PoC": "https://github.com/HORKimhab/CVE-2026-11405"
+  },
+  {
+    "CVE": "CVE-2026-53359",
+    "PoC": "https://github.com/0xBlackash/CVE-2026-53359"
+  },
+  {
+    "CVE": "CVE-2025-49071",
+    "PoC": "https://github.com/Raimu0x19/CVE-2025-49071"
+  },
+  {
+    "CVE": "CVE-2026-0257",
+    "PoC": "https://github.com/amnsecurity/CVE-2026-0257-GlobalProtect-Bypass"
+  },
+  {
+    "CVE": "CVE-2026-49777",
+    "PoC": "https://github.com/amnsecurity/CVE-2026-49777-WooCommerce-RCE"
+  },
+  {
+    "CVE": "CVE-2026-8206",
+    "PoC": "https://github.com/amnsecurity/CVE-2026-8206-Kirki-WP"
+  },
+  {
+    "CVE": "CVE-2024-7254",
+    "PoC": "https://github.com/Ayumu3746221/cve-2024-7254-app-lab"
+  },
+  {
+    "CVE": "CVE-2026-42271",
+    "PoC": "https://github.com/aymanmahmoudoffsec-creator/CVE-2026-42271-LiteLLM-RCE"
+  },
+  {
+    "CVE": "CVE-2026-42271",
+    "PoC": "https://github.com/amnsecurity/CVE-2026-42271-LiteLLM-RCE"
+  },
+  {
+    "CVE": "CVE-2026-45659",
+    "PoC": "https://github.com/aymanmahmoudoffsec-creator/CVE-2026-45659-SharePoint-RCE"
+  },
+  {
+    "CVE": "CVE-2026-45659",
+    "PoC": "https://github.com/amnsecurity/CVE-2026-45659-SharePoint-RCE"
+  },
+  {
+    "CVE": "CVE-2026-8451",
+    "PoC": "https://github.com/aymanmahmoudoffsec-creator/CVE-2026-8451-CitrixBleed"
+  },
+  {
+    "CVE": "CVE-2026-8451",
+    "PoC": "https://github.com/amnsecurity/CVE-2026-8451-CitrixBleed"
+  },
+  {
+    "CVE": "CVE-2026-48282",
+    "PoC": "https://github.com/g0thamRabb1t/cve-2026-48282-coldfusion-rds-detection"
+  },
+  {
+    "CVE": "CVE-2026-53359",
+    "PoC": "https://github.com/chuzhongyun/CVE-2026-53359-Kernel-Fix"
+  },
+  {
+    "CVE": "CVE-2026-20896",
+    "PoC": "https://github.com/szybnev/cve-2026-20896-gitea-poc"
+  },
+  {
+    "CVE": "CVE-2026-51119",
+    "PoC": "https://github.com/A17-ba/CVE-2026-51119"
+  },
+  {
+    "CVE": "CVE-2026-12277",
+    "PoC": "https://github.com/moritakaaz/CVE-2026-12277"
+  },
+  {
+    "CVE": "CVE-2019-9978",
+    "PoC": "https://github.com/TokyoHunter/CVE-2019-9978---Social-Warfare-WordPress-RCE"
+  },
+  {
+    "CVE": "CVE-2019-9978",
+    "PoC": "https://github.com/TokyoHunter/CVE-2019-9978-Social-Warfare-WordPress-RCE"
+  },
+  {
+    "CVE": "CVE-2026-36214",
+    "PoC": "https://github.com/WesWrench/CVE-2026-36214"
+  },
+  {
+    "CVE": "CVE-2026-23698",
+    "PoC": "https://github.com/JivaSecurity/VTIGER-CRM-RCE-CVE-2026-23698"
+  },
+  {
     "CVE": "CVE-2023-51385",
     "PoC": "https://github.com/LSP1025923/cve-2023-51385"
   },
