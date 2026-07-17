@@ -56,8 +56,6 @@ jobs:
           - Update unsafe CVE PoC data
           - Update trickest CVE references
           - Regenerate index.html
-
-          Co-Authored-By: Claude (glm-5) <noreply@anthropic.com>
           EOF
           )"
           git push

@@ -42,7 +42,9 @@ def load_cve_data(config):
             if cve_id and poc_url:
                 if cve_id not in cve_dict:
                     cve_dict[cve_id] = []
-                cve_dict[cve_id].append(poc_url)
+                # Deduplicate PoC URLs per CVE (preserves first-seen order)
+                if poc_url not in cve_dict[cve_id]:
+                    cve_dict[cve_id].append(poc_url)
 
     return cve_dict
 
