@@ -2,5 +2,10 @@
   "sources": [
     "unsafe/cve_poc_unsafe.json",
     "trickest/trickest_cve.json"
-  ]
+  ],
+  "recent": {
+    "enabled": true,
+    "count": 100,
+    "first_seen_file": "data/first_seen.json"
+  }
 }

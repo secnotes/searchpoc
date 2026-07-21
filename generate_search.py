@@ -6,7 +6,14 @@ Generates a modern HTML search engine for CVE PoC lookups
 
 import json
 import os
+import re
 from datetime import datetime
+
+
+# A well-formed CVE ID, used to filter what gets embedded in the recent list.
+CVE_ID_RE = re.compile(r'^CVE-\d{4}-\d{4,}$', re.IGNORECASE)
+# A valid first-seen date (YYYY-MM-DD), used to validate the persisted map.
+DATE_RE = re.compile(r'^\d{4}-\d{2}-\d{2}$')
 
 
 def load_config(config_path="config.json"):
@@ -49,7 +56,54 @@ def load_cve_data(config):
     return cve_dict
 
 
-def generate_html(cve_data, output_path="index.html"):
+def load_first_seen(path):
+    """Load the CVE -> first-seen-date map. Returns {} if missing or invalid."""
+    if not os.path.exists(path):
+        return {}
+    try:
+        with open(path, 'r', encoding='utf-8') as f:
+            data = json.load(f)
+    except (OSError, json.JSONDecodeError) as e:
+        print(f"Warning: could not load first-seen map {path}: {e}; starting fresh.")
+        return {}
+    # Drop any rows that aren't valid YYYY-MM-DD strings (defensive).
+    return {k: v for k, v in data.items() if isinstance(v, str) and DATE_RE.match(v)}
+
+
+def save_first_seen(path, data):
+    """Persist the first-seen map atomically (write to .tmp then os.replace)."""
+    output_dir = os.path.dirname(path)
+    if output_dir:
+        os.makedirs(output_dir, exist_ok=True)
+    tmp_path = path + '.tmp'
+    with open(tmp_path, 'w', encoding='utf-8') as f:
+        json.dump(data, f, ensure_ascii=False, separators=(',', ':'))
+    os.replace(tmp_path, path)
+
+
+def compute_recent(cve_data, first_seen, count):
+    """Return the most recently added CVEs as [{cveId, date, pocCount}, ...].
+
+    Sorted by first-seen date descending, then CVE ID descending (ties), so the
+    ordering matches the in-page search sort (newest CVE ID first within a date).
+    """
+    candidates = []
+    for cve_id in cve_data:
+        if not CVE_ID_RE.match(cve_id):
+            continue
+        date = first_seen.get(cve_id)
+        if not date:
+            continue
+        candidates.append((cve_id, date))
+    # ISO date strings sort lexicographically; reverse for newest first.
+    candidates.sort(key=lambda item: (item[1], item[0]), reverse=True)
+    return [
+        {"cveId": cve_id, "date": date, "pocCount": len(cve_data[cve_id])}
+        for cve_id, date in candidates[:count]
+    ]
+
+
+def generate_html(cve_data, output_path="index.html", recent_data=None):
     """Generate modern HTML search engine"""
 
     # Ensure output directory exists
@@ -59,6 +113,7 @@ def generate_html(cve_data, output_path="index.html"):
 
     # Convert to compact JSON for JS (no indent, minimal size)
     cve_json = json.dumps(cve_data, ensure_ascii=False, separators=(',', ':'))
+    recent_json = json.dumps(recent_data or [], ensure_ascii=False, separators=(',', ':'))
     total_cves = len(cve_data)
     total_pocs = sum(len(v) for v in cve_data.values())
 
@@ -379,6 +434,53 @@ def generate_html(cve_data, output_path="index.html"):
             margin-left: 10px;
         }
 
+        .recent-section {
+            margin-top: 10px;
+        }
+
+        .recent-grid {
+            display: grid;
+            grid-template-columns: repeat(auto-fill, minmax(260px, 1fr));
+            gap: 10px;
+        }
+
+        .recent-chip {
+            display: flex;
+            align-items: center;
+            justify-content: space-between;
+            gap: 8px;
+            padding: 8px 12px;
+            background: var(--bg-card);
+            border: 1px solid var(--border-card);
+            border-radius: 10px;
+            cursor: pointer;
+            transition: all 0.2s ease;
+            font-family: inherit;
+            color: var(--text-primary);
+        }
+
+        .recent-chip:hover {
+            background: var(--bg-card-hover);
+            border-color: var(--color-highlight);
+            transform: translateY(-1px);
+        }
+
+        .recent-chip__id {
+            font-family: 'Consolas', 'Monaco', monospace;
+            color: var(--color-highlight);
+            font-size: 0.9rem;
+            font-weight: 600;
+            white-space: nowrap;
+            overflow: hidden;
+            text-overflow: ellipsis;
+            min-width: 0;
+        }
+
+        .recent-chip__date {
+            color: var(--text-muted);
+            font-size: 0.75rem;
+        }
+
         .footer {
             text-align: center;
             margin-top: 50px;
@@ -584,6 +686,9 @@ def generate_html(cve_data, output_path="index.html"):
     <script>
         const cveData = ''' + cve_json + ''';
 
+        // Recently added CVEs (top N by first-seen date), shown on the landing page.
+        const recentData = ''' + recent_json + ''';
+
         const searchInput = document.getElementById('searchInput');
         const searchBtn = document.getElementById('searchBtn');
         const resultsContainer = document.getElementById('resultsContainer');
@@ -595,8 +700,10 @@ def generate_html(cve_data, output_path="index.html"):
 
         // Pagination settings
         const ITEMS_PER_PAGE = 20;
+        const RECENT_PER_PAGE = 24;
         let currentResults = [];
         let currentPage = 1;
+        let recentPage = 1;
 
         // Sun icon SVG path
         const sunIcon = '<circle cx="12" cy="12" r="5"></circle><path d="M12 1v2M12 21v2M4.22 4.22l1.42 1.42M18.36 18.36l1.42 1.42M1 12h2M21 12h2M4.22 19.78l1.42-1.42M18.36 5.64l1.42-1.42"></path>';
@@ -640,10 +747,7 @@ def generate_html(cve_data, output_path="index.html"):
             query = query.trim().toUpperCase();
 
             if (!query) {
-                resultsContainer.innerHTML = '';
-                resultsInfo.textContent = '';
-                paginationContainer.innerHTML = '';
-                currentResults = [];
+                renderRecent();
                 return;
             }
 
@@ -662,6 +766,56 @@ def generate_html(cve_data, output_path="index.html"):
             currentPage = 1;
             displayResults();
             renderPagination();
+        }
+
+        function renderRecent() {
+            // Entry point (page load or empty query): start at the first page.
+            recentPage = 1;
+            displayRecent();
+        }
+
+        function displayRecent() {
+            currentResults = [];
+            if (!recentData || recentData.length === 0) {
+                resultsContainer.innerHTML = '';
+                resultsInfo.textContent = '';
+                paginationContainer.innerHTML = '';
+                return;
+            }
+
+            const total = recentData.length;
+            const totalPages = Math.max(1, Math.ceil(total / RECENT_PER_PAGE));
+            if (recentPage > totalPages) recentPage = totalPages;
+            const startIndex = (recentPage - 1) * RECENT_PER_PAGE;
+            const pageItems = recentData.slice(startIndex, startIndex + RECENT_PER_PAGE);
+
+            resultsInfo.textContent = 'Recently added CVEs';
+
+            const chips = pageItems.map(r => `
+                <button class="recent-chip" data-cve="${r.cveId}" type="button" title="${r.cveId} · added ${r.date}">
+                    <span class="recent-chip__id">${r.cveId}</span>
+                    <span class="recent-chip__date">${r.date.slice(5)}</span>
+                    <span class="tag">${r.pocCount} PoC${r.pocCount > 1 ? 's' : ''}</span>
+                </button>
+            `).join('');
+            resultsContainer.innerHTML = `
+                <div class="recent-section">
+                    <div class="recent-grid">${chips}</div>
+                </div>
+            `;
+            resultsContainer.querySelectorAll('.recent-chip').forEach(el => {
+                el.addEventListener('click', () => {
+                    const cve = el.dataset.cve;
+                    searchInput.value = cve;
+                    searchCVE(cve);
+                });
+            });
+
+            renderPaginationControl(total, recentPage, RECENT_PER_PAGE, (page) => {
+                recentPage = page;
+                displayRecent();
+                window.scrollTo(0, 0);
+            });
         }
 
         function displayResults() {
@@ -710,21 +864,23 @@ def generate_html(cve_data, output_path="index.html"):
             resultsContainer.innerHTML = html;
         }
 
-        function renderPagination() {
-            const totalResults = currentResults.length;
-            if (totalResults <= ITEMS_PER_PAGE) {
+        // Generic pagination control shared by search results and the recent list.
+        // Renders into paginationContainer and wires prev/next + page-number clicks,
+        // calling onPageChange(newPage) for navigation.
+        function renderPaginationControl(totalItems, page, perPage, onPageChange) {
+            if (totalItems <= perPage) {
                 paginationContainer.innerHTML = '';
                 return;
             }
 
-            const totalPages = Math.ceil(totalResults / ITEMS_PER_PAGE);
+            const totalPages = Math.ceil(totalItems / perPage);
 
-            let html = '<button id="prevPage" ' + (currentPage === 1 ? 'disabled' : '') + '>Previous</button>';
+            let html = '<button id="prevPage" ' + (page === 1 ? 'disabled' : '') + '>Previous</button>';
 
             // Page numbers
             html += '<div class="page-numbers">';
             const maxVisible = 5;
-            let startPage = Math.max(1, currentPage - Math.floor(maxVisible / 2));
+            let startPage = Math.max(1, page - Math.floor(maxVisible / 2));
             let endPage = Math.min(totalPages, startPage + maxVisible - 1);
 
             if (endPage - startPage < maxVisible - 1) {
@@ -739,7 +895,7 @@ def generate_html(cve_data, output_path="index.html"):
             }
 
             for (let i = startPage; i <= endPage; i++) {
-                html += '<span class="page-num' + (i === currentPage ? ' active' : '') + '" data-page="' + i + '">' + i + '</span>';
+                html += '<span class="page-num' + (i === page ? ' active' : '') + '" data-page="' + i + '">' + i + '</span>';
             }
 
             if (endPage < totalPages) {
@@ -751,39 +907,38 @@ def generate_html(cve_data, output_path="index.html"):
 
             html += '</div>';
 
-            html += '<button id="nextPage" ' + (currentPage === totalPages ? 'disabled' : '') + '>Next</button>';
+            html += '<button id="nextPage" ' + (page === totalPages ? 'disabled' : '') + '>Next</button>';
 
             paginationContainer.innerHTML = html;
 
-            // Add event listeners
             document.getElementById('prevPage').addEventListener('click', () => {
-                if (currentPage > 1) {
-                    currentPage--;
-                    displayResults();
-                    renderPagination();
-                    window.scrollTo(0, 0);
+                if (page > 1) {
+                    onPageChange(page - 1);
                 }
             });
 
             document.getElementById('nextPage').addEventListener('click', () => {
-                if (currentPage < totalPages) {
-                    currentPage++;
-                    displayResults();
-                    renderPagination();
-                    window.scrollTo(0, 0);
+                if (page < totalPages) {
+                    onPageChange(page + 1);
                 }
             });
 
             document.querySelectorAll('.page-num').forEach(btn => {
                 btn.addEventListener('click', () => {
-                    const page = parseInt(btn.dataset.page);
-                    if (page !== currentPage) {
-                        currentPage = page;
-                        displayResults();
-                        renderPagination();
-                        window.scrollTo(0, 0);
+                    const target = parseInt(btn.dataset.page);
+                    if (target !== page) {
+                        onPageChange(target);
                     }
                 });
+            });
+        }
+
+        function renderPagination() {
+            renderPaginationControl(currentResults.length, currentPage, ITEMS_PER_PAGE, (page) => {
+                currentPage = page;
+                displayResults();
+                renderPagination();
+                window.scrollTo(0, 0);
             });
         }
 
@@ -799,7 +954,8 @@ def generate_html(cve_data, output_path="index.html"):
             }
         });
 
-        // Focus search on page load
+        // Render recently added CVEs as the landing content, then focus search
+        renderRecent();
         searchInput.focus();
     </script>
 </body>
@@ -823,8 +979,34 @@ def main():
     print("Loading CVE data from sources...")
     cve_data = load_cve_data(config)
 
+    # Build the "recently added" list from a persistent CVE -> first-seen-date map.
+    # New CVEs get today's date; existing ones keep their original date.
+    recent_cfg = config.get('recent') or {}
+    enabled = recent_cfg.get('enabled', True)
+    count = int(recent_cfg.get('count', 50))
+    fs_file = recent_cfg.get('first_seen_file', 'data/first_seen.json')
+    if not os.path.isabs(fs_file):
+        fs_file = os.path.join(config.get('_config_dir', ''), fs_file)
+
+    recent_list = []
+    if enabled:
+        first_seen = load_first_seen(fs_file)
+        today_iso = datetime.now().strftime('%Y-%m-%d')
+        # Cold start: an empty map stamps every existing CVE with today's date,
+        # so day 1's "recent" list is effectively the newest CVE IDs by number.
+        # From day 2 on, only genuinely new CVEs get today's date.
+        new_count = 0
+        for cve_id in cve_data:
+            if cve_id not in first_seen:
+                first_seen[cve_id] = today_iso
+                new_count += 1
+        save_first_seen(fs_file, first_seen)
+        print(f"First-seen map: {new_count} new CVE(s) stamped, {len(first_seen)} total.")
+        recent_list = compute_recent(cve_data, first_seen, count)
+        print(f"Recently added: {len(recent_list)} CVE(s) embedded.")
+
     print("Generating HTML search engine...")
-    generate_html(cve_data)
+    generate_html(cve_data, recent_data=recent_list)
 
     print("Done!")
 
