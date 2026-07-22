@@ -1,6 +1,234 @@
 [
   {
     "CVE": "CVE-2026-63030",
+    "PoC": "https://github.com/GhostInExile/CVE-2026-63030-Wp2Shell"
+  },
+  {
+    "CVE": "CVE-2026-43499",
+    "PoC": "https://github.com/Petalrain224/CVE-2026-43499-Redmi-Turbo5"
+  },
+  {
+    "CVE": "CVE-2026-9198",
+    "PoC": "https://github.com/0xdak/CVE-2026-9198_exploit"
+  },
+  {
+    "CVE": "CVE-2025-20352",
+    "PoC": "https://github.com/sentinel-aidefense/CVE-2025-20352"
+  },
+  {
+    "CVE": "CVE-2025-64512",
+    "PoC": "https://github.com/BardLaudian/CVE-2025-64512"
+  },
+  {
+    "CVE": "CVE-2026-49365",
+    "PoC": "https://github.com/oscerd/CVE-2026-49365"
+  },
+  {
+    "CVE": "CVE-2026-13233",
+    "PoC": "https://github.com/KuniNogu/drupal-openai-provider-ssrf-cve-2026-13233"
+  },
+  {
+    "CVE": "CVE-2026-49099",
+    "PoC": "https://github.com/oscerd/CVE-2026-49099"
+  },
+  {
+    "CVE": "CVE-2026-21858",
+    "PoC": "https://github.com/qianlijaingshan/n8n-cve-2026-21858"
+  },
+  {
+    "CVE": "CVE-2026-27971",
+    "PoC": "https://github.com/Ghalendar/CVE-2026-27971_POC"
+  },
+  {
+    "CVE": "CVE-2026-6875",
+    "PoC": "https://github.com/HORKimhab/CVE-2026-6875"
+  },
+  {
+    "CVE": "CVE-2018-3214",
+    "PoC": "https://github.com/YumeSecurity/CVE-2018-3214"
+  },
+  {
+    "CVE": "CVE-2026-42533",
+    "PoC": "https://github.com/suominen/CVE-2026-42533"
+  },
+  {
+    "CVE": "CVE-2026-43499",
+    "PoC": "https://github.com/geecjdj/CVE-2026-43499"
+  },
+  {
+    "CVE": "CVE-2022-30190",
+    "PoC": "https://github.com/zavikhttak/Follina-CVE-2022-30190-Analysis"
+  },
+  {
+    "CVE": "CVE-2021-41773",
+    "PoC": "https://github.com/DappaNISM/mass_cve-2021-41773"
+  },
+  {
+    "CVE": "CVE-2022-0441",
+    "PoC": "https://github.com/DappaNISM/CVE-2022-0441"
+  },
+  {
+    "CVE": "CVE-2026-41089",
+    "PoC": "https://github.com/HydraSoft/CVE-2026-41089-Netlogon-RCE"
+  },
+  {
+    "CVE": "CVE-2018-18955",
+    "PoC": "https://github.com/WhatsWrongAndWhy/CVE-2018-18955"
+  },
+  {
+    "CVE": "CVE-2017-7308",
+    "PoC": "https://github.com/WhatsWrongAndWhy/CVE-2017-7308"
+  },
+  {
+    "CVE": "CVE-2017-16995",
+    "PoC": "https://github.com/WhatsWrongAndWhy/CVE-2017-16995"
+  },
+  {
+    "CVE": "CVE-2017-1000112",
+    "PoC": "https://github.com/WhatsWrongAndWhy/CVE-2017-1000112"
+  },
+  {
+    "CVE": "CVE-2026-57588",
+    "PoC": "https://github.com/CerberusMrXi/CVE-2026-57588-Nessus-XML-Import-SQL-Injection-PoC"
+  },
+  {
+    "CVE": "CVE-2026-6875",
+    "PoC": "https://github.com/tc4dy/CVE-2026-6875-PoC-Exploit"
+  },
+  {
+    "CVE": "CVE-2025-8110",
+    "PoC": "https://github.com/ixZODiAK/CVE-2025-8110"
+  },
+  {
+    "CVE": "CVE-2026-63030",
+    "PoC": "https://github.com/Bhanunamikaze/WP2Shell-CVE-2026-63030-POC"
+  },
+  {
+    "CVE": "CVE-2026-60137",
+    "PoC": "https://github.com/mrmtwoj/Fix-CVE-2026-60137-CVE-2026-63030-in-wordpress"
+  },
+  {
+    "CVE": "CVE-2023-27350",
+    "PoC": "https://github.com/danielissaq/-PaperCut-CVE-2023-27350-"
+  },
+  {
+    "CVE": "CVE-2025-11705",
+    "PoC": "https://github.com/h1dden30/cve-2025-11705-poc"
+  },
+  {
+    "CVE": "CVE-2025-55182",
+    "PoC": "https://github.com/6t2kydmp8k-jpg/CVE-2025-55182-Vulnerability-Proof-of-Concept-Group-Project-"
+  },
+  {
+    "CVE": "CVE-2025-32432",
+    "PoC": "https://github.com/c0gnit00/CVE-2025-32432"
+  },
+  {
+    "CVE": "CVE-2025-47928",
+    "PoC": "https://github.com/ghapvharmo/cve-repro-cve-2025-47928"
+  },
+  {
+    "CVE": "CVE-2026-52813",
+    "PoC": "https://github.com/iqx6889/CVE-2026-52813-Gogs-RCE"
+  },
+  {
+    "CVE": "CVE-2025-47928",
+    "PoC": "https://github.com/pvharmo2/cve-repro-cve-2025-47928"
+  },
+  {
+    "CVE": "CVE-2026-53913",
+    "PoC": "https://github.com/oscerd/CVE-2026-53913"
+  },
+  {
+    "CVE": "CVE-2026-27654",
+    "PoC": "https://github.com/Debajyoti0-0/CVE-2026-27654"
+  },
+  {
+    "CVE": "CVE-2026-27654",
+    "PoC": "https://github.com/Debajyoti0-0/CVE-2026-27654-PoC"
+  },
+  {
+    "CVE": "CVE-2026-9973",
+    "PoC": "https://github.com/jaf0rk/CVE-2026-9973-exploit"
+  },
+  {
+    "CVE": "CVE-2026-50522",
+    "PoC": "https://github.com/HORKimhab/CVE-2026-50522"
+  },
+  {
+    "CVE": "CVE-2025-64512",
+    "PoC": "https://github.com/MehdiChyhab/CVE-2025-64512-exploit"
+  },
+  {
+    "CVE": "CVE-2026-25632",
+    "PoC": "https://github.com/lazarus0x1337/CVE-2026-25632"
+  },
+  {
+    "CVE": "CVE-2026-20169",
+    "PoC": "https://github.com/gigachadusers/CVE-2026-20169"
+  },
+  {
+    "CVE": "CVE-2026-45585",
+    "PoC": "https://github.com/boobalover7/YellowKey-Bitlocker-CVE-2026-45585"
+  },
+  {
+    "CVE": "CVE-2022-35914",
+    "PoC": "https://github.com/YumeSecurity/CVE-2022-35914"
+  },
+  {
+    "CVE": "CVE-2025-10725",
+    "PoC": "https://github.com/kaiokmo/cve-2025-10725-eda-demo"
+  },
+  {
+    "CVE": "CVE-2026-53595",
+    "PoC": "https://github.com/0xdak/CVE-2026-53595_exploit"
+  },
+  {
+    "CVE": "CVE-2021-42008",
+    "PoC": "https://github.com/WhatsWrongAndWhy/CVE-2021-42008"
+  },
+  {
+    "CVE": "CVE-2021-41073",
+    "PoC": "https://github.com/WhatsWrongAndWhy/CVE-2021-41073"
+  },
+  {
+    "CVE": "CVE-2021-3493",
+    "PoC": "https://github.com/WhatsWrongAndWhy/CVE-2021-3493"
+  },
+  {
+    "CVE": "CVE-2021-3490",
+    "PoC": "https://github.com/WhatsWrongAndWhy/CVE-2021-3490"
+  },
+  {
+    "CVE": "CVE-2021-3156",
+    "PoC": "https://github.com/WhatsWrongAndWhy/CVE-2021-3156"
+  },
+  {
+    "CVE": "CVE-2021-31440",
+    "PoC": "https://github.com/WhatsWrongAndWhy/CVE-2021-31440"
+  },
+  {
+    "CVE": "CVE-2021-27365",
+    "PoC": "https://github.com/WhatsWrongAndWhy/CVE-2021-27365"
+  },
+  {
+    "CVE": "CVE-2021-22555",
+    "PoC": "https://github.com/WhatsWrongAndWhy/CVE-2021-22555"
+  },
+  {
+    "CVE": "CVE-2020-8835",
+    "PoC": "https://github.com/WhatsWrongAndWhy/CVE-2020-8835"
+  },
+  {
+    "CVE": "CVE-2020-27194",
+    "PoC": "https://github.com/WhatsWrongAndWhy/CVE-2020-27194"
+  },
+  {
+    "CVE": "CVE-2018-5333",
+    "PoC": "https://github.com/WhatsWrongAndWhy/CVE-2018-5333"
+  },
+  {
+    "CVE": "CVE-2026-63030",
     "PoC": "https://github.com/TomorrowX6/CVE-2026-63030-poc"
   },
   {
