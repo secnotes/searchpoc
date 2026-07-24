@@ -1,5 +1,181 @@
 [
   {
+    "CVE": "CVE-2024-50330",
+    "PoC": "https://github.com/razureink/cve-2024-50330-ivanti_epm_sqli_reproduction"
+  },
+  {
+    "CVE": "CVE-2024-49039",
+    "PoC": "https://github.com/razureink/cve-2024-49039-task_scheduler_eop_reproduction"
+  },
+  {
+    "CVE": "CVE-2024-4577",
+    "PoC": "https://github.com/razureink/cve-2024-4577-phpcgi_rce_reproduction"
+  },
+  {
+    "CVE": "CVE-2024-43451",
+    "PoC": "https://github.com/razureink/cve-2024-43451-ntlm_hash_disclosure_reproduction"
+  },
+  {
+    "CVE": "CVE-2024-38077",
+    "PoC": "https://github.com/razureink/cve-2024-38077-madlicense_reproduction"
+  },
+  {
+    "CVE": "CVE-2024-0012",
+    "PoC": "https://github.com/razureink/cve-2024-0012_9474-panos_authbypass_reproduction"
+  },
+  {
+    "CVE": "CVE-2026-56121",
+    "PoC": "https://github.com/0xdak/CVE-2026-56121_exploit"
+  },
+  {
+    "CVE": "CVE-2024-23334",
+    "PoC": "https://github.com/Max78000/CVE-2024-23334-aiohttp"
+  },
+  {
+    "CVE": "CVE-2026-0560",
+    "PoC": "https://github.com/Max78000/CVE-2026-0560-lollms"
+  },
+  {
+    "CVE": "CVE-2026-64600",
+    "PoC": "https://github.com/HORKimhab/CVE-2026-64600"
+  },
+  {
+    "CVE": "CVE-2026-13001",
+    "PoC": "https://github.com/ghostpels/CVE-2026-13001"
+  },
+  {
+    "CVE": "CVE-2026-27641",
+    "PoC": "https://github.com/Max78000/CVE-2026-27641-Flask-Reuploaded"
+  },
+  {
+    "CVE": "CVE-2026-59827",
+    "PoC": "https://github.com/pickl31/CVE-2026-59827"
+  },
+  {
+    "CVE": "CVE-2026-43499",
+    "PoC": "https://github.com/soralis0912/CVE-2026-43499-aristotle-apk"
+  },
+  {
+    "CVE": "CVE-2026-43499",
+    "PoC": "https://github.com/soralis0912/CVE-2026-43499-aristotle"
+  },
+  {
+    "CVE": "CVE-2025-59287",
+    "PoC": "https://github.com/owaset55-crypto/CVE-2025-59287"
+  },
+  {
+    "CVE": "CVE-2026-63030",
+    "PoC": "https://github.com/razureink/cve-2026-63030_60137-wordpress_rce_reproduction"
+  },
+  {
+    "CVE": "CVE-2026-41940",
+    "PoC": "https://github.com/razureink/cve-2026-41940-cpanel_authbypass_reproduction"
+  },
+  {
+    "CVE": "CVE-2026-34486",
+    "PoC": "https://github.com/razureink/cve-2026-34486-tomcat_encrypt_bypass_reproduction"
+  },
+  {
+    "CVE": "CVE-2026-21509",
+    "PoC": "https://github.com/razureink/cve-2026-21509-office_security_bypass_reproduction"
+  },
+  {
+    "CVE": "CVE-2026-0770",
+    "PoC": "https://github.com/razureink/cve-2026-0770-langflow_rce_reproduction"
+  },
+  {
+    "CVE": "CVE-2025-61882",
+    "PoC": "https://github.com/razureink/cve-2025-61882-oracle_ebs_rce_reproduction"
+  },
+  {
+    "CVE": "CVE-2025-5777",
+    "PoC": "https://github.com/razureink/cve-2025-5777-citrixbleed2_reproduction"
+  },
+  {
+    "CVE": "CVE-2025-55182",
+    "PoC": "https://github.com/razureink/cve-2025-55182-react2shell_reproduction"
+  },
+  {
+    "CVE": "CVE-2025-2783",
+    "PoC": "https://github.com/razureink/cve-2025-2783-chrome_sandbox_escape_reproduction"
+  },
+  {
+    "CVE": "CVE-2025-24472",
+    "PoC": "https://github.com/razureink/cve-2025-24472-fortinet_authbypass_reproduction"
+  },
+  {
+    "CVE": "CVE-2026-60206",
+    "PoC": "https://github.com/0xBlackash/CVE-2026-60206"
+  },
+  {
+    "CVE": "CVE-2026-65971",
+    "PoC": "https://github.com/BiiTts/POC-CVE-2026-65971"
+  },
+  {
+    "CVE": "CVE-2026-23744",
+    "PoC": "https://github.com/nullRoot-Red/CVE-2026-23744"
+  },
+  {
+    "CVE": "CVE-2024-6387",
+    "PoC": "https://github.com/al7araziruby-jpg/CVE-2024-6387-OpenSSH-Analysis"
+  },
+  {
+    "CVE": "CVE-2025-9242",
+    "PoC": "https://github.com/UnusualGiraffe/Mass-Scanner-CVE-2025-9242-"
+  },
+  {
+    "CVE": "CVE-2025-9242",
+    "PoC": "https://github.com/UnusualGiraffe/Mass-Scanner-CVE-2025-9242"
+  },
+  {
+    "CVE": "CVE-2019-5392",
+    "PoC": "https://github.com/jozliner/CVE-2019-5392-for-Python3"
+  },
+  {
+    "CVE": "CVE-2018-6574",
+    "PoC": "https://github.com/s-p4rk/CVE-2018-6574"
+  },
+  {
+    "CVE": "CVE-2015-1328",
+    "PoC": "https://github.com/FernandoCassioDev/CVE-2015-1328"
+  },
+  {
+    "CVE": "CVE-2026-59880",
+    "PoC": "https://github.com/nvth/cve-2026-59880"
+  },
+  {
+    "CVE": "CVE-2026-58057",
+    "PoC": "https://github.com/CerberusMrXi/Flowise-CVE-2026-58057-exploit"
+  },
+  {
+    "CVE": "CVE-2026-63766",
+    "PoC": "https://github.com/0xdak/CVE-2026-63766_exploit"
+  },
+  {
+    "CVE": "CVE-2025-32432",
+    "PoC": "https://github.com/theeomega/CVE-2025-32432-POC"
+  },
+  {
+    "CVE": "CVE-2026-33017",
+    "PoC": "https://github.com/Dynamo2k1/CVE-2026-33017"
+  },
+  {
+    "CVE": "CVE-2021-3493",
+    "PoC": "https://github.com/0xlane/CVE-2021-3493"
+  },
+  {
+    "CVE": "CVE-2026-43499",
+    "PoC": "https://github.com/Bailan766/rmx3888-cve-2026-43499-config"
+  },
+  {
+    "CVE": "CVE-2026-42533",
+    "PoC": "https://github.com/gagaltotal/CVE-2026-42533-nginx"
+  },
+  {
+    "CVE": "CVE-2021-41773",
+    "PoC": "https://github.com/gagaltotal/CVE-2021-41773-apache"
+  },
+  {
     "CVE": "CVE-2026-45729",
     "PoC": "https://github.com/yeahhbean/CVE-2026-45729"
   },
