@@ -14,6 +14,21 @@ from datetime import datetime
 CVE_ID_RE = re.compile(r'^CVE-\d{4}-\d{4,}$', re.IGNORECASE)
 # A valid first-seen date (YYYY-MM-DD), used to validate the persisted map.
 DATE_RE = re.compile(r'^\d{4}-\d{2}-\d{2}$')
+# The CVE program started in 1999; the year is the allocation year, never future.
+CVE_YEAR_MIN = 1999
+
+
+def is_valid_cve(cve_id):
+    """Basic legitimacy check: valid CVE format AND year in [CVE_YEAR_MIN, current year].
+
+    Catches structurally-impossible IDs (e.g. future-year CVE-2050-xxxx scraped from
+    junk GitHub repo names). Does NOT verify the CVE exists in MITRE/NVD, so current-year
+    but non-existent IDs (e.g. CVE-2026-69420) still pass.
+    """
+    if not CVE_ID_RE.match(cve_id):
+        return False
+    year = int(cve_id.split('-')[1])
+    return CVE_YEAR_MIN <= year <= datetime.now().year
 
 
 def load_config(config_path="config.json"):
@@ -29,6 +44,7 @@ def load_cve_data(config):
     """Load all CVE data from configured sources"""
     cve_dict = {}
     config_dir = config.get('_config_dir', '')
+    skipped = 0
 
     for source in config.get('sources', []):
         # Resolve path relative to config directory
@@ -46,12 +62,20 @@ def load_cve_data(config):
             cve_id = item.get('CVE', '').upper()
             poc_url = item.get('PoC', '')
 
-            if cve_id and poc_url:
-                if cve_id not in cve_dict:
-                    cve_dict[cve_id] = []
-                # Deduplicate PoC URLs per CVE (preserves first-seen order)
-                if poc_url not in cve_dict[cve_id]:
-                    cve_dict[cve_id].append(poc_url)
+            if not (cve_id and poc_url):
+                continue
+            # Drop structurally-invalid / impossible CVE IDs (e.g. future-year fakes).
+            if not is_valid_cve(cve_id):
+                skipped += 1
+                continue
+            if cve_id not in cve_dict:
+                cve_dict[cve_id] = []
+            # Deduplicate PoC URLs per CVE (preserves first-seen order)
+            if poc_url not in cve_dict[cve_id]:
+                cve_dict[cve_id].append(poc_url)
+
+    if skipped:
+        print(f"Skipped {skipped} record(s) with invalid/non-existent CVE IDs (e.g. future-year fakes).")
 
     return cve_dict
 
@@ -89,7 +113,7 @@ def compute_recent(cve_data, first_seen, count):
     """
     candidates = []
     for cve_id in cve_data:
-        if not CVE_ID_RE.match(cve_id):
+        if not is_valid_cve(cve_id):
             continue
         date = first_seen.get(cve_id)
         if not date:
@@ -991,6 +1015,13 @@ def main():
     recent_list = []
     if enabled:
         first_seen = load_first_seen(fs_file)
+        # Purge structurally-invalid CVEs (e.g. future-year) stamped before validation
+        # existed. Safe to drop permanently: such IDs can never become valid.
+        invalid_keys = [k for k in first_seen if not is_valid_cve(k)]
+        for k in invalid_keys:
+            del first_seen[k]
+        if invalid_keys:
+            print(f"Purged {len(invalid_keys)} invalid CVE(s) from first-seen map.")
         today_iso = datetime.now().strftime('%Y-%m-%d')
         # Cold start: an empty map stamps every existing CVE with today's date,
         # so day 1's "recent" list is effectively the newest CVE IDs by number.
