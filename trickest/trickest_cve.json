@@ -369468,6 +369468,10 @@
     "PoC": "https://www.oracle.com/security-alerts/cpuapr2022.html"
   },
   {
+    "CVE": "CVE-2021-4034",
+    "PoC": "https://www.secpod.com/blog/local-privilege-escalation-vulnerability-in-major-linux-distributions-cve-2021-4034/"
+  },
+  {
     "CVE": "CVE-2021-40340",
     "PoC": "https://search.abb.com/library/Download.aspx?DocumentID=8DBD000079&LanguageCode=en&DocumentPartId=&Action=Launch"
   },
@@ -372210,6 +372214,10 @@
   {
     "CVE": "CVE-2021-42392",
     "PoC": "https://www.oracle.com/security-alerts/cpuapr2022.html"
+  },
+  {
+    "CVE": "CVE-2021-42392",
+    "PoC": "https://www.secpod.com/blog/log4shell-critical-remote-code-execution-vulnerability-in-h2database-console/"
   },
   {
     "CVE": "CVE-2021-4240",
@@ -400778,6 +400786,14 @@
   {
     "CVE": "CVE-2022-29900",
     "PoC": "https://www.amd.com/en/corporate/product-security/bulletin/amd-sb-1037"
+  },
+  {
+    "CVE": "CVE-2022-29900",
+    "PoC": "https://www.secpod.com/blog/retbleed-intel-and-amd-processor-information-disclosure-vulnerability/"
+  },
+  {
+    "CVE": "CVE-2022-29901",
+    "PoC": "https://www.secpod.com/blog/retbleed-intel-and-amd-processor-information-disclosure-vulnerability/"
   },
   {
     "CVE": "CVE-2022-29908",
@@ -541476,6 +541492,10 @@
     "PoC": "https://github.com/rubenformation/CVE-2025-50154/"
   },
   {
+    "CVE": "CVE-2025-50180",
+    "PoC": "https://github.com/esm-dev/esm.sh/security/advisories/GHSA-3c9r-837r-qqm4"
+  },
+  {
     "CVE": "CVE-2025-50183",
     "PoC": "https://github.com/OpenListTeam/OpenList/security/advisories/GHSA-2hw3-h8qx-hqqp"
   },
@@ -541680,12 +541700,20 @@
     "PoC": "https://github.com/bron1e/CVE-2025-50505"
   },
   {
+    "CVE": "CVE-2025-50505",
+    "PoC": "https://github.com/cisagov/vulnrichment/issues/206"
+  },
+  {
     "CVE": "CVE-2025-50528",
     "PoC": "https://github.com/pfwqdxwdd/cve/blob/main/1.md"
   },
   {
     "CVE": "CVE-2025-5053",
     "PoC": "https://vuldb.com/?submit.581285"
+  },
+  {
+    "CVE": "CVE-2025-50537",
+    "PoC": "https://gist.github.com/lyyffee/2ee1815e5c2da82c05e9838b9bfefbbc"
   },
   {
     "CVE": "CVE-2025-50538",
@@ -541854,6 +541882,10 @@
   {
     "CVE": "CVE-2025-50733",
     "PoC": "https://github.com/fai1424/Vulnerability-Research/blob/main/CVE-2025-50733/README.md"
+  },
+  {
+    "CVE": "CVE-2025-50735",
+    "PoC": "https://github.com/fai1424/Vulnerability-Research/tree/main/CVE-2025-50735"
   },
   {
     "CVE": "CVE-2025-50738",
@@ -556432,12 +556464,52 @@
     "PoC": "https://github.com/c0nyy/IoT_vuln/blob/main/TOTOLINK%20T6%20Vuln.md"
   },
   {
+    "CVE": "CVE-2025-69200",
+    "PoC": "https://github.com/thorsten/phpMyFAQ/security/advisories/GHSA-9cg9-4h4f-j6fg"
+  },
+  {
+    "CVE": "CVE-2025-69202",
+    "PoC": "https://github.com/arthurfiorette/axios-cache-interceptor/security/advisories/GHSA-x4m5-4cw8-vc44"
+  },
+  {
+    "CVE": "CVE-2025-69207",
+    "PoC": "https://github.com/khoj-ai/khoj/security/advisories/GHSA-6whj-7qmg-86qj"
+  },
+  {
+    "CVE": "CVE-2025-69212",
+    "PoC": "https://github.com/devcode-it/openstamanager/security/advisories/GHSA-25fp-8w8p-mx36"
+  },
+  {
+    "CVE": "CVE-2025-69214",
+    "PoC": "https://github.com/devcode-it/openstamanager/security/advisories/GHSA-qjv8-63xq-gq8m"
+  },
+  {
+    "CVE": "CVE-2025-69216",
+    "PoC": "https://github.com/devcode-it/openstamanager/security/advisories/GHSA-q6g3-fv43-m2w6"
+  },
+  {
+    "CVE": "CVE-2025-69220",
+    "PoC": "https://github.com/danny-avila/LibreChat/security/advisories/GHSA-xcmf-rpmh-hg59"
+  },
+  {
+    "CVE": "CVE-2025-69221",
+    "PoC": "https://github.com/danny-avila/LibreChat/security/advisories/GHSA-5ccx-4r3h-9qc7"
+  },
+  {
+    "CVE": "CVE-2025-69231",
+    "PoC": "https://github.com/openemr/openemr/security/advisories/GHSA-mf62-q2xc-hxm3"
+  },
+  {
     "CVE": "CVE-2025-6925",
     "PoC": "https://github.com/ShenxiuSec/cve-proofs/blob/main/POC-20250620-01/report.md"
   },
   {
     "CVE": "CVE-2025-6925",
     "PoC": "https://github.com/ShenxiuSec/cve-proofs/blob/main/POC-20250620-01/report.md#steps-to-reproduce"
+  },
+  {
+    "CVE": "CVE-2025-69255",
+    "PoC": "https://github.com/rustfs/rustfs/security/advisories/GHSA-gw2x-q739-qhcr"
   },
   {
     "CVE": "CVE-2025-69258",
@@ -556450,6 +556522,22 @@
   {
     "CVE": "CVE-2025-69260",
     "PoC": "https://www.tenable.com/security/research/tra-2026-01"
+  },
+  {
+    "CVE": "CVE-2025-69262",
+    "PoC": "https://github.com/pnpm/pnpm/security/advisories/GHSA-2phv-j68v-wwqx"
+  },
+  {
+    "CVE": "CVE-2025-69263",
+    "PoC": "https://github.com/pnpm/pnpm/security/advisories/GHSA-7vhp-vf5g-r2fw"
+  },
+  {
+    "CVE": "CVE-2025-69285",
+    "PoC": "https://github.com/dataease/SQLBot/security/advisories/GHSA-crfm-cch4-hjpv"
+  },
+  {
+    "CVE": "CVE-2025-69287",
+    "PoC": "https://github.com/bsv-blockchain/ts-sdk/security/advisories/GHSA-vjpq-xx5g-qvmm"
   },
   {
     "CVE": "CVE-2025-6931",
@@ -556536,6 +556624,10 @@
     "PoC": "https://gitlab.com/gitlab-org/gitlab/-/issues/552611"
   },
   {
+    "CVE": "CVE-2025-69517",
+    "PoC": "https://gist.github.com/NtGabrielGomes/fdabcd9e85d841c5490739686e0f8b72"
+  },
+  {
     "CVE": "CVE-2025-6953",
     "PoC": "https://github.com/d2pq/cve/blob/main/616/26.md"
   },
@@ -556578,6 +556670,18 @@
   {
     "CVE": "CVE-2025-6960",
     "PoC": "https://vuldb.com/?submit.605900"
+  },
+  {
+    "CVE": "CVE-2025-69601",
+    "PoC": "https://gist.github.com/Waqar-Arain/9cd59aa74de540eeb3b09d15bac35e36"
+  },
+  {
+    "CVE": "CVE-2025-69602",
+    "PoC": "https://gist.github.com/Waqar-Arain/c8117308325a91b8f3b7829646915275"
+  },
+  {
+    "CVE": "CVE-2025-69606",
+    "PoC": "https://github.com/Razielx64/CVE-2025-69606-GSVoIP-XSS"
   },
   {
     "CVE": "CVE-2025-6961",
@@ -556624,6 +556728,14 @@
     "PoC": "https://labs.esokia.com/cve/cve-2025-69633/"
   },
   {
+    "CVE": "CVE-2025-69653",
+    "PoC": "https://github.com/bellard/quickjs/issues/467"
+  },
+  {
+    "CVE": "CVE-2025-69654",
+    "PoC": "https://github.com/bellard/quickjs/issues/468"
+  },
+  {
     "CVE": "CVE-2025-69662",
     "PoC": "https://aydinnyunus.github.io/2025/12/27/sql-injection-geopandas/"
   },
@@ -556640,12 +556752,28 @@
     "PoC": "https://cert-portal.siemens.com/productcert/html/ssa-253495.html"
   },
   {
+    "CVE": "CVE-2025-69720",
+    "PoC": "https://github.com/Cao-Wuhui/CVE-2025-69720"
+  },
+  {
+    "CVE": "CVE-2025-69725",
+    "PoC": "https://github.com/go-chi/chi/security/advisories/GHSA-mqqf-5wvp-8fh8"
+  },
+  {
+    "CVE": "CVE-2025-69727",
+    "PoC": "https://github.com/0xZeroSec/CVE-2025-69727"
+  },
+  {
     "CVE": "CVE-2025-69783",
     "PoC": "https://scavengersecurity.com/posts/edr-as-rootkit-2/"
   },
   {
     "CVE": "CVE-2025-69784",
     "PoC": "https://scavengersecurity.com/posts/edr-as-rootkit-2/"
+  },
+  {
+    "CVE": "CVE-2025-69875",
+    "PoC": "https://github.com/mertdas/QuickHealTotalSecurityPOC"
   },
   {
     "CVE": "CVE-2025-69875",
@@ -556656,12 +556784,20 @@
     "PoC": "https://trezor.io/vulnerability/fix-side-channel-in-bip-39-mnemonic-processing-when-unlocked"
   },
   {
+    "CVE": "CVE-2025-69907",
+    "PoC": "https://github.com/CBx216/CVE-Newgen-Software-Advisories/blob/main/CVE-2025-69907.md"
+  },
+  {
     "CVE": "CVE-2025-69929",
     "PoC": "https://www.linkedin.com/in/joselabreu"
   },
   {
     "CVE": "CVE-2025-6998",
     "PoC": "https://fluidattacks.com/advisories/megadeth"
+  },
+  {
+    "CVE": "CVE-2025-69986",
+    "PoC": "https://github.com/victorGoeman/LSC-Indoor-Camera-Security-Research/blob/main/CVE-2025-69986.md"
   },
   {
     "CVE": "CVE-2025-7000",
@@ -559722,6 +559858,10 @@
   {
     "CVE": "CVE-2025-8023",
     "PoC": "https://mattermost.com/security-updates"
+  },
+  {
+    "CVE": "CVE-2025-8027",
+    "PoC": "https://bugzilla.mozilla.org/show_bug.cgi?id=1968423"
   },
   {
     "CVE": "CVE-2025-8036",
@@ -590490,6 +590630,10 @@
   {
     "CVE": "CVE-2026-5679",
     "PoC": "https://github.com/Svigo-o/TOTOLINK-Vul/tree/main/totolink-a3300r-stun-pass-cmd-injection"
+  },
+  {
+    "CVE": "CVE-2026-5681",
+    "PoC": "https://vuldb.com/vuln/355508/cti"
   },
   {
     "CVE": "CVE-2026-56810",
