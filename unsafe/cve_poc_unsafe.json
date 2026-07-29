@@ -1,5 +1,185 @@
 [
   {
+    "CVE": "CVE-2026-66748",
+    "PoC": "https://github.com/theopaid/CVE-2026-66748-Camaleon-CMS---Authenticated-RCE-via-select_eval-Custom-Field"
+  },
+  {
+    "CVE": "CVE-2026-66751",
+    "PoC": "https://github.com/theopaid/CVE-2026-66751-Insufficient-Access-Controls-Allow-for-Unauthorized-Room-Deletion-Let-s-Chat-"
+  },
+  {
+    "CVE": "CVE-2026-66749",
+    "PoC": "https://github.com/theopaid/CVE-2026-66749-Unchecked-Room-Lookup-Leads-to-Server-Crash-Let-s-Chat-"
+  },
+  {
+    "CVE": "CVE-2026-66752",
+    "PoC": "https://github.com/theopaid/CVE-2026-66752-HTTP-Request-Smuggling-via-Unparsed-Transfer-Encoding-Values-tiny_http-"
+  },
+  {
+    "CVE": "CVE-2026-66753",
+    "PoC": "https://github.com/theopaid/CVE-2026-66753-HTTP-Header-Injection-via-Unvalidated-CR-and-LF-in-Header-Values-tiny_http-"
+  },
+  {
+    "CVE": "CVE-2026-66754",
+    "PoC": "https://github.com/theopaid/CVE-2026-66754-Remote-Denial-of-Service-via-Reachable-Assertion-in-URL-Prefix-Handling-rouille-"
+  },
+  {
+    "CVE": "CVE-2026-66746",
+    "PoC": "https://github.com/theopaid/CVE-2026-66746-HTTP-Response-Splitting-via-Unvalidated-Response-Header-Values-rouille-"
+  },
+  {
+    "CVE": "CVE-2026-67181",
+    "PoC": "https://github.com/theopaid/CVE-2026-67181-HTTP-Request-Smuggling-via-Transfer-Encoding-Desynchronization-rouille-"
+  },
+  {
+    "CVE": "CVE-2026-66754",
+    "PoC": "https://github.com/theopaid/CVE-2026-66754-HTTP-Request-Smuggling-Enables-Front-End-Access-Control-Bypass-rouille-"
+  },
+  {
+    "CVE": "CVE-2026-67182",
+    "PoC": "https://github.com/theopaid/CVE-2026-67182-HTTP-Request-Smuggling-Enables-Front-End-Access-Control-Bypass-rouille-"
+  },
+  {
+    "CVE": "CVE-2026-67183",
+    "PoC": "https://github.com/theopaid/CVE-2026-67183-Unauthenticated-Memory-Leak-Leads-To-Memory-Exhaustion-TinyWeb-"
+  },
+  {
+    "CVE": "CVE-2026-67184",
+    "PoC": "https://github.com/theopaid/CVE-2026-67184-Unauthenticated-NULL-Pointer-Dereference-Crashes-the-Server-TinyWeb-"
+  },
+  {
+    "CVE": "CVE-2026-67185",
+    "PoC": "https://github.com/theopaid/CVE-2026-67185-Unauthenticated-Path-Traversal-Allows-Arbitrary-File-Read-TinyWeb-"
+  },
+  {
+    "CVE": "CVE-2026-66750",
+    "PoC": "https://github.com/theopaid/CVE-2026-66750-Insufficient-Access-Controls-Allow-for-Unauthorized-File-Downloads-Let-s-Chat-"
+  },
+  {
+    "CVE": "CVE-2026-64600",
+    "PoC": "https://github.com/letsr00t/RefluxFS_CVE-2026-64600"
+  },
+  {
+    "CVE": "CVE-2022-30024",
+    "PoC": "https://github.com/ilizavr/CVE-2022-30024"
+  },
+  {
+    "CVE": "CVE-2026-64600",
+    "PoC": "https://github.com/bha-vin/CVE-2026-64600-Exploit"
+  },
+  {
+    "CVE": "CVE-2023-3350",
+    "PoC": "https://github.com/itres-labs/CVE-2023-3350"
+  },
+  {
+    "CVE": "CVE-2026-53264",
+    "PoC": "https://github.com/HORKimhab/CVE-2026-53264"
+  },
+  {
+    "CVE": "CVE-2026-14856",
+    "PoC": "https://github.com/jonas-fernandez-as/CVE-2026-14856-TastyIgniter"
+  },
+  {
+    "CVE": "CVE-2026-9198",
+    "PoC": "https://github.com/samael0x4/CVE-2026-9198"
+  },
+  {
+    "CVE": "CVE-2025-21479",
+    "PoC": "https://github.com/CamsShaft/SELinux-Permissive-Only-CVE-2025-21479"
+  },
+  {
+    "CVE": "CVE-2025-21479",
+    "PoC": "https://github.com/CamsShaft/SELinux-Permissive-Only-version-of-Cheese-aka-CVE-2025-21479"
+  },
+  {
+    "CVE": "CVE-2026-8206",
+    "PoC": "https://github.com/Dungsocool/CVE-2026-8206"
+  },
+  {
+    "CVE": "CVE-2026-54121",
+    "PoC": "https://github.com/ChPratik/CVE-2026-54121"
+  },
+  {
+    "CVE": "CVE-2026-27577",
+    "PoC": "https://github.com/HORKimhab/CVE-2026-27577"
+  },
+  {
+    "CVE": "CVE-2026-61511",
+    "PoC": "https://github.com/codeb0ssx/-Ultimate-CVE-2026-61511"
+  },
+  {
+    "CVE": "CVE-2026-61511",
+    "PoC": "https://github.com/codeb0ssx/Ultimate-CVE-2026-61511"
+  },
+  {
+    "CVE": "CVE-2026-51302",
+    "PoC": "https://github.com/extratao/CVE-2026-51302-PoC"
+  },
+  {
+    "CVE": "CVE-2026-50522",
+    "PoC": "https://github.com/darses/CVE-2026-50522"
+  },
+  {
+    "CVE": "CVE-2023-0264",
+    "PoC": "https://github.com/ElianGonzi00/pocKeycloakCVE-2023-0264"
+  },
+  {
+    "CVE": "CVE-2026-53921",
+    "PoC": "https://github.com/tc4dy/CVE-2026-53921-PoC-Exploit"
+  },
+  {
+    "CVE": "CVE-2026-16232",
+    "PoC": "https://github.com/sfewer-r7/CVE-2026-16232"
+  },
+  {
+    "CVE": "CVE-2026-43499",
+    "PoC": "https://github.com/mumaosong/CVE-2026-43499-xiaomi_8e-"
+  },
+  {
+    "CVE": "CVE-2026-43499",
+    "PoC": "https://github.com/mumaosong/CVE-2026-43499-xiaomi_8e-GUI"
+  },
+  {
+    "CVE": "CVE-2026-65761",
+    "PoC": "https://github.com/ywh-jfellus/CVE-2026-65761"
+  },
+  {
+    "CVE": "CVE-2026-53921",
+    "PoC": "https://github.com/0xBlackash/CVE-2026-53921"
+  },
+  {
+    "CVE": "CVE-2024-28987",
+    "PoC": "https://github.com/Darabium/CVE-2024-28987"
+  },
+  {
+    "CVE": "CVE-2025-71389",
+    "PoC": "https://github.com/0xdak/CVE-2025-71389_exploit"
+  },
+  {
+    "CVE": "CVE-2026-71389",
+    "PoC": "https://github.com/0xdak/CVE-2026-71389_exploit"
+  },
+  {
+    "CVE": "CVE-2026-61511",
+    "PoC": "https://github.com/puj790201-lab/cve-2026-61511"
+  },
+  {
+    "CVE": "CVE-2026-59891",
+    "PoC": "https://github.com/gyubin02/cve-2026-59891-control-lab"
+  },
+  {
+    "CVE": "CVE-2026-65893",
+    "PoC": "https://github.com/CyberVinner/CP-PLUS-EZ-P21-CVE-2026-65893-65894"
+  },
+  {
+    "CVE": "CVE-2026-64725",
+    "PoC": "https://github.com/altvist/cve-2026-64725-poc"
+  },
+  {
+    "CVE": "CVE-2026-64600",
+    "PoC": "https://github.com/letsr00t/RefluxFS---CVE-2026-64600"
+  },
+  {
     "CVE": "CVE-2024-27198",
     "PoC": "https://github.com/kxom9ks/CVE-2024-27198-TeamCity"
   },
