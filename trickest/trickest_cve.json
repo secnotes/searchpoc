@@ -80185,6 +80185,10 @@
   },
   {
     "CVE": "CVE-2010-1321",
+    "PoC": "http://www.redhat.com/support/errata/RHSA-2011-0152.html"
+  },
+  {
+    "CVE": "CVE-2010-1321",
     "PoC": "http://www.redhat.com/support/errata/RHSA-2011-0880.html"
   },
   {
@@ -85462,6 +85466,10 @@
   {
     "CVE": "CVE-2010-3574",
     "PoC": "http://www.redhat.com/support/errata/RHSA-2010-0865.html"
+  },
+  {
+    "CVE": "CVE-2010-3574",
+    "PoC": "http://www.redhat.com/support/errata/RHSA-2011-0152.html"
   },
   {
     "CVE": "CVE-2010-3574",
@@ -176000,6 +176008,10 @@
     "PoC": "http://jira.pentaho.com/browse/BISERVER-13207"
   },
   {
+    "CVE": "CVE-2016-10701",
+    "PoC": "http://jira.pentaho.com/browse/BISERVER-3562"
+  },
+  {
     "CVE": "CVE-2016-10702",
     "PoC": "https://blog.fletchto99.com/2016/november/pebble-app-sandbox-escape/"
   },
@@ -211774,6 +211786,10 @@
   {
     "CVE": "CVE-2017-20116",
     "PoC": "https://www.exploit-db.com/exploits/41184/"
+  },
+  {
+    "CVE": "CVE-2017-20117",
+    "PoC": "https://vuldb.com/?id.96631"
   },
   {
     "CVE": "CVE-2017-20117",
@@ -301208,6 +301224,10 @@
     "PoC": "https://www.oracle.com/security-alerts/cpuoct2021.html"
   },
   {
+    "CVE": "CVE-2020-10688",
+    "PoC": "https://issues.redhat.com/browse/RESTEASY-2519"
+  },
+  {
     "CVE": "CVE-2020-10690",
     "PoC": "https://usn.ubuntu.com/4419-1/"
   },
@@ -369912,6 +369932,10 @@
     "PoC": "https://www.cyberiskvision.com/advisory/"
   },
   {
+    "CVE": "CVE-2021-4052",
+    "PoC": "https://chromereleases.googleblog.com/2021/12/stable-channel-update-for-desktop.html"
+  },
+  {
     "CVE": "CVE-2021-40528",
     "PoC": "https://ibm.github.io/system-security-research-updates/2021/07/20/insecurity-elgamal-pt1"
   },
@@ -369922,6 +369946,10 @@
   {
     "CVE": "CVE-2021-40529",
     "PoC": "https://ibm.github.io/system-security-research-updates/2021/07/20/insecurity-elgamal-pt1"
+  },
+  {
+    "CVE": "CVE-2021-4053",
+    "PoC": "https://chromereleases.googleblog.com/2021/12/stable-channel-update-for-desktop.html"
   },
   {
     "CVE": "CVE-2021-40530",
@@ -369940,6 +369968,10 @@
     "PoC": "https://www.manageengine.com"
   },
   {
+    "CVE": "CVE-2021-4054",
+    "PoC": "https://chromereleases.googleblog.com/2021/12/stable-channel-update-for-desktop.html"
+  },
+  {
     "CVE": "CVE-2021-40540",
     "PoC": "http://packetstormsecurity.com/files/164152/Ulfius-Web-Framework-Remote-Memory-Corruption.html"
   },
@@ -369956,6 +369988,10 @@
     "PoC": "https://github.com/doudoudedi/buffer_overflow/blob/main/Tenda%20AC6%20V4.0-Denial%20of%20Service%20Vulnerability.md"
   },
   {
+    "CVE": "CVE-2021-4055",
+    "PoC": "https://chromereleases.googleblog.com/2021/12/stable-channel-update-for-desktop.html"
+  },
+  {
     "CVE": "CVE-2021-40555",
     "PoC": "https://github.com/flatCore/flatCore-CMS/issues/56"
   },
@@ -369966,6 +370002,10 @@
   {
     "CVE": "CVE-2021-40559",
     "PoC": "https://github.com/gpac/gpac/issues/1886"
+  },
+  {
+    "CVE": "CVE-2021-4056",
+    "PoC": "https://chromereleases.googleblog.com/2021/12/stable-channel-update-for-desktop.html"
   },
   {
     "CVE": "CVE-2021-40562",
@@ -370006,6 +370046,10 @@
   {
     "CVE": "CVE-2021-4057",
     "PoC": "http://packetstormsecurity.com/files/165486/Chrome-storage-BlobURLStoreImpl-Revoke-Heap-Use-After-Free.html"
+  },
+  {
+    "CVE": "CVE-2021-4057",
+    "PoC": "https://chromereleases.googleblog.com/2021/12/stable-channel-update-for-desktop.html"
   },
   {
     "CVE": "CVE-2021-40570",
@@ -370072,6 +370116,14 @@
     "PoC": "https://www.sourcecodester.com/"
   },
   {
+    "CVE": "CVE-2021-4058",
+    "PoC": "https://chromereleases.googleblog.com/2021/12/stable-channel-update-for-desktop.html"
+  },
+  {
+    "CVE": "CVE-2021-4059",
+    "PoC": "https://chromereleases.googleblog.com/2021/12/stable-channel-update-for-desktop.html"
+  },
+  {
     "CVE": "CVE-2021-40595",
     "PoC": "https://github.com/nu11secur1ty/CVE-nu11secur1ty/tree/main/vendors/oretnom23/CVE-nu11-03"
   },
@@ -370104,6 +370156,10 @@
     "PoC": "https://github.com/gpac/gpac/issues/1894"
   },
   {
+    "CVE": "CVE-2021-4061",
+    "PoC": "https://chromereleases.googleblog.com/2021/12/stable-channel-update-for-desktop.html"
+  },
+  {
     "CVE": "CVE-2021-40617",
     "PoC": "https://github.com/MarkLee131/awesome-web-pocs/blob/main/CVE-2021-40617.md"
   },
@@ -370114,6 +370170,14 @@
   {
     "CVE": "CVE-2021-40618",
     "PoC": "https://github.com/OS4ED/openSIS-Classic/issues/193"
+  },
+  {
+    "CVE": "CVE-2021-4062",
+    "PoC": "https://chromereleases.googleblog.com/2021/12/stable-channel-update-for-desktop.html"
+  },
+  {
+    "CVE": "CVE-2021-4063",
+    "PoC": "https://chromereleases.googleblog.com/2021/12/stable-channel-update-for-desktop.html"
   },
   {
     "CVE": "CVE-2021-40635",
@@ -370132,6 +370196,10 @@
     "PoC": "https://github.com/jflyfox/jfinal_cms/issues/27"
   },
   {
+    "CVE": "CVE-2021-4064",
+    "PoC": "https://chromereleases.googleblog.com/2021/12/stable-channel-update-for-desktop.html"
+  },
+  {
     "CVE": "CVE-2021-40644",
     "PoC": "https://github.com/novysodope/VulReq/blob/main/oa_system"
   },
@@ -370146,6 +370214,10 @@
   {
     "CVE": "CVE-2021-40648",
     "PoC": "https://gist.github.com/untaman/cb58123fe89fc65e3984165db5d40933"
+  },
+  {
+    "CVE": "CVE-2021-4065",
+    "PoC": "https://chromereleases.googleblog.com/2021/12/stable-channel-update-for-desktop.html"
   },
   {
     "CVE": "CVE-2021-40651",
@@ -370176,6 +370248,10 @@
     "PoC": "https://tanmay26.medium.com/textpattern-4-8-7-is-affected-by-html-injection-in-the-body-parameter-1a7be2441b70"
   },
   {
+    "CVE": "CVE-2021-4066",
+    "PoC": "https://chromereleases.googleblog.com/2021/12/stable-channel-update-for-desktop.html"
+  },
+  {
     "CVE": "CVE-2021-40660",
     "PoC": "https://github.com/javadelight/delight-nashorn-sandbox/issues/117"
   },
@@ -370200,12 +370276,20 @@
     "PoC": "https://github.com/wuzhicms/wuzhicms/issues/196"
   },
   {
+    "CVE": "CVE-2021-4067",
+    "PoC": "https://chromereleases.googleblog.com/2021/12/stable-channel-update-for-desktop.html"
+  },
+  {
     "CVE": "CVE-2021-40670",
     "PoC": "https://github.com/wuzhicms/wuzhicms/issues/197"
   },
   {
     "CVE": "CVE-2021-40674",
     "PoC": "https://github.com/wuzhicms/wuzhicms/issues/198"
+  },
+  {
+    "CVE": "CVE-2021-4068",
+    "PoC": "https://chromereleases.googleblog.com/2021/12/stable-channel-update-for-desktop.html"
   },
   {
     "CVE": "CVE-2021-40680",
@@ -370234,6 +370318,14 @@
   {
     "CVE": "CVE-2021-4076",
     "PoC": "https://github.com/latchset/tang/pull/81"
+  },
+  {
+    "CVE": "CVE-2021-4078",
+    "PoC": "https://chromereleases.googleblog.com/2021/12/stable-channel-update-for-desktop.html"
+  },
+  {
+    "CVE": "CVE-2021-4079",
+    "PoC": "https://chromereleases.googleblog.com/2021/12/stable-channel-update-for-desktop.html"
   },
   {
     "CVE": "CVE-2021-4080",
@@ -372952,6 +373044,10 @@
     "PoC": "https://www.exploit-db.com/docs/english/17254-connection-string-parameter-pollution-attacks.pdf"
   },
   {
+    "CVE": "CVE-2021-4284",
+    "PoC": "https://issues.openmrs.org/browse/RA-1424?filter=-1"
+  },
+  {
     "CVE": "CVE-2021-42840",
     "PoC": "http://packetstormsecurity.com/files/165001/SuiteCRM-7.11.18-Remote-Code-Execution.html"
   },
@@ -373562,6 +373658,10 @@
   {
     "CVE": "CVE-2021-43164",
     "PoC": "http://ruijie.com"
+  },
+  {
+    "CVE": "CVE-2021-4317",
+    "PoC": "https://chromereleases.googleblog.com/2021/12/stable-channel-update-for-desktop.html"
   },
   {
     "CVE": "CVE-2021-43180",
@@ -381502,6 +381602,10 @@
   {
     "CVE": "CVE-2022-0087",
     "PoC": "https://huntr.dev/bounties/c9d7374f-2cb9-4bac-9c90-a965942f413e"
+  },
+  {
+    "CVE": "CVE-2022-0088",
+    "PoC": "https://github.com/MarkLee131/awesome-web-pocs/blob/main/CVE-2022-0088.md"
   },
   {
     "CVE": "CVE-2022-0088",
@@ -435453,11 +435557,19 @@
   },
   {
     "CVE": "CVE-2023-25718",
+    "PoC": "https://m.youtube.com/watch?v=fbNVUgmstSc&pp=0gcJCf0Ao7VqN5tD"
+  },
+  {
+    "CVE": "CVE-2023-25718",
     "PoC": "https://www.huntress.com/blog/clearing-the-air-overblown-claims-of-vulnerabilities-exploits-severity"
   },
   {
     "CVE": "CVE-2023-25719",
     "PoC": "https://cybir.com/2022/cve/hijacking-connectwise-control-and-ddos/"
+  },
+  {
+    "CVE": "CVE-2023-25719",
+    "PoC": "https://m.youtube.com/watch?v=fbNVUgmstSc&pp=0gcJCf0Ao7VqN5tD"
   },
   {
     "CVE": "CVE-2023-25719",
@@ -501032,6 +501144,10 @@
     "PoC": "https://raw.githubusercontent.com/rapid7/metasploit-framework/master/modules/exploits/linux/http/librenms_authenticated_rce_cve_2024_51092.rb"
   },
   {
+    "CVE": "CVE-2024-5111",
+    "PoC": "https://vuldb.com/?id.265101"
+  },
+  {
     "CVE": "CVE-2024-51111",
     "PoC": "https://github.com/Zehraakmanlar/Bortecine-s_CVEs/blob/main/README.md"
   },
@@ -537301,6 +537417,10 @@
   },
   {
     "CVE": "CVE-2025-4173",
+    "PoC": "https://github.com/huashuocc/cve/blob/main/sql.md"
+  },
+  {
+    "CVE": "CVE-2025-4173",
     "PoC": "https://www.sourcecodester.com/"
   },
   {
@@ -553813,6 +553933,10 @@
   },
   {
     "CVE": "CVE-2025-65135",
+    "PoC": "https://github.com/TREXNEGRO/Security-Advisories/blob/main/CVE-2025-65135/poc.md"
+  },
+  {
+    "CVE": "CVE-2025-65135",
     "PoC": "https://github.com/TREXNEGRO/Security-Advisories/tree/main/CVE-2025-65135"
   },
   {
@@ -553918,6 +554042,10 @@
   {
     "CVE": "CVE-2025-65237",
     "PoC": "https://eslam3kl.gitbook.io/blog/web-application-findings/cve-2025-65237-ussd-gateway-reflected-cross-site-scripting"
+  },
+  {
+    "CVE": "CVE-2025-65264",
+    "PoC": "https://github.com/cwjchoi01/CVE-2025-65264"
   },
   {
     "CVE": "CVE-2025-65270",
@@ -554466,6 +554594,10 @@
   {
     "CVE": "CVE-2025-65883",
     "PoC": "https://0xw41th.medium.com/my-first-cve-cve-2025-65883-remote-code-execution-in-a-genexis-router-0c35749a99bd"
+  },
+  {
+    "CVE": "CVE-2025-65885",
+    "PoC": "https://gist.github.com/symbuzzer/3315e88adc2bba0b6cc66d192b49546d"
   },
   {
     "CVE": "CVE-2025-65899",
@@ -565276,6 +565408,10 @@
     "PoC": "https://research.cleantalk.org/cve-2025-9879/"
   },
   {
+    "CVE": "CVE-2026-0009",
+    "PoC": "http://www.openwall.com/lists/oss-security/2026/07/28/7"
+  },
+  {
     "CVE": "CVE-2026-0010",
     "PoC": "http://www.openwall.com/lists/oss-security/2026/07/28/4"
   },
@@ -565646,6 +565782,10 @@
   {
     "CVE": "CVE-2026-0999",
     "PoC": "https://mattermost.com/security-updates"
+  },
+  {
+    "CVE": "CVE-2026-10017",
+    "PoC": "https://issues.chromium.org/issues/504156069"
   },
   {
     "CVE": "CVE-2026-10042",
@@ -566544,6 +566684,18 @@
     "PoC": "https://metacpan.org/release/HMBRAND/DBI-1.648/changes"
   },
   {
+    "CVE": "CVE-2026-10881",
+    "PoC": "https://issues.chromium.org/issues/498904293"
+  },
+  {
+    "CVE": "CVE-2026-10883",
+    "PoC": "https://issues.chromium.org/issues/503768143"
+  },
+  {
+    "CVE": "CVE-2026-10903",
+    "PoC": "https://issues.chromium.org/issues/503422316"
+  },
+  {
     "CVE": "CVE-2026-10906",
     "PoC": "https://issues.chromium.org/issues/503420438"
   },
@@ -566558,6 +566710,10 @@
   {
     "CVE": "CVE-2026-10928",
     "PoC": "https://issues.chromium.org/issues/500124367"
+  },
+  {
+    "CVE": "CVE-2026-10929",
+    "PoC": "https://issues.chromium.org/issues/500429259"
   },
   {
     "CVE": "CVE-2026-10933",
@@ -566590,6 +566746,10 @@
   {
     "CVE": "CVE-2026-11011",
     "PoC": "https://issues.chromium.org/issues/496702621"
+  },
+  {
+    "CVE": "CVE-2026-11015",
+    "PoC": "https://issues.chromium.org/issues/497183443"
   },
   {
     "CVE": "CVE-2026-11017",
@@ -566720,6 +566880,10 @@
     "PoC": "https://issues.chromium.org/issues/500505339"
   },
   {
+    "CVE": "CVE-2026-11107",
+    "PoC": "https://issues.chromium.org/issues/500510384"
+  },
+  {
     "CVE": "CVE-2026-1111",
     "PoC": "https://github.com/AnalogyC0de/public_exp/issues/2"
   },
@@ -566804,12 +566968,20 @@
     "PoC": "https://issues.chromium.org/issues/502337304"
   },
   {
+    "CVE": "CVE-2026-11176",
+    "PoC": "https://issues.chromium.org/issues/502371717"
+  },
+  {
     "CVE": "CVE-2026-11179",
     "PoC": "https://issues.chromium.org/issues/502615170"
   },
   {
     "CVE": "CVE-2026-1118",
     "PoC": "https://github.com/AriazzzZ/CVE/issues/2"
+  },
+  {
+    "CVE": "CVE-2026-11181",
+    "PoC": "https://issues.chromium.org/issues/502633299"
   },
   {
     "CVE": "CVE-2026-1119",
@@ -566822,6 +566994,10 @@
   {
     "CVE": "CVE-2026-1120",
     "PoC": "https://vuldb.com/?submit.734535"
+  },
+  {
+    "CVE": "CVE-2026-11200",
+    "PoC": "https://issues.chromium.org/issues/504579798"
   },
   {
     "CVE": "CVE-2026-1121",
@@ -566936,6 +567112,10 @@
     "PoC": "https://issues.chromium.org/issues/500551122"
   },
   {
+    "CVE": "CVE-2026-11271",
+    "PoC": "https://issues.chromium.org/issues/501685207"
+  },
+  {
     "CVE": "CVE-2026-11279",
     "PoC": "https://issues.chromium.org/issues/501878477"
   },
@@ -567042,6 +567222,10 @@
   {
     "CVE": "CVE-2026-1135",
     "PoC": "https://github.com/TEhS411/cve/issues/8"
+  },
+  {
+    "CVE": "CVE-2026-11351",
+    "PoC": "https://wpscan.com/vulnerability/cac3a0c4-e6b9-42a6-b702-abcba67038c2/"
   },
   {
     "CVE": "CVE-2026-1136",
@@ -567632,6 +567816,10 @@
     "PoC": "https://mattg.systems/posts/cve-2026-11834/"
   },
   {
+    "CVE": "CVE-2026-11841",
+    "PoC": "https://www.first.org/cvss/calculator/3.1"
+  },
+  {
     "CVE": "CVE-2026-11855",
     "PoC": "https://wpscan.com/vulnerability/217cb606-a0f2-4427-9262-cfe1cc90474e/"
   },
@@ -567738,6 +567926,10 @@
   {
     "CVE": "CVE-2026-1197",
     "PoC": "https://github.com/SourByte05/MineAdmin-Vulnerability/issues/2"
+  },
+  {
+    "CVE": "CVE-2026-11974",
+    "PoC": "https://wpscan.com/vulnerability/7b6aea5d-2e2e-4920-9776-b15841ba1f26/"
   },
   {
     "CVE": "CVE-2026-11982",
@@ -568416,6 +568608,10 @@
     "PoC": "https://wpscan.com/vulnerability/1a7a9159-0e85-43c4-b1ab-7ea37a4f2d95/"
   },
   {
+    "CVE": "CVE-2026-13423",
+    "PoC": "https://wpscan.com/vulnerability/f85c5da1-412f-4079-8c44-708bc78c2b9b/"
+  },
+  {
     "CVE": "CVE-2026-13432",
     "PoC": "https://wpscan.com/vulnerability/a408e8f9-4de7-4449-8fca-51ea46e4f433/"
   },
@@ -568696,12 +568892,24 @@
     "PoC": "https://wpscan.com/vulnerability/5e856219-ece5-4d79-8375-fc0cbdc37d6c/"
   },
   {
+    "CVE": "CVE-2026-13605",
+    "PoC": "https://wpscan.com/vulnerability/7ec73098-99eb-48cb-8ff6-a05110691117/"
+  },
+  {
     "CVE": "CVE-2026-1368",
     "PoC": "https://wpscan.com/vulnerability/218e6655-c5aa-4bce-86b2-cad3bb20020c/"
   },
   {
     "CVE": "CVE-2026-1369",
     "PoC": "https://wpscan.com/vulnerability/5a275725-85f2-4463-880b-9473dbdfa8e0/"
+  },
+  {
+    "CVE": "CVE-2026-13690",
+    "PoC": "https://wpscan.com/vulnerability/144202a9-e86f-4977-a97a-eca673859c81/"
+  },
+  {
+    "CVE": "CVE-2026-13692",
+    "PoC": "https://wpscan.com/vulnerability/e2dc15c7-2210-4be8-b7f3-55a9477e488d/"
   },
   {
     "CVE": "CVE-2026-13693",
@@ -568844,6 +569052,14 @@
     "PoC": "https://vuldb.com/?id.342838"
   },
   {
+    "CVE": "CVE-2026-14224",
+    "PoC": "https://wpscan.com/vulnerability/c39226d5-1b6f-4f08-903c-7ecc67d17eb0/"
+  },
+  {
+    "CVE": "CVE-2026-14234",
+    "PoC": "https://wpscan.com/vulnerability/ba3b8f4a-772f-42ad-9c67-5623406118c1/"
+  },
+  {
     "CVE": "CVE-2026-14235",
     "PoC": "https://wpscan.com/vulnerability/9634b51c-59a1-45f6-8b09-421d6bfd0204/"
   },
@@ -568866,6 +569082,10 @@
   {
     "CVE": "CVE-2026-1430",
     "PoC": "https://wpscan.com/vulnerability/e0536061-140d-47eb-9e8b-9785b52c62f7/"
+  },
+  {
+    "CVE": "CVE-2026-14300",
+    "PoC": "https://wpscan.com/vulnerability/7ecf657b-b059-4420-8c36-f38d58960d2b/"
   },
   {
     "CVE": "CVE-2026-14322",
@@ -575650,6 +575870,10 @@
   {
     "CVE": "CVE-2026-27769",
     "PoC": "https://mattermost.com/security-updates"
+  },
+  {
+    "CVE": "CVE-2026-2778",
+    "PoC": "https://bugzilla.mozilla.org/show_bug.cgi?id=2016358"
   },
   {
     "CVE": "CVE-2026-27796",
@@ -591768,6 +591992,10 @@
     "PoC": "https://github.com/elixir-mint/mint/security/advisories/GHSA-8pf6-g464-h6h9"
   },
   {
+    "CVE": "CVE-2026-59248",
+    "PoC": "https://cna.erlef.org/cves/CVE-2026-59248.html"
+  },
+  {
     "CVE": "CVE-2026-59249",
     "PoC": "https://cna.erlef.org/cves/CVE-2026-59249.html"
   },
@@ -592372,6 +592600,10 @@
     "PoC": "https://github.com/ahmadmarz10-hub/CVEsMarz/blob/main/Sensitive%20Information%20Disclosure%20in%20Simple%20Chatbox%20PHP%20Exposed%20Database%20Backup.md"
   },
   {
+    "CVE": "CVE-2026-61609",
+    "PoC": "https://github.com/pterodactyl/panel/security/advisories/GHSA-xvc3-826v-xf47"
+  },
+  {
     "CVE": "CVE-2026-61643",
     "PoC": "https://github.com/labring/FastGPT/security/advisories/GHSA-93r3-wqq3-c5ch"
   },
@@ -592660,6 +592892,10 @@
     "PoC": "https://wpscan.com/vulnerability/a0b1c059-e156-4402-ac8d-67f8ad7386cc/"
   },
   {
+    "CVE": "CVE-2026-64531",
+    "PoC": "http://www.openwall.com/lists/oss-security/2026/07/28/8"
+  },
+  {
     "CVE": "CVE-2026-6459",
     "PoC": "https://research.cleantalk.org/cve-2026-6459"
   },
@@ -592722,6 +592958,10 @@
   {
     "CVE": "CVE-2026-64828",
     "PoC": "https://github.com/aaronamran/CVE-Disclosures/tree/main/CVE-2026/CVE-2026-64828"
+  },
+  {
+    "CVE": "CVE-2026-64863",
+    "PoC": "https://github.com/goshs-labs/goshs/security/advisories/GHSA-hq33-8jgp-8qq3"
   },
   {
     "CVE": "CVE-2026-6492",
@@ -592798,6 +593038,10 @@
   {
     "CVE": "CVE-2026-65623",
     "PoC": "https://cna.erlef.org/cves/CVE-2026-65623.html"
+  },
+  {
+    "CVE": "CVE-2026-65624",
+    "PoC": "https://cna.erlef.org/cves/CVE-2026-65624.html"
   },
   {
     "CVE": "CVE-2026-6563",
@@ -593904,6 +594148,14 @@
     "PoC": "https://issues.chromium.org/issues/497896137"
   },
   {
+    "CVE": "CVE-2026-7341",
+    "PoC": "https://issues.chromium.org/issues/504586599"
+  },
+  {
+    "CVE": "CVE-2026-7343",
+    "PoC": "https://issues.chromium.org/issues/503645680"
+  },
+  {
     "CVE": "CVE-2026-7344",
     "PoC": "https://issues.chromium.org/issues/503419515"
   },
@@ -593920,12 +594172,24 @@
     "PoC": "https://issues.chromium.org/issues/499119490"
   },
   {
+    "CVE": "CVE-2026-7354",
+    "PoC": "https://issues.chromium.org/issues/498746519"
+  },
+  {
     "CVE": "CVE-2026-7356",
     "PoC": "https://issues.chromium.org/issues/497769116"
   },
   {
     "CVE": "CVE-2026-7358",
     "PoC": "https://issues.chromium.org/issues/496285281"
+  },
+  {
+    "CVE": "CVE-2026-7359",
+    "PoC": "https://issues.chromium.org/issues/496284494"
+  },
+  {
+    "CVE": "CVE-2026-7360",
+    "PoC": "https://issues.chromium.org/issues/495852034"
   },
   {
     "CVE": "CVE-2026-7361",
@@ -594656,6 +594920,10 @@
     "PoC": "https://issues.chromium.org/issues/493747582"
   },
   {
+    "CVE": "CVE-2026-7898",
+    "PoC": "https://issues.chromium.org/issues/504587882"
+  },
+  {
     "CVE": "CVE-2026-7900",
     "PoC": "https://issues.chromium.org/issues/496503799"
   },
@@ -594724,6 +594992,14 @@
     "PoC": "https://issues.chromium.org/issues/502830119"
   },
   {
+    "CVE": "CVE-2026-7928",
+    "PoC": "https://issues.chromium.org/issues/504612429"
+  },
+  {
+    "CVE": "CVE-2026-7929",
+    "PoC": "https://issues.chromium.org/issues/504660052"
+  },
+  {
     "CVE": "CVE-2026-7930",
     "PoC": "https://issues.chromium.org/issues/434825208"
   },
@@ -594738,6 +595014,10 @@
   {
     "CVE": "CVE-2026-7938",
     "PoC": "https://issues.chromium.org/issues/492735384"
+  },
+  {
+    "CVE": "CVE-2026-7943",
+    "PoC": "https://issues.chromium.org/issues/495373657"
   },
   {
     "CVE": "CVE-2026-7945",
@@ -595116,6 +595396,10 @@
     "PoC": "https://issues.chromium.org/issues/493310462"
   },
   {
+    "CVE": "CVE-2026-8519",
+    "PoC": "https://issues.chromium.org/issues/498400132"
+  },
+  {
     "CVE": "CVE-2026-8523",
     "PoC": "https://issues.chromium.org/issues/483956252"
   },
@@ -595330,6 +595614,10 @@
   {
     "CVE": "CVE-2026-9067",
     "PoC": "https://wpscan.com/vulnerability/7fac98eb-f82c-4705-a956-aba650945826/"
+  },
+  {
+    "CVE": "CVE-2026-9111",
+    "PoC": "https://issues.chromium.org/issues/504551032"
   },
   {
     "CVE": "CVE-2026-9112",
