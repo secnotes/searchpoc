@@ -1,5 +1,225 @@
 [
   {
+    "CVE": "CVE-2026-66421",
+    "PoC": "https://github.com/theopaid/CVE-2026-66421-OpenClaw-Dashboard-Stored-XSS-via-lastMessage-Session-Field"
+  },
+  {
+    "CVE": "CVE-2026-66418",
+    "PoC": "https://github.com/theopaid/CVE-2026-66418-OpenClaw-Dashboard-v3.0.0-Stored-XSS-via-Failed-Login-Username-Field"
+  },
+  {
+    "CVE": "CVE-2026-67206",
+    "PoC": "https://github.com/anirbala98/CVE-2026-67206"
+  },
+  {
+    "CVE": "CVE-2026-39987",
+    "PoC": "https://github.com/jasonbernier/CVE-2026-39987"
+  },
+  {
+    "CVE": "CVE-2021-21972",
+    "PoC": "https://github.com/Hurrrraaaa/CVE-2021-21972"
+  },
+  {
+    "CVE": "CVE-2026-9809",
+    "PoC": "https://github.com/aj2108/CVE-2026-9809"
+  },
+  {
+    "CVE": "CVE-2026-9811",
+    "PoC": "https://github.com/aj2108/CVE-2026-9811"
+  },
+  {
+    "CVE": "CVE-2026-41651",
+    "PoC": "https://github.com/gbuyssens/CVE-2026-41651"
+  },
+  {
+    "CVE": "CVE-2026-39987",
+    "PoC": "https://github.com/gbuyssens/CVE-2026-39987"
+  },
+  {
+    "CVE": "CVE-2026-58424",
+    "PoC": "https://github.com/BridgerAlderson/CVE-2026-58424"
+  },
+  {
+    "CVE": "CVE-2026-59941",
+    "PoC": "https://github.com/far00t01/CVE-2026-59941"
+  },
+  {
+    "CVE": "CVE-2026-57827",
+    "PoC": "https://github.com/Mohammad-008/rsfiles-CVE-2026-57827"
+  },
+  {
+    "CVE": "CVE-2026-43499",
+    "PoC": "https://github.com/boxiaolanya2008/CVE-2026-43499-Neo11Plus"
+  },
+  {
+    "CVE": "CVE-2025-68937",
+    "PoC": "https://github.com/Scratchappy/CVE-2025-68937"
+  },
+  {
+    "CVE": "CVE-2026-49049",
+    "PoC": "https://github.com/Jenderal92/CVE-2026-49049"
+  },
+  {
+    "CVE": "CVE-2026-9998",
+    "PoC": "https://github.com/George0Papasotiriou/CVE-2026-9998-Insecure-Deserialization-in-Blockchain-Oracle"
+  },
+  {
+    "CVE": "CVE-2026-6789",
+    "PoC": "https://github.com/George0Papasotiriou/CVE-2026-6789-Stack-Buffer-Overflow-in-Embedded-TLS-Certificate-Parser"
+  },
+  {
+    "CVE": "CVE-2026-3456",
+    "PoC": "https://github.com/George0Papasotiriou/CVE-2026-3456-OAuth2-PKCE-Race-Condition-Account-Takeover-"
+  },
+  {
+    "CVE": "CVE-2026-5432",
+    "PoC": "https://github.com/George0Papasotiriou/CVE-2026-5432-GraphQL-Batching-Alias-Confusion-SQL-Injection"
+  },
+  {
+    "CVE": "CVE-2026-7878",
+    "PoC": "https://github.com/George0Papasotiriou/6.-CVE-2026-7878-eBPF-Verifier-Type-Confusion-Kernel-Memory-Read-Write"
+  },
+  {
+    "CVE": "CVE-2026-7878",
+    "PoC": "https://github.com/George0Papasotiriou/CVE-2026-7878-eBPF-Verifier-Type-Confusion-Kernel-Memory-Read-Write"
+  },
+  {
+    "CVE": "CVE-2026-1122",
+    "PoC": "https://github.com/George0Papasotiriou/CVE-2026-1122-IoT-Firmware-Update-Signature-Bypass-via-Low-Order-Point-Injection"
+  },
+  {
+    "CVE": "CVE-2026-2828",
+    "PoC": "https://github.com/George0Papasotiriou/CVE-2026-2828-WebGPU-Cross-Origin-Pixel-Stealing-via-Timing"
+  },
+  {
+    "CVE": "CVE-2026-9999",
+    "PoC": "https://github.com/George0Papasotiriou/CVE-2026-9999-Serverless-Event-Injection-to-Code-Overwrite"
+  },
+  {
+    "CVE": "CVE-2026-9999",
+    "PoC": "https://github.com/George0Papasotiriou/CVE-2026-9999-Serverless-Function-Event-Injection-Path-Traversal-Code-Overwrite-"
+  },
+  {
+    "CVE": "CVE-2026-4567",
+    "PoC": "https://github.com/George0Papasotiriou/CVE-2026-4567-Post-Quantum-KEM-Timing-Side-Channel-Kyber-Decapsulation-"
+  },
+  {
+    "CVE": "CVE-2026-1337",
+    "PoC": "https://github.com/George0Papasotiriou/CVE-2026-1337-AI-Coding-Assistant-Prompt-Injection-to-Sandbox-Escape"
+  },
+  {
+    "CVE": "CVE-2026-31431",
+    "PoC": "https://github.com/TrevoCastles/CVE-2026-31431-copy-fail"
+  },
+  {
+    "CVE": "CVE-2017-7921",
+    "PoC": "https://github.com/xjghnxhlh/CVE-2017-7921"
+  },
+  {
+    "CVE": "CVE-2026-43284",
+    "PoC": "https://github.com/RevyHub/CVE-2026-43284---DirtyFrag-Analysis-THM-"
+  },
+  {
+    "CVE": "CVE-2026-9806",
+    "PoC": "https://github.com/aj2108/CVE-2026-9806"
+  },
+  {
+    "CVE": "CVE-2026-39987",
+    "PoC": "https://github.com/vanhari/CVE-2026-39987"
+  },
+  {
+    "CVE": "CVE-2025-48932",
+    "PoC": "https://github.com/CerberusMrXi/CVE-2025-48932-Invision-Community-SQLi-Exploit"
+  },
+  {
+    "CVE": "CVE-2026-13714",
+    "PoC": "https://github.com/Nxploited/CVE-2026-13714"
+  },
+  {
+    "CVE": "CVE-2026-3854",
+    "PoC": "https://github.com/royaleybovich/CVE-2026-3854-lab"
+  },
+  {
+    "CVE": "CVE-2026-0101",
+    "PoC": "https://github.com/George0Papasotiriou/CVE-2026-0101-BLE-Address-Spoofing-via-Weak-Resolvable-Private-Address"
+  },
+  {
+    "CVE": "CVE-2026-9090",
+    "PoC": "https://github.com/George0Papasotiriou/CVE-2026-9090-Modbus-TCP-Write-to-Read-Only-Coils-via-Function-Code-Spoofing"
+  },
+  {
+    "CVE": "CVE-2026-8080",
+    "PoC": "https://github.com/George0Papasotiriou/CVE-2026-8080-DKIM-Signature-Verification-Bypass-Header-Canonicalization-Flaw-"
+  },
+  {
+    "CVE": "CVE-2026-7070",
+    "PoC": "https://github.com/George0Papasotiriou/CVE-2026-7070-RDP-Clipboard-Hijacking-via-Virtual-Channel-Injection"
+  },
+  {
+    "CVE": "CVE-2026-6060",
+    "PoC": "https://github.com/George0Papasotiriou/CVE-2026-6060-QUIC-Handshake-Amplification-via-Address-Validation-Bypass"
+  },
+  {
+    "CVE": "CVE-2026-5050",
+    "PoC": "https://github.com/George0Papasotiriou/CVE-2026-5050-Blind-LDAP-Injection-via-Unescaped-Filter"
+  },
+  {
+    "CVE": "CVE-2026-4040",
+    "PoC": "https://github.com/George0Papasotiriou/CVE-2026-4040-Race-Condition-in-File-Upload-Leading-to-RCE"
+  },
+  {
+    "CVE": "CVE-2026-3030",
+    "PoC": "https://github.com/George0Papasotiriou/CVE-2026-3030-Prototype-Pollution-in-JSON-Merge-Patch"
+  },
+  {
+    "CVE": "CVE-2026-2020",
+    "PoC": "https://github.com/George0Papasotiriou/CVE-2026-2020-SSRF-via-URL-Parser-Differential"
+  },
+  {
+    "CVE": "CVE-2026-1010",
+    "PoC": "https://github.com/George0Papasotiriou/CVE-2026-1010-WebSocket-Connection-Smuggling-via-Malformed-Upgrade-Header"
+  },
+  {
+    "CVE": "CVE-2026-5556",
+    "PoC": "https://github.com/George0Papasotiriou/CVE-2026-5556-Kubernetes-Admission-Controller-Bypass-via-Case-Sensitivity"
+  },
+  {
+    "CVE": "CVE-2026-6666",
+    "PoC": "https://github.com/George0Papasotiriou/CVE-2026-6666-XPC-Service-NSKeyedUnarchiver-Deserialization-Attack-macOS-iOS-simulation-"
+  },
+  {
+    "CVE": "CVE-2026-7777",
+    "PoC": "https://github.com/George0Papasotiriou/CVE-2026-7777-Rust-Use-After-Free-in-Unsafe-Web-Server"
+  },
+  {
+    "CVE": "CVE-2026-8888",
+    "PoC": "https://github.com/George0Papasotiriou/CVE-2026-8888-Printer-Firmware-Unsigned-Update-via-HTTP"
+  },
+  {
+    "CVE": "CVE-2026-9997",
+    "PoC": "https://github.com/George0Papasotiriou/CVE-2026-9997-VPN-Split-Tunneling-Bypass-via-DHCP-Option-Injection"
+  },
+  {
+    "CVE": "CVE-2026-1111",
+    "PoC": "https://github.com/George0Papasotiriou/CVE-2026-1111-Smart-Contract-Cross-Function-Reentrancy"
+  },
+  {
+    "CVE": "CVE-2026-2222",
+    "PoC": "https://github.com/George0Papasotiriou/CVE-2026-2222-MQTT-Broker-CONNECT-Packet-Heap-Overflow"
+  },
+  {
+    "CVE": "CVE-2026-3333",
+    "PoC": "https://github.com/George0Papasotiriou/CVE-2026-3333-DNS-Rebinding-to-Steal-Cloud-Metadata"
+  },
+  {
+    "CVE": "CVE-2026-4444",
+    "PoC": "https://github.com/George0Papasotiriou/CVE-2026-4444-JWT-Algorithm-Confusion-via-kid-Injection"
+  },
+  {
+    "CVE": "CVE-2026-5555",
+    "PoC": "https://github.com/George0Papasotiriou/CVE-2026-5555-Container-Escape-via-proc-self-fd-Symlink-in-Shared-Volume"
+  },
+  {
     "CVE": "CVE-2026-8237",
     "PoC": "https://github.com/aj2108/CVE-2026-8237"
   },
