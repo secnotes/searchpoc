@@ -1,5 +1,241 @@
 [
   {
+    "CVE": "CVE-2018-6341",
+    "PoC": "https://github.com/nitindevelopermca/react-CVE-2018-6341"
+  },
+  {
+    "CVE": "CVE-2026-64531",
+    "PoC": "https://github.com/HackSpeak/CVE-2026-64531"
+  },
+  {
+    "CVE": "CVE-2026-16232",
+    "PoC": "https://github.com/HackSpeak/CVE-2026-16232"
+  },
+  {
+    "CVE": "CVE-2026-66066",
+    "PoC": "https://github.com/HackSpeak/CVE-2026-66066"
+  },
+  {
+    "CVE": "CVE-2026-63030",
+    "PoC": "https://github.com/x-znn/CVE-2026-63030"
+  },
+  {
+    "CVE": "CVE-2026-43499",
+    "PoC": "https://github.com/eroorvbsyes-hotmail/CVE-2026-43499_x86_Exploit"
+  },
+  {
+    "CVE": "CVE-2021-41773",
+    "PoC": "https://github.com/Shams-Ul-Mehmood/CVE-2021-41773-Exploit"
+  },
+  {
+    "CVE": "CVE-2026-67340",
+    "PoC": "https://github.com/0xdak/CVE-2026-67340_exploit"
+  },
+  {
+    "CVE": "CVE-2026-17543",
+    "PoC": "https://github.com/pratham220/CVE-2026-17543-PHP-Exposure-Validator"
+  },
+  {
+    "CVE": "CVE-2026-39363",
+    "PoC": "https://github.com/sunynov/CVE-2026-39363"
+  },
+  {
+    "CVE": "CVE-2026-52680",
+    "PoC": "https://github.com/0xdak/CVE-2026-52680_exploit"
+  },
+  {
+    "CVE": "CVE-2026-45033",
+    "PoC": "https://github.com/grassplatypus/cve-2026-45033-class"
+  },
+  {
+    "CVE": "CVE-2026-18577",
+    "PoC": "https://github.com/HORKimhab/CVE-2026-18577"
+  },
+  {
+    "CVE": "CVE-2026-63223",
+    "PoC": "https://github.com/shinthink/CVE-2026-63223"
+  },
+  {
+    "CVE": "CVE-2026-23479",
+    "PoC": "https://github.com/rizlmaulanaa/CVE-2026-23479-Redis-UAF-Proof-of-Concept"
+  },
+  {
+    "CVE": "CVE-2026-58048",
+    "PoC": "https://github.com/imbas007/POC-CVE-2026-58048"
+  },
+  {
+    "CVE": "CVE-2026-52824",
+    "PoC": "https://github.com/AzureADTrent/CVE-2026-52824"
+  },
+  {
+    "CVE": "CVE-2026-66066",
+    "PoC": "https://github.com/shinthink/CVE-2026-66066"
+  },
+  {
+    "CVE": "CVE-2026-21020",
+    "PoC": "https://github.com/George0Papasotiriou/CVE-2026-21020-Protobuf-Message-Parsing-Polymorphic-Deserialization-Vulnerability"
+  },
+  {
+    "CVE": "CVE-2026-21019",
+    "PoC": "https://github.com/George0Papasotiriou/CVE-2026-21019-Kubernetes-CronJob-Suspended-Execution-via-Time-Manipulation"
+  },
+  {
+    "CVE": "CVE-2026-17566",
+    "PoC": "https://github.com/HackSpeak/CVE-2026-17566"
+  },
+  {
+    "CVE": "CVE-2026-52102",
+    "PoC": "https://github.com/showmeyourhands/CVE-2026-52102-PoC"
+  },
+  {
+    "CVE": "CVE-2026-22014",
+    "PoC": "https://github.com/George0Papasotiriou/CVE-2026-22014-GraphQL-Persisted-Queries-Injection-via-ID-Manipulation"
+  },
+  {
+    "CVE": "CVE-2026-60004",
+    "PoC": "https://github.com/HackSpeak/CVE-2026-60004"
+  },
+  {
+    "CVE": "CVE-2025-53770",
+    "PoC": "https://github.com/mfarshadabdullahkhan-png/cve-2025-53770-research"
+  },
+  {
+    "CVE": "CVE-2026-22013",
+    "PoC": "https://github.com/George0Papasotiriou/CVE-2026-22013-Hardware-Wallet-USB-Descriptor-Buffer-Overflow"
+  },
+  {
+    "CVE": "CVE-2026-22012",
+    "PoC": "https://github.com/George0Papasotiriou/CVE-2026-22012-Diameter-Protocol-Credit-Control-Bypass-in-5G"
+  },
+  {
+    "CVE": "CVE-2025-32463",
+    "PoC": "https://github.com/0xdak/CVE-2025-32463_exploit"
+  },
+  {
+    "CVE": "CVE-2026-14483",
+    "PoC": "https://github.com/0xdak/CVE-2026-14483_exploit"
+  },
+  {
+    "CVE": "CVE-2026-22011",
+    "PoC": "https://github.com/George0Papasotiriou/CVE-2026-22011-iOS-MDM-Profile-Delivery-over-HTTP"
+  },
+  {
+    "CVE": "CVE-2026-22010",
+    "PoC": "https://github.com/George0Papasotiriou/CVE-2026-22010-Android-Intent-Redirection-to-Exported-Component"
+  },
+  {
+    "CVE": "CVE-2026-22009",
+    "PoC": "https://github.com/George0Papasotiriou/CVE-2026-22009-Linux-eBPF-Map-Locking-Race-Use-After-Free"
+  },
+  {
+    "CVE": "CVE-2026-22008",
+    "PoC": "https://github.com/George0Papasotiriou/CVE-2026-22008-AWS-Lambda-Layer-Injection-via-Shared-Layer-ARN"
+  },
+  {
+    "CVE": "CVE-2026-22007",
+    "PoC": "https://github.com/George0Papasotiriou/CVE-2026-22007-NTP-monlist-Amplification-over-IPv6"
+  },
+  {
+    "CVE": "CVE-2026-22006",
+    "PoC": "https://github.com/George0Papasotiriou/CVE-2026-22006-XSLT-Server-Side-Injection-via-xsl-script-"
+  },
+  {
+    "CVE": "CVE-2026-22005",
+    "PoC": "https://github.com/George0Papasotiriou/CVE-2026-22005-OAuth-2.0-Device-Code-Phishing-Short-Interval-"
+  },
+  {
+    "CVE": "CVE-2026-22004",
+    "PoC": "https://github.com/George0Papasotiriou/CVE-2026-22004-Git-LFS-Pointer-Poisoning-Supply-Chain-"
+  },
+  {
+    "CVE": "CVE-2026-22003",
+    "PoC": "https://github.com/George0Papasotiriou/CVE-2026-22003-Redis-Lua-Sandbox-Escape-via-debug.sethook-"
+  },
+  {
+    "CVE": "CVE-2026-22002",
+    "PoC": "https://github.com/George0Papasotiriou/CVE-2026-22002-VNC-Authentication-Bypass-via-Protocol-Version-Confusion"
+  },
+  {
+    "CVE": "CVE-2026-22001",
+    "PoC": "https://github.com/George0Papasotiriou/CVE-2026-22001-SPHINCS-WOTS-Weak-Randomness-Forgeable-Signature"
+  },
+  {
+    "CVE": "CVE-2026-54917",
+    "PoC": "https://github.com/BiiTts/CVE-2026-54917-SeaweedFS-Cross-Bucket-Traversal"
+  },
+  {
+    "CVE": "CVE-2026-67689",
+    "PoC": "https://github.com/qflksheep/CVE-2026-67689-FineAdmin.Mvc-vulnerability"
+  },
+  {
+    "CVE": "CVE-2026-67687",
+    "PoC": "https://github.com/qflksheep/CVE-2026-67687-ICS-Park-Smart-Park-Management-System-v2.0"
+  },
+  {
+    "CVE": "CVE-2026-60137",
+    "PoC": "https://github.com/AbdullahMaqbool22/CVE-2026-60137-WordPress-Core-SQL-Injection-PoC"
+  },
+  {
+    "CVE": "CVE-2026-60004",
+    "PoC": "https://github.com/Sachinart/CVE-2026-60004-gitea-0day"
+  },
+  {
+    "CVE": "CVE-2026-67620",
+    "PoC": "https://github.com/abdugafforov-bobur/CVE-2026-67620-poc"
+  },
+  {
+    "CVE": "CVE-2018-15473",
+    "PoC": "https://github.com/bdalrhmnhamdalalm-jpg/CVE-2018-15473-User-Enumeration-"
+  },
+  {
+    "CVE": "CVE-2026-70481",
+    "PoC": "https://github.com/Foxer131/CVE-2026-70481"
+  },
+  {
+    "CVE": "CVE-2026-59243",
+    "PoC": "https://github.com/0xdak/CVE-2026-59243_exploit"
+  },
+  {
+    "CVE": "CVE-2026-69243",
+    "PoC": "https://github.com/JVBotelho/cve-2026-69243-poc-aiohttp-smuggling"
+  },
+  {
+    "CVE": "CVE-2026-12720",
+    "PoC": "https://github.com/webshellseo8/CVE-2026-12720-Proof-of-Concept"
+  },
+  {
+    "CVE": "CVE-2021-44790",
+    "PoC": "https://github.com/CerberusMrXi/Apache-Lua-Buffer-Overflow-Exploit-CVE-2021-44790"
+  },
+  {
+    "CVE": "CVE-2026-31431",
+    "PoC": "https://github.com/dev1681/CVE-2026-31431"
+  },
+  {
+    "CVE": "CVE-2026-22020",
+    "PoC": "https://github.com/George0Papasotiriou/CVE-2026-22020-Weak-Seed-in-Quantum-Key-Distribution-Error-Correction"
+  },
+  {
+    "CVE": "CVE-2026-22019",
+    "PoC": "https://github.com/George0Papasotiriou/CVE-2026-22019-libcurl-HTTP-2-CONNECT-Tunnel-Mixup"
+  },
+  {
+    "CVE": "CVE-2026-22018",
+    "PoC": "https://github.com/George0Papasotiriou/CVE-2026-22018-Jenkins-Pipeline-Shared-Library-Code-Execution-via-Grab-"
+  },
+  {
+    "CVE": "CVE-2026-22017",
+    "PoC": "https://github.com/George0Papasotiriou/CVE-2026-22017-Firmware-Update-via-BLE-Without-Authentication"
+  },
+  {
+    "CVE": "CVE-2026-22016",
+    "PoC": "https://github.com/George0Papasotiriou/CVE-2026-22016-IPFS-CID-Spoofing-via-Multihash-Length-Extension"
+  },
+  {
+    "CVE": "CVE-2026-22015",
+    "PoC": "https://github.com/George0Papasotiriou/CVE-2026-22015-Serverless-Function-Environment-Variable-Injection-via-Event"
+  },
+  {
     "CVE": "CVE-2023-36874",
     "PoC": "https://github.com/johnnygreeme/CVE-2023-36874"
   },
