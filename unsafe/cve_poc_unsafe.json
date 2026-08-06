@@ -1,5 +1,149 @@
 [
   {
+    "CVE": "CVE-2026-68004",
+    "PoC": "https://github.com/xuwu-xuwu/CVE-2026-68004"
+  },
+  {
+    "CVE": "CVE-2025-32432",
+    "PoC": "https://github.com/PsyGuy007-sys/craftcms-cve-2025-32432-rce"
+  },
+  {
+    "CVE": "CVE-2026-23489",
+    "PoC": "https://github.com/eorll-lgtm/poc-CVE-2026-23489"
+  },
+  {
+    "CVE": "CVE-2021-41773",
+    "PoC": "https://github.com/lucastran05/CVE-2021-41773"
+  },
+  {
+    "CVE": "CVE-2026-16723",
+    "PoC": "https://github.com/learner330/fastjson-cve-2026-16723"
+  },
+  {
+    "CVE": "CVE-2026-44024",
+    "PoC": "https://github.com/0xdak/CVE-2026-44024_exploit"
+  },
+  {
+    "CVE": "CVE-2026-60137",
+    "PoC": "https://github.com/Dungsocool/CVE-2026-60137-CVE-2026-63030"
+  },
+  {
+    "CVE": "CVE-2023-6553",
+    "PoC": "https://github.com/Dungsocool/CVE-2023-6553"
+  },
+  {
+    "CVE": "CVE-2022-25012",
+    "PoC": "https://github.com/m1kb0k/CVE-2022-25012-dvr4-weak-password-encryption"
+  },
+  {
+    "CVE": "CVE-2023-20768",
+    "PoC": "https://github.com/murf-xd/cve-2023-20768"
+  },
+  {
+    "CVE": "CVE-2026-17532",
+    "PoC": "https://github.com/kalhoralireza/CVE-2026-17532"
+  },
+  {
+    "CVE": "CVE-2024-21413",
+    "PoC": "https://github.com/h4cknain/CVE-2024-21413-Microsoft-Outlook-Moniker-Link-Vulnerability"
+  },
+  {
+    "CVE": "CVE-2024-4577",
+    "PoC": "https://github.com/minwunn/CVE-2024-4577-Lab-and-Analysis"
+  },
+  {
+    "CVE": "CVE-2026-63030",
+    "PoC": "https://github.com/minwunn/CVE-2026-63030-wp2shell-lab"
+  },
+  {
+    "CVE": "CVE-2026-63030",
+    "PoC": "https://github.com/minwunn/wp2shell-CVE-2026-63030-lab"
+  },
+  {
+    "CVE": "CVE-2026-63030",
+    "PoC": "https://github.com/minwunn/wp2shell-CVE-2026-63030"
+  },
+  {
+    "CVE": "CVE-2025-27840",
+    "PoC": "https://github.com/JasonW88/esp32-cve-2025-27840-power-trace-experiment"
+  },
+  {
+    "CVE": "CVE-2026-23010",
+    "PoC": "https://github.com/George0Papasotiriou/CVE-2026-23010-CCSDS-Telecommand-Replay-Without-Sequence-Number"
+  },
+  {
+    "CVE": "CVE-2026-23009",
+    "PoC": "https://github.com/George0Papasotiriou/CVE-2026-23009-DICOM-Network-Image-Injection-Without-Authentication"
+  },
+  {
+    "CVE": "CVE-2026-23008",
+    "PoC": "https://github.com/George0Papasotiriou/CVE-2026-23008-Solidity-Assembly-Return-Data-Size-Confusion"
+  },
+  {
+    "CVE": "CVE-2026-23007",
+    "PoC": "https://github.com/George0Papasotiriou/CVE-2026-23007-Serverless-Cold-Start-Memory-Remanence-Data-Leakage-"
+  },
+  {
+    "CVE": "CVE-2026-23006",
+    "PoC": "https://github.com/George0Papasotiriou/CVE-2026-23006-Kyber-Ciphertext-Length-Side-Channel"
+  },
+  {
+    "CVE": "CVE-2026-23005",
+    "PoC": "https://github.com/George0Papasotiriou/CVE-2026-23005-Matter-Commissioning-Code-Brute-Force-Without-Rate-Limit"
+  },
+  {
+    "CVE": "CVE-2026-23004",
+    "PoC": "https://github.com/George0Papasotiriou/CVE-2026-23004-Automotive-UDS-Authentication-Bypass-via-Replay-Attack"
+  },
+  {
+    "CVE": "CVE-2026-23003",
+    "PoC": "https://github.com/George0Papasotiriou/CVE-2026-23003-Cross-Chain-Bridge-Message-Forging-via-Missing-Origin-Chain-ID"
+  },
+  {
+    "CVE": "CVE-2026-63030",
+    "PoC": "https://github.com/AnggaTechI/CVE-2026-63030"
+  },
+  {
+    "CVE": "CVE-2026-23002",
+    "PoC": "https://github.com/George0Papasotiriou/CVE-2026-23002-5G-NAS-Message-Buffer-Overflow-in-gNodeB"
+  },
+  {
+    "CVE": "CVE-2026-23001",
+    "PoC": "https://github.com/George0Papasotiriou/CVE-2026-23001-Hugging-Face-Transformers-Model-Deserialization-Arbitrary-Code-via-Pickle-"
+  },
+  {
+    "CVE": "CVE-2025-8110",
+    "PoC": "https://github.com/9xh4kv/CVE-2025-8110"
+  },
+  {
+    "CVE": "CVE-2026-71211",
+    "PoC": "https://github.com/Abdivasiyev2008/CVE-2026-71211-exploit"
+  },
+  {
+    "CVE": "CVE-2025-30374",
+    "PoC": "https://github.com/jackfromeast/CVE-2025-30374"
+  },
+  {
+    "CVE": "CVE-2026-33017",
+    "PoC": "https://github.com/TatoSec/CVE-2026-33017-Langflop"
+  },
+  {
+    "CVE": "CVE-2026-42533",
+    "PoC": "https://github.com/0xCyberstan/CVE-2026-42533-POC"
+  },
+  {
+    "CVE": "CVE-2026-98198",
+    "PoC": "https://github.com/rmhowe425/PoC-CVE-2026-98198"
+  },
+  {
+    "CVE": "CVE-2026-9198",
+    "PoC": "https://github.com/rmhowe425/PoC-CVE-2026-9198"
+  },
+  {
+    "CVE": "CVE-2025-32375",
+    "PoC": "https://github.com/SevdaKhidirova/CVE-2025-32375-PoC"
+  },
+  {
     "CVE": "CVE-2018-6341",
     "PoC": "https://github.com/nitindevelopermca/react-CVE-2018-6341"
   },
