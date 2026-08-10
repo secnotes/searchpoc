@@ -560,7 +560,7 @@
                     Star on GitHub
                 </a>
             </p>
-            <p>Generated on 2026-08-10 01:10:43</p>
+            <p>Generated on 2026-08-10 07:01:54</p>
         </div>
     </div>
 
@@ -624,6 +624,30 @@
             setTheme(currentTheme === 'light' ? 'dark' : 'light');
         });
 
+        // Build the URL for a given query: hash for a real query, bare path for the
+        // landing (recent) view so the URL stays clean. Hash works on file:// and
+        // static hosting, survives refresh, and makes queries shareable.
+        function urlForQuery(q) {
+            return q ? '#' + encodeURIComponent(q) : window.location.pathname + window.location.search;
+        }
+
+        // Pure view render for a query: sets the input and switches to either the
+        // search results or the recent list. Does NOT touch browser history, so it
+        // is safe to call from popstate without creating loop entries.
+        function applyQuery(query) {
+            const q = (query || '').trim().toUpperCase();
+            searchInput.value = q;
+            searchCVE(q);   // searchCVE routes empty query to renderRecent()
+        }
+
+        // User-initiated navigation: push a history entry, then render. This is what
+        // makes Back return to the previous view (recent list / prior search).
+        function navigate(query) {
+            const q = (query || '').trim().toUpperCase();
+            history.pushState({ query: q }, '', urlForQuery(q));
+            applyQuery(q);
+        }
+
         function searchCVE(query) {
             query = query.trim().toUpperCase();
 
@@ -686,9 +710,7 @@
             `;
             resultsContainer.querySelectorAll('.recent-chip').forEach(el => {
                 el.addEventListener('click', () => {
-                    const cve = el.dataset.cve;
-                    searchInput.value = cve;
-                    searchCVE(cve);
+                    navigate(el.dataset.cve);
                 });
             });
 
@@ -825,18 +847,29 @@
 
         // Search on button click
         searchBtn.addEventListener('click', () => {
-            searchCVE(searchInput.value);
+            navigate(searchInput.value);
         });
 
         // Search on Enter key press
         searchInput.addEventListener('keypress', (e) => {
             if (e.key === 'Enter') {
-                searchCVE(searchInput.value);
+                navigate(searchInput.value);
             }
         });
 
-        // Render recently added CVEs as the landing content, then focus search
-        renderRecent();
+        // Restore the view when the user hits Back/Forward. Only re-render; never
+        // pushState here, or Back would re-add entries and loop.
+        window.addEventListener('popstate', (e) => {
+            const q = (e.state && typeof e.state.query === 'string') ? e.state.query : '';
+            applyQuery(q);
+            window.scrollTo(0, 0);
+        });
+
+        // Seed the initial history entry from the URL hash (supports refresh and
+        // opening a shareable #CVE-xxxx link), then render the matching view.
+        const initialQuery = decodeURIComponent(window.location.hash.slice(1)).trim().toUpperCase();
+        history.replaceState({ query: initialQuery }, '', urlForQuery(initialQuery));
+        applyQuery(initialQuery);
         searchInput.focus();
     </script>
 </body>
