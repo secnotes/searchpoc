@@ -12928,6 +12928,10 @@
     "PoC": "http://frontal1.mandriva.com/security/advisories?name=MDKSA-2005:237"
   },
   {
+    "CVE": "CVE-2005-4268",
+    "PoC": "https://usn.ubuntu.com/234-1/"
+  },
+  {
     "CVE": "CVE-2005-4270",
     "PoC": "http://securityreason.com/securityalert/260"
   },
@@ -36058,6 +36062,10 @@
   {
     "CVE": "CVE-2007-3089",
     "PoC": "http://securityreason.com/securityalert/2781"
+  },
+  {
+    "CVE": "CVE-2007-3091",
+    "PoC": "http://lcamtuf.coredump.cx/ierace/"
   },
   {
     "CVE": "CVE-2007-3091",
@@ -175140,6 +175148,18 @@
     "PoC": "http://www.securityfocus.com/bid/93867"
   },
   {
+    "CVE": "CVE-2016-1000213",
+    "PoC": "https://www.tripwire.com/state-of-security/vulnerability-management/ruckus-vulnerability/"
+  },
+  {
+    "CVE": "CVE-2016-1000214",
+    "PoC": "https://www.tripwire.com/state-of-security/vulnerability-management/ruckus-vulnerability/"
+  },
+  {
+    "CVE": "CVE-2016-1000215",
+    "PoC": "https://www.tripwire.com/state-of-security/vulnerability-management/ruckus-vulnerability/"
+  },
+  {
     "CVE": "CVE-2016-1000216",
     "PoC": "https://bitbucket.org/dudux/ruckus-rootshell"
   },
@@ -202401,6 +202421,10 @@
   },
   {
     "CVE": "CVE-2017-13099",
+    "PoC": "https://github.com/wolfSSL/wolfssl/pull/1229"
+  },
+  {
+    "CVE": "CVE-2017-13099",
     "PoC": "https://robotattack.org/"
   },
   {
@@ -218784,6 +218808,10 @@
     "PoC": "https://www.exploit-db.com/exploits/41458/"
   },
   {
+    "CVE": "CVE-2017-6076",
+    "PoC": "https://github.com/wolfSSL/wolfssl/releases/tag/v3.10.2-stable"
+  },
+  {
     "CVE": "CVE-2017-6077",
     "PoC": "https://www.exploit-db.com/exploits/41394/"
   },
@@ -222658,6 +222686,14 @@
   {
     "CVE": "CVE-2017-8852",
     "PoC": "https://www.exploit-db.com/exploits/41991/"
+  },
+  {
+    "CVE": "CVE-2017-8854",
+    "PoC": "https://github.com/wolfSSL/wolfssl/releases/tag/v3.10.2-stable"
+  },
+  {
+    "CVE": "CVE-2017-8855",
+    "PoC": "https://github.com/wolfSSL/wolfssl/releases/tag/v3.11.0-stable"
   },
   {
     "CVE": "CVE-2017-8869",
@@ -232380,6 +232416,10 @@
     "PoC": "https://wpvulndb.com/vulnerabilities/9697"
   },
   {
+    "CVE": "CVE-2018-12436",
+    "PoC": "https://github.com/wolfSSL/wolfssl/commit/9b9568d500f31f964af26ba8d01e542e1f27e5ca"
+  },
+  {
     "CVE": "CVE-2018-12447",
     "PoC": "https://drive.google.com/open?id=1J3hTt8XHz7u7QDSNYxEuwFZTO6Baggl0"
   },
@@ -240758,6 +240798,10 @@
   {
     "CVE": "CVE-2018-16870",
     "PoC": "http://cat.eyalro.net/"
+  },
+  {
+    "CVE": "CVE-2018-16870",
+    "PoC": "https://github.com/wolfSSL/wolfssl/pull/1950"
   },
   {
     "CVE": "CVE-2018-16877",
@@ -276392,6 +276436,10 @@
     "PoC": "https://wpvulndb.com/vulnerabilities/9837"
   },
   {
+    "CVE": "CVE-2019-15651",
+    "PoC": "https://github.com/wolfSSL/wolfssl/issues/2421"
+  },
+  {
     "CVE": "CVE-2019-15652",
     "PoC": "https://www.trustwave.com/en-us/resources/blogs/spiderlabs-blog/cve-2019-15652-satlink-vsat-vulnerabilities/"
   },
@@ -278678,6 +278726,10 @@
   {
     "CVE": "CVE-2019-16746",
     "PoC": "https://www.oracle.com/security-alerts/cpuApr2021.html"
+  },
+  {
+    "CVE": "CVE-2019-16748",
+    "PoC": "https://github.com/wolfSSL/wolfssl/issues/2459"
   },
   {
     "CVE": "CVE-2019-16754",
@@ -281272,6 +281324,10 @@
     "PoC": "https://packetstormsecurity.com/files/155261/FUDForum-3.0.9-Code-Execution-Cross-Site-Scripting.html"
   },
   {
+    "CVE": "CVE-2019-18840",
+    "PoC": "https://github.com/wolfSSL/wolfssl/issues/2555"
+  },
+  {
     "CVE": "CVE-2019-18842",
     "PoC": "https://www.tildeho.me/theres-javascript-in-my-power-plug/"
   },
@@ -283762,6 +283818,30 @@
   {
     "CVE": "CVE-2019-19959",
     "PoC": "https://www.oracle.com/security-alerts/cpuapr2020.html"
+  },
+  {
+    "CVE": "CVE-2019-19960",
+    "PoC": "https://github.com/wolfSSL/wolfssl/commit/5ee9f9c7a23f8ed093fe1e42bc540727e96cebb8"
+  },
+  {
+    "CVE": "CVE-2019-19960",
+    "PoC": "https://github.com/wolfSSL/wolfssl/releases/tag/v4.3.0-stable"
+  },
+  {
+    "CVE": "CVE-2019-19962",
+    "PoC": "https://github.com/wolfSSL/wolfssl/commit/23878512c65834d12811b1107d19a001478eca5d"
+  },
+  {
+    "CVE": "CVE-2019-19962",
+    "PoC": "https://github.com/wolfSSL/wolfssl/releases/tag/v4.3.0-stable"
+  },
+  {
+    "CVE": "CVE-2019-19963",
+    "PoC": "https://github.com/wolfSSL/wolfssl/commit/7e391f0fd57f2ef375b1174d752a56ce34b2b190"
+  },
+  {
+    "CVE": "CVE-2019-19963",
+    "PoC": "https://github.com/wolfSSL/wolfssl/releases/tag/v4.3.0-stable"
   },
   {
     "CVE": "CVE-2019-19965",
@@ -295400,6 +295480,10 @@
     "PoC": "https://www.exploit-db.com/exploits/46510/"
   },
   {
+    "CVE": "CVE-2019-6439",
+    "PoC": "https://github.com/wolfSSL/wolfssl/issues/2032"
+  },
+  {
     "CVE": "CVE-2019-6441",
     "PoC": "http://packetstormsecurity.com/files/151202/Coship-Wireless-Router-Unauthenticated-Admin-Password-Reset.html"
   },
@@ -304664,6 +304748,10 @@
     "PoC": "https://gist.github.com/pietroborrello/7c5be2d1dc15349c4ffc8671f0aad04f"
   },
   {
+    "CVE": "CVE-2020-11713",
+    "PoC": "https://github.com/wolfSSL/wolfssl/pull/2894/"
+  },
+  {
     "CVE": "CVE-2020-11714",
     "PoC": "https://github.com/leona4040/PSG-6528VM-xss/blob/master/README.md"
   },
@@ -304710,6 +304798,14 @@
   {
     "CVE": "CVE-2020-11727",
     "PoC": "http://packetstormsecurity.com/files/157557/WordPress-WooCommerce-Advanced-Order-Export-3.1.3-Cross-Site-Scripting.html"
+  },
+  {
+    "CVE": "CVE-2020-11735",
+    "PoC": "https://github.com/wolfSSL/wolfssl/commit/1de07da61f0c8e9926dcbd68119f73230dae283f"
+  },
+  {
+    "CVE": "CVE-2020-11735",
+    "PoC": "https://github.com/wolfSSL/wolfssl/releases/tag/v4.4.0-stable"
   },
   {
     "CVE": "CVE-2020-11738",
@@ -305962,6 +306058,14 @@
   {
     "CVE": "CVE-2020-12446",
     "PoC": "https://github.com/active-labs/Advisories/blob/master/2020/ACTIVE-2020-003.md"
+  },
+  {
+    "CVE": "CVE-2020-12457",
+    "PoC": "https://github.com/wolfSSL/wolfssl/pull/2927"
+  },
+  {
+    "CVE": "CVE-2020-12457",
+    "PoC": "https://github.com/wolfSSL/wolfssl/releases/tag/v4.5.0-stable"
   },
   {
     "CVE": "CVE-2020-12458",
@@ -311590,6 +311694,10 @@
   {
     "CVE": "CVE-2020-15308",
     "PoC": "https://code610.blogspot.com/2020/06/postauth-sqli-in-sitracker-v367-p2.html"
+  },
+  {
+    "CVE": "CVE-2020-15309",
+    "PoC": "https://github.com/wolfSSL/wolfssl/releases/tag/v4.5.0-stable"
   },
   {
     "CVE": "CVE-2020-15312",
@@ -318386,6 +318494,14 @@
   {
     "CVE": "CVE-2020-24584",
     "PoC": "https://www.oracle.com/security-alerts/cpujan2021.html"
+  },
+  {
+    "CVE": "CVE-2020-24585",
+    "PoC": "https://github.com/wolfSSL/wolfssl/pull/3219"
+  },
+  {
+    "CVE": "CVE-2020-24585",
+    "PoC": "https://github.com/wolfSSL/wolfssl/releases/tag/v4.5.0-stable"
   },
   {
     "CVE": "CVE-2020-24586",
@@ -328654,6 +328770,22 @@
   {
     "CVE": "CVE-2020-3617",
     "PoC": "https://www.qualcomm.com/company/product-security/bulletins/september-2020-bulletin"
+  },
+  {
+    "CVE": "CVE-2020-36177",
+    "PoC": "https://github.com/wolfSSL/wolfssl/commit/63bf5dc56ccbfc12a73b06327361687091a4c6f7"
+  },
+  {
+    "CVE": "CVE-2020-36177",
+    "PoC": "https://github.com/wolfSSL/wolfssl/commit/fb2288c46dd4c864b78f00a47a364b96a09a5c0f"
+  },
+  {
+    "CVE": "CVE-2020-36177",
+    "PoC": "https://github.com/wolfSSL/wolfssl/pull/3426"
+  },
+  {
+    "CVE": "CVE-2020-36177",
+    "PoC": "https://github.com/wolfSSL/wolfssl/releases/tag/v4.6.0-stable"
   },
   {
     "CVE": "CVE-2020-36179",
@@ -347112,6 +347244,10 @@
     "PoC": "https://www.oracle.com/security-alerts/cpujul2021.html"
   },
   {
+    "CVE": "CVE-2021-24116",
+    "PoC": "https://github.com/wolfSSL/wolfssl/releases"
+  },
+  {
     "CVE": "CVE-2021-2412",
     "PoC": "https://www.oracle.com/security-alerts/cpujul2021.html"
   },
@@ -362005,6 +362141,10 @@
   },
   {
     "CVE": "CVE-2021-3336",
+    "PoC": "https://github.com/wolfSSL/wolfssl/pull/3676"
+  },
+  {
+    "CVE": "CVE-2021-3336",
     "PoC": "https://www.wolfssl.com/docs/security-vulnerabilities"
   },
   {
@@ -366908,6 +367048,14 @@
     "PoC": "https://support.sonatype.com/hc/en-us/articles/4404115639827"
   },
   {
+    "CVE": "CVE-2021-37155",
+    "PoC": "https://github.com/wolfSSL/wolfssl/pull/3990"
+  },
+  {
+    "CVE": "CVE-2021-37155",
+    "PoC": "https://github.com/wolfSSL/wolfssl/releases/tag/v4.8.0-stable"
+  },
+  {
     "CVE": "CVE-2021-37157",
     "PoC": "https://www.exploit-db.com/exploits/50373"
   },
@@ -368738,6 +368886,10 @@
   {
     "CVE": "CVE-2021-3859",
     "PoC": "https://issues.redhat.com/browse/UNDERTOW-1979"
+  },
+  {
+    "CVE": "CVE-2021-38597",
+    "PoC": "https://github.com/wolfSSL/wolfssl/commit/f93083be72a3b3d956b52a7ec13f307a27b6e093"
   },
   {
     "CVE": "CVE-2021-3860",
@@ -377782,6 +377934,10 @@
   {
     "CVE": "CVE-2021-44692",
     "PoC": "https://www.cygenta.co.uk/post/buddyboss"
+  },
+  {
+    "CVE": "CVE-2021-44718",
+    "PoC": "https://github.com/wolfSSL/wolfssl/releases"
   },
   {
     "CVE": "CVE-2021-44718",
@@ -392352,6 +392508,14 @@
     "PoC": "https://talosintelligence.com/vulnerability_reports/TALOS-2022-1465"
   },
   {
+    "CVE": "CVE-2022-23408",
+    "PoC": "https://github.com/wolfSSL/wolfssl/blob/master/ChangeLog.md#wolfssl-release-511-jan-3rd-2022"
+  },
+  {
+    "CVE": "CVE-2022-23408",
+    "PoC": "https://github.com/wolfSSL/wolfssl/pull/4710"
+  },
+  {
     "CVE": "CVE-2022-23409",
     "PoC": "http://packetstormsecurity.com/files/165706/Ethercreative-Logs-3.0.3-Path-Traversal.html"
   },
@@ -395697,11 +395861,19 @@
   },
   {
     "CVE": "CVE-2022-25638",
+    "PoC": "https://github.com/wolfSSL/wolfssl/pull/4813"
+  },
+  {
+    "CVE": "CVE-2022-25638",
     "PoC": "https://www.wolfssl.com/docs/security-vulnerabilities/"
   },
   {
     "CVE": "CVE-2022-2564",
     "PoC": "https://huntr.dev/bounties/055be524-9296-4b2f-b68d-6d5b810d1ddd"
+  },
+  {
+    "CVE": "CVE-2022-25640",
+    "PoC": "https://github.com/wolfSSL/wolfssl/pull/4831"
   },
   {
     "CVE": "CVE-2022-25641",
@@ -407468,6 +407640,10 @@
     "PoC": "https://www.cyberark.com/resources/threat-research-blog/breaking-docker-named-pipes-systematically-docker-desktop-privilege-escalation-part-2"
   },
   {
+    "CVE": "CVE-2022-34293",
+    "PoC": "https://github.com/wolfSSL/wolfssl/releases/tag/v5.4.0-stable"
+  },
+  {
     "CVE": "CVE-2022-34294",
     "PoC": "https://www.usenix.org/conference/usenixsecurity22/presentation/jeitner"
   },
@@ -409150,6 +409326,10 @@
   {
     "CVE": "CVE-2022-35526",
     "PoC": "https://github.com/TyeYeah/othercveinfo/blob/main/wavlink/README.md#wavlink-router-ac1200-page-loginshtml-command-injection-in-logincgi"
+  },
+  {
+    "CVE": "CVE-2022-3553",
+    "PoC": "https://vuldb.com/?id.211053"
   },
   {
     "CVE": "CVE-2022-35533",
@@ -412505,6 +412685,14 @@
   },
   {
     "CVE": "CVE-2022-38152",
+    "PoC": "https://github.com/wolfSSL/wolfssl/pull/5468"
+  },
+  {
+    "CVE": "CVE-2022-38152",
+    "PoC": "https://github.com/wolfSSL/wolfssl/releases"
+  },
+  {
+    "CVE": "CVE-2022-38152",
     "PoC": "https://www.wolfssl.com/docs/security-vulnerabilities/"
   },
   {
@@ -412514,6 +412702,14 @@
   {
     "CVE": "CVE-2022-38153",
     "PoC": "https://blog.trailofbits.com/2023/01/12/wolfssl-vulnerabilities-tlspuffin-fuzzing-ssh/"
+  },
+  {
+    "CVE": "CVE-2022-38153",
+    "PoC": "https://github.com/wolfSSL/wolfssl/pull/5476"
+  },
+  {
+    "CVE": "CVE-2022-38153",
+    "PoC": "https://github.com/wolfSSL/wolfssl/releases"
   },
   {
     "CVE": "CVE-2022-38153",
@@ -413526,6 +413722,10 @@
   {
     "CVE": "CVE-2022-39173",
     "PoC": "https://blog.trailofbits.com/2023/01/12/wolfssl-vulnerabilities-tlspuffin-fuzzing-ssh/"
+  },
+  {
+    "CVE": "CVE-2022-39173",
+    "PoC": "https://github.com/wolfSSL/wolfssl/releases"
   },
   {
     "CVE": "CVE-2022-39173",
@@ -418597,6 +418797,14 @@
   },
   {
     "CVE": "CVE-2022-42905",
+    "PoC": "https://github.com/wolfSSL/wolfssl/releases"
+  },
+  {
+    "CVE": "CVE-2022-42905",
+    "PoC": "https://github.com/wolfSSL/wolfssl/releases/tag/v5.5.2-stable"
+  },
+  {
+    "CVE": "CVE-2022-42905",
     "PoC": "https://www.wolfssl.com/docs/security-vulnerabilities/"
   },
   {
@@ -418678,6 +418886,10 @@
   {
     "CVE": "CVE-2022-4296",
     "PoC": "https://www.youtube.com/watch?v=D--fb-cesmA"
+  },
+  {
+    "CVE": "CVE-2022-42961",
+    "PoC": "https://github.com/wolfSSL/wolfssl/releases/tag/v5.5.0-stable"
   },
   {
     "CVE": "CVE-2022-42964",
@@ -428090,6 +428302,10 @@
   {
     "CVE": "CVE-2023-0797",
     "PoC": "https://gitlab.com/libtiff/libtiff/-/issues/495"
+  },
+  {
+    "CVE": "CVE-2023-0798",
+    "PoC": "https://gitlab.com/gitlab-org/cves/-/blob/master/2023/CVE-2023-0798.json"
   },
   {
     "CVE": "CVE-2023-0798",
@@ -448989,6 +449205,10 @@
   },
   {
     "CVE": "CVE-2023-3724",
+    "PoC": "https://github.com/wolfSSL/wolfssl/pull/6412"
+  },
+  {
+    "CVE": "CVE-2023-3724",
     "PoC": "https://www.wolfssl.com/docs/security-vulnerabilities/"
   },
   {
@@ -466593,7 +466813,15 @@
   },
   {
     "CVE": "CVE-2023-6936",
+    "PoC": "https://github.com/wolfSSL/wolfssl/pull/6949/"
+  },
+  {
+    "CVE": "CVE-2023-6936",
     "PoC": "https://www.wolfssl.com/docs/security-vulnerabilities/"
+  },
+  {
+    "CVE": "CVE-2023-6937",
+    "PoC": "https://github.com/wolfSSL/wolfssl/pull/7029"
   },
   {
     "CVE": "CVE-2023-6937",
@@ -468628,6 +468856,14 @@
     "PoC": "https://vuldb.com/?id.252043"
   },
   {
+    "CVE": "CVE-2024-0901",
+    "PoC": "https://github.com/wolfSSL/wolfssl/issues/7089"
+  },
+  {
+    "CVE": "CVE-2024-0901",
+    "PoC": "https://github.com/wolfSSL/wolfssl/pull/7099"
+  },
+  {
     "CVE": "CVE-2024-0902",
     "PoC": "https://wpscan.com/vulnerability/fd53e40a-516b-47b9-b495-321774432367/"
   },
@@ -470102,6 +470338,10 @@
   {
     "CVE": "CVE-2024-10987",
     "PoC": "https://github.com/qqqbalabala/cve/blob/main/sql20.md"
+  },
+  {
+    "CVE": "CVE-2024-10987",
+    "PoC": "https://vuldb.com/?ctiid.283453"
   },
   {
     "CVE": "CVE-2024-10988",
@@ -474036,6 +474276,26 @@
     "PoC": "https://wpscan.com/vulnerability/1664697e-0ea3-4d09-b2fd-153a104ec255/"
   },
   {
+    "CVE": "CVE-2024-1543",
+    "PoC": "https://github.com/wolfSSL/wolfssl/blob/master/ChangeLog.md#wolfssl-release-566-dec-19-2023"
+  },
+  {
+    "CVE": "CVE-2024-1544",
+    "PoC": "https://github.com/wolfSSL/wolfssl/pull/7020"
+  },
+  {
+    "CVE": "CVE-2024-1544",
+    "PoC": "https://github.com/wolfSSL/wolfssl/releases/tag/v5.7.2-stable"
+  },
+  {
+    "CVE": "CVE-2024-1545",
+    "PoC": "https://github.com/wolfSSL/wolfssl/pull/7167"
+  },
+  {
+    "CVE": "CVE-2024-1545",
+    "PoC": "https://github.com/wolfSSL/wolfssl/releases/tag/v5.7.0-stable"
+  },
+  {
     "CVE": "CVE-2024-1549",
     "PoC": "https://bugzilla.mozilla.org/show_bug.cgi?id=1833814"
   },
@@ -476230,6 +476490,10 @@
   {
     "CVE": "CVE-2024-21488",
     "PoC": "https://security.snyk.io/vuln/SNYK-JS-NETWORK-6184371"
+  },
+  {
+    "CVE": "CVE-2024-21489",
+    "PoC": "https://security.snyk.io/vuln/SNYK-JAVA-ORGWEBJARSNPM-8163085"
   },
   {
     "CVE": "CVE-2024-21489",
@@ -483714,6 +483978,10 @@
   {
     "CVE": "CVE-2024-28806",
     "PoC": "https://www.gruppotim.it/it/footer/red-team.html"
+  },
+  {
+    "CVE": "CVE-2024-2881",
+    "PoC": "https://github.com/wolfSSL/wolfssl/releases/tag/v5.7.0-stable"
   },
   {
     "CVE": "CVE-2024-28816",
@@ -503488,6 +503756,10 @@
     "PoC": "https://karmainsecurity.com/hacking-kerio-control-via-cve-2024-52875"
   },
   {
+    "CVE": "CVE-2024-5288",
+    "PoC": "https://github.com/wolfSSL/wolfssl/releases/tag/v5.7.2-stable"
+  },
+  {
     "CVE": "CVE-2024-52881",
     "PoC": "https://www.syss.de/fileadmin/dokumente/Publikationen/Advisories/SYSS-2024-079.txt"
   },
@@ -506936,6 +507208,10 @@
     "PoC": "https://sensepost.com/blog/2025/investigating-an-in-the-wild-campaign-using-rce-in-craftcms/"
   },
   {
+    "CVE": "CVE-2024-5814",
+    "PoC": "https://github.com/wolfSSL/wolfssl/blob/master/ChangeLog.md#add_later"
+  },
+  {
     "CVE": "CVE-2024-58248",
     "PoC": "https://github.com/Fabian-For/Vulnerability-Research/blob/main/CVE-2024-58248/README.md"
   },
@@ -507322,6 +507598,10 @@
   {
     "CVE": "CVE-2024-5985",
     "PoC": "https://github.com/CveSecLook/cve/issues/45"
+  },
+  {
+    "CVE": "CVE-2024-5991",
+    "PoC": "https://https://github.com/wolfSSL/wolfssl/pull/7604"
   },
   {
     "CVE": "CVE-2024-6003",
@@ -511977,6 +512257,10 @@
   },
   {
     "CVE": "CVE-2024-8560",
+    "PoC": "https://vuldb.com/?ctiid.276780"
+  },
+  {
+    "CVE": "CVE-2024-8560",
     "PoC": "https://vuldb.com/?id.276780"
   },
   {
@@ -514410,6 +514694,10 @@
   {
     "CVE": "CVE-2025-0578",
     "PoC": "https://vuldb.com/?id.292596"
+  },
+  {
+    "CVE": "CVE-2025-0579",
+    "PoC": "https://vuldb.com/?submit.476831"
   },
   {
     "CVE": "CVE-2025-0582",
@@ -519256,12 +519544,40 @@
     "PoC": "https://devolutions.net/security/advisories/DEVO-2025-0001/"
   },
   {
+    "CVE": "CVE-2025-11931",
+    "PoC": "https://github.com/wolfSSL/wolfssl/pull/9223"
+  },
+  {
+    "CVE": "CVE-2025-11932",
+    "PoC": "https://github.com/wolfSSL/wolfssl/pull/9223"
+  },
+  {
+    "CVE": "CVE-2025-11933",
+    "PoC": "https://github.com/wolfSSL/wolfssl"
+  },
+  {
+    "CVE": "CVE-2025-11933",
+    "PoC": "https://github.com/wolfSSL/wolfssl/pull/9132"
+  },
+  {
+    "CVE": "CVE-2025-11934",
+    "PoC": "https://github.com/wolfSSL/wolfssl"
+  },
+  {
     "CVE": "CVE-2025-11934",
     "PoC": "https://github.com/wolfSSL/wolfssl/pull/9113"
   },
   {
     "CVE": "CVE-2025-11935",
+    "PoC": "https://github.com/wolfSSL/wolfssl"
+  },
+  {
+    "CVE": "CVE-2025-11935",
     "PoC": "https://github.com/wolfSSL/wolfssl/pull/9112"
+  },
+  {
+    "CVE": "CVE-2025-11936",
+    "PoC": "https://github.com/wolfSSL/wolfssl"
   },
   {
     "CVE": "CVE-2025-11936",
@@ -520314,6 +520630,14 @@
   {
     "CVE": "CVE-2025-1288",
     "PoC": "https://wpscan.com/vulnerability/175af35d-6972-42c9-b7ac-913ce1fbac64/"
+  },
+  {
+    "CVE": "CVE-2025-12888",
+    "PoC": "https://https://github.com/wolfSSL/wolfssl/pull/9275"
+  },
+  {
+    "CVE": "CVE-2025-12889",
+    "PoC": "https://github.com/wolfSSL/wolfssl/pull/9395"
   },
   {
     "CVE": "CVE-2025-1289",
@@ -521846,6 +522170,10 @@
   {
     "CVE": "CVE-2025-13891",
     "PoC": "https://research.cleantalk.org/cve-2025-13891/"
+  },
+  {
+    "CVE": "CVE-2025-13912",
+    "PoC": "https://github.com/wolfSSL/wolfssl/pull/9148"
   },
   {
     "CVE": "CVE-2025-1392",
@@ -523850,6 +524178,18 @@
   {
     "CVE": "CVE-2025-15345",
     "PoC": "https://research.cleantalk.org/cve-2025-15345"
+  },
+  {
+    "CVE": "CVE-2025-15346",
+    "PoC": "https://github.com/wolfSSL/wolfssl-py/commit/b4517dece79f682a8f453abce5cfc0b81bae769d"
+  },
+  {
+    "CVE": "CVE-2025-15346",
+    "PoC": "https://github.com/wolfSSL/wolfssl-py/pull/62"
+  },
+  {
+    "CVE": "CVE-2025-15346",
+    "PoC": "https://github.com/wolfSSL/wolfssl-py/releases/tag/v5.8.4-stable"
   },
   {
     "CVE": "CVE-2025-1535",
@@ -555420,6 +555760,10 @@
     "PoC": "https://github.com/TREXNEGRO/Security-Advisories/blob/main/CVE-2025-65133/poc.md"
   },
   {
+    "CVE": "CVE-2025-65134",
+    "PoC": "https://github.com/TREXNEGRO/Security-Advisories/blob/main/CVE-2025-65134/README.md"
+  },
+  {
     "CVE": "CVE-2025-65135",
     "PoC": "https://github.com/TREXNEGRO/Security-Advisories/blob/main/CVE-2025-65135/poc.md"
   },
@@ -559064,6 +559408,10 @@
     "PoC": "https://github.com/zakkanijia/POC/blob/main/gpac_avi/GPAC_AVI_indx_heap_overflow.md"
   },
   {
+    "CVE": "CVE-2025-70302",
+    "PoC": "https://github.com/zakkanijia/POC/blob/main/gpac_ghi/ghi.md"
+  },
+  {
     "CVE": "CVE-2025-70304",
     "PoC": "https://github.com/zakkanijia/POC/blob/main/gpac_vobsub/GPAC_vobsub.md"
   },
@@ -559074,6 +559422,10 @@
   {
     "CVE": "CVE-2025-70330",
     "PoC": "https://github.com/TheMalwareGuardian/CVE-2025-70330"
+  },
+  {
+    "CVE": "CVE-2025-70341",
+    "PoC": "https://github.com/App-Auto-Patch/App-Auto-Patch/issues/203"
   },
   {
     "CVE": "CVE-2025-70342",
@@ -559126,6 +559478,10 @@
   {
     "CVE": "CVE-2025-70646",
     "PoC": "https://github.com/0-fool/VulnbyCola/blob/main/Tenda/AX-1803/5/1.md"
+  },
+  {
+    "CVE": "CVE-2025-70650",
+    "PoC": "https://github.com/0-fool/VulnbyCola/blob/main/Tenda/AX-1806/1/1.md"
   },
   {
     "CVE": "CVE-2025-70651",
@@ -567512,6 +567868,10 @@
     "PoC": "https://github.com/GitoxideLabs/gitoxide/issues/2305"
   },
   {
+    "CVE": "CVE-2026-0819",
+    "PoC": "https://github.com/wolfSSL/wolfssl/pull/9630"
+  },
+  {
     "CVE": "CVE-2026-0821",
     "PoC": "https://github.com/quickjs-ng/quickjs/issues/1296"
   },
@@ -567664,6 +568024,10 @@
     "PoC": "https://github.com/Usagi-org/ai-goofish-monitor/issues/488"
   },
   {
+    "CVE": "CVE-2026-1005",
+    "PoC": "https://github.com/wolfSSL/wolfssl/pull/9571"
+  },
+  {
     "CVE": "CVE-2026-10054",
     "PoC": "https://gitlab.eclipse.org/security/vulnerability-reports/-/work_items/376"
   },
@@ -567713,7 +568077,15 @@
   },
   {
     "CVE": "CVE-2026-10097",
+    "PoC": "https://github.com/wolfSSL/wolfssl/pull/10430"
+  },
+  {
+    "CVE": "CVE-2026-10097",
     "PoC": "https://www.wolfssl.com/docs/security-vulnerabilities/"
+  },
+  {
+    "CVE": "CVE-2026-10098",
+    "PoC": "https://github.com/wolfSSL/wolfssl/pull/10554"
   },
   {
     "CVE": "CVE-2026-10098",
@@ -568277,6 +568649,10 @@
   },
   {
     "CVE": "CVE-2026-10512",
+    "PoC": "https://github.com/wolfSSL/wolfssl/pull/10536"
+  },
+  {
+    "CVE": "CVE-2026-10512",
     "PoC": "https://www.wolfssl.com/docs/security-vulnerabilities/"
   },
   {
@@ -568346,6 +568722,10 @@
   {
     "CVE": "CVE-2026-1059",
     "PoC": "https://github.com/wangchaoxing/CVE/issues/1"
+  },
+  {
+    "CVE": "CVE-2026-10592",
+    "PoC": "https://github.com/wolfSSL/wolfssl/pull/10549"
   },
   {
     "CVE": "CVE-2026-10592",
@@ -569293,6 +569673,10 @@
   },
   {
     "CVE": "CVE-2026-11310",
+    "PoC": "https://github.com/wolfSSL/wolfssl/pull/10674"
+  },
+  {
+    "CVE": "CVE-2026-11310",
     "PoC": "https://www.wolfssl.com/docs/security-vulnerabilities/"
   },
   {
@@ -569813,6 +570197,10 @@
   },
   {
     "CVE": "CVE-2026-11703",
+    "PoC": "https://github.com/wolfSSL/wolfssl/pull/10489"
+  },
+  {
+    "CVE": "CVE-2026-11703",
     "PoC": "https://www.wolfssl.com/docs/security-vulnerabilities/"
   },
   {
@@ -570141,6 +570529,10 @@
   },
   {
     "CVE": "CVE-2026-11999",
+    "PoC": "https://github.com/wolfSSL/wolfssl/pull/10674"
+  },
+  {
+    "CVE": "CVE-2026-11999",
     "PoC": "https://www.wolfssl.com/docs/security-vulnerabilities/"
   },
   {
@@ -570406,6 +570798,10 @@
   {
     "CVE": "CVE-2026-1230",
     "PoC": "https://gitlab.com/gitlab-org/gitlab/-/work_items/587002"
+  },
+  {
+    "CVE": "CVE-2026-12340",
+    "PoC": "https://github.com/wolfSSL/wolfssl/pull/10641"
   },
   {
     "CVE": "CVE-2026-12340",
@@ -571016,6 +571412,10 @@
     "PoC": "https://github.com/yan-124/yan/issues/4"
   },
   {
+    "CVE": "CVE-2026-13488",
+    "PoC": "https://vuldb.com/cve/CVE-2026-13488"
+  },
+  {
     "CVE": "CVE-2026-13495",
     "PoC": "https://github.com/ltranquility/vuln_submit/issues/16"
   },
@@ -571342,6 +571742,10 @@
   {
     "CVE": "CVE-2026-13714",
     "PoC": "https://wpscan.com/vulnerability/69f9dcd8-ab3c-46ed-ac6b-2f1db35f8d1f/"
+  },
+  {
+    "CVE": "CVE-2026-13716",
+    "PoC": "https://gitlab.com/crafty-controller/crafty-4/-/work_items/740"
   },
   {
     "CVE": "CVE-2026-13725",
@@ -571678,6 +572082,14 @@
   {
     "CVE": "CVE-2026-14547",
     "PoC": "https://wpscan.com/vulnerability/5c208be8-57db-4f74-8030-398c1eece293/"
+  },
+  {
+    "CVE": "CVE-2026-14548",
+    "PoC": "https://wpscan.com/vulnerability/e1e0e945-db49-4e27-b143-ef3520a39db9/"
+  },
+  {
+    "CVE": "CVE-2026-14549",
+    "PoC": "https://wpscan.com/vulnerability/3dd9bf3b-7fe4-4a58-ad05-1fc0bfb85413/"
   },
   {
     "CVE": "CVE-2026-14553",
@@ -573788,6 +574200,18 @@
     "PoC": "https://github.com/foeCat/CVE/blob/main/CRMEB/crontab_unauthorized_access.md#proof-of-concept"
   },
   {
+    "CVE": "CVE-2026-17347",
+    "PoC": "https://github.com/pgadmin-org/pgadmin4/commit/e7a85767314e7b0fe0b35fe80b9c1af38f48dff6"
+  },
+  {
+    "CVE": "CVE-2026-17347",
+    "PoC": "https://github.com/pgadmin-org/pgadmin4/commit/ea7e798aac27174d2bacee1d6e136bed76a95e23"
+  },
+  {
+    "CVE": "CVE-2026-17351",
+    "PoC": "https://github.com/pgadmin-org/pgadmin4/commit/bf4792444446f0e7ab721d23cbd6bfe6afaa7a8b"
+  },
+  {
     "CVE": "CVE-2026-1736",
     "PoC": "https://github.com/open5gs/open5gs/issues/4270"
   },
@@ -573836,6 +574260,14 @@
     "PoC": "https://github.com/LX-LX88/cve/issues/29"
   },
   {
+    "CVE": "CVE-2026-17432",
+    "PoC": "https://github.com/NousResearch/hermes-agent/issues/44730"
+  },
+  {
+    "CVE": "CVE-2026-17433",
+    "PoC": "https://github.com/nanocoai/nanoclaw/issues/2761"
+  },
+  {
     "CVE": "CVE-2026-1745",
     "PoC": "https://github.com/Asim-QAZi/Cross-Site-Request-Forgery-Arbitrary-Medical-Certificate-Deletion"
   },
@@ -573848,12 +574280,40 @@
     "PoC": "https://www.sourcecodester.com/"
   },
   {
+    "CVE": "CVE-2026-17457",
+    "PoC": "https://github.com/mf-yang/openclaw-cn/issues/561"
+  },
+  {
+    "CVE": "CVE-2026-17458",
+    "PoC": "https://github.com/mf-yang/openclaw-cn/issues/562"
+  },
+  {
+    "CVE": "CVE-2026-17459",
+    "PoC": "https://github.com/perwendel/spark/issues/1296"
+  },
+  {
     "CVE": "CVE-2026-1747",
     "PoC": "https://gitlab.com/gitlab-org/gitlab/-/issues/588385"
   },
   {
+    "CVE": "CVE-2026-17500",
+    "PoC": "https://github.com/ggml-org/llama.cpp/issues/25284"
+  },
+  {
+    "CVE": "CVE-2026-17501",
+    "PoC": "https://github.com/ggml-org/llama.cpp/issues/25283"
+  },
+  {
     "CVE": "CVE-2026-1751",
     "PoC": "https://gitlab.com/gitlab-org/gitlab/-/issues/519340"
+  },
+  {
+    "CVE": "CVE-2026-17512",
+    "PoC": "https://github.com/ggml-org/whisper.cpp/issues/3923"
+  },
+  {
+    "CVE": "CVE-2026-17514",
+    "PoC": "https://github.com/ZJONSSON/node-unzipper/issues/357"
   },
   {
     "CVE": "CVE-2026-17515",
@@ -573864,8 +574324,20 @@
     "PoC": "https://bugzilla.redhat.com/show_bug.cgi?id=2507407"
   },
   {
+    "CVE": "CVE-2026-17529",
+    "PoC": "https://github.com/AstrBotDevs/AstrBot/issues/8780"
+  },
+  {
     "CVE": "CVE-2026-1753",
     "PoC": "https://wpscan.com/vulnerability/c42dbab9-b729-4748-88e5-0bd2f6d66e3d/"
+  },
+  {
+    "CVE": "CVE-2026-17530",
+    "PoC": "https://github.com/AstrBotDevs/AstrBot/issues/8781"
+  },
+  {
+    "CVE": "CVE-2026-17531",
+    "PoC": "https://github.com/unitedbyai/droidclaw/issues/18"
   },
   {
     "CVE": "CVE-2026-17540",
@@ -573890,6 +574362,10 @@
   {
     "CVE": "CVE-2026-17570",
     "PoC": "https://devolutions.net/security/advisories/DEVO-2026-0026/"
+  },
+  {
+    "CVE": "CVE-2026-17573",
+    "PoC": "https://github.com/HDFGroup/hdf5/issues/6124"
   },
   {
     "CVE": "CVE-2026-17613",
@@ -574142,6 +574618,14 @@
   {
     "CVE": "CVE-2026-19230",
     "PoC": "https://vuldb.com/vuln/386994/cti"
+  },
+  {
+    "CVE": "CVE-2026-19278",
+    "PoC": "https://bugzilla.redhat.com/show_bug.cgi?id=2512524"
+  },
+  {
+    "CVE": "CVE-2026-19433",
+    "PoC": "https://secur0.com/en/cna/cve-list/cve-2026-19433-idor-in-prospero-flow-crm-contact-save-and-vcard-export"
   },
   {
     "CVE": "CVE-2026-1953",
@@ -579188,6 +579672,18 @@
     "PoC": "https://github.com/niklasso/minisat/issues/55#issue-3832527387"
   },
   {
+    "CVE": "CVE-2026-2645",
+    "PoC": "https://github.com/wolfSSL/wolfssl/pull/9694"
+  },
+  {
+    "CVE": "CVE-2026-2646",
+    "PoC": "https://github.com/wolfSSL/wolfssl/pull/9748"
+  },
+  {
+    "CVE": "CVE-2026-2646",
+    "PoC": "https://github.com/wolfSSL/wolfssl/pull/9949"
+  },
+  {
     "CVE": "CVE-2026-26478",
     "PoC": "https://github.com/pastcompute/tichome-poc-1"
   },
@@ -581652,6 +582148,14 @@
     "PoC": "https://github.com/prassan10/XSS-Open-Redirect-via-scalar_url"
   },
   {
+    "CVE": "CVE-2026-30118",
+    "PoC": "https://github.com/prassan10/ssrf-zero-click-ato-scalar"
+  },
+  {
+    "CVE": "CVE-2026-30139",
+    "PoC": "https://github.com/bodd1593/CVEs-huyle/tree/main/CVE-2026-30139"
+  },
+  {
     "CVE": "CVE-2026-30141",
     "PoC": "https://github.com/bitbank2/AnimatedGIF/issues/115"
   },
@@ -581869,6 +582373,10 @@
   },
   {
     "CVE": "CVE-2026-30368",
+    "PoC": "https://github.com/truekas/ls-poc"
+  },
+  {
+    "CVE": "CVE-2026-30368",
     "PoC": "https://www.incognitotgt.me/blog/lightspeed"
   },
   {
@@ -581894,6 +582402,10 @@
   {
     "CVE": "CVE-2026-3046",
     "PoC": "https://vuldb.com/?id.347406"
+  },
+  {
+    "CVE": "CVE-2026-30478",
+    "PoC": "https://github.com/penjaminTester/Research/tree/main/CVE-2026-30478"
   },
   {
     "CVE": "CVE-2026-30479",
@@ -581996,12 +582508,20 @@
     "PoC": "https://github.com/meifukun/Web-Security-PoCs/blob/main/Inventory-System/XSS-AddStock-msg.md"
   },
   {
+    "CVE": "CVE-2026-30563",
+    "PoC": "https://github.com/meifukun/Web-Security-PoCs/blob/main/Inventory-System/XSS-UpdateDetails-website.md"
+  },
+  {
     "CVE": "CVE-2026-30564",
     "PoC": "https://github.com/meifukun/Web-Security-PoCs/blob/main/Inventory-System/XSS-ViewPayments-limit.md"
   },
   {
     "CVE": "CVE-2026-30565",
     "PoC": "https://github.com/meifukun/Web-Security-PoCs/blob/main/Inventory-System/XSS-ViewSupplier-limit.md"
+  },
+  {
+    "CVE": "CVE-2026-30566",
+    "PoC": "https://github.com/meifukun/Web-Security-PoCs/blob/main/Inventory-System/XSS-ViewCustomers-limit.md"
   },
   {
     "CVE": "CVE-2026-30567",
@@ -582072,6 +582592,10 @@
     "PoC": "https://issues.chromium.org/issues/485287859"
   },
   {
+    "CVE": "CVE-2026-30632",
+    "PoC": "https://gist.github.com/spdc-elm/b059904a9e351afc1f5d38351f8b9ea5"
+  },
+  {
     "CVE": "CVE-2026-30635",
     "PoC": "https://gist.github.com/spdc-elm/3ddecd10ffa85c5963ab7fe531619875"
   },
@@ -582114,6 +582638,10 @@
   {
     "CVE": "CVE-2026-3069",
     "PoC": "https://github.com/ltranquility/cve_submit/issues/5"
+  },
+  {
+    "CVE": "CVE-2026-30691",
+    "PoC": "https://github.com/walidriouah/CVE-2026-30691"
   },
   {
     "CVE": "CVE-2026-30694",
@@ -582410,6 +582938,10 @@
   {
     "CVE": "CVE-2026-30945",
     "PoC": "https://github.com/withstudiocms/studiocms/security/advisories/GHSA-8rgj-vrfr-6hqr"
+  },
+  {
+    "CVE": "CVE-2026-30950",
+    "PoC": "https://github.com/Significant-Gravitas/AutoGPT/security/advisories/GHSA-q58p-v9r9-7gqj"
   },
   {
     "CVE": "CVE-2026-30951",
@@ -583842,6 +584374,14 @@
   {
     "CVE": "CVE-2026-32271",
     "PoC": "https://github.com/craftcms/commerce/security/advisories/GHSA-875v-7m49-8x88"
+  },
+  {
+    "CVE": "CVE-2026-3229",
+    "PoC": "https://github.com/wolfSSL/wolfssl/pull/9827"
+  },
+  {
+    "CVE": "CVE-2026-3230",
+    "PoC": "https://github.com/wolfSSL/wolfssl/pull/9754"
   },
   {
     "CVE": "CVE-2026-32301",
@@ -585368,6 +585908,10 @@
     "PoC": "http://seclists.org/fulldisclosure/2026/Apr/17"
   },
   {
+    "CVE": "CVE-2026-3503",
+    "PoC": "https://github.com/wolfSSL/wolfssl/pull/9734"
+  },
+  {
     "CVE": "CVE-2026-35038",
     "PoC": "https://github.com/SignalK/signalk-server/security/advisories/GHSA-qh3j-mrg8-f234"
   },
@@ -585452,6 +585996,22 @@
     "PoC": "https://bugzilla.redhat.com/show_bug.cgi?id=2457729"
   },
   {
+    "CVE": "CVE-2026-3547",
+    "PoC": "https://github.com/wolfSSL/wolfssl/pull/9859"
+  },
+  {
+    "CVE": "CVE-2026-3548",
+    "PoC": "https://github.com/wolfSSL/wolfssl/pull/9628/"
+  },
+  {
+    "CVE": "CVE-2026-3548",
+    "PoC": "https://github.com/wolfSSL/wolfssl/pull/9873/"
+  },
+  {
+    "CVE": "CVE-2026-3549",
+    "PoC": "https://github.com/wolfSSL/wolfssl/pull/9817"
+  },
+  {
     "CVE": "CVE-2026-35535",
     "PoC": "https://cert-portal.siemens.com/productcert/html/ssa-253495.html"
   },
@@ -585470,6 +586030,14 @@
   {
     "CVE": "CVE-2026-3563",
     "PoC": "https://devolutions.net/security/advisories/DEVO-2026-0008"
+  },
+  {
+    "CVE": "CVE-2026-3579",
+    "PoC": "https://github.com/wolfSSL/wolfssl/pull/9855"
+  },
+  {
+    "CVE": "CVE-2026-3580",
+    "PoC": "https://github.com/wolfSSL/wolfssl/pull/9855"
   },
   {
     "CVE": "CVE-2026-3585",
@@ -586150,6 +586718,10 @@
   {
     "CVE": "CVE-2026-38428",
     "PoC": "https://github.com/kestra-io/kestra/security/advisories/GHSA-365w-2m69-mp9x"
+  },
+  {
+    "CVE": "CVE-2026-3849",
+    "PoC": "https://github.com/wolfSSL/wolfssl/pull/9737"
   },
   {
     "CVE": "CVE-2026-38526",
@@ -588720,6 +589292,10 @@
     "PoC": "https://github.com/charmbracelet/wish/security/advisories/GHSA-xjvp-7243-rg9h"
   },
   {
+    "CVE": "CVE-2026-4159",
+    "PoC": "https://github.com/wolfSSL/wolfssl/pull/9945"
+  },
+  {
     "CVE": "CVE-2026-41591",
     "PoC": "https://github.com/marko-js/marko/security/advisories/GHSA-x9fj-57fh-c8wq"
   },
@@ -590842,6 +591418,10 @@
   {
     "CVE": "CVE-2026-43948",
     "PoC": "https://github.com/wger-project/wger/security/advisories/GHSA-mhc8-p3jx-84mm"
+  },
+  {
+    "CVE": "CVE-2026-4395",
+    "PoC": "https://github.com/wolfSSL/wolfssl/pull/9988"
   },
   {
     "CVE": "CVE-2026-43958",
@@ -594856,6 +595436,14 @@
     "PoC": "https://www.foxit.com/support/security-bulletins.html"
   },
   {
+    "CVE": "CVE-2026-49471",
+    "PoC": "https://github.com/oraios/serena/security/advisories/GHSA-37h2-6p4f-mp3q"
+  },
+  {
+    "CVE": "CVE-2026-49476",
+    "PoC": "https://github.com/facelessuser/soupsieve/security/advisories/GHSA-2wc2-fm75-p42x"
+  },
+  {
     "CVE": "CVE-2026-49482",
     "PoC": "https://github.com/MacWarrior/clipbucket-v5/security/advisories/GHSA-wv43-277p-737c"
   },
@@ -595008,8 +595596,16 @@
     "PoC": "https://github.com/lepture/mistune/security/advisories/GHSA-qcq2-496w-v96p"
   },
   {
+    "CVE": "CVE-2026-49852",
+    "PoC": "https://github.com/authlib/joserfc/security/advisories/GHSA-gg9x-qcx2-xmrh"
+  },
+  {
     "CVE": "CVE-2026-4986",
     "PoC": "https://wpscan.com/vulnerability/1d99eed6-9a16-4d5a-90f9-ab604dfd5b92/"
+  },
+  {
+    "CVE": "CVE-2026-49866",
+    "PoC": "https://github.com/libp2p/js-libp2p/security/advisories/GHSA-cwc9-cp4j-mcvv"
   },
   {
     "CVE": "CVE-2026-49869",
@@ -595098,6 +595694,10 @@
   {
     "CVE": "CVE-2026-49975",
     "PoC": "https://github.com/EQSTLab/CVE-2026-49975"
+  },
+  {
+    "CVE": "CVE-2026-49977",
+    "PoC": "https://github.com/AmauriC/tarteaucitron.js/security/advisories/GHSA-jxj7-g6gm-49j7"
   },
   {
     "CVE": "CVE-2026-49978",
@@ -595620,12 +596220,24 @@
     "PoC": "https://www.kdev.site/cve-request_005/"
   },
   {
+    "CVE": "CVE-2026-5187",
+    "PoC": "https://github.com/wolfSSL/wolfssl"
+  },
+  {
+    "CVE": "CVE-2026-5188",
+    "PoC": "https://github.com/wolfSSL/wolfssl/pull/10024"
+  },
+  {
     "CVE": "CVE-2026-51937",
     "PoC": "https://gist.github.com/Passwords404/2599df955cdb36b36b9551b5b7809114"
   },
   {
     "CVE": "CVE-2026-51937",
     "PoC": "https://github.com/zhangyd-c/OneBlog/issues/43"
+  },
+  {
+    "CVE": "CVE-2026-5194",
+    "PoC": "https://github.com/wolfSSL/wolfssl/pull/10131"
   },
   {
     "CVE": "CVE-2026-51946",
@@ -595742,6 +596354,10 @@
   {
     "CVE": "CVE-2026-52584",
     "PoC": "https://github.com/libjxl/libjxl/issues/4803"
+  },
+  {
+    "CVE": "CVE-2026-5263",
+    "PoC": "https://github.com/wolfSSL/wolfssl/pull/10048"
   },
   {
     "CVE": "CVE-2026-5272",
@@ -596000,6 +596616,10 @@
     "PoC": "https://bugzilla.redhat.com/show_bug.cgi?id=2492137"
   },
   {
+    "CVE": "CVE-2026-5295",
+    "PoC": "https://github.com/wolfSSL/wolfssl/pull/10116"
+  },
+  {
     "CVE": "CVE-2026-5305",
     "PoC": "https://wpscan.com/vulnerability/bf59610b-98ba-4c05-b2fc-85c163e9a389/"
   },
@@ -596112,6 +596732,10 @@
     "PoC": "https://fluidattacks.com/es/advisories/bizkit"
   },
   {
+    "CVE": "CVE-2026-5393",
+    "PoC": "https://github.com/wolfSSL/wolfssl/pull/10079"
+  },
+  {
     "CVE": "CVE-2026-5394",
     "PoC": "https://fluidattacks.com/es/advisories/dragons"
   },
@@ -596220,6 +596844,18 @@
     "PoC": "https://www.machinespirits.de/"
   },
   {
+    "CVE": "CVE-2026-5446",
+    "PoC": "https://github.com/wolfSSL/wolfssl/pull/10111"
+  },
+  {
+    "CVE": "CVE-2026-5447",
+    "PoC": "https://github.com/wolfSSL/wolfssl/pull/10112"
+  },
+  {
+    "CVE": "CVE-2026-5448",
+    "PoC": "https://github.com/wolfSSL/wolfssl/pull/10071"
+  },
+  {
     "CVE": "CVE-2026-5450",
     "PoC": "https://cert-portal.siemens.com/productcert/html/ssa-082556.html"
   },
@@ -596230,6 +596866,14 @@
   {
     "CVE": "CVE-2026-5468",
     "PoC": "https://vuldb.com/vuln/355072/cti"
+  },
+  {
+    "CVE": "CVE-2026-5477",
+    "PoC": "https://github.com/wolfSSL/wolfssl/pull/10102"
+  },
+  {
+    "CVE": "CVE-2026-5479",
+    "PoC": "https://github.com/wolfSSL/wolfssl/pull/10102"
   },
   {
     "CVE": "CVE-2026-54885",
@@ -596274,6 +596918,26 @@
   {
     "CVE": "CVE-2026-54910",
     "PoC": "https://github.com/gtsteffaniak/filebrowser/security/advisories/GHSA-vvp7-h4fj-m28w"
+  },
+  {
+    "CVE": "CVE-2026-5500",
+    "PoC": "https://github.com/wolfSSL/wolfssl/pull/10102"
+  },
+  {
+    "CVE": "CVE-2026-5501",
+    "PoC": "https://github.com/wolfSSL/wolfssl/pull/10102"
+  },
+  {
+    "CVE": "CVE-2026-5503",
+    "PoC": "https://github.com/wolfSSL/wolfssl/pull/10102"
+  },
+  {
+    "CVE": "CVE-2026-5504",
+    "PoC": "https://github.com/wolfSSL/wolfssl/pull/10088"
+  },
+  {
+    "CVE": "CVE-2026-5507",
+    "PoC": "https://github.com/wolfSSL/wolfssl/pull/10088"
   },
   {
     "CVE": "CVE-2026-55180",
@@ -596581,7 +597245,15 @@
   },
   {
     "CVE": "CVE-2026-55958",
+    "PoC": "https://github.com/wolfSSL/wolfssl/pull/10705"
+  },
+  {
+    "CVE": "CVE-2026-55958",
     "PoC": "https://www.wolfssl.com/docs/security-vulnerabilities/"
+  },
+  {
+    "CVE": "CVE-2026-55960",
+    "PoC": "https://github.com/wolfSSL/wolfssl/pull/10702"
   },
   {
     "CVE": "CVE-2026-55960",
@@ -596589,7 +597261,15 @@
   },
   {
     "CVE": "CVE-2026-55961",
+    "PoC": "https://github.com/wolfSSL/wolfssl/pull/10702"
+  },
+  {
+    "CVE": "CVE-2026-55961",
     "PoC": "https://www.wolfssl.com/docs/security-vulnerabilities/"
+  },
+  {
+    "CVE": "CVE-2026-55962",
+    "PoC": "https://github.com/wolfSSL/wolfssl/pull/10702"
   },
   {
     "CVE": "CVE-2026-55962",
@@ -596597,7 +597277,15 @@
   },
   {
     "CVE": "CVE-2026-55964",
+    "PoC": "https://github.com/wolfSSL/wolfssl/pull/10702"
+  },
+  {
+    "CVE": "CVE-2026-55964",
     "PoC": "https://www.wolfssl.com/docs/security-vulnerabilities/"
+  },
+  {
+    "CVE": "CVE-2026-55967",
+    "PoC": "https://github.com/wolfSSL/wolfssl/pull/10709"
   },
   {
     "CVE": "CVE-2026-55967",
@@ -596884,8 +597572,16 @@
     "PoC": "https://www.tenable.com/security/tns-2026-17"
   },
   {
+    "CVE": "CVE-2026-5772",
+    "PoC": "https://github.com/wolfSSL/wolfssl/pull/10119"
+  },
+  {
     "CVE": "CVE-2026-5776",
     "PoC": "https://wpscan.com/vulnerability/00c0b9f7-c559-463e-80ae-97d99e0ef99f/"
+  },
+  {
+    "CVE": "CVE-2026-5778",
+    "PoC": "https://github.com/wolfSSL/wolfssl/pull/10125"
   },
   {
     "CVE": "CVE-2026-57827",
@@ -597488,6 +598184,14 @@
     "PoC": "https://issues.chromium.org/issues/485203821"
   },
   {
+    "CVE": "CVE-2026-59090",
+    "PoC": "https://bugzilla.redhat.com/show_bug.cgi?id=2496584"
+  },
+  {
+    "CVE": "CVE-2026-59091",
+    "PoC": "https://bugzilla.redhat.com/show_bug.cgi?id=2496585"
+  },
+  {
     "CVE": "CVE-2026-59094",
     "PoC": "https://github.com/pathwaycom/pathway/issues/241"
   },
@@ -597610,6 +598314,10 @@
   {
     "CVE": "CVE-2026-59232",
     "PoC": "https://secur0.com/en/cna/cve-list/cve-2026-59232-stored-xss-in-prospero-flow-crm-lead-name-field"
+  },
+  {
+    "CVE": "CVE-2026-59233",
+    "PoC": "https://secur0.com/en/cna/cve-list/cve-2026-59233-missing-authorization-in-prospero-flow-crm-permission-endpoint"
   },
   {
     "CVE": "CVE-2026-59246",
@@ -597977,7 +598685,15 @@
   },
   {
     "CVE": "CVE-2026-6091",
+    "PoC": "https://github.com/wolfSSL/wolfssl/pull/10170"
+  },
+  {
+    "CVE": "CVE-2026-6091",
     "PoC": "https://www.wolfssl.com/docs/security-vulnerabilities/"
+  },
+  {
+    "CVE": "CVE-2026-6092",
+    "PoC": "https://github.com/wolfSSL/wolfssl/pull/10167"
   },
   {
     "CVE": "CVE-2026-6092",
@@ -597986,6 +598702,10 @@
   {
     "CVE": "CVE-2026-6093",
     "PoC": "https://fluidattacks.com/es/advisories/motley"
+  },
+  {
+    "CVE": "CVE-2026-6094",
+    "PoC": "https://github.com/wolfSSL/wolfssl/pull/10128"
   },
   {
     "CVE": "CVE-2026-6094",
@@ -598465,6 +599185,10 @@
   },
   {
     "CVE": "CVE-2026-6291",
+    "PoC": "https://github.com/wolfSSL/wolfssl/pull/10203"
+  },
+  {
+    "CVE": "CVE-2026-6291",
     "PoC": "https://www.wolfssl.com/docs/security-vulnerabilities/"
   },
   {
@@ -598541,7 +599265,15 @@
   },
   {
     "CVE": "CVE-2026-6325",
+    "PoC": "https://github.com/wolfSSL/wolfssl/pull/10204"
+  },
+  {
+    "CVE": "CVE-2026-6325",
     "PoC": "https://www.wolfssl.com/docs/security-vulnerabilities/"
+  },
+  {
+    "CVE": "CVE-2026-6329",
+    "PoC": "https://github.com/wolfSSL/wolfssl/pull/10192"
   },
   {
     "CVE": "CVE-2026-6329",
@@ -598549,7 +599281,15 @@
   },
   {
     "CVE": "CVE-2026-6330",
+    "PoC": "https://github.com/wolfSSL/wolfssl/pull/10192"
+  },
+  {
+    "CVE": "CVE-2026-6330",
     "PoC": "https://www.wolfssl.com/docs/security-vulnerabilities/"
+  },
+  {
+    "CVE": "CVE-2026-6331",
+    "PoC": "https://github.com/wolfSSL/wolfssl/pull/10192"
   },
   {
     "CVE": "CVE-2026-6331",
@@ -598645,6 +599385,10 @@
   },
   {
     "CVE": "CVE-2026-6412",
+    "PoC": "https://github.com/wolfSSL/wolfssl/pull/10222"
+  },
+  {
+    "CVE": "CVE-2026-6412",
     "PoC": "https://www.wolfssl.com/docs/security-vulnerabilities/"
   },
   {
@@ -598654,6 +599398,10 @@
   {
     "CVE": "CVE-2026-6433",
     "PoC": "https://wpscan.com/vulnerability/a0b1c059-e156-4402-ac8d-67f8ad7386cc/"
+  },
+  {
+    "CVE": "CVE-2026-6450",
+    "PoC": "https://github.com/wolfSSL/wolfssl/pull/10239"
   },
   {
     "CVE": "CVE-2026-6450",
@@ -598766,6 +599514,10 @@
   {
     "CVE": "CVE-2026-6493",
     "PoC": "https://gist.github.com/TrebledJ/0bd0494a28daaa16abb565b2cef4bd7c"
+  },
+  {
+    "CVE": "CVE-2026-64941",
+    "PoC": "https://github.com/phoenixframework/phoenix_live_view/security/advisories/GHSA-36m4-rm57-3prf"
   },
   {
     "CVE": "CVE-2026-6495",
@@ -599325,11 +600077,23 @@
   },
   {
     "CVE": "CVE-2026-6678",
+    "PoC": "https://github.com/wolfSSL/wolfssl/pull/10203"
+  },
+  {
+    "CVE": "CVE-2026-6678",
     "PoC": "https://www.wolfssl.com/docs/security-vulnerabilities/"
   },
   {
     "CVE": "CVE-2026-6679",
+    "PoC": "https://github.com/wolfSSL/wolfssl/pull/10116"
+  },
+  {
+    "CVE": "CVE-2026-6679",
     "PoC": "https://www.wolfssl.com/docs/security-vulnerabilities/"
+  },
+  {
+    "CVE": "CVE-2026-6681",
+    "PoC": "https://github.com/wolfSSL/wolfssl/pull/10116"
   },
   {
     "CVE": "CVE-2026-6681",
@@ -599396,6 +600160,10 @@
     "PoC": "https://mattermost.com/security-updates"
   },
   {
+    "CVE": "CVE-2026-66915",
+    "PoC": "https://mysites.guru/blog/fabrik-unauthenticated-rce-calc-element/"
+  },
+  {
     "CVE": "CVE-2026-6706",
     "PoC": "https://devolutions.net/security/advisories/DEVO-2026-0011"
   },
@@ -599410,6 +600178,10 @@
   {
     "CVE": "CVE-2026-67217",
     "PoC": "https://joshua.hu/cjson-json-parser-cve-vulnerabilities"
+  },
+  {
+    "CVE": "CVE-2026-6731",
+    "PoC": "https://github.com/wolfSSL/wolfssl/pull/10223"
   },
   {
     "CVE": "CVE-2026-6731",
@@ -600160,6 +600932,18 @@
     "PoC": "https://github.com/xue-p123/vuldb-research/issues/3"
   },
   {
+    "CVE": "CVE-2026-71964",
+    "PoC": "https://themcsam.github.io/posts/cyberpanel-2.4.3-vulnerabilties/"
+  },
+  {
+    "CVE": "CVE-2026-71965",
+    "PoC": "https://themcsam.github.io/posts/cyberpanel-2.4.3-vulnerabilties/"
+  },
+  {
+    "CVE": "CVE-2026-71966",
+    "PoC": "https://themcsam.github.io/posts/cyberpanel-2.4.3-vulnerabilties/"
+  },
+  {
     "CVE": "CVE-2026-7199",
     "PoC": "https://github.com/3436567162/vlun/issues/2"
   },
@@ -600648,6 +601432,10 @@
     "PoC": "https://github.com/PolarVista/Xcode-mcp-server/issues/4"
   },
   {
+    "CVE": "CVE-2026-7416",
+    "PoC": "https://vuldb.com/submit/803974"
+  },
+  {
     "CVE": "CVE-2026-7417",
     "PoC": "https://github.com/Algovate/xhs-mcp/issues/6"
   },
@@ -600713,6 +601501,10 @@
   },
   {
     "CVE": "CVE-2026-7511",
+    "PoC": "https://github.com/wolfSSL/wolfssl/pull/10203"
+  },
+  {
+    "CVE": "CVE-2026-7511",
     "PoC": "https://www.wolfssl.com/docs/security-vulnerabilities/"
   },
   {
@@ -600729,7 +601521,15 @@
   },
   {
     "CVE": "CVE-2026-7531",
+    "PoC": "https://github.com/wolfSSL/wolfssl/pull/10327"
+  },
+  {
+    "CVE": "CVE-2026-7531",
     "PoC": "https://www.wolfssl.com/docs/security-vulnerabilities/"
+  },
+  {
+    "CVE": "CVE-2026-7532",
+    "PoC": "https://github.com/wolfSSL/wolfssl/pull/10354"
   },
   {
     "CVE": "CVE-2026-7532",
@@ -601894,6 +602694,10 @@
   {
     "CVE": "CVE-2026-8694",
     "PoC": "https://devolutions.net/security/advisories/DEVO-2026-0016/"
+  },
+  {
+    "CVE": "CVE-2026-8720",
+    "PoC": "https://github.com/wolfSSL/wolfssl/pull/10447"
   },
   {
     "CVE": "CVE-2026-8720",
