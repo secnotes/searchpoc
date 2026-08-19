@@ -67313,6 +67313,10 @@
   },
   {
     "CVE": "CVE-2009-0010",
+    "PoC": "http://www.securityfocus.com/bid/34926"
+  },
+  {
+    "CVE": "CVE-2009-0010",
     "PoC": "http://www.vupen.com/exploits/Apple_QuickTime_PICT_Poly_Tag_Parsing_Heap_Overflow_PoC_Exploit_1407144.php"
   },
   {
@@ -67632,6 +67636,14 @@
     "PoC": "http://securityreason.com/securityalert/4915"
   },
   {
+    "CVE": "CVE-2009-0144",
+    "PoC": "http://www.securityfocus.com/bid/34926"
+  },
+  {
+    "CVE": "CVE-2009-0145",
+    "PoC": "http://www.securityfocus.com/bid/34926"
+  },
+  {
     "CVE": "CVE-2009-0146",
     "PoC": "http://www.redhat.com/support/errata/RHSA-2009-0430.html"
   },
@@ -67660,8 +67672,44 @@
     "PoC": "https://oval.cisecurity.org/repository/search/definition/oval%3Aorg.mitre.oval%3Adef%3A9633"
   },
   {
+    "CVE": "CVE-2009-0149",
+    "PoC": "http://www.securityfocus.com/bid/34926"
+  },
+  {
+    "CVE": "CVE-2009-0150",
+    "PoC": "http://www.securityfocus.com/bid/34926"
+  },
+  {
+    "CVE": "CVE-2009-0152",
+    "PoC": "http://www.securityfocus.com/bid/34926"
+  },
+  {
     "CVE": "CVE-2009-0153",
     "PoC": "http://bugs.icu-project.org/trac/ticket/5691"
+  },
+  {
+    "CVE": "CVE-2009-0153",
+    "PoC": "http://www.securityfocus.com/bid/34926"
+  },
+  {
+    "CVE": "CVE-2009-0154",
+    "PoC": "http://www.securityfocus.com/bid/34926"
+  },
+  {
+    "CVE": "CVE-2009-0155",
+    "PoC": "http://www.securityfocus.com/bid/34926"
+  },
+  {
+    "CVE": "CVE-2009-0156",
+    "PoC": "http://www.securityfocus.com/bid/34926"
+  },
+  {
+    "CVE": "CVE-2009-0157",
+    "PoC": "http://www.securityfocus.com/bid/34926"
+  },
+  {
+    "CVE": "CVE-2009-0158",
+    "PoC": "http://www.securityfocus.com/bid/34926"
   },
   {
     "CVE": "CVE-2009-0159",
@@ -67670,6 +67718,14 @@
   {
     "CVE": "CVE-2009-0159",
     "PoC": "https://oval.cisecurity.org/repository/search/definition/oval%3Aorg.mitre.oval%3Adef%3A9634"
+  },
+  {
+    "CVE": "CVE-2009-0160",
+    "PoC": "http://www.securityfocus.com/bid/34926"
+  },
+  {
+    "CVE": "CVE-2009-0161",
+    "PoC": "http://www.securityfocus.com/bid/34926"
   },
   {
     "CVE": "CVE-2009-0166",
@@ -69534,6 +69590,18 @@
   {
     "CVE": "CVE-2009-0932",
     "PoC": "http://securityreason.com/securityalert/8077"
+  },
+  {
+    "CVE": "CVE-2009-0942",
+    "PoC": "http://www.securityfocus.com/bid/34926"
+  },
+  {
+    "CVE": "CVE-2009-0943",
+    "PoC": "http://www.securityfocus.com/bid/34926"
+  },
+  {
+    "CVE": "CVE-2009-0944",
+    "PoC": "http://www.securityfocus.com/bid/34926"
   },
   {
     "CVE": "CVE-2009-0949",
@@ -75041,6 +75109,10 @@
   },
   {
     "CVE": "CVE-2009-3555",
+    "PoC": "http://www.securityfocus.com/bid/36935"
+  },
+  {
+    "CVE": "CVE-2009-3555",
     "PoC": "http://www.vmware.com/security/advisories/VMSA-2010-0019.html"
   },
   {
@@ -78310,6 +78382,10 @@
   {
     "CVE": "CVE-2010-0483",
     "PoC": "https://oval.cisecurity.org/repository/search/definition/oval%3Aorg.mitre.oval%3Adef%3A7170"
+  },
+  {
+    "CVE": "CVE-2010-0483",
+    "PoC": "https://oval.cisecurity.org/repository/search/definition/oval%3Aorg.mitre.oval%3Adef%3A8654"
   },
   {
     "CVE": "CVE-2010-0484",
@@ -127301,6 +127377,10 @@
   },
   {
     "CVE": "CVE-2014-3566",
+    "PoC": "http://www.securityfocus.com/bid/70574"
+  },
+  {
+    "CVE": "CVE-2014-3566",
     "PoC": "http://www.vmware.com/security/advisories/VMSA-2015-0003.html"
   },
   {
@@ -128402,6 +128482,10 @@
   {
     "CVE": "CVE-2014-3996",
     "PoC": "http://seclists.org/fulldisclosure/2014/Aug/85"
+  },
+  {
+    "CVE": "CVE-2014-3996",
+    "PoC": "http://www.securityfocus.com/bid/69305"
   },
   {
     "CVE": "CVE-2014-3997",
@@ -130185,6 +130269,10 @@
   },
   {
     "CVE": "CVE-2014-4699",
+    "PoC": "http://linux.oracle.com/errata/ELSA-2014-3047.html"
+  },
+  {
+    "CVE": "CVE-2014-4699",
     "PoC": "http://openwall.com/lists/oss-security/2014/07/05/4"
   },
   {
@@ -130678,6 +130766,10 @@
   {
     "CVE": "CVE-2014-4936",
     "PoC": "http://packetstormsecurity.com/files/130244/Malwarebytes-Anti-Malware-Anti-Exploit-Update-Remote-Code-Execution.html"
+  },
+  {
+    "CVE": "CVE-2014-4943",
+    "PoC": "http://linux.oracle.com/errata/ELSA-2014-3047.html"
   },
   {
     "CVE": "CVE-2014-4943",
@@ -146348,6 +146440,10 @@
     "PoC": "http://www.exploit-db.com/exploits/35210"
   },
   {
+    "CVE": "CVE-2014-8498",
+    "PoC": "http://www.securityfocus.com/bid/71016"
+  },
+  {
     "CVE": "CVE-2014-8499",
     "PoC": "http://packetstormsecurity.com/files/129036/Password-Manager-Pro-SQL-Injection.html"
   },
@@ -152266,6 +152362,10 @@
   {
     "CVE": "CVE-2015-10092",
     "PoC": "https://github.com/wp-plugins/qtranslate-slug/commit/74b3932696f9868e14563e51b7d0bb68c53bf5e4"
+  },
+  {
+    "CVE": "CVE-2015-10093",
+    "PoC": "https://github.com/korobochkin/mark-user-as-spammer/releases/tag/v1.0.2"
   },
   {
     "CVE": "CVE-2015-10098",
@@ -226661,7 +226761,15 @@
   },
   {
     "CVE": "CVE-2018-1000654",
+    "PoC": "http://www.securityfocus.com/bid/105151"
+  },
+  {
+    "CVE": "CVE-2018-1000654",
     "PoC": "https://gitlab.com/gnutls/libtasn1/issues/4"
+  },
+  {
+    "CVE": "CVE-2018-1000657",
+    "PoC": "http://www.securityfocus.com/bid/105188"
   },
   {
     "CVE": "CVE-2018-1000657",
@@ -229990,6 +230098,10 @@
   {
     "CVE": "CVE-2018-11220",
     "PoC": "https://www.exploit-db.com/exploits/44779/"
+  },
+  {
+    "CVE": "CVE-2018-11224",
+    "PoC": "https://docs.google.com/document/d/16_HC-FjFuBNMbaoR397z_3EwpDP6wb1DNWrfkD4qRDE/edit"
   },
   {
     "CVE": "CVE-2018-11225",
@@ -335160,6 +335272,10 @@
     "PoC": "https://wiki.scn.sap.com/wiki/pages/viewpage.action?pageId=552603345"
   },
   {
+    "CVE": "CVE-2020-6283",
+    "PoC": "https://wiki.scn.sap.com/wiki/pages/viewpage.action?pageId=557449700"
+  },
+  {
     "CVE": "CVE-2020-6284",
     "PoC": "https://wiki.scn.sap.com/wiki/pages/viewpage.action?pageId=552603345"
   },
@@ -335170,6 +335286,10 @@
   {
     "CVE": "CVE-2020-6287",
     "PoC": "http://seclists.org/fulldisclosure/2021/Apr/6"
+  },
+  {
+    "CVE": "CVE-2020-6288",
+    "PoC": "https://wiki.scn.sap.com/wiki/pages/viewpage.action?pageId=557449700"
   },
   {
     "CVE": "CVE-2020-6293",
@@ -335208,6 +335328,10 @@
     "PoC": "https://wiki.scn.sap.com/wiki/pages/viewpage.action?pageId=552603345"
   },
   {
+    "CVE": "CVE-2020-6302",
+    "PoC": "https://wiki.scn.sap.com/wiki/pages/viewpage.action?pageId=557449700"
+  },
+  {
     "CVE": "CVE-2020-6307",
     "PoC": "https://launchpad.support.sap.com/#/notes/2863397"
   },
@@ -335220,8 +335344,28 @@
     "PoC": "https://wiki.scn.sap.com/wiki/pages/viewpage.action?pageId=552603345"
   },
   {
+    "CVE": "CVE-2020-6311",
+    "PoC": "https://wiki.scn.sap.com/wiki/pages/viewpage.action?pageId=557449700"
+  },
+  {
+    "CVE": "CVE-2020-6312",
+    "PoC": "https://wiki.scn.sap.com/wiki/pages/viewpage.action?pageId=557449700"
+  },
+  {
+    "CVE": "CVE-2020-6313",
+    "PoC": "https://wiki.scn.sap.com/wiki/pages/viewpage.action?pageId=557449700"
+  },
+  {
     "CVE": "CVE-2020-6314",
     "PoC": "https://launchpad.support.sap.com/#/notes/2960815"
+  },
+  {
+    "CVE": "CVE-2020-6314",
+    "PoC": "https://wiki.scn.sap.com/wiki/pages/viewpage.action?pageId=557449700"
+  },
+  {
+    "CVE": "CVE-2020-6317",
+    "PoC": "https://wiki.scn.sap.com/wiki/pages/viewpage.action?pageId=557449700"
   },
   {
     "CVE": "CVE-2020-6318",
@@ -335232,152 +335376,316 @@
     "PoC": "http://seclists.org/fulldisclosure/2022/May/42"
   },
   {
+    "CVE": "CVE-2020-6318",
+    "PoC": "https://wiki.scn.sap.com/wiki/pages/viewpage.action?pageId=557449700"
+  },
+  {
+    "CVE": "CVE-2020-6320",
+    "PoC": "https://wiki.scn.sap.com/wiki/pages/viewpage.action?pageId=557449700"
+  },
+  {
     "CVE": "CVE-2020-6321",
     "PoC": "https://launchpad.support.sap.com/#/notes/2960815"
+  },
+  {
+    "CVE": "CVE-2020-6321",
+    "PoC": "https://wiki.scn.sap.com/wiki/pages/viewpage.action?pageId=557449700"
   },
   {
     "CVE": "CVE-2020-6322",
     "PoC": "https://launchpad.support.sap.com/#/notes/2960815"
   },
   {
+    "CVE": "CVE-2020-6322",
+    "PoC": "https://wiki.scn.sap.com/wiki/pages/viewpage.action?pageId=557449700"
+  },
+  {
+    "CVE": "CVE-2020-6324",
+    "PoC": "https://wiki.scn.sap.com/wiki/pages/viewpage.action?pageId=557449700"
+  },
+  {
+    "CVE": "CVE-2020-6326",
+    "PoC": "https://wiki.scn.sap.com/wiki/pages/viewpage.action?pageId=557449700"
+  },
+  {
     "CVE": "CVE-2020-6327",
     "PoC": "https://launchpad.support.sap.com/#/notes/2960815"
+  },
+  {
+    "CVE": "CVE-2020-6327",
+    "PoC": "https://wiki.scn.sap.com/wiki/pages/viewpage.action?pageId=557449700"
   },
   {
     "CVE": "CVE-2020-6328",
     "PoC": "https://launchpad.support.sap.com/#/notes/2960815"
   },
   {
+    "CVE": "CVE-2020-6328",
+    "PoC": "https://wiki.scn.sap.com/wiki/pages/viewpage.action?pageId=557449700"
+  },
+  {
     "CVE": "CVE-2020-6329",
     "PoC": "https://launchpad.support.sap.com/#/notes/2960815"
+  },
+  {
+    "CVE": "CVE-2020-6329",
+    "PoC": "https://wiki.scn.sap.com/wiki/pages/viewpage.action?pageId=557449700"
   },
   {
     "CVE": "CVE-2020-6330",
     "PoC": "https://launchpad.support.sap.com/#/notes/2960815"
   },
   {
+    "CVE": "CVE-2020-6330",
+    "PoC": "https://wiki.scn.sap.com/wiki/pages/viewpage.action?pageId=557449700"
+  },
+  {
     "CVE": "CVE-2020-6331",
     "PoC": "https://launchpad.support.sap.com/#/notes/2960815"
+  },
+  {
+    "CVE": "CVE-2020-6331",
+    "PoC": "https://wiki.scn.sap.com/wiki/pages/viewpage.action?pageId=557449700"
   },
   {
     "CVE": "CVE-2020-6332",
     "PoC": "https://launchpad.support.sap.com/#/notes/2960815"
   },
   {
+    "CVE": "CVE-2020-6332",
+    "PoC": "https://wiki.scn.sap.com/wiki/pages/viewpage.action?pageId=557449700"
+  },
+  {
     "CVE": "CVE-2020-6333",
     "PoC": "https://launchpad.support.sap.com/#/notes/2960815"
+  },
+  {
+    "CVE": "CVE-2020-6333",
+    "PoC": "https://wiki.scn.sap.com/wiki/pages/viewpage.action?pageId=557449700"
   },
   {
     "CVE": "CVE-2020-6334",
     "PoC": "https://launchpad.support.sap.com/#/notes/2960815"
   },
   {
+    "CVE": "CVE-2020-6334",
+    "PoC": "https://wiki.scn.sap.com/wiki/pages/viewpage.action?pageId=557449700"
+  },
+  {
     "CVE": "CVE-2020-6335",
     "PoC": "https://launchpad.support.sap.com/#/notes/2960815"
+  },
+  {
+    "CVE": "CVE-2020-6335",
+    "PoC": "https://wiki.scn.sap.com/wiki/pages/viewpage.action?pageId=557449700"
   },
   {
     "CVE": "CVE-2020-6336",
     "PoC": "https://launchpad.support.sap.com/#/notes/2960815"
   },
   {
+    "CVE": "CVE-2020-6336",
+    "PoC": "https://wiki.scn.sap.com/wiki/pages/viewpage.action?pageId=557449700"
+  },
+  {
     "CVE": "CVE-2020-6337",
     "PoC": "https://launchpad.support.sap.com/#/notes/2960815"
+  },
+  {
+    "CVE": "CVE-2020-6337",
+    "PoC": "https://wiki.scn.sap.com/wiki/pages/viewpage.action?pageId=557449700"
   },
   {
     "CVE": "CVE-2020-6338",
     "PoC": "https://launchpad.support.sap.com/#/notes/2960815"
   },
   {
+    "CVE": "CVE-2020-6338",
+    "PoC": "https://wiki.scn.sap.com/wiki/pages/viewpage.action?pageId=557449700"
+  },
+  {
     "CVE": "CVE-2020-6339",
     "PoC": "https://launchpad.support.sap.com/#/notes/2960815"
+  },
+  {
+    "CVE": "CVE-2020-6339",
+    "PoC": "https://wiki.scn.sap.com/wiki/pages/viewpage.action?pageId=557449700"
   },
   {
     "CVE": "CVE-2020-6340",
     "PoC": "https://launchpad.support.sap.com/#/notes/2960815"
   },
   {
+    "CVE": "CVE-2020-6340",
+    "PoC": "https://wiki.scn.sap.com/wiki/pages/viewpage.action?pageId=557449700"
+  },
+  {
     "CVE": "CVE-2020-6341",
     "PoC": "https://launchpad.support.sap.com/#/notes/2960815"
+  },
+  {
+    "CVE": "CVE-2020-6341",
+    "PoC": "https://wiki.scn.sap.com/wiki/pages/viewpage.action?pageId=557449700"
   },
   {
     "CVE": "CVE-2020-6342",
     "PoC": "https://launchpad.support.sap.com/#/notes/2960815"
   },
   {
+    "CVE": "CVE-2020-6342",
+    "PoC": "https://wiki.scn.sap.com/wiki/pages/viewpage.action?pageId=557449700"
+  },
+  {
     "CVE": "CVE-2020-6343",
     "PoC": "https://launchpad.support.sap.com/#/notes/2960815"
+  },
+  {
+    "CVE": "CVE-2020-6343",
+    "PoC": "https://wiki.scn.sap.com/wiki/pages/viewpage.action?pageId=557449700"
   },
   {
     "CVE": "CVE-2020-6344",
     "PoC": "https://launchpad.support.sap.com/#/notes/2960815"
   },
   {
+    "CVE": "CVE-2020-6344",
+    "PoC": "https://wiki.scn.sap.com/wiki/pages/viewpage.action?pageId=557449700"
+  },
+  {
     "CVE": "CVE-2020-6345",
     "PoC": "https://launchpad.support.sap.com/#/notes/2960815"
+  },
+  {
+    "CVE": "CVE-2020-6345",
+    "PoC": "https://wiki.scn.sap.com/wiki/pages/viewpage.action?pageId=557449700"
   },
   {
     "CVE": "CVE-2020-6346",
     "PoC": "https://launchpad.support.sap.com/#/notes/2960815"
   },
   {
+    "CVE": "CVE-2020-6346",
+    "PoC": "https://wiki.scn.sap.com/wiki/pages/viewpage.action?pageId=557449700"
+  },
+  {
     "CVE": "CVE-2020-6347",
     "PoC": "https://launchpad.support.sap.com/#/notes/2960815"
+  },
+  {
+    "CVE": "CVE-2020-6347",
+    "PoC": "https://wiki.scn.sap.com/wiki/pages/viewpage.action?pageId=557449700"
   },
   {
     "CVE": "CVE-2020-6348",
     "PoC": "https://launchpad.support.sap.com/#/notes/2960815"
   },
   {
+    "CVE": "CVE-2020-6348",
+    "PoC": "https://wiki.scn.sap.com/wiki/pages/viewpage.action?pageId=557449700"
+  },
+  {
     "CVE": "CVE-2020-6349",
     "PoC": "https://launchpad.support.sap.com/#/notes/2960815"
+  },
+  {
+    "CVE": "CVE-2020-6349",
+    "PoC": "https://wiki.scn.sap.com/wiki/pages/viewpage.action?pageId=557449700"
   },
   {
     "CVE": "CVE-2020-6350",
     "PoC": "https://launchpad.support.sap.com/#/notes/2960815"
   },
   {
+    "CVE": "CVE-2020-6350",
+    "PoC": "https://wiki.scn.sap.com/wiki/pages/viewpage.action?pageId=557449700"
+  },
+  {
     "CVE": "CVE-2020-6351",
     "PoC": "https://launchpad.support.sap.com/#/notes/2960815"
+  },
+  {
+    "CVE": "CVE-2020-6351",
+    "PoC": "https://wiki.scn.sap.com/wiki/pages/viewpage.action?pageId=557449700"
   },
   {
     "CVE": "CVE-2020-6352",
     "PoC": "https://launchpad.support.sap.com/#/notes/2960815"
   },
   {
+    "CVE": "CVE-2020-6352",
+    "PoC": "https://wiki.scn.sap.com/wiki/pages/viewpage.action?pageId=557449700"
+  },
+  {
     "CVE": "CVE-2020-6353",
     "PoC": "https://launchpad.support.sap.com/#/notes/2960815"
+  },
+  {
+    "CVE": "CVE-2020-6353",
+    "PoC": "https://wiki.scn.sap.com/wiki/pages/viewpage.action?pageId=557449700"
   },
   {
     "CVE": "CVE-2020-6354",
     "PoC": "https://launchpad.support.sap.com/#/notes/2960815"
   },
   {
+    "CVE": "CVE-2020-6354",
+    "PoC": "https://wiki.scn.sap.com/wiki/pages/viewpage.action?pageId=557449700"
+  },
+  {
     "CVE": "CVE-2020-6355",
     "PoC": "https://launchpad.support.sap.com/#/notes/2960815"
+  },
+  {
+    "CVE": "CVE-2020-6355",
+    "PoC": "https://wiki.scn.sap.com/wiki/pages/viewpage.action?pageId=557449700"
   },
   {
     "CVE": "CVE-2020-6356",
     "PoC": "https://launchpad.support.sap.com/#/notes/2960815"
   },
   {
+    "CVE": "CVE-2020-6356",
+    "PoC": "https://wiki.scn.sap.com/wiki/pages/viewpage.action?pageId=557449700"
+  },
+  {
     "CVE": "CVE-2020-6357",
     "PoC": "https://launchpad.support.sap.com/#/notes/2960815"
+  },
+  {
+    "CVE": "CVE-2020-6357",
+    "PoC": "https://wiki.scn.sap.com/wiki/pages/viewpage.action?pageId=557449700"
   },
   {
     "CVE": "CVE-2020-6358",
     "PoC": "https://launchpad.support.sap.com/#/notes/2960815"
   },
   {
+    "CVE": "CVE-2020-6358",
+    "PoC": "https://wiki.scn.sap.com/wiki/pages/viewpage.action?pageId=557449700"
+  },
+  {
     "CVE": "CVE-2020-6359",
     "PoC": "https://launchpad.support.sap.com/#/notes/2960815"
+  },
+  {
+    "CVE": "CVE-2020-6359",
+    "PoC": "https://wiki.scn.sap.com/wiki/pages/viewpage.action?pageId=557449700"
   },
   {
     "CVE": "CVE-2020-6360",
     "PoC": "https://launchpad.support.sap.com/#/notes/2960815"
   },
   {
+    "CVE": "CVE-2020-6360",
+    "PoC": "https://wiki.scn.sap.com/wiki/pages/viewpage.action?pageId=557449700"
+  },
+  {
     "CVE": "CVE-2020-6361",
     "PoC": "https://launchpad.support.sap.com/#/notes/2960815"
+  },
+  {
+    "CVE": "CVE-2020-6361",
+    "PoC": "https://wiki.scn.sap.com/wiki/pages/viewpage.action?pageId=557449700"
   },
   {
     "CVE": "CVE-2020-6364",
@@ -339778,6 +340086,10 @@
   {
     "CVE": "CVE-2020-9027",
     "PoC": "https://sku11army.blogspot.com/2020/01/eltex-devices-ntp-rg-1402g-ntp-2-os.html"
+  },
+  {
+    "CVE": "CVE-2020-9028",
+    "PoC": "https://sku11army.blogspot.com/2020/01/symmetricom-syncserver_95.html"
   },
   {
     "CVE": "CVE-2020-9029",
@@ -504724,6 +505036,10 @@
     "PoC": "https://github.com/rockersiyuan/CVE/blob/main/SourceCodester_House_Rental_Management_System_Sql_Inject-4.md"
   },
   {
+    "CVE": "CVE-2024-5369",
+    "PoC": "https://vuldb.com/?submit.343449"
+  },
+  {
     "CVE": "CVE-2024-5370",
     "PoC": "https://vuldb.com/?id.266282"
   },
@@ -505974,6 +506290,10 @@
   {
     "CVE": "CVE-2024-56199",
     "PoC": "https://github.com/thorsten/phpMyFAQ/security/advisories/GHSA-ww33-jppq-qfrp"
+  },
+  {
+    "CVE": "CVE-2024-56211",
+    "PoC": "https://patchstack.com/database/Wordpress/Plugin/userpro/vulnerability/wordpress-userpro-plugin-5-1-9-authenticated-arbitrary-user-meta-update-vulnerability?_s_id=cve"
   },
   {
     "CVE": "CVE-2024-5626",
@@ -562940,6 +563260,10 @@
     "PoC": "https://github.com/secfake/mycve/issues/3"
   },
   {
+    "CVE": "CVE-2025-8158",
+    "PoC": "https://vuldb.com/?submit.620608"
+  },
+  {
     "CVE": "CVE-2025-8159",
     "PoC": "https://github.com/boyslikesports/vul/blob/main/formLanguageChange.md"
   },
@@ -569368,8 +569692,32 @@
     "PoC": "https://github.com/zephyrproject-rtos/zephyr/security/advisories/GHSA-p93g-3r68-cj53"
   },
   {
+    "CVE": "CVE-2026-10652",
+    "PoC": "https://github.com/zephyrproject-rtos/zephyr/security/advisories/GHSA-3jxq-xx8g-q8j2"
+  },
+  {
     "CVE": "CVE-2026-10661",
     "PoC": "https://github.com/ahujasid/blender-mcp/issues/202"
+  },
+  {
+    "CVE": "CVE-2026-10665",
+    "PoC": "https://github.com/zephyrproject-rtos/zephyr/security/advisories/GHSA-3wqm-wgx2-9367"
+  },
+  {
+    "CVE": "CVE-2026-10666",
+    "PoC": "https://github.com/zephyrproject-rtos/zephyr/security/advisories/GHSA-532c-7g7f-jhmh"
+  },
+  {
+    "CVE": "CVE-2026-10667",
+    "PoC": "https://github.com/zephyrproject-rtos/zephyr/security/advisories/GHSA-9x5j-h3rh-x579"
+  },
+  {
+    "CVE": "CVE-2026-10673",
+    "PoC": "https://github.com/zephyrproject-rtos/zephyr/security/advisories/GHSA-hm6v-4jh4-3qc4"
+  },
+  {
+    "CVE": "CVE-2026-10680",
+    "PoC": "https://github.com/zephyrproject-rtos/zephyr/security/advisories/GHSA-vrwx-p97q-8854"
   },
   {
     "CVE": "CVE-2026-10690",
@@ -569546,6 +569894,10 @@
   {
     "CVE": "CVE-2026-10835",
     "PoC": "https://wpscan.com/vulnerability/3c7b37ab-b069-4257-82b2-5b4c54f7e503/"
+  },
+  {
+    "CVE": "CVE-2026-10849",
+    "PoC": "https://github.com/zephyrproject-rtos/zephyr/security/advisories/GHSA-39h3-7phx-pwhv"
   },
   {
     "CVE": "CVE-2026-10850",
@@ -569796,6 +570148,10 @@
     "PoC": "https://issues.chromium.org/issues/497342466"
   },
   {
+    "CVE": "CVE-2026-11022",
+    "PoC": "https://issues.chromium.org/issues/497532918"
+  },
+  {
     "CVE": "CVE-2026-11024",
     "PoC": "https://issues.chromium.org/issues/497591594"
   },
@@ -569962,6 +570318,10 @@
   {
     "CVE": "CVE-2026-1110",
     "PoC": "https://github.com/fizz-is-on-the-way/vuls_protocol/blob/main/librtsp_rtsp_parse_method/librtsp_rtsp_parse_method.md"
+  },
+  {
+    "CVE": "CVE-2026-11100",
+    "PoC": "https://issues.chromium.org/issues/500416901"
   },
   {
     "CVE": "CVE-2026-11103",
@@ -570134,6 +570494,10 @@
   {
     "CVE": "CVE-2026-11181",
     "PoC": "https://issues.chromium.org/issues/502633299"
+  },
+  {
+    "CVE": "CVE-2026-11183",
+    "PoC": "https://issues.chromium.org/issues/502768780"
   },
   {
     "CVE": "CVE-2026-11184",
@@ -572680,12 +573044,28 @@
     "PoC": "https://issues.chromium.org/issues/495897416"
   },
   {
+    "CVE": "CVE-2026-13864",
+    "PoC": "https://issues.chromium.org/issues/496399913"
+  },
+  {
+    "CVE": "CVE-2026-13869",
+    "PoC": "https://issues.chromium.org/issues/497610642"
+  },
+  {
     "CVE": "CVE-2026-13889",
     "PoC": "https://issues.chromium.org/issues/500588580"
   },
   {
     "CVE": "CVE-2026-13894",
     "PoC": "https://issues.chromium.org/issues/501741117"
+  },
+  {
+    "CVE": "CVE-2026-13909",
+    "PoC": "https://issues.chromium.org/issues/505933538"
+  },
+  {
+    "CVE": "CVE-2026-13910",
+    "PoC": "https://issues.chromium.org/issues/507231605"
   },
   {
     "CVE": "CVE-2026-13911",
@@ -573042,6 +573422,14 @@
   {
     "CVE": "CVE-2026-14391",
     "PoC": "https://issues.chromium.org/issues/506212452"
+  },
+  {
+    "CVE": "CVE-2026-14395",
+    "PoC": "https://issues.chromium.org/issues/511290389"
+  },
+  {
+    "CVE": "CVE-2026-14397",
+    "PoC": "https://issues.chromium.org/issues/511772608"
   },
   {
     "CVE": "CVE-2026-1443",
@@ -575721,6 +576109,10 @@
   },
   {
     "CVE": "CVE-2026-17523",
+    "PoC": "https://access.redhat.com/security/cve/CVE-2026-17523"
+  },
+  {
+    "CVE": "CVE-2026-17523",
     "PoC": "https://bugzilla.redhat.com/show_bug.cgi?id=2507407"
   },
   {
@@ -575950,6 +576342,10 @@
   {
     "CVE": "CVE-2026-1862",
     "PoC": "https://issues.chromium.org/issues/479726070"
+  },
+  {
+    "CVE": "CVE-2026-18649",
+    "PoC": "https://0xsemizzz.vercel.app/blog/cve-2026-18649-gstreamer-rtp-dos/"
   },
   {
     "CVE": "CVE-2026-18653",
@@ -576354,6 +576750,10 @@
   {
     "CVE": "CVE-2026-2015",
     "PoC": "https://github.com/ViniCastro2001/Security_Reports/tree/main/i-educar/BFLA-Final-Status-Import#proof-of-concept-poc"
+  },
+  {
+    "CVE": "CVE-2026-2015",
+    "PoC": "https://vuldb.com/?ctiid.344597"
   },
   {
     "CVE": "CVE-2026-2016",
@@ -583997,6 +584397,10 @@
   },
   {
     "CVE": "CVE-2026-30332",
+    "PoC": "https://github.com/B1tBreaker/CVE-2026-30332"
+  },
+  {
+    "CVE": "CVE-2026-30332",
     "PoC": "https://github.com/balena-io/etcher/issues/4500"
   },
   {
@@ -584200,6 +584604,10 @@
     "PoC": "https://github.com/meifukun/Web-Security-PoCs/blob/main/Pharmacy-Product-Management-System/Logic-AddStock-NegativePrice.md"
   },
   {
+    "CVE": "CVE-2026-30580",
+    "PoC": "https://github.com/SpeWnz/Vulnerability-Research/tree/main/CVE-2026-30580"
+  },
+  {
     "CVE": "CVE-2026-30586",
     "PoC": "https://gist.github.com/gabdevele/1dd393955d3ca7d937776fdca9412f0c"
   },
@@ -584232,8 +584640,16 @@
     "PoC": "https://issues.chromium.org/issues/485287859"
   },
   {
+    "CVE": "CVE-2026-30631",
+    "PoC": "https://gist.github.com/spdc-elm/1a56d53591a929446a54e50e64de9fc0"
+  },
+  {
     "CVE": "CVE-2026-30632",
     "PoC": "https://gist.github.com/spdc-elm/b059904a9e351afc1f5d38351f8b9ea5"
+  },
+  {
+    "CVE": "CVE-2026-30633",
+    "PoC": "https://gist.github.com/spdc-elm/5e19d66402307bdfc8b25ab27469172f"
   },
   {
     "CVE": "CVE-2026-30635",
@@ -584248,8 +584664,16 @@
     "PoC": "https://gist.github.com/0psPwn/10c43912adee9bfe2ff4fec947d4ee5a"
   },
   {
+    "CVE": "CVE-2026-30649",
+    "PoC": "https://github.com/xchg-rax-rax/vulnerability-research/tree/main/CVE-2026-30649"
+  },
+  {
     "CVE": "CVE-2026-3065",
     "PoC": "https://github.com/AnalogyC0de/public_exp/issues/9"
+  },
+  {
+    "CVE": "CVE-2026-30650",
+    "PoC": "https://github.com/xchg-rax-rax/vulnerability-research/tree/main/CVE-2026-30650"
   },
   {
     "CVE": "CVE-2026-30652",
@@ -595288,6 +595712,14 @@
     "PoC": "https://github.com/open-quantum-safe/liboqs/commit/077e32a94f39af02209dbbc680bf8a43b774b305"
   },
   {
+    "CVE": "CVE-2026-46345",
+    "PoC": "https://github.com/oscal-compass/compliance-trestle/commit/247fcce289f60103f3d8e28d8ec51a6986b94fb6"
+  },
+  {
+    "CVE": "CVE-2026-46345",
+    "PoC": "https://github.com/oscal-compass/compliance-trestle/commit/7d107b3ac53caca7bde97a6278b23cd739d94525"
+  },
+  {
     "CVE": "CVE-2026-4635",
     "PoC": "https://mattermost.com/security-updates"
   },
@@ -595466,6 +595898,22 @@
   {
     "CVE": "CVE-2026-46432",
     "PoC": "https://github.com/InternLM/lmdeploy/security/advisories/GHSA-m549-qq94-fvhg"
+  },
+  {
+    "CVE": "CVE-2026-46439",
+    "PoC": "https://github.com/oscal-compass/compliance-trestle/commit/247fcce289f60103f3d8e28d8ec51a6986b94fb6"
+  },
+  {
+    "CVE": "CVE-2026-46439",
+    "PoC": "https://github.com/oscal-compass/compliance-trestle/commit/7d107b3ac53caca7bde97a6278b23cd739d94525"
+  },
+  {
+    "CVE": "CVE-2026-46439",
+    "PoC": "https://github.com/oscal-compass/compliance-trestle/security/advisories/GHSA-gg2g-p7xc-qqmm"
+  },
+  {
+    "CVE": "CVE-2026-46439",
+    "PoC": "https://github.com/pypa/advisory-database/tree/main/vulns/compliance-trestle/PYSEC-2026-2425.yaml"
   },
   {
     "CVE": "CVE-2026-46441",
@@ -598274,6 +598722,10 @@
   {
     "CVE": "CVE-2026-52885",
     "PoC": "https://github.com/notepad-plus-plus/notepad-plus-plus/security/advisories/GHSA-qm4c-qg8p-qfcr"
+  },
+  {
+    "CVE": "CVE-2026-52886",
+    "PoC": "https://github.com/notepad-plus-plus/notepad-plus-plus/security/advisories/GHSA-rqfm-pw34-r7j6"
   },
   {
     "CVE": "CVE-2026-52888",
@@ -601228,6 +601680,10 @@
     "PoC": "https://github.com/Pai-777/ai-cve/blob/main/docs/cve-drafts/nocobase-workflow-javascript-sandbox-escape.en.md"
   },
   {
+    "CVE": "CVE-2026-6229",
+    "PoC": "https://research.cleantalk.org/cve-2026-6229"
+  },
+  {
     "CVE": "CVE-2026-62314",
     "PoC": "https://github.com/TecharoHQ/anubis/security/advisories/GHSA-6wcg-mqvh-fcvg"
   },
@@ -601626,6 +602082,14 @@
   {
     "CVE": "CVE-2026-64828",
     "PoC": "https://github.com/aaronamran/CVE-Disclosures/tree/main/CVE-2026/CVE-2026-64828"
+  },
+  {
+    "CVE": "CVE-2026-64849",
+    "PoC": "https://github.com/mlflow/mlflow/issues/24179"
+  },
+  {
+    "CVE": "CVE-2026-64849",
+    "PoC": "https://github.com/mlflow/mlflow/security/advisories/GHSA-7gwp-5pfp-969j"
   },
   {
     "CVE": "CVE-2026-64863",
@@ -602412,6 +602876,10 @@
     "PoC": "https://therealcoiffeur.com/c111011.html"
   },
   {
+    "CVE": "CVE-2026-67854",
+    "PoC": "https://jiuzero.github.io/2026/07/04/QCMS-tableField-Action-Backend-SQL-Injection-Vulnerability-White-box-Audit-Report?PASSWORD=cve520cve"
+  },
+  {
     "CVE": "CVE-2026-67865",
     "PoC": "https://gitlab.com/systerel/S2OPC/-/work_items/1785"
   },
@@ -602424,12 +602892,20 @@
     "PoC": "https://gitlab.com/systerel/S2OPC/-/work_items/1781"
   },
   {
+    "CVE": "CVE-2026-67868",
+    "PoC": "https://gitlab.com/systerel/S2OPC/-/work_items/1779"
+  },
+  {
     "CVE": "CVE-2026-67871",
     "PoC": "https://gitlab.com/systerel/S2OPC/-/work_items/1787"
   },
   {
     "CVE": "CVE-2026-67872",
     "PoC": "https://gitlab.com/systerel/S2OPC/-/work_items/1788"
+  },
+  {
+    "CVE": "CVE-2026-68004",
+    "PoC": "https://github.com/xuwu-xuwu/CVE-2026-68004"
   },
   {
     "CVE": "CVE-2026-6844",
@@ -602440,12 +602916,84 @@
     "PoC": "https://bugzilla.redhat.com/show_bug.cgi?id=2460012"
   },
   {
+    "CVE": "CVE-2026-68494",
+    "PoC": "https://github.com/FasterXML/jackson-core/security/advisories/GHSA-r7wm-3cxj-wff9"
+  },
+  {
+    "CVE": "CVE-2026-68494",
+    "PoC": "https://github.com/advisories/GHSA-72hv-8253-57qq"
+  },
+  {
+    "CVE": "CVE-2026-68499",
+    "PoC": "https://github.com/uhop/node-re2/security/advisories/GHSA-6hxr-mr5r-9836"
+  },
+  {
     "CVE": "CVE-2026-6850",
     "PoC": "https://mattermost.com/security-updates"
   },
   {
+    "CVE": "CVE-2026-68502",
+    "PoC": "https://github.com/grisuno/LazyOwn/releases/tag/release/0.2.154"
+  },
+  {
+    "CVE": "CVE-2026-68502",
+    "PoC": "https://github.com/grisuno/LazyOwn/security/advisories/GHSA-fr84-8cfg-59w4"
+  },
+  {
+    "CVE": "CVE-2026-68503",
+    "PoC": "https://github.com/grisuno/LazyOwn/releases/tag/release/0.2.154"
+  },
+  {
+    "CVE": "CVE-2026-68503",
+    "PoC": "https://github.com/grisuno/LazyOwn/security/advisories/GHSA-38jf-j9x7-jf6f"
+  },
+  {
+    "CVE": "CVE-2026-68517",
+    "PoC": "https://github.com/nicolargo/glances/security/advisories/GHSA-fp27-88fp-2phg"
+  },
+  {
+    "CVE": "CVE-2026-68519",
+    "PoC": "https://github.com/nicolargo/glances/commit/5c07c0d96423e9d5b9de71dd92e3717c66f504bd"
+  },
+  {
+    "CVE": "CVE-2026-68519",
+    "PoC": "https://github.com/nicolargo/glances/security/advisories/GHSA-59fj-m2j6-hcxh"
+  },
+  {
     "CVE": "CVE-2026-6858",
     "PoC": "https://wpscan.com/vulnerability/81035d75-81a5-486a-a9fb-b0d1e0befe3c/"
+  },
+  {
+    "CVE": "CVE-2026-68580",
+    "PoC": "https://github.com/FreeRDP/FreeRDP/security/advisories/GHSA-69xf-pqrw-596x"
+  },
+  {
+    "CVE": "CVE-2026-68581",
+    "PoC": "https://github.com/go-vikunja/vikunja/security/advisories/GHSA-vvcv-vpph-h844"
+  },
+  {
+    "CVE": "CVE-2026-68582",
+    "PoC": "https://github.com/go-vikunja/vikunja/security/advisories/GHSA-rj9j-8772-4h6c"
+  },
+  {
+    "CVE": "CVE-2026-68583",
+    "PoC": "https://github.com/openwrt/luci/security/advisories/GHSA-q335-4c83-c88h"
+  },
+  {
+    "CVE": "CVE-2026-68584",
+    "PoC": "https://github.com/siyuan-note/siyuan/security/advisories/GHSA-7j72-f6wg-cxw6"
+  },
+  {
+    "CVE": "CVE-2026-68585",
+    "PoC": "https://github.com/siyuan-note/siyuan/security/advisories/GHSA-pm3w-vxp9-ccwc"
+  },
+  {
+    "CVE": "CVE-2026-68586",
+    "PoC": "https://github.com/siyuan-note/siyuan/security/advisories/GHSA-36v8-mpjm-8j5r"
+  },
+  {
+    "CVE": "CVE-2026-68587",
+    "PoC": "https://github.com/siyuan-note/siyuan/security/advisories/GHSA-69mh-gvh4-8gp7"
   },
   {
     "CVE": "CVE-2026-6867",
@@ -602464,12 +603012,20 @@
     "PoC": "https://gitlab.com/wireshark/wireshark/-/work_items/21189"
   },
   {
+    "CVE": "CVE-2026-68770",
+    "PoC": "https://github.com/huggingface/sentence-transformers/issues/3801"
+  },
+  {
     "CVE": "CVE-2026-6878",
     "PoC": "https://github.com/zast-ai/vulnerability-reports/blob/main/bytedance/verl_rce.md"
   },
   {
     "CVE": "CVE-2026-6893",
     "PoC": "https://bugzilla.redhat.com/show_bug.cgi?id=2459963"
+  },
+  {
+    "CVE": "CVE-2026-68930",
+    "PoC": "https://github.com/Eugeny/russh/security/advisories/GHSA-m65r-rprj-r5rg"
   },
   {
     "CVE": "CVE-2026-6902",
@@ -605444,6 +606000,10 @@
     "PoC": "https://issues.chromium.org/issues/502661101"
   },
   {
+    "CVE": "CVE-2026-9120",
+    "PoC": "https://issues.chromium.org/issues/504620824"
+  },
+  {
     "CVE": "CVE-2026-9121",
     "PoC": "https://issues.chromium.org/issues/488064108"
   },
@@ -605926,6 +606486,10 @@
   {
     "CVE": "CVE-2026-9872",
     "PoC": "https://issues.chromium.org/issues/505077859"
+  },
+  {
+    "CVE": "CVE-2026-9873",
+    "PoC": "https://issues.chromium.org/issues/507365348"
   },
   {
     "CVE": "CVE-2026-9874",
