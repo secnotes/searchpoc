@@ -1,5 +1,145 @@
 [
   {
+    "CVE": "CVE-2024-13176",
+    "PoC": "https://github.com/Haomin-Yu/cve-2024-13176-timing-analysis"
+  },
+  {
+    "CVE": "CVE-2026-0603",
+    "PoC": "https://github.com/yym8538/CVE-2026-0603"
+  },
+  {
+    "CVE": "CVE-2026-40897",
+    "PoC": "https://github.com/yym8538/CVE-2026-40897"
+  },
+  {
+    "CVE": "CVE-2026-60004",
+    "PoC": "https://github.com/yym8538/CVE-2026-60004"
+  },
+  {
+    "CVE": "CVE-2026-33017",
+    "PoC": "https://github.com/yym8538/CVE-2026-33017"
+  },
+  {
+    "CVE": "CVE-2026-20896",
+    "PoC": "https://github.com/yym8538/CVE-2026-20896"
+  },
+  {
+    "CVE": "CVE-2026-16723",
+    "PoC": "https://github.com/yym8538/CVE-2026-16723"
+  },
+  {
+    "CVE": "CVE-2026-49975",
+    "PoC": "https://github.com/yym8538/CVE-2026-49975"
+  },
+  {
+    "CVE": "CVE-2026-26980",
+    "PoC": "https://github.com/yym8538/CVE-2026-26980"
+  },
+  {
+    "CVE": "CVE-2026-25253",
+    "PoC": "https://github.com/yym8538/CVE-2026-25253"
+  },
+  {
+    "CVE": "CVE-2026-21858",
+    "PoC": "https://github.com/yym8538/CVE-2026-21858"
+  },
+  {
+    "CVE": "CVE-2026-5027",
+    "PoC": "https://github.com/yym8538/CVE-2026-5027"
+  },
+  {
+    "CVE": "CVE-2025-24813",
+    "PoC": "https://github.com/yym8538/CVE-2025-24813"
+  },
+  {
+    "CVE": "CVE-2026-73570",
+    "PoC": "https://github.com/HORKimhab/CVE-2026-73570"
+  },
+  {
+    "CVE": "CVE-2026-33032",
+    "PoC": "https://github.com/Baba01hacker666/CVE-2026-33032"
+  },
+  {
+    "CVE": "CVE-2022-36804",
+    "PoC": "https://github.com/Junohea/cve-2022-36804"
+  },
+  {
+    "CVE": "CVE-2026-69836",
+    "PoC": "https://github.com/sentinel-aidefense/CVE-2026-69836-EXP"
+  },
+  {
+    "CVE": "CVE-2026-65400",
+    "PoC": "https://github.com/panchocosil/CVE-2026-65400-poc"
+  },
+  {
+    "CVE": "CVE-2026-48907",
+    "PoC": "https://github.com/CerberusMrXi/JCEzploit-CVE-2026-48907"
+  },
+  {
+    "CVE": "CVE-2026-58455",
+    "PoC": "https://github.com/Boreas37/CVE-2026-58455-PoC"
+  },
+  {
+    "CVE": "CVE-2026-76564",
+    "PoC": "https://github.com/toanln-cov/CVE-2026-76564"
+  },
+  {
+    "CVE": "CVE-2026-76565",
+    "PoC": "https://github.com/toanln-cov/CVE-2026-76565"
+  },
+  {
+    "CVE": "CVE-2026-0073",
+    "PoC": "https://github.com/aye468448-eng/CVE-2026-0073-Android-adbd-authentication-bypass"
+  },
+  {
+    "CVE": "CVE-2026-76036",
+    "PoC": "https://github.com/Hunt-Benito/rendering-code-outside-the-sandbox-cve-2026-76036-dawn-webgpu-buffer-overflow-in-chrome-on-android"
+  },
+  {
+    "CVE": "CVE-2025-69212",
+    "PoC": "https://github.com/Pasindu-sd/CVE-2025-69212-Exploit"
+  },
+  {
+    "CVE": "CVE-2026-64638",
+    "PoC": "https://github.com/G33l0/Cve-2026-64638"
+  },
+  {
+    "CVE": "CVE-2026-19598",
+    "PoC": "https://github.com/sag-asab/CVE-2026-19598"
+  },
+  {
+    "CVE": "CVE-2026-43499",
+    "PoC": "https://github.com/villager1314/-CVE-2026-43499-IQOO-Neo10-Analysis"
+  },
+  {
+    "CVE": "CVE-2026-43499",
+    "PoC": "https://github.com/villager1314/CVE-2026-43499-IQOO-Neo10-Analysis"
+  },
+  {
+    "CVE": "CVE-2026-41567",
+    "PoC": "https://github.com/berdav/CVE-2026-41567"
+  },
+  {
+    "CVE": "CVE-2026-39113",
+    "PoC": "https://github.com/20000419/CVE-2026-39113"
+  },
+  {
+    "CVE": "CVE-2026-69191",
+    "PoC": "https://github.com/fahimalshihab/CVE-2026-69191-FileRise-Authentication-Bypass"
+  },
+  {
+    "CVE": "CVE-2026-69836",
+    "PoC": "https://github.com/HORKimhab/CVE-2026-69836"
+  },
+  {
+    "CVE": "CVE-2026-30951",
+    "PoC": "https://github.com/yym8538/CVE-2026-30951"
+  },
+  {
+    "CVE": "CVE-2026-34220",
+    "PoC": "https://github.com/yym8538/CVE-2026-34220"
+  },
+  {
     "CVE": "CVE-2026-77113",
     "PoC": "https://github.com/0xROI/CVE-2026-77113"
   },
