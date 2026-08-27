@@ -476,6 +476,10 @@
     "PoC": "https://oval.cisecurity.org/repository/search/definition/oval%3Aorg.mitre.oval%3Adef%3A90"
   },
   {
+    "CVE": "CVE-2001-0198",
+    "PoC": "http://www.exploit-db.com/exploits/20605"
+  },
+  {
     "CVE": "CVE-2001-0228",
     "PoC": "http://freecode.com/projects/embedthis-goahead-webserver/releases/343539"
   },
@@ -6766,6 +6770,10 @@
   {
     "CVE": "CVE-2004-2466",
     "PoC": "http://packetstormsecurity.com/files/167892/Easy-Chat-Server-3.1-Buffer-Overflow.html"
+  },
+  {
+    "CVE": "CVE-2004-2466",
+    "PoC": "http://www.exploit-db.com/exploits/33326"
   },
   {
     "CVE": "CVE-2004-2466",
@@ -34173,6 +34181,10 @@
   },
   {
     "CVE": "CVE-2007-2222",
+    "PoC": "http://www.exploit-db.com/exploits/4065"
+  },
+  {
+    "CVE": "CVE-2007-2222",
     "PoC": "https://docs.microsoft.com/en-us/security-updates/securitybulletins/2007/ms07-033"
   },
   {
@@ -34928,6 +34940,10 @@
     "PoC": "http://securityreason.com/securityalert/2668"
   },
   {
+    "CVE": "CVE-2007-2526",
+    "PoC": "http://www.exploit-db.com/exploits/3873"
+  },
+  {
     "CVE": "CVE-2007-2527",
     "PoC": "https://www.exploit-db.com/exploits/3868"
   },
@@ -35153,7 +35169,15 @@
   },
   {
     "CVE": "CVE-2007-2583",
+    "PoC": "http://www.exploit-db.com/exploits/30020"
+  },
+  {
+    "CVE": "CVE-2007-2583",
     "PoC": "https://oval.cisecurity.org/repository/search/definition/oval%3Aorg.mitre.oval%3Adef%3A9930"
+  },
+  {
+    "CVE": "CVE-2007-2586",
+    "PoC": "http://www.exploit-db.com/exploits/6155"
   },
   {
     "CVE": "CVE-2007-2590",
@@ -35685,6 +35709,10 @@
   },
   {
     "CVE": "CVE-2007-2792",
+    "PoC": "http://www.exploit-db.com/exploits/11603"
+  },
+  {
+    "CVE": "CVE-2007-2792",
     "PoC": "https://www.exploit-db.com/exploits/3944"
   },
   {
@@ -35742,6 +35770,10 @@
   {
     "CVE": "CVE-2007-2820",
     "PoC": "http://marc.info/?l=full-disclosure&m=117981953312669&w=2"
+  },
+  {
+    "CVE": "CVE-2007-2821",
+    "PoC": "http://www.exploit-db.com/exploits/3960"
   },
   {
     "CVE": "CVE-2007-2821",
@@ -36448,6 +36480,10 @@
     "PoC": "http://securityreason.com/securityalert/2782"
   },
   {
+    "CVE": "CVE-2007-3133",
+    "PoC": "http://www.exploit-db.com/exploits/4083"
+  },
+  {
     "CVE": "CVE-2007-3135",
     "PoC": "http://securityreason.com/securityalert/2787"
   },
@@ -36866,6 +36902,10 @@
   {
     "CVE": "CVE-2007-3340",
     "PoC": "http://securityreason.com/securityalert/2822"
+  },
+  {
+    "CVE": "CVE-2007-3340",
+    "PoC": "http://www.exploit-db.com/exploits/9478"
   },
   {
     "CVE": "CVE-2007-3342",
@@ -37306,6 +37346,14 @@
   {
     "CVE": "CVE-2007-3526",
     "PoC": "https://www.exploit-db.com/exploits/4128"
+  },
+  {
+    "CVE": "CVE-2007-3529",
+    "PoC": "http://www.exploit-db.com/exploits/4139"
+  },
+  {
+    "CVE": "CVE-2007-3530",
+    "PoC": "http://www.exploit-db.com/exploits/4139"
   },
   {
     "CVE": "CVE-2007-3534",
@@ -37836,6 +37884,10 @@
     "PoC": "http://www.clavister.com/releasenotes/CorePlus_Release_Notes_8_81_01.pdf"
   },
   {
+    "CVE": "CVE-2007-3806",
+    "PoC": "http://www.exploit-db.com/exploits/4181"
+  },
+  {
     "CVE": "CVE-2007-3807",
     "PoC": "http://securityreason.com/securityalert/2893"
   },
@@ -37858,6 +37910,10 @@
   {
     "CVE": "CVE-2007-3812",
     "PoC": "http://packetstorm.linuxsecurity.com/0707-exploits/cmscout.txt"
+  },
+  {
+    "CVE": "CVE-2007-3812",
+    "PoC": "http://www.exploit-db.com/exploits/4182"
   },
   {
     "CVE": "CVE-2007-3813",
@@ -39882,6 +39938,10 @@
   {
     "CVE": "CVE-2007-4731",
     "PoC": "http://securityreason.com/securityalert/3128"
+  },
+  {
+    "CVE": "CVE-2007-4734",
+    "PoC": "http://www.exploit-db.com/exploits/9589"
   },
   {
     "CVE": "CVE-2007-4734",
@@ -50865,6 +50925,10 @@
   },
   {
     "CVE": "CVE-2008-2335",
+    "PoC": "http://www.exploit-db.com/exploits/27519"
+  },
+  {
+    "CVE": "CVE-2008-2335",
     "PoC": "https://www.exploit-db.com/exploits/6422"
   },
   {
@@ -57390,6 +57454,10 @@
   {
     "CVE": "CVE-2008-4157",
     "PoC": "http://securityreason.com/securityalert/4291"
+  },
+  {
+    "CVE": "CVE-2008-4157",
+    "PoC": "http://www.exploit-db.com/exploits/27519"
   },
   {
     "CVE": "CVE-2008-4157",
@@ -77188,6 +77256,10 @@
     "PoC": "http://packetstormsecurity.org/0912-exploits/mps-xss.txt"
   },
   {
+    "CVE": "CVE-2009-4381",
+    "PoC": "http://www.exploit-db.com/exploits/10399"
+  },
+  {
     "CVE": "CVE-2009-4382",
     "PoC": "http://packetstormsecurity.org/0912-exploits/phpfabercms-xss.txt"
   },
@@ -77290,6 +77362,10 @@
   {
     "CVE": "CVE-2009-4452",
     "PoC": "http://www.vupen.com/english/advisories/2009/3573"
+  },
+  {
+    "CVE": "CVE-2009-4453",
+    "PoC": "http://www.exploit-db.com/exploits/10649"
   },
   {
     "CVE": "CVE-2009-4458",
@@ -77596,6 +77672,10 @@
     "PoC": "http://www.ush.it/team/ush/hack-jetty6x7x/jetty-adv.txt"
   },
   {
+    "CVE": "CVE-2009-4619",
+    "PoC": "http://www.exploit-db.com/exploits/9614"
+  },
+  {
     "CVE": "CVE-2009-4621",
     "PoC": "http://www.exploit-db.com/exploits/9576"
   },
@@ -77828,8 +77908,20 @@
     "PoC": "http://www.exploit-db.com/exploits/8318"
   },
   {
+    "CVE": "CVE-2009-4807",
+    "PoC": "http://www.exploit-db.com/exploits/8133"
+  },
+  {
+    "CVE": "CVE-2009-4808",
+    "PoC": "http://www.exploit-db.com/exploits/8133"
+  },
+  {
     "CVE": "CVE-2009-4811",
     "PoC": "http://www.vmware.com/security/advisories/VMSA-2010-0007.html"
+  },
+  {
+    "CVE": "CVE-2009-4822",
+    "PoC": "http://www.exploit-db.com/exploits/10581"
   },
   {
     "CVE": "CVE-2009-4834",
@@ -78952,6 +79044,10 @@
     "PoC": "http://packetstormsecurity.org/1001-exploits/glittercentral-xss.txt"
   },
   {
+    "CVE": "CVE-2010-0320",
+    "PoC": "http://www.exploit-db.com/exploits/11108"
+  },
+  {
     "CVE": "CVE-2010-0321",
     "PoC": "http://packetstormsecurity.org/1001-exploits/jamitjobboard-xss.txt"
   },
@@ -78984,6 +79080,10 @@
     "PoC": "http://packetstormsecurity.org/1001-exploits/joomlalibros-sql.txt"
   },
   {
+    "CVE": "CVE-2010-0373",
+    "PoC": "http://www.exploit-db.com/exploits/11178"
+  },
+  {
     "CVE": "CVE-2010-0374",
     "PoC": "http://www.packetstormsecurity.com/1001-exploits/joomlamarketplace-xss.txt"
   },
@@ -79002,6 +79102,10 @@
   {
     "CVE": "CVE-2010-0380",
     "PoC": "http://packetstormsecurity.org/1001-exploits/phpcalendars-xss.txt"
+  },
+  {
+    "CVE": "CVE-2010-0390",
+    "PoC": "http://www.exploit-db.com/exploits/11169"
   },
   {
     "CVE": "CVE-2010-0395",
@@ -79356,8 +79460,16 @@
     "PoC": "http://packetstormsecurity.org/1001-exploits/novaboard112-sql.txt"
   },
   {
+    "CVE": "CVE-2010-0608",
+    "PoC": "http://www.exploit-db.com/exploits/11278"
+  },
+  {
     "CVE": "CVE-2010-0610",
     "PoC": "http://packetstormsecurity.org/1002-exploits/joomlaphotoblog-bsql.txt"
+  },
+  {
+    "CVE": "CVE-2010-0610",
+    "PoC": "http://www.exploit-db.com/exploits/11337"
   },
   {
     "CVE": "CVE-2010-0611",
@@ -79414,6 +79526,14 @@
   {
     "CVE": "CVE-2010-0632",
     "PoC": "http://packetstormsecurity.org/1001-exploits/joomlasimplefaq-sql.txt"
+  },
+  {
+    "CVE": "CVE-2010-0641",
+    "PoC": "http://www.exploit-db.com/exploits/11403"
+  },
+  {
+    "CVE": "CVE-2010-0642",
+    "PoC": "http://www.exploit-db.com/exploits/11403"
   },
   {
     "CVE": "CVE-2010-0643",
@@ -79520,8 +79640,16 @@
     "PoC": "http://packetstormsecurity.org/1002-exploits/katalog-rfisql.txt"
   },
   {
+    "CVE": "CVE-2010-0677",
+    "PoC": "http://www.exploit-db.com/exploits/11452"
+  },
+  {
     "CVE": "CVE-2010-0678",
     "PoC": "http://packetstormsecurity.org/1002-exploits/katalog-rfisql.txt"
+  },
+  {
+    "CVE": "CVE-2010-0678",
+    "PoC": "http://www.exploit-db.com/exploits/11452"
   },
   {
     "CVE": "CVE-2010-0679",
@@ -79548,12 +79676,24 @@
     "PoC": "http://packetstormsecurity.org/1002-exploits/videogamesrental-sql.txt"
   },
   {
+    "CVE": "CVE-2010-0691",
+    "PoC": "http://www.exploit-db.com/exploits/11445"
+  },
+  {
     "CVE": "CVE-2010-0693",
     "PoC": "http://packetstormsecurity.org/1002-exploits/trademanager-sql.txt"
   },
   {
+    "CVE": "CVE-2010-0693",
+    "PoC": "http://www.exploit-db.com/exploits/11412"
+  },
+  {
     "CVE": "CVE-2010-0694",
     "PoC": "http://packetstormsecurity.org/1001-exploits/joomlaperchagallery-sql.txt"
+  },
+  {
+    "CVE": "CVE-2010-0694",
+    "PoC": "http://www.exploit-db.com/exploits/11024"
   },
   {
     "CVE": "CVE-2010-0695",
@@ -79562,6 +79702,10 @@
   {
     "CVE": "CVE-2010-0698",
     "PoC": "http://packetstormsecurity.org/1002-exploits/wsccms-sql.txt"
+  },
+  {
+    "CVE": "CVE-2010-0698",
+    "PoC": "http://www.exploit-db.com/exploits/11507"
   },
   {
     "CVE": "CVE-2010-0699",
@@ -79578,6 +79722,10 @@
   {
     "CVE": "CVE-2010-0701",
     "PoC": "http://packetstormsecurity.org/1002-exploits/omnidocs-sql.txt"
+  },
+  {
+    "CVE": "CVE-2010-0701",
+    "PoC": "http://www.exploit-db.com/exploits/11393"
   },
   {
     "CVE": "CVE-2010-0702",
@@ -79602,6 +79750,10 @@
   {
     "CVE": "CVE-2010-0711",
     "PoC": "http://packetstormsecurity.org/1002-exploits/aspcodecms-xssxsrf.txt"
+  },
+  {
+    "CVE": "CVE-2010-0718",
+    "PoC": "http://www.exploit-db.com/exploits/11531"
   },
   {
     "CVE": "CVE-2010-0719",
@@ -79688,16 +79840,32 @@
     "PoC": "http://www.darksecurity.de/advisories/2012/SSCHADV2012-006.txt"
   },
   {
+    "CVE": "CVE-2010-0754",
+    "PoC": "http://www.exploit-db.com/exploits/11560"
+  },
+  {
     "CVE": "CVE-2010-0755",
     "PoC": "http://packetstormsecurity.org/1002-exploits/wikyblog-rfishellxss.txt"
+  },
+  {
+    "CVE": "CVE-2010-0755",
+    "PoC": "http://www.exploit-db.com/exploits/11560"
   },
   {
     "CVE": "CVE-2010-0756",
     "PoC": "http://packetstormsecurity.org/1002-exploits/wikyblog-rfishellxss.txt"
   },
   {
+    "CVE": "CVE-2010-0756",
+    "PoC": "http://www.exploit-db.com/exploits/11560"
+  },
+  {
     "CVE": "CVE-2010-0757",
     "PoC": "http://packetstormsecurity.org/1002-exploits/wikyblog-rfishellxss.txt"
+  },
+  {
+    "CVE": "CVE-2010-0757",
+    "PoC": "http://www.exploit-db.com/exploits/11560"
   },
   {
     "CVE": "CVE-2010-0758",
@@ -79722,6 +79890,10 @@
   {
     "CVE": "CVE-2010-0762",
     "PoC": "http://www.exploit-db.com/exploits/11401"
+  },
+  {
+    "CVE": "CVE-2010-0763",
+    "PoC": "http://www.exploit-db.com/exploits/11410"
   },
   {
     "CVE": "CVE-2010-0764",
@@ -79756,12 +79928,20 @@
     "PoC": "http://packetstormsecurity.org/1001-exploits/phpunity-lfi.txt"
   },
   {
+    "CVE": "CVE-2010-0799",
+    "PoC": "http://www.exploit-db.com/exploits/11290"
+  },
+  {
     "CVE": "CVE-2010-0801",
     "PoC": "http://packetstormsecurity.org/1001-exploits/joomlaautartitarot-traversal.txt"
   },
   {
     "CVE": "CVE-2010-0802",
     "PoC": "http://packetstormsecurity.org/1001-exploits/ipbawards-sql.txt"
+  },
+  {
+    "CVE": "CVE-2010-0802",
+    "PoC": "http://www.exploit-db.com/exploits/11297"
   },
   {
     "CVE": "CVE-2010-0803",
@@ -80492,6 +80672,10 @@
     "PoC": "http://packetstormsecurity.org/1003-exploits/bildflirt-sql.txt"
   },
   {
+    "CVE": "CVE-2010-0955",
+    "PoC": "http://www.exploit-db.com/exploits/11648"
+  },
+  {
     "CVE": "CVE-2010-0956",
     "PoC": "http://packetstormsecurity.org/1003-exploits/opencart-sql.txt"
   },
@@ -80521,7 +80705,15 @@
   },
   {
     "CVE": "CVE-2010-0967",
+    "PoC": "http://www.exploit-db.com/exploits/11721"
+  },
+  {
+    "CVE": "CVE-2010-0967",
     "PoC": "http://www.vupen.com/english/advisories/2010/0612"
+  },
+  {
+    "CVE": "CVE-2010-0968",
+    "PoC": "http://www.exploit-db.com/exploits/11721"
   },
   {
     "CVE": "CVE-2010-0968",
@@ -80536,6 +80728,14 @@
     "PoC": "http://packetstormsecurity.org/1003-exploits/atutor-xss.txt"
   },
   {
+    "CVE": "CVE-2010-0973",
+    "PoC": "http://www.exploit-db.com/exploits/11733"
+  },
+  {
+    "CVE": "CVE-2010-0974",
+    "PoC": "http://www.exploit-db.com/exploits/11678"
+  },
+  {
     "CVE": "CVE-2010-0974",
     "PoC": "http://www.packetstormsecurity.com/1003-exploits/phpcityportal-sqlrfi.txt"
   },
@@ -80544,8 +80744,16 @@
     "PoC": "http://packetstormsecurity.org/1003-exploits/phpcityportal-sqlrfi.txt"
   },
   {
+    "CVE": "CVE-2010-0975",
+    "PoC": "http://www.exploit-db.com/exploits/11678"
+  },
+  {
     "CVE": "CVE-2010-0976",
     "PoC": "http://packetstormsecurity.org/1001-exploits/acidcatcms-disclose.txt"
+  },
+  {
+    "CVE": "CVE-2010-0976",
+    "PoC": "http://www.exploit-db.com/exploits/10972"
   },
   {
     "CVE": "CVE-2010-0977",
@@ -80590,6 +80798,10 @@
   {
     "CVE": "CVE-2010-0984",
     "PoC": "http://packetstormsecurity.org/1001-exploits/acidcatcms-disclose.txt"
+  },
+  {
+    "CVE": "CVE-2010-0984",
+    "PoC": "http://www.exploit-db.com/exploits/10972"
   },
   {
     "CVE": "CVE-2010-1000",
@@ -80720,6 +80932,10 @@
     "PoC": "http://packetstormsecurity.org/1002-exploits/masa2elmc-sql.txt"
   },
   {
+    "CVE": "CVE-2010-1047",
+    "PoC": "http://www.exploit-db.com/exploits/11329"
+  },
+  {
     "CVE": "CVE-2010-1050",
     "PoC": "http://packetstormsecurity.org/1002-exploits/audistats-sql.txt"
   },
@@ -80736,6 +80952,10 @@
     "PoC": "http://evilc0de.blogspot.com/2010/03/osdate-rfi-vuln.html"
   },
   {
+    "CVE": "CVE-2010-1055",
+    "PoC": "http://www.exploit-db.com/exploits/11755"
+  },
+  {
     "CVE": "CVE-2010-1056",
     "PoC": "http://packetstormsecurity.org/1003-exploits/joomlarokdownloads-lfi.txt"
   },
@@ -80748,8 +80968,16 @@
     "PoC": "http://packetstormsecurity.org/1003-exploits/shorturl-lfi.txt"
   },
   {
+    "CVE": "CVE-2010-1060",
+    "PoC": "http://www.exploit-db.com/exploits/11775"
+  },
+  {
     "CVE": "CVE-2010-1062",
     "PoC": "http://packetstormsecurity.org/1003-exploits/frecf-lfi.txt"
+  },
+  {
+    "CVE": "CVE-2010-1062",
+    "PoC": "http://www.exploit-db.com/exploits/11773"
   },
   {
     "CVE": "CVE-2010-1064",
@@ -80760,6 +80988,10 @@
     "PoC": "http://packetstormsecurity.org/1001-exploits/awcm-backup.txt"
   },
   {
+    "CVE": "CVE-2010-1067",
+    "PoC": "http://www.exploit-db.com/exploits/11098"
+  },
+  {
     "CVE": "CVE-2010-1068",
     "PoC": "http://packetstormsecurity.org/1001-exploits/surgeftp-xss.txt"
   },
@@ -80768,12 +81000,24 @@
     "PoC": "http://packetstormsecurity.org/1001-exploits/proarcadescripttogame-sql.txt"
   },
   {
+    "CVE": "CVE-2010-1069",
+    "PoC": "http://www.exploit-db.com/exploits/11080"
+  },
+  {
     "CVE": "CVE-2010-1070",
     "PoC": "http://packetstormsecurity.org/1001-exploits/imagoscriptsdac-sql.txt"
   },
   {
+    "CVE": "CVE-2010-1070",
+    "PoC": "http://www.exploit-db.com/exploits/11002"
+  },
+  {
     "CVE": "CVE-2010-1071",
     "PoC": "http://packetstormsecurity.org/1001-exploits/phpmdj103-sql.txt"
+  },
+  {
+    "CVE": "CVE-2010-1071",
+    "PoC": "http://www.exploit-db.com/exploits/11083"
   },
   {
     "CVE": "CVE-2010-1072",
@@ -80790,6 +81034,10 @@
   {
     "CVE": "CVE-2010-1077",
     "PoC": "http://packetstormsecurity.org/1002-exploits/vbseo-lfi.txt"
+  },
+  {
+    "CVE": "CVE-2010-1077",
+    "PoC": "http://www.exploit-db.com/exploits/11526"
   },
   {
     "CVE": "CVE-2010-1078",
@@ -80850,6 +81098,14 @@
   {
     "CVE": "CVE-2010-1091",
     "PoC": "http://www.exploit-db.com/exploits/11588"
+  },
+  {
+    "CVE": "CVE-2010-1092",
+    "PoC": "http://www.exploit-db.com/exploits/11592"
+  },
+  {
+    "CVE": "CVE-2010-1094",
+    "PoC": "http://www.exploit-db.com/exploits/11582"
   },
   {
     "CVE": "CVE-2010-1105",
@@ -81221,6 +81477,10 @@
   },
   {
     "CVE": "CVE-2010-1217",
+    "PoC": "http://www.exploit-db.com/exploits/11814"
+  },
+  {
+    "CVE": "CVE-2010-1217",
     "PoC": "http://www.packetstormsecurity.org/1003-exploits/joomlajetooltip-lfi.txt"
   },
   {
@@ -81344,6 +81604,10 @@
     "PoC": "http://packetstormsecurity.org/1003-exploits/smartplugs-sql.txt"
   },
   {
+    "CVE": "CVE-2010-1271",
+    "PoC": "http://www.exploit-db.com/exploits/11623"
+  },
+  {
     "CVE": "CVE-2010-1272",
     "PoC": "http://packetstormsecurity.org/1003-exploits/gnattgp-rfi.txt"
   },
@@ -81450,6 +81714,10 @@
   {
     "CVE": "CVE-2010-1305",
     "PoC": "http://packetstormsecurity.org/1004-exploits/jinventory-lfi.txt"
+  },
+  {
+    "CVE": "CVE-2010-1305",
+    "PoC": "http://www.exploit-db.com/exploits/12065"
   },
   {
     "CVE": "CVE-2010-1306",
@@ -81584,6 +81852,10 @@
     "PoC": "http://packetstormsecurity.org/1003-exploits/joomlajresearch-lfi.txt"
   },
   {
+    "CVE": "CVE-2010-1341",
+    "PoC": "http://www.exploit-db.com/exploits/11715"
+  },
+  {
     "CVE": "CVE-2010-1344",
     "PoC": "http://packetstormsecurity.org/1003-exploits/joomlackforms-lfisql.txt"
   },
@@ -81654,6 +81926,10 @@
   {
     "CVE": "CVE-2010-1365",
     "PoC": "http://packetstormsecurity.org/1002-exploits/uigafc-sql.txt"
+  },
+  {
+    "CVE": "CVE-2010-1365",
+    "PoC": "http://www.exploit-db.com/exploits/11600"
   },
   {
     "CVE": "CVE-2010-1366",
@@ -81892,6 +82168,10 @@
     "PoC": "http://packetstormsecurity.org/1004-exploits/joomlamvrmm-sql.txt"
   },
   {
+    "CVE": "CVE-2010-1468",
+    "PoC": "http://www.exploit-db.com/exploits/12159"
+  },
+  {
     "CVE": "CVE-2010-1469",
     "PoC": "http://packetstormsecurity.org/1004-exploits/joomlajprojectmanager-lfi.txt"
   },
@@ -82024,16 +82304,32 @@
     "PoC": "http://packetstormsecurity.org/1004-exploits/joomlajoltcard-sql.txt"
   },
   {
+    "CVE": "CVE-2010-1496",
+    "PoC": "http://www.exploit-db.com/exploits/12269"
+  },
+  {
     "CVE": "CVE-2010-1497",
     "PoC": "http://packetstormsecurity.org/1004-exploits/dlstats-sqlxssadmin.txt"
+  },
+  {
+    "CVE": "CVE-2010-1497",
+    "PoC": "http://www.exploit-db.com/exploits/12280"
   },
   {
     "CVE": "CVE-2010-1498",
     "PoC": "http://packetstormsecurity.org/1004-exploits/dlstats-sqlxssadmin.txt"
   },
   {
+    "CVE": "CVE-2010-1498",
+    "PoC": "http://www.exploit-db.com/exploits/12280"
+  },
+  {
     "CVE": "CVE-2010-1499",
     "PoC": "http://packetstormsecurity.org/1004-exploits/musicbox33-sql.txt"
+  },
+  {
+    "CVE": "CVE-2010-1499",
+    "PoC": "http://www.exploit-db.com/exploits/12303"
   },
   {
     "CVE": "CVE-2010-1511",
@@ -82050,6 +82346,10 @@
   {
     "CVE": "CVE-2010-1529",
     "PoC": "http://packetstormsecurity.org/1004-exploits/joomlafreestyle-sql.txt"
+  },
+  {
+    "CVE": "CVE-2010-1529",
+    "PoC": "http://www.exploit-db.com/exploits/12078"
   },
   {
     "CVE": "CVE-2010-1531",
@@ -82096,6 +82396,10 @@
     "PoC": "http://www.exploit-db.com/exploits/11586"
   },
   {
+    "CVE": "CVE-2010-1540",
+    "PoC": "http://www.exploit-db.com/exploits/11625"
+  },
+  {
     "CVE": "CVE-2010-1544",
     "PoC": "http://packetstormsecurity.org/1002-exploits/rcadcm425-dos.txt"
   },
@@ -82126,6 +82430,10 @@
   {
     "CVE": "CVE-2010-1554",
     "PoC": "http://securityreason.com/securityalert/8154"
+  },
+  {
+    "CVE": "CVE-2010-1554",
+    "PoC": "http://www.exploit-db.com/exploits/14181"
   },
   {
     "CVE": "CVE-2010-1561",
@@ -82372,6 +82680,10 @@
     "PoC": "http://packetstormsecurity.org/1004-exploits/ireee-sql.txt"
   },
   {
+    "CVE": "CVE-2010-1654",
+    "PoC": "http://www.exploit-db.com/exploits/12415"
+  },
+  {
     "CVE": "CVE-2010-1657",
     "PoC": "http://packetstormsecurity.org/1004-exploits/joomlasmartsite-lfi.txt"
   },
@@ -82436,20 +82748,40 @@
     "PoC": "http://packetstormsecurity.org/1004-exploits/whmcs-sql.txt"
   },
   {
+    "CVE": "CVE-2010-1702",
+    "PoC": "http://www.exploit-db.com/exploits/12371"
+  },
+  {
     "CVE": "CVE-2010-1703",
     "PoC": "http://packetstormsecurity.org/1004-exploits/aps-sqlxss.txt"
+  },
+  {
+    "CVE": "CVE-2010-1703",
+    "PoC": "http://www.exploit-db.com/exploits/12395"
   },
   {
     "CVE": "CVE-2010-1704",
     "PoC": "http://packetstormsecurity.org/1004-exploits/aps-sqlxss.txt"
   },
   {
+    "CVE": "CVE-2010-1704",
+    "PoC": "http://www.exploit-db.com/exploits/12395"
+  },
+  {
     "CVE": "CVE-2010-1706",
     "PoC": "http://packetstormsecurity.org/1004-exploits/2daybizauctionscript-sql.txt"
   },
   {
+    "CVE": "CVE-2010-1706",
+    "PoC": "http://www.exploit-db.com/exploits/12414"
+  },
+  {
     "CVE": "CVE-2010-1708",
     "PoC": "http://packetstormsecurity.org/1004-exploits/freerealty-sql.txt"
+  },
+  {
+    "CVE": "CVE-2010-1708",
+    "PoC": "http://www.exploit-db.com/exploits/12411"
   },
   {
     "CVE": "CVE-2010-1710",
@@ -82496,6 +82828,10 @@
     "PoC": "http://www.exploit-db.com/exploits/12233"
   },
   {
+    "CVE": "CVE-2010-1721",
+    "PoC": "http://www.exploit-db.com/exploits/12246"
+  },
+  {
     "CVE": "CVE-2010-1722",
     "PoC": "http://packetstormsecurity.org/1004-exploits/joomlaonlinemarket-lfi.txt"
   },
@@ -82516,8 +82852,16 @@
     "PoC": "http://packetstormsecurity.org/1004-exploits/ec21clone-sql.txt"
   },
   {
+    "CVE": "CVE-2010-1726",
+    "PoC": "http://www.exploit-db.com/exploits/12459"
+  },
+  {
     "CVE": "CVE-2010-1727",
     "PoC": "http://packetstormsecurity.org/1004-exploits/jobpost-sql.txt"
+  },
+  {
+    "CVE": "CVE-2010-1727",
+    "PoC": "http://www.exploit-db.com/exploits/12461"
   },
   {
     "CVE": "CVE-2010-1734",
@@ -82676,6 +83020,10 @@
     "PoC": "http://packetstormsecurity.org/1004-exploits/ajshoppingcart-sql.txt"
   },
   {
+    "CVE": "CVE-2010-1876",
+    "PoC": "http://www.exploit-db.com/exploits/12349"
+  },
+  {
     "CVE": "CVE-2010-1877",
     "PoC": "http://packetstormsecurity.org/1004-exploits/joomlajtmreseller-sql.txt"
   },
@@ -82690,6 +83038,10 @@
   {
     "CVE": "CVE-2010-1881",
     "PoC": "https://docs.microsoft.com/en-us/security-updates/securitybulletins/2010/ms10-044"
+  },
+  {
+    "CVE": "CVE-2010-1885",
+    "PoC": "http://www.exploit-db.com/exploits/13808"
   },
   {
     "CVE": "CVE-2010-1886",
@@ -82746,6 +83098,10 @@
   {
     "CVE": "CVE-2010-1922",
     "PoC": "http://packetstormsecurity.org/1005-exploits/29o3cms-rfi.txt"
+  },
+  {
+    "CVE": "CVE-2010-1922",
+    "PoC": "http://www.exploit-db.com/exploits/12558"
   },
   {
     "CVE": "CVE-2010-1923",
@@ -82980,6 +83336,10 @@
     "PoC": "http://packetstormsecurity.org/1004-exploits/joomlajavoice-lfi.txt"
   },
   {
+    "CVE": "CVE-2010-1982",
+    "PoC": "http://www.exploit-db.com/exploits/12121"
+  },
+  {
     "CVE": "CVE-2010-1983",
     "PoC": "http://evilc0de.blogspot.com/2010/04/joomla-component-redtwitter-lfi-vuln.html"
   },
@@ -83050,6 +83410,10 @@
   {
     "CVE": "CVE-2010-20034",
     "PoC": "https://www.vulncheck.com/advisories/gekko-manager-ftp-client-stack-buffer-overflow"
+  },
+  {
+    "CVE": "CVE-2010-2004",
+    "PoC": "http://www.exploit-db.com/exploits/11154"
   },
   {
     "CVE": "CVE-2010-20042",
@@ -83324,6 +83688,10 @@
     "PoC": "http://packetstormsecurity.org/1004-exploits/gpeasy-xsrf.txt"
   },
   {
+    "CVE": "CVE-2010-2039",
+    "PoC": "http://www.exploit-db.com/exploits/12441"
+  },
+  {
     "CVE": "CVE-2010-2040",
     "PoC": "http://www.packetstormsecurity.org/1005-exploits/shopzillaas-xss.txt"
   },
@@ -83370,6 +83738,10 @@
   {
     "CVE": "CVE-2010-2051",
     "PoC": "http://packetstormsecurity.org/1005-exploits/dbcart-sql.txt"
+  },
+  {
+    "CVE": "CVE-2010-2051",
+    "PoC": "http://www.exploit-db.com/exploits/12661"
   },
   {
     "CVE": "CVE-2010-2054",
@@ -83496,6 +83868,10 @@
     "PoC": "http://packetstormsecurity.org/1005-exploits/joomlasimpledownload-lfi.txt"
   },
   {
+    "CVE": "CVE-2010-2122",
+    "PoC": "http://www.exploit-db.com/exploits/12618"
+  },
+  {
     "CVE": "CVE-2010-2124",
     "PoC": "http://packetstormsecurity.org/1005-exploits/conpresso407-sql.txt"
   },
@@ -83510,6 +83886,10 @@
   {
     "CVE": "CVE-2010-2129",
     "PoC": "http://packetstormsecurity.org/1005-exploits/joomlaajaxec-lfi.txt"
+  },
+  {
+    "CVE": "CVE-2010-2129",
+    "PoC": "http://www.exploit-db.com/exploits/12598"
   },
   {
     "CVE": "CVE-2010-2130",
@@ -83574,6 +83954,14 @@
   {
     "CVE": "CVE-2010-2144",
     "PoC": "http://packetstormsecurity.org/1005-exploits/zeeways-xss.txt"
+  },
+  {
+    "CVE": "CVE-2010-2147",
+    "PoC": "http://www.exploit-db.com/exploits/12779"
+  },
+  {
+    "CVE": "CVE-2010-2148",
+    "PoC": "http://www.exploit-db.com/exploits/12779"
   },
   {
     "CVE": "CVE-2010-2153",
@@ -83804,6 +84192,10 @@
     "PoC": "http://packetstormsecurity.org/1001-exploits/joomlaboh-sql.txt"
   },
   {
+    "CVE": "CVE-2010-2254",
+    "PoC": "http://www.exploit-db.com/exploits/10964"
+  },
+  {
     "CVE": "CVE-2010-2255",
     "PoC": "http://packetstormsecurity.org/1001-exploits/joomlabfsurveypro-sql.txt"
   },
@@ -83952,8 +84344,20 @@
     "PoC": "http://www.exploit-db.com/exploits/12790/"
   },
   {
+    "CVE": "CVE-2010-2316",
+    "PoC": "http://www.exploit-db.com/exploits/13739"
+  },
+  {
+    "CVE": "CVE-2010-2317",
+    "PoC": "http://www.exploit-db.com/exploits/13739/"
+  },
+  {
     "CVE": "CVE-2010-2318",
     "PoC": "http://packetstormsecurity.org/1001-exploits/phpcityportal-xss.txt"
+  },
+  {
+    "CVE": "CVE-2010-2319",
+    "PoC": "http://www.exploit-db.com/exploits/13749/"
   },
   {
     "CVE": "CVE-2010-2321",
@@ -84004,6 +84408,10 @@
     "PoC": "http://www.securityfocus.com/bid/40866"
   },
   {
+    "CVE": "CVE-2010-2333",
+    "PoC": "http://www.exploit-db.com/exploits/13850"
+  },
+  {
     "CVE": "CVE-2010-2335",
     "PoC": "http://www.exploit-db.com/exploits/13845"
   },
@@ -84014,6 +84422,10 @@
   {
     "CVE": "CVE-2010-2338",
     "PoC": "http://packetstormsecurity.org/1006-exploits/vuwebvisitoranalyst-sql.txt"
+  },
+  {
+    "CVE": "CVE-2010-2338",
+    "PoC": "http://www.exploit-db.com/exploits/13842"
   },
   {
     "CVE": "CVE-2010-2339",
@@ -84048,8 +84460,16 @@
     "PoC": "http://packetstormsecurity.org/1006-exploits/elms-sql-xss.txt"
   },
   {
+    "CVE": "CVE-2010-2354",
+    "PoC": "http://www.exploit-db.com/exploits/13785"
+  },
+  {
     "CVE": "CVE-2010-2356",
     "PoC": "http://packetstormsecurity.org/1006-exploits/elms-sql-xss.txt"
+  },
+  {
+    "CVE": "CVE-2010-2356",
+    "PoC": "http://www.exploit-db.com/exploits/13785"
   },
   {
     "CVE": "CVE-2010-2358",
@@ -84268,6 +84688,10 @@
     "PoC": "http://www.exploit-db.com/exploits/13934"
   },
   {
+    "CVE": "CVE-2010-2439",
+    "PoC": "http://www.exploit-db.com/exploits/13942"
+  },
+  {
     "CVE": "CVE-2010-2440",
     "PoC": "http://www.exploit-db.com/exploits/13965"
   },
@@ -84288,12 +84712,24 @@
     "PoC": "http://packetstormsecurity.org/1006-exploits/linkerimg-rfi.txt"
   },
   {
+    "CVE": "CVE-2010-2456",
+    "PoC": "http://www.exploit-db.com/exploits/13964"
+  },
+  {
     "CVE": "CVE-2010-2458",
     "PoC": "http://packetstormsecurity.org/1006-exploits/2daybizvcp-sql.txt"
   },
   {
+    "CVE": "CVE-2010-2458",
+    "PoC": "http://www.exploit-db.com/exploits/13970"
+  },
+  {
     "CVE": "CVE-2010-2459",
     "PoC": "http://packetstormsecurity.org/1006-exploits/2daybizvcp-sql.txt"
+  },
+  {
+    "CVE": "CVE-2010-2459",
+    "PoC": "http://www.exploit-db.com/exploits/13970"
   },
   {
     "CVE": "CVE-2010-2461",
@@ -84406,6 +84842,10 @@
   {
     "CVE": "CVE-2010-2507",
     "PoC": "http://packetstormsecurity.org/1006-exploits/joomlapicasa2gallery-lfi.txt"
+  },
+  {
+    "CVE": "CVE-2010-2507",
+    "PoC": "http://www.exploit-db.com/exploits/13981"
   },
   {
     "CVE": "CVE-2010-2513",
@@ -84528,6 +84968,10 @@
     "PoC": "http://forums.winamp.com/showthread.php?threadid=159785"
   },
   {
+    "CVE": "CVE-2010-2590",
+    "PoC": "http://www.exploit-db.com/exploits/15733"
+  },
+  {
     "CVE": "CVE-2010-2609",
     "PoC": "http://packetstormsecurity.org/1006-exploits/jobsearchengine-sql.txt"
   },
@@ -84566,6 +85010,10 @@
   {
     "CVE": "CVE-2010-2621",
     "PoC": "http://www.securityfocus.com/bid/41250"
+  },
+  {
+    "CVE": "CVE-2010-2624",
+    "PoC": "http://www.exploit-db.com/exploits/14162"
   },
   {
     "CVE": "CVE-2010-2632",
@@ -84632,8 +85080,16 @@
     "PoC": "http://packetstormsecurity.org/1006-exploits/pagedirector-sqladdadmin.txt"
   },
   {
+    "CVE": "CVE-2010-2684",
+    "PoC": "http://www.exploit-db.com/exploits/14089"
+  },
+  {
     "CVE": "CVE-2010-2685",
     "PoC": "http://packetstormsecurity.org/1006-exploits/pagedirector-sqladdadmin.txt"
+  },
+  {
+    "CVE": "CVE-2010-2685",
+    "PoC": "http://www.exploit-db.com/exploits/14089"
   },
   {
     "CVE": "CVE-2010-2687",
@@ -84664,6 +85120,14 @@
     "PoC": "http://www.exploit-db.com/exploits/14312"
   },
   {
+    "CVE": "CVE-2010-2699",
+    "PoC": "http://www.exploit-db.com/exploits/14322"
+  },
+  {
+    "CVE": "CVE-2010-2700",
+    "PoC": "http://www.exploit-db.com/exploits/14322"
+  },
+  {
     "CVE": "CVE-2010-2702",
     "PoC": "http://aluigi.altervista.org/adv/unrealcbof-adv.txt"
   },
@@ -84686,6 +85150,10 @@
   {
     "CVE": "CVE-2010-2718",
     "PoC": "http://packetstormsecurity.org/1007-exploits/cruxpa-xss.txt"
+  },
+  {
+    "CVE": "CVE-2010-2720",
+    "PoC": "http://www.exploit-db.com/exploits/14201"
   },
   {
     "CVE": "CVE-2010-2721",
@@ -85068,8 +85536,16 @@
     "PoC": "http://packetstormsecurity.org/1007-exploits/joomlajoomdle-sql.txt"
   },
   {
+    "CVE": "CVE-2010-2908",
+    "PoC": "http://www.exploit-db.com/exploits/14466"
+  },
+  {
     "CVE": "CVE-2010-2909",
     "PoC": "http://adv.salvatorefresta.net/TTVideo_1.0_Joomla_Component_SQL_Injection_Vulnerability-27072010.txt"
+  },
+  {
+    "CVE": "CVE-2010-2909",
+    "PoC": "http://www.exploit-db.com/exploits/14481"
   },
   {
     "CVE": "CVE-2010-2910",
@@ -85108,6 +85584,10 @@
     "PoC": "http://packetstormsecurity.org/1007-exploits/ajarticle-xss.txt"
   },
   {
+    "CVE": "CVE-2010-2917",
+    "PoC": "http://www.exploit-db.com/exploits/14354"
+  },
+  {
     "CVE": "CVE-2010-2918",
     "PoC": "http://packetstormsecurity.org/0804-exploits/joomlavisites-rfi.txt"
   },
@@ -85136,6 +85616,10 @@
     "PoC": "http://packetstormsecurity.org/1007-exploits/joomlayoutube-sql.txt"
   },
   {
+    "CVE": "CVE-2010-2923",
+    "PoC": "http://www.exploit-db.com/exploits/14467"
+  },
+  {
     "CVE": "CVE-2010-2925",
     "PoC": "http://packetstormsecurity.org/1007-exploits/freewaycms-sql.txt"
   },
@@ -85150,6 +85634,14 @@
   {
     "CVE": "CVE-2010-2932",
     "PoC": "http://www.exploit-db.com/exploits/14504"
+  },
+  {
+    "CVE": "CVE-2010-2932",
+    "PoC": "http://www.exploit-db.com/exploits/14505"
+  },
+  {
+    "CVE": "CVE-2010-2932",
+    "PoC": "http://www.exploit-db.com/exploits/14519"
   },
   {
     "CVE": "CVE-2010-2934",
@@ -85488,12 +85980,24 @@
     "PoC": "http://blog.zoller.lu/2010/08/cve-2010-xn-loadlibrarygetprocaddress.html"
   },
   {
+    "CVE": "CVE-2010-3129",
+    "PoC": "http://www.exploit-db.com/exploits/14726"
+  },
+  {
+    "CVE": "CVE-2010-3129",
+    "PoC": "http://www.exploit-db.com/exploits/14748"
+  },
+  {
     "CVE": "CVE-2010-3130",
     "PoC": "http://www.exploit-db.com/exploits/14764"
   },
   {
     "CVE": "CVE-2010-3131",
     "PoC": "https://bugzilla.mozilla.org/show_bug.cgi?id=579593"
+  },
+  {
+    "CVE": "CVE-2010-3136",
+    "PoC": "http://www.exploit-db.com/exploits/14766"
   },
   {
     "CVE": "CVE-2010-3138",
@@ -85510,6 +86014,10 @@
   {
     "CVE": "CVE-2010-3139",
     "PoC": "http://www.exploit-db.com/exploits/14758"
+  },
+  {
+    "CVE": "CVE-2010-3142",
+    "PoC": "http://www.exploit-db.com/exploits/14782/"
   },
   {
     "CVE": "CVE-2010-3144",
@@ -85546,6 +86054,14 @@
   {
     "CVE": "CVE-2010-3148",
     "PoC": "https://docs.microsoft.com/en-us/security-updates/securitybulletins/2011/ms11-055"
+  },
+  {
+    "CVE": "CVE-2010-3153",
+    "PoC": "http://www.exploit-db.com/exploits/14775/"
+  },
+  {
+    "CVE": "CVE-2010-3155",
+    "PoC": "http://www.exploit-db.com/exploits/14785/"
   },
   {
     "CVE": "CVE-2010-3166",
@@ -85612,6 +86128,14 @@
     "PoC": "http://seclists.org/fulldisclosure/2010/Jul/337"
   },
   {
+    "CVE": "CVE-2010-3187",
+    "PoC": "http://www.exploit-db.com/exploits/14409/"
+  },
+  {
+    "CVE": "CVE-2010-3187",
+    "PoC": "http://www.exploit-db.com/exploits/14456/"
+  },
+  {
     "CVE": "CVE-2010-3201",
     "PoC": "https://www.exploit-db.com/exploits/34797/"
   },
@@ -85622,6 +86146,10 @@
   {
     "CVE": "CVE-2010-3204",
     "PoC": "http://packetstormsecurity.org/1008-exploits/peciocms-rfi.txt"
+  },
+  {
+    "CVE": "CVE-2010-3204",
+    "PoC": "http://www.exploit-db.com/exploits/14815"
   },
   {
     "CVE": "CVE-2010-3205",
@@ -85908,8 +86436,16 @@
     "PoC": "https://docs.microsoft.com/en-us/security-updates/securitybulletins/2010/ms10-090"
   },
   {
+    "CVE": "CVE-2010-3396",
+    "PoC": "http://www.exploit-db.com/exploits/14987"
+  },
+  {
     "CVE": "CVE-2010-3399",
     "PoC": "http://www.trusteer.com/sites/default/files/Cross_domain_Math_Random_leakage_in_FF_3.6.4-3.6.8.pdf"
+  },
+  {
+    "CVE": "CVE-2010-3403",
+    "PoC": "http://www.exploit-db.com/dll-hijacking-vulnerable-applications/"
   },
   {
     "CVE": "CVE-2010-3405",
@@ -85928,12 +86464,20 @@
     "PoC": "http://packetstormsecurity.org/1009-exploits/fcms-rfi.txt"
   },
   {
+    "CVE": "CVE-2010-3419",
+    "PoC": "http://www.exploit-db.com/exploits/14965"
+  },
+  {
     "CVE": "CVE-2010-3425",
     "PoC": "http://cloudscan.blogspot.com/2010/09/vendorsmarterstats-bug-cross-site.html"
   },
   {
     "CVE": "CVE-2010-3426",
     "PoC": "http://packetstormsecurity.org/1009-exploits/joomlajphone-lfi.txt"
+  },
+  {
+    "CVE": "CVE-2010-3428",
+    "PoC": "http://www.exploit-db.com/exploits/14988"
   },
   {
     "CVE": "CVE-2010-3429",
@@ -86016,12 +86560,24 @@
     "PoC": "http://packetstormsecurity.org/1009-exploits/symphony-sqlxss.txt"
   },
   {
+    "CVE": "CVE-2010-3457",
+    "PoC": "http://www.exploit-db.com/exploits/14968"
+  },
+  {
     "CVE": "CVE-2010-3458",
     "PoC": "http://packetstormsecurity.org/1009-exploits/symphony-sqlxss.txt"
   },
   {
+    "CVE": "CVE-2010-3458",
+    "PoC": "http://www.exploit-db.com/exploits/14968"
+  },
+  {
     "CVE": "CVE-2010-3460",
     "PoC": "http://packetstormsecurity.org/1009-exploits/axigen741-traversal.txt"
+  },
+  {
+    "CVE": "CVE-2010-3461",
+    "PoC": "http://www.exploit-db.com/exploits/15006"
   },
   {
     "CVE": "CVE-2010-3462",
@@ -86098,6 +86654,10 @@
   {
     "CVE": "CVE-2010-3486",
     "PoC": "http://packetstormsecurity.org/1009-exploits/smartermail-traversal.txt"
+  },
+  {
+    "CVE": "CVE-2010-3486",
+    "PoC": "http://www.exploit-db.com/exploits/15048"
   },
   {
     "CVE": "CVE-2010-3487",
@@ -86960,12 +87520,20 @@
     "PoC": "http://packetstormsecurity.org/1009-exploits/ibphotohost-sql.txt"
   },
   {
+    "CVE": "CVE-2010-3601",
+    "PoC": "http://www.exploit-db.com/exploits/15070"
+  },
+  {
     "CVE": "CVE-2010-3602",
     "PoC": "http://packetstormsecurity.org/1009-advisories/moaub16-mojoportal.pdf"
   },
   {
     "CVE": "CVE-2010-3602",
     "PoC": "http://packetstormsecurity.org/1009-exploits/moaub-mojoportal.txt"
+  },
+  {
+    "CVE": "CVE-2010-3602",
+    "PoC": "http://www.exploit-db.com/exploits/15018"
   },
   {
     "CVE": "CVE-2010-3602",
@@ -86978,6 +87546,10 @@
   {
     "CVE": "CVE-2010-3603",
     "PoC": "http://packetstormsecurity.org/1009-exploits/moaub-mojoportal.txt"
+  },
+  {
+    "CVE": "CVE-2010-3603",
+    "PoC": "http://www.exploit-db.com/exploits/15018"
   },
   {
     "CVE": "CVE-2010-3603",
@@ -87300,6 +87872,10 @@
     "PoC": "http://yehg.net/lab/pr0js/advisories/joomla/core/%5Bjoomla_1.5.20%5D_cross_site_scripting(XSS)"
   },
   {
+    "CVE": "CVE-2010-3714",
+    "PoC": "http://www.exploit-db.com/exploits/15856"
+  },
+  {
     "CVE": "CVE-2010-3718",
     "PoC": "http://www.redhat.com/support/errata/RHSA-2011-0897.html"
   },
@@ -87529,6 +88105,10 @@
   },
   {
     "CVE": "CVE-2010-3858",
+    "PoC": "http://www.exploit-db.com/exploits/15619"
+  },
+  {
+    "CVE": "CVE-2010-3858",
     "PoC": "http://www.redhat.com/support/errata/RHSA-2011-0004.html"
   },
   {
@@ -87648,6 +88228,14 @@
     "PoC": "http://www.symantec.com/connect/blogs/stuxnet-using-three-additional-zero-day-vulnerabilities"
   },
   {
+    "CVE": "CVE-2010-3894",
+    "PoC": "http://www.exploit-db.com/exploits/15474"
+  },
+  {
+    "CVE": "CVE-2010-3895",
+    "PoC": "http://www.exploit-db.com/exploits/15475"
+  },
+  {
     "CVE": "CVE-2010-3904",
     "PoC": "http://packetstormsecurity.com/files/155751/vReliable-Datagram-Sockets-RDS-rds_page_copy_user-Privilege-Escalation.html"
   },
@@ -87730,6 +88318,10 @@
   {
     "CVE": "CVE-2010-3973",
     "PoC": "http://blogs.technet.com/b/srd/archive/2011/01/07/assessing-the-risk-of-public-issues-currently-being-tracked-by-the-msrc.aspx"
+  },
+  {
+    "CVE": "CVE-2010-3973",
+    "PoC": "http://www.exploit-db.com/exploits/15809"
   },
   {
     "CVE": "CVE-2010-3973",
@@ -87944,6 +88536,10 @@
     "PoC": "http://www.vupen.com/english/advisories/2011/0168"
   },
   {
+    "CVE": "CVE-2010-4091",
+    "PoC": "http://www.exploit-db.com/exploits/15419"
+  },
+  {
     "CVE": "CVE-2010-4093",
     "PoC": "http://www.kb.cert.org/vuls/id/189929"
   },
@@ -87966,6 +88562,14 @@
   {
     "CVE": "CVE-2010-4142",
     "PoC": "http://www.exploit-db.com/exploits/15259"
+  },
+  {
+    "CVE": "CVE-2010-4142",
+    "PoC": "http://www.exploit-db.com/exploits/15337"
+  },
+  {
+    "CVE": "CVE-2010-4143",
+    "PoC": "http://www.exploit-db.com/exploits/15284"
   },
   {
     "CVE": "CVE-2010-4144",
@@ -88061,6 +88665,10 @@
   },
   {
     "CVE": "CVE-2010-4170",
+    "PoC": "http://www.exploit-db.com/exploits/15620"
+  },
+  {
+    "CVE": "CVE-2010-4170",
     "PoC": "https://www.exploit-db.com/exploits/46730/"
   },
   {
@@ -88074,6 +88682,10 @@
   {
     "CVE": "CVE-2010-4185",
     "PoC": "http://www.exploit-db.com/exploits/15327"
+  },
+  {
+    "CVE": "CVE-2010-4186",
+    "PoC": "http://www.exploit-db.com/exploits/15397"
   },
   {
     "CVE": "CVE-2010-4193",
@@ -88129,6 +88741,10 @@
   },
   {
     "CVE": "CVE-2010-4231",
+    "PoC": "http://www.exploit-db.com/exploits/15505/"
+  },
+  {
+    "CVE": "CVE-2010-4231",
     "PoC": "https://www.trustwave.com/spiderlabs/advisories/TWSL2010-006.txt"
   },
   {
@@ -88142,6 +88758,10 @@
   {
     "CVE": "CVE-2010-4234",
     "PoC": "https://www.trustwave.com/spiderlabs/advisories/TWSL2010-006.txt"
+  },
+  {
+    "CVE": "CVE-2010-4236",
+    "PoC": "http://www.exploit-db.com/exploits/15475"
   },
   {
     "CVE": "CVE-2010-4238",
@@ -88178,6 +88798,10 @@
   {
     "CVE": "CVE-2010-4242",
     "PoC": "http://www.vupen.com/english/advisories/2011/0168"
+  },
+  {
+    "CVE": "CVE-2010-4243",
+    "PoC": "http://www.exploit-db.com/exploits/15619"
   },
   {
     "CVE": "CVE-2010-4243",
@@ -88322,6 +88946,10 @@
   {
     "CVE": "CVE-2010-4273",
     "PoC": "http://packetstormsecurity.org/1010-exploits/accimoveis-sql.txt"
+  },
+  {
+    "CVE": "CVE-2010-4275",
+    "PoC": "http://www.exploit-db.com/exploits/15766"
   },
   {
     "CVE": "CVE-2010-4276",
@@ -88532,12 +89160,24 @@
     "PoC": "https://bugs.freedesktop.org/show_bug.cgi?id=32321"
   },
   {
+    "CVE": "CVE-2010-4356",
+    "PoC": "http://www.exploit-db.com/exploits/15627"
+  },
+  {
     "CVE": "CVE-2010-4358",
     "PoC": "http://evuln.com/vulns/144/summary.html"
   },
   {
+    "CVE": "CVE-2010-4359",
+    "PoC": "http://www.exploit-db.com/exploits/15621"
+  },
+  {
     "CVE": "CVE-2010-4363",
     "PoC": "http://evuln.com/vulns/146/summary.html"
+  },
+  {
+    "CVE": "CVE-2010-4365",
+    "PoC": "http://www.exploit-db.com/exploits/15610"
   },
   {
     "CVE": "CVE-2010-4367",
@@ -89436,6 +90076,10 @@
     "PoC": "http://www.exploit-db.com/exploits/15754"
   },
   {
+    "CVE": "CVE-2010-4736",
+    "PoC": "http://www.exploit-db.com/exploits/15686"
+  },
+  {
     "CVE": "CVE-2010-4740",
     "PoC": "http://packetstormsecurity.org/1009-exploits/bacnet-overflow.py.txt"
   },
@@ -89510,6 +90154,14 @@
   {
     "CVE": "CVE-2010-4770",
     "PoC": "http://securityreason.com/securityalert/8159"
+  },
+  {
+    "CVE": "CVE-2010-4771",
+    "PoC": "http://www.exploit-db.com/exploits/15588"
+  },
+  {
+    "CVE": "CVE-2010-4772",
+    "PoC": "http://www.exploit-db.com/exploits/15588"
   },
   {
     "CVE": "CVE-2010-4774",
@@ -89624,6 +90276,10 @@
     "PoC": "http://kerneltrap.org/mailarchive/linux-netdev/2010/3/3/6271093/thread"
   },
   {
+    "CVE": "CVE-2010-4810",
+    "PoC": "http://www.exploit-db.com/exploits/15510"
+  },
+  {
     "CVE": "CVE-2010-4819",
     "PoC": "https://bugs.freedesktop.org/show_bug.cgi?id=28801"
   },
@@ -89686,6 +90342,10 @@
   {
     "CVE": "CVE-2010-4855",
     "PoC": "http://packetstormsecurity.org/1010-exploits/xweblog22-sql.txt"
+  },
+  {
+    "CVE": "CVE-2010-4855",
+    "PoC": "http://www.exploit-db.com/exploits/15218"
   },
   {
     "CVE": "CVE-2010-4857",
@@ -89766,6 +90426,10 @@
   {
     "CVE": "CVE-2010-4870",
     "PoC": "http://www.exploit-db.com/exploits/15328"
+  },
+  {
+    "CVE": "CVE-2010-4872",
+    "PoC": "http://www.exploit-db.com/exploits/15497"
   },
   {
     "CVE": "CVE-2010-4873",
@@ -89984,6 +90648,14 @@
     "PoC": "http://securityreason.com/securityalert/8448"
   },
   {
+    "CVE": "CVE-2010-4913",
+    "PoC": "http://www.exploit-db.com/exploits/14935"
+  },
+  {
+    "CVE": "CVE-2010-4914",
+    "PoC": "http://www.exploit-db.com/exploits/14893"
+  },
+  {
     "CVE": "CVE-2010-4915",
     "PoC": "http://packetstormsecurity.org/1009-exploits/coldbookmarks-sql.txt"
   },
@@ -90004,12 +90676,20 @@
     "PoC": "http://securityreason.com/securityalert/8448"
   },
   {
+    "CVE": "CVE-2010-4916",
+    "PoC": "http://www.exploit-db.com/exploits/14935"
+  },
+  {
     "CVE": "CVE-2010-4917",
     "PoC": "http://packetstormsecurity.org/1009-exploits/ablog-sql.txt"
   },
   {
     "CVE": "CVE-2010-4918",
     "PoC": "http://packetstormsecurity.org/1009-exploits/ijoomlamagazine-rfi.txt"
+  },
+  {
+    "CVE": "CVE-2010-4919",
+    "PoC": "http://www.exploit-db.com/exploits/14914"
   },
   {
     "CVE": "CVE-2010-4921",
@@ -90048,8 +90728,16 @@
     "PoC": "http://securityreason.com/securityalert/8455"
   },
   {
+    "CVE": "CVE-2010-4931",
+    "PoC": "http://www.exploit-db.com/exploits/14647"
+  },
+  {
     "CVE": "CVE-2010-4933",
     "PoC": "http://packetstormsecurity.org/1009-exploits/geeklog138-sql.txt"
+  },
+  {
+    "CVE": "CVE-2010-4934",
+    "PoC": "http://www.exploit-db.com/exploits/14637"
   },
   {
     "CVE": "CVE-2010-4936",
@@ -90058,6 +90746,14 @@
   {
     "CVE": "CVE-2010-4940",
     "PoC": "http://packetstormsecurity.org/1009-exploits/wanewsletter-sql.txt"
+  },
+  {
+    "CVE": "CVE-2010-4940",
+    "PoC": "http://www.exploit-db.com/exploits/15090"
+  },
+  {
+    "CVE": "CVE-2010-4941",
+    "PoC": "http://www.exploit-db.com/exploits/14598"
   },
   {
     "CVE": "CVE-2010-4942",
@@ -90070,6 +90766,10 @@
   {
     "CVE": "CVE-2010-4945",
     "PoC": "http://packetstormsecurity.org/1008-exploits/joomlacamelcitydb2-sql.txt"
+  },
+  {
+    "CVE": "CVE-2010-4945",
+    "PoC": "http://www.exploit-db.com/exploits/14530"
   },
   {
     "CVE": "CVE-2010-4949",
@@ -90096,6 +90796,10 @@
     "PoC": "http://packetstormsecurity.org/1009-exploits/xtcommercegambio-sql.txt"
   },
   {
+    "CVE": "CVE-2010-4954",
+    "PoC": "http://www.exploit-db.com/exploits/15039"
+  },
+  {
     "CVE": "CVE-2010-4955",
     "PoC": "http://packetstormsecurity.org/1008-exploits/apboard-sql.txt"
   },
@@ -90114,6 +90818,10 @@
   {
     "CVE": "CVE-2010-4958",
     "PoC": "http://securityreason.com/securityalert/8468"
+  },
+  {
+    "CVE": "CVE-2010-4959",
+    "PoC": "http://www.exploit-db.com/exploits/14378"
   },
   {
     "CVE": "CVE-2010-4959",
@@ -90188,6 +90896,10 @@
     "PoC": "http://www.exploit-db.com/exploits/14239"
   },
   {
+    "CVE": "CVE-2010-4975",
+    "PoC": "http://www.exploit-db.com/exploits/14196"
+  },
+  {
     "CVE": "CVE-2010-4976",
     "PoC": "http://www.packetstormsecurity.com/1006-exploits/metinfo-xss.txt"
   },
@@ -90228,12 +90940,24 @@
     "PoC": "http://packetstormsecurity.org/1007-exploits/mykazaamnms-sqlxss.txt"
   },
   {
+    "CVE": "CVE-2010-4986",
+    "PoC": "http://www.exploit-db.com/exploits/14262"
+  },
+  {
+    "CVE": "CVE-2010-4989",
+    "PoC": "http://www.exploit-db.com/exploits/14192"
+  },
+  {
     "CVE": "CVE-2010-4992",
     "PoC": "http://packetstormsecurity.org/1007-exploits/joomlapaymentsplus-sql.txt"
   },
   {
     "CVE": "CVE-2010-4993",
     "PoC": "http://packetstormsecurity.org/1007-exploits/joomlaeventcal-sql.txt"
+  },
+  {
+    "CVE": "CVE-2010-4993",
+    "PoC": "http://www.exploit-db.com/exploits/14187"
   },
   {
     "CVE": "CVE-2010-4994",
@@ -90254,6 +90978,10 @@
   {
     "CVE": "CVE-2010-4998",
     "PoC": "http://www.exploit-db.com/exploits/13832/"
+  },
+  {
+    "CVE": "CVE-2010-4999",
+    "PoC": "http://www.exploit-db.com/exploits/14205"
   },
   {
     "CVE": "CVE-2010-5000",
@@ -90304,6 +91032,10 @@
     "PoC": "http://packetstormsecurity.org/1006-exploits/virtualrealestate-sql.txt"
   },
   {
+    "CVE": "CVE-2010-5013",
+    "PoC": "http://www.exploit-db.com/exploits/13789"
+  },
+  {
     "CVE": "CVE-2010-5015",
     "PoC": "http://www.packetstormsecurity.com/1006-exploits/2daybiz-sqlxss.txt"
   },
@@ -90322,6 +91054,10 @@
   {
     "CVE": "CVE-2010-5021",
     "PoC": "http://packetstormsecurity.org/1006-exploits/digitalinterchangelibrary-sql.txt"
+  },
+  {
+    "CVE": "CVE-2010-5021",
+    "PoC": "http://www.exploit-db.com/exploits/13859"
   },
   {
     "CVE": "CVE-2010-5023",
@@ -90348,8 +91084,16 @@
     "PoC": "http://packetstormsecurity.org/1006-exploits/fairinabox-sqlxss.txt"
   },
   {
+    "CVE": "CVE-2010-5026",
+    "PoC": "http://www.exploit-db.com/exploits/13801"
+  },
+  {
     "CVE": "CVE-2010-5027",
     "PoC": "http://packetstormsecurity.org/1006-exploits/fairinabox-sqlxss.txt"
+  },
+  {
+    "CVE": "CVE-2010-5027",
+    "PoC": "http://www.exploit-db.com/exploits/13801"
   },
   {
     "CVE": "CVE-2010-5029",
@@ -90420,6 +91164,10 @@
     "PoC": "http://www.exploit-db.com/exploits/12787/"
   },
   {
+    "CVE": "CVE-2010-5045",
+    "PoC": "http://www.exploit-db.com/exploits/13880"
+  },
+  {
     "CVE": "CVE-2010-5046",
     "PoC": "http://packetstormsecurity.org/1005-exploits/ecocms-xss.txt"
   },
@@ -90452,12 +91200,20 @@
     "PoC": "http://packetstormsecurity.org/1004-exploits/joomlagbufacebook-sql.txt"
   },
   {
+    "CVE": "CVE-2010-5056",
+    "PoC": "http://www.exploit-db.com/exploits/12299"
+  },
+  {
     "CVE": "CVE-2010-5057",
     "PoC": "http://packetstormsecurity.org/1004-exploits/cmsariadna-sql.txt"
   },
   {
     "CVE": "CVE-2010-5059",
     "PoC": "http://packetstormsecurity.org/1004-exploits/cmscout-sql.txt"
+  },
+  {
+    "CVE": "CVE-2010-5059",
+    "PoC": "http://www.exploit-db.com/exploits/12407"
   },
   {
     "CVE": "CVE-2010-5060",
@@ -90518,6 +91274,10 @@
   {
     "CVE": "CVE-2010-5091",
     "PoC": "http://dl.packetstormsecurity.net/1006-exploits/silverstripe-shell.txt"
+  },
+  {
+    "CVE": "CVE-2010-5099",
+    "PoC": "http://www.exploit-db.com/exploits/15856"
   },
   {
     "CVE": "CVE-2010-5102",
@@ -90976,6 +91736,14 @@
     "PoC": "http://www.theregister.co.uk/2010/05/07/argument_switch_av_bypass/"
   },
   {
+    "CVE": "CVE-2010-5201",
+    "PoC": "http://www.exploit-db.com/dll-hijacking-vulnerable-applications/"
+  },
+  {
+    "CVE": "CVE-2010-5202",
+    "PoC": "http://www.exploit-db.com/dll-hijacking-vulnerable-applications/"
+  },
+  {
     "CVE": "CVE-2010-5203",
     "PoC": "http://www.ncp-e.com/fileadmin/pdf/service_support/NCP_Client_Vulnerability_Statement_EN.pdf"
   },
@@ -91010,6 +91778,14 @@
   {
     "CVE": "CVE-2010-5211",
     "PoC": "http://core.yehg.net/lab/pr0js/advisories/dll_hijacking/%5Balsee%5D_6.20.0.1_insecure_dll_hijacking"
+  },
+  {
+    "CVE": "CVE-2010-5214",
+    "PoC": "http://www.exploit-db.com/dll-hijacking-vulnerable-applications/"
+  },
+  {
+    "CVE": "CVE-2010-5215",
+    "PoC": "http://www.exploit-db.com/dll-hijacking-vulnerable-applications/"
   },
   {
     "CVE": "CVE-2010-5218",
@@ -91066,6 +91842,14 @@
   {
     "CVE": "CVE-2010-5243",
     "PoC": "http://extraexploit.blogspot.com/2010/08/dll-hijacking-my-test-cases-on-default.html"
+  },
+  {
+    "CVE": "CVE-2010-5260",
+    "PoC": "http://www.exploit-db.com/dll-hijacking-vulnerable-applications/"
+  },
+  {
+    "CVE": "CVE-2010-5261",
+    "PoC": "http://www.exploit-db.com/dll-hijacking-vulnerable-applications/"
   },
   {
     "CVE": "CVE-2010-5263",
@@ -91278,6 +92062,10 @@
   {
     "CVE": "CVE-2010-5322",
     "PoC": "http://packetstormsecurity.com/files/130487/Zeuscart-4-Cross-Site-Scripting-SQL-Injection.html"
+  },
+  {
+    "CVE": "CVE-2010-5322",
+    "PoC": "http://www.exploit-db.com/exploits/36159"
   },
   {
     "CVE": "CVE-2010-5322",
@@ -91552,6 +92340,10 @@
     "PoC": "http://securityreason.com/securityalert/8365"
   },
   {
+    "CVE": "CVE-2011-0257",
+    "PoC": "http://www.exploit-db.com/exploits/17777"
+  },
+  {
     "CVE": "CVE-2011-0258",
     "PoC": "http://securityreason.com/securityalert/8368"
   },
@@ -91566,6 +92358,14 @@
   {
     "CVE": "CVE-2011-0267",
     "PoC": "http://securityreason.com/securityalert/8156"
+  },
+  {
+    "CVE": "CVE-2011-0267",
+    "PoC": "http://www.exploit-db.com/exploits/17038"
+  },
+  {
+    "CVE": "CVE-2011-0276",
+    "PoC": "http://www.exploit-db.com/exploits/16984"
   },
   {
     "CVE": "CVE-2011-0281",
@@ -91602,6 +92402,10 @@
   {
     "CVE": "CVE-2011-0347",
     "PoC": "http://blogs.technet.com/b/srd/archive/2011/01/07/assessing-the-risk-of-public-issues-currently-being-tracked-by-the-msrc.aspx"
+  },
+  {
+    "CVE": "CVE-2011-0354",
+    "PoC": "http://www.exploit-db.com/exploits/16100"
   },
   {
     "CVE": "CVE-2011-0355",
@@ -91642,6 +92446,14 @@
   {
     "CVE": "CVE-2011-0392",
     "PoC": "http://www.cisco.com/en/US/products/products_security_advisory09186a0080b6e11d.shtml"
+  },
+  {
+    "CVE": "CVE-2011-0404",
+    "PoC": "http://www.exploit-db.com/exploits/15937"
+  },
+  {
+    "CVE": "CVE-2011-0404",
+    "PoC": "http://www.exploit-db.com/exploits/16838"
   },
   {
     "CVE": "CVE-2011-0406",
@@ -91714,6 +92526,10 @@
   {
     "CVE": "CVE-2011-0421",
     "PoC": "http://securityreason.com/securityalert/8146"
+  },
+  {
+    "CVE": "CVE-2011-0421",
+    "PoC": "http://www.exploit-db.com/exploits/17004"
   },
   {
     "CVE": "CVE-2011-0421",
@@ -91796,6 +92612,14 @@
     "PoC": "http://www.srware.net/forum/viewtopic.php?f=18&t=2054"
   },
   {
+    "CVE": "CVE-2011-0489",
+    "PoC": "http://www.exploit-db.com/exploits/15988"
+  },
+  {
+    "CVE": "CVE-2011-0498",
+    "PoC": "http://www.exploit-db.com/exploits/15975"
+  },
+  {
     "CVE": "CVE-2011-0500",
     "PoC": "http://www.exploit-db.com/exploits/15936"
   },
@@ -91816,6 +92640,14 @@
     "PoC": "http://www.exploit-db.com/exploits/15968"
   },
   {
+    "CVE": "CVE-2011-0505",
+    "PoC": "http://www.exploit-db.com/exploits/15945"
+  },
+  {
+    "CVE": "CVE-2011-0506",
+    "PoC": "http://www.exploit-db.com/exploits/15938"
+  },
+  {
     "CVE": "CVE-2011-0509",
     "PoC": "http://dev.vaadin.com/ticket/6257"
   },
@@ -91824,12 +92656,40 @@
     "PoC": "http://www.exploit-db.com/exploits/16003"
   },
   {
+    "CVE": "CVE-2011-0511",
+    "PoC": "http://www.exploit-db.com/exploits/16010"
+  },
+  {
     "CVE": "CVE-2011-0512",
     "PoC": "http://www.exploit-db.com/exploits/16004"
   },
   {
+    "CVE": "CVE-2011-0513",
+    "PoC": "http://www.exploit-db.com/exploits/15972"
+  },
+  {
     "CVE": "CVE-2011-0514",
     "PoC": "http://www.exploit-db.com/exploits/15940"
+  },
+  {
+    "CVE": "CVE-2011-0515",
+    "PoC": "http://www.exploit-db.com/exploits/15998"
+  },
+  {
+    "CVE": "CVE-2011-0516",
+    "PoC": "http://www.exploit-db.com/exploits/15999"
+  },
+  {
+    "CVE": "CVE-2011-0517",
+    "PoC": "http://www.exploit-db.com/exploits/15992"
+  },
+  {
+    "CVE": "CVE-2011-0518",
+    "PoC": "http://www.exploit-db.com/exploits/15964"
+  },
+  {
+    "CVE": "CVE-2011-0519",
+    "PoC": "http://www.exploit-db.com/exploits/15891"
   },
   {
     "CVE": "CVE-2011-0521",
@@ -91902,6 +92762,10 @@
   {
     "CVE": "CVE-2011-0545",
     "PoC": "http://sotiriu.de/adv/NSOADV-2011-001.txt"
+  },
+  {
+    "CVE": "CVE-2011-0545",
+    "PoC": "http://www.exploit-db.com/exploits/17026"
   },
   {
     "CVE": "CVE-2011-0546",
@@ -92076,6 +92940,10 @@
     "PoC": "http://securityreason.com/securityalert/8292"
   },
   {
+    "CVE": "CVE-2011-0611",
+    "PoC": "http://www.exploit-db.com/exploits/17175"
+  },
+  {
     "CVE": "CVE-2011-0614",
     "PoC": "http://securityreason.com/securityalert/8253"
   },
@@ -92120,12 +92988,32 @@
     "PoC": "http://news.cnet.com/8301-27080_3-20028919-245.html"
   },
   {
+    "CVE": "CVE-2011-0642",
+    "PoC": "http://www.exploit-db.com/exploits/16013"
+  },
+  {
+    "CVE": "CVE-2011-0643",
+    "PoC": "http://www.exploit-db.com/exploits/16037"
+  },
+  {
+    "CVE": "CVE-2011-0644",
+    "PoC": "http://www.exploit-db.com/exploits/16019"
+  },
+  {
+    "CVE": "CVE-2011-0652",
+    "PoC": "http://www.exploit-db.com/exploits/16021"
+  },
+  {
     "CVE": "CVE-2011-0653",
     "PoC": "https://docs.microsoft.com/en-us/security-updates/securitybulletins/2011/ms11-074"
   },
   {
     "CVE": "CVE-2011-0654",
     "PoC": "http://blogs.technet.com/b/srd/archive/2011/02/16/notes-on-exploitability-of-the-recent-windows-browser-protocol-issue.aspx"
+  },
+  {
+    "CVE": "CVE-2011-0654",
+    "PoC": "http://www.exploit-db.com/exploits/16166"
   },
   {
     "CVE": "CVE-2011-0662",
@@ -92262,6 +93150,10 @@
   {
     "CVE": "CVE-2011-0745",
     "PoC": "http://www.redteam-pentesting.de/advisories/rt-sa-2011-002"
+  },
+  {
+    "CVE": "CVE-2011-0748",
+    "PoC": "http://www.exploit-db.com/exploits/18419"
   },
   {
     "CVE": "CVE-2011-0751",
@@ -92912,6 +93804,18 @@
     "PoC": "http://securityreason.com/securityalert/8186"
   },
   {
+    "CVE": "CVE-2011-0900",
+    "PoC": "http://www.exploit-db.com/exploits/16095"
+  },
+  {
+    "CVE": "CVE-2011-0902",
+    "PoC": "http://www.exploit-db.com/exploits/16041"
+  },
+  {
+    "CVE": "CVE-2011-0903",
+    "PoC": "http://www.exploit-db.com/exploits/16049"
+  },
+  {
     "CVE": "CVE-2011-0904",
     "PoC": "https://bugzilla.gnome.org/show_bug.cgi?id=641802"
   },
@@ -92928,6 +93832,10 @@
     "PoC": "http://www.vanillaforums.org/discussion/comment/134729/#Comment_134729"
   },
   {
+    "CVE": "CVE-2011-0917",
+    "PoC": "http://www.exploit-db.com/exploits/16190/"
+  },
+  {
     "CVE": "CVE-2011-0923",
     "PoC": "http://securityreason.com/securityalert/8261"
   },
@@ -92938,6 +93846,26 @@
   {
     "CVE": "CVE-2011-0923",
     "PoC": "http://securityreason.com/securityalert/8329"
+  },
+  {
+    "CVE": "CVE-2011-0959",
+    "PoC": "http://www.exploit-db.com/exploits/17304"
+  },
+  {
+    "CVE": "CVE-2011-0960",
+    "PoC": "http://www.exploit-db.com/exploits/17304"
+  },
+  {
+    "CVE": "CVE-2011-0961",
+    "PoC": "http://www.exploit-db.com/exploits/17304"
+  },
+  {
+    "CVE": "CVE-2011-0962",
+    "PoC": "http://www.exploit-db.com/exploits/17304"
+  },
+  {
+    "CVE": "CVE-2011-0966",
+    "PoC": "http://www.exploit-db.com/exploits/17304"
   },
   {
     "CVE": "CVE-2011-0975",
@@ -93372,6 +94300,10 @@
     "PoC": "http://securityreason.com/securityalert/8099"
   },
   {
+    "CVE": "CVE-2011-1048",
+    "PoC": "http://www.exploit-db.com/exploits/16143"
+  },
+  {
     "CVE": "CVE-2011-1049",
     "PoC": "https://www.hex-rays.com/vulnfix.shtml"
   },
@@ -93418,6 +94350,10 @@
   {
     "CVE": "CVE-2011-1061",
     "PoC": "http://securityreason.com/securityalert/8102"
+  },
+  {
+    "CVE": "CVE-2011-1062",
+    "PoC": "http://www.exploit-db.com/exploits/16158"
   },
   {
     "CVE": "CVE-2011-1062",
@@ -93477,6 +94413,10 @@
   },
   {
     "CVE": "CVE-2011-1092",
+    "PoC": "http://www.exploit-db.com/exploits/16966"
+  },
+  {
+    "CVE": "CVE-2011-1092",
     "PoC": "http://www.mandriva.com/security/advisories?name=MDVSA-2011:052"
   },
   {
@@ -93502,6 +94442,10 @@
   {
     "CVE": "CVE-2011-1099",
     "PoC": "http://www.exploit-db.com/exploits/16933"
+  },
+  {
+    "CVE": "CVE-2011-1100",
+    "PoC": "http://www.exploit-db.com/exploits/16160"
   },
   {
     "CVE": "CVE-2011-1100",
@@ -93932,6 +94876,10 @@
     "PoC": "http://www.vmware.com/security/advisories/VMSA-2011-0012.html"
   },
   {
+    "CVE": "CVE-2011-1496",
+    "PoC": "http://www.exploit-db.com/exploits/17147"
+  },
+  {
     "CVE": "CVE-2011-1498",
     "PoC": "http://securityreason.com/securityalert/8298"
   },
@@ -94034,6 +94982,10 @@
   {
     "CVE": "CVE-2011-1524",
     "PoC": "http://sotiriu.de/adv/NSOADV-2011-001.txt"
+  },
+  {
+    "CVE": "CVE-2011-1524",
+    "PoC": "http://www.exploit-db.com/exploits/17026"
   },
   {
     "CVE": "CVE-2011-1525",
@@ -94265,6 +95217,10 @@
   },
   {
     "CVE": "CVE-2011-1591",
+    "PoC": "http://www.exploit-db.com/exploits/17185"
+  },
+  {
+    "CVE": "CVE-2011-1591",
     "PoC": "http://www.exploit-db.com/exploits/17195"
   },
   {
@@ -94302,6 +95258,10 @@
   {
     "CVE": "CVE-2011-1659",
     "PoC": "http://www.vmware.com/security/advisories/VMSA-2011-0012.html"
+  },
+  {
+    "CVE": "CVE-2011-1665",
+    "PoC": "http://www.exploit-db.com/exploits/17085"
   },
   {
     "CVE": "CVE-2011-1666",
@@ -94513,6 +95473,14 @@
   },
   {
     "CVE": "CVE-2011-1865",
+    "PoC": "http://www.exploit-db.com/exploits/17467"
+  },
+  {
+    "CVE": "CVE-2011-1865",
+    "PoC": "http://www.exploit-db.com/exploits/17468"
+  },
+  {
+    "CVE": "CVE-2011-1865",
     "PoC": "http://www.exploit-db.com/exploits/17490"
   },
   {
@@ -94574,6 +95542,10 @@
   {
     "CVE": "CVE-2011-1938",
     "PoC": "http://securityreason.com/securityalert/8294"
+  },
+  {
+    "CVE": "CVE-2011-1938",
+    "PoC": "http://www.exploit-db.com/exploits/17318/"
   },
   {
     "CVE": "CVE-2011-1939",
@@ -95320,6 +96292,10 @@
     "PoC": "https://sites.google.com/site/tentacoloviola/cookiejacking/Cookiejacking2011_final.ppt"
   },
   {
+    "CVE": "CVE-2011-2386",
+    "PoC": "http://www.exploit-db.com/exploits/17317"
+  },
+  {
     "CVE": "CVE-2011-2395",
     "PoC": "http://securityreason.com/securityalert/8271"
   },
@@ -95420,12 +96396,20 @@
     "PoC": "http://securityreason.com/securityalert/8306"
   },
   {
+    "CVE": "CVE-2011-2505",
+    "PoC": "http://www.exploit-db.com/exploits/17514/"
+  },
+  {
     "CVE": "CVE-2011-2506",
     "PoC": "http://ha.xxor.se/2011/07/phpmyadmin-3x-multiple-remote-code.html"
   },
   {
     "CVE": "CVE-2011-2506",
     "PoC": "http://securityreason.com/securityalert/8306"
+  },
+  {
+    "CVE": "CVE-2011-2506",
+    "PoC": "http://www.exploit-db.com/exploits/17514/"
   },
   {
     "CVE": "CVE-2011-2507",
@@ -95544,8 +96528,16 @@
     "PoC": "http://aluigi.altervista.org/adv/ovbbccb_1-adv.txt"
   },
   {
+    "CVE": "CVE-2011-2641",
+    "PoC": "http://www.exploit-db.com/exploits/17396"
+  },
+  {
     "CVE": "CVE-2011-2643",
     "PoC": "http://phpmyadmin.git.sourceforge.net/git/gitweb.cgi?p=phpmyadmin/phpmyadmin;a=commit;h=f63e1bb42a37401b2fdfcd2e66cce92b7ea2025c"
+  },
+  {
+    "CVE": "CVE-2011-2657",
+    "PoC": "http://www.exploit-db.com/exploits/19718/"
   },
   {
     "CVE": "CVE-2011-2678",
@@ -95696,12 +96688,20 @@
     "PoC": "http://securityreason.com/securityalert/8309"
   },
   {
+    "CVE": "CVE-2011-2757",
+    "PoC": "http://www.exploit-db.com/exploits/17503/"
+  },
+  {
     "CVE": "CVE-2011-2762",
     "PoC": "http://securityreason.com/securityalert/8364"
   },
   {
     "CVE": "CVE-2011-2763",
     "PoC": "http://securityreason.com/securityalert/8363"
+  },
+  {
+    "CVE": "CVE-2011-2763",
+    "PoC": "http://www.exploit-db.com/exploits/17743"
   },
   {
     "CVE": "CVE-2011-2764",
@@ -95837,6 +96837,10 @@
   },
   {
     "CVE": "CVE-2011-2917",
+    "PoC": "http://www.exploit-db.com/exploits/18110"
+  },
+  {
+    "CVE": "CVE-2011-2917",
     "PoC": "http://www.openwall.com/lists/oss-security/2011/08/12/6"
   },
   {
@@ -95886,6 +96890,14 @@
   {
     "CVE": "CVE-2011-2944",
     "PoC": "http://packetstormsecurity.org/files/110166/The-Uploader-2.0.4-Eng-Ita-Remote-File-Upload.html"
+  },
+  {
+    "CVE": "CVE-2011-2944",
+    "PoC": "http://www.exploit-db.com/exploits/18518"
+  },
+  {
+    "CVE": "CVE-2011-2963",
+    "PoC": "http://www.exploit-db.com/exploits/17034"
   },
   {
     "CVE": "CVE-2011-2964",
@@ -95984,6 +96996,10 @@
     "PoC": "http://securityreason.com/securityalert/8339"
   },
   {
+    "CVE": "CVE-2011-3142",
+    "PoC": "http://www.exploit-db.com/exploits/16936"
+  },
+  {
     "CVE": "CVE-2011-3143",
     "PoC": "http://www.digitalbond.com/scadapedia/vulnerability-notes/heap-overflow-vulnerability/"
   },
@@ -96026,6 +97042,10 @@
   {
     "CVE": "CVE-2011-3191",
     "PoC": "http://www.kernel.org/pub/linux/kernel/v3.x/ChangeLog-3.1"
+  },
+  {
+    "CVE": "CVE-2011-3192",
+    "PoC": "http://www.exploit-db.com/exploits/17696"
   },
   {
     "CVE": "CVE-2011-3192",
@@ -96888,6 +97908,10 @@
     "PoC": "http://securityreason.com/securityalert/8394"
   },
   {
+    "CVE": "CVE-2011-3645",
+    "PoC": "http://www.exploit-db.com/exploits/17897"
+  },
+  {
     "CVE": "CVE-2011-3648",
     "PoC": "https://bugzilla.mozilla.org/show_bug.cgi?id=690225"
   },
@@ -96924,12 +97948,24 @@
     "PoC": "http://packetstormsecurity.com/files/129666"
   },
   {
+    "CVE": "CVE-2011-3713",
+    "PoC": "http://www.exploit-db.com/exploits/35582"
+  },
+  {
     "CVE": "CVE-2011-3829",
     "PoC": "http://packetstormsecurity.org/files/106933/sit_file_upload.rb.txt"
   },
   {
+    "CVE": "CVE-2011-3829",
+    "PoC": "http://www.exploit-db.com/exploits/18108"
+  },
+  {
     "CVE": "CVE-2011-3833",
     "PoC": "http://packetstormsecurity.org/files/106933/sit_file_upload.rb.txt"
+  },
+  {
+    "CVE": "CVE-2011-3833",
+    "PoC": "http://www.exploit-db.com/exploits/18108"
   },
   {
     "CVE": "CVE-2011-3834",
@@ -97090,6 +98126,10 @@
   {
     "CVE": "CVE-2011-4024",
     "PoC": "http://www.exploit-db.com/exploits/18005"
+  },
+  {
+    "CVE": "CVE-2011-4026",
+    "PoC": "http://www.exploit-db.com/exploits/17946"
   },
   {
     "CVE": "CVE-2011-4031",
@@ -97588,6 +98628,10 @@
     "PoC": "http://www.redhat.com/support/errata/RHSA-2012-0019.html"
   },
   {
+    "CVE": "CVE-2011-4570",
+    "PoC": "http://www.exploit-db.com/exploits/17944"
+  },
+  {
     "CVE": "CVE-2011-4579",
     "PoC": "http://ffmpeg.org/"
   },
@@ -97628,6 +98672,10 @@
     "PoC": "http://bugs.debian.org/cgi-bin/bugreport.cgi?bug=652249"
   },
   {
+    "CVE": "CVE-2011-4620",
+    "PoC": "http://www.exploit-db.com/exploits/18258/"
+  },
+  {
     "CVE": "CVE-2011-4623",
     "PoC": "http://rsyslog.com/changelog-for-4-6-6-v4-stable/"
   },
@@ -97645,11 +98693,23 @@
   },
   {
     "CVE": "CVE-2011-4642",
+    "PoC": "http://www.exploit-db.com/exploits/18245/"
+  },
+  {
+    "CVE": "CVE-2011-4642",
     "PoC": "http://www.splunk.com/view/SP-CAAAGMM"
   },
   {
     "CVE": "CVE-2011-4643",
+    "PoC": "http://www.exploit-db.com/exploits/18245/"
+  },
+  {
+    "CVE": "CVE-2011-4643",
     "PoC": "http://www.splunk.com/view/SP-CAAAGMM"
+  },
+  {
+    "CVE": "CVE-2011-4644",
+    "PoC": "http://www.exploit-db.com/exploits/18245/"
   },
   {
     "CVE": "CVE-2011-4650",
@@ -97696,12 +98756,24 @@
     "PoC": "http://www.zeroscience.mk/en/vulnerabilities/ZSL-2011-5057.php"
   },
   {
+    "CVE": "CVE-2011-4710",
+    "PoC": "http://www.exploit-db.com/exploits/18115"
+  },
+  {
     "CVE": "CVE-2011-4713",
     "PoC": "http://seclists.org/fulldisclosure/2011/Nov/117"
   },
   {
     "CVE": "CVE-2011-4713",
     "PoC": "http://www.exploit-db.com/exploits/18099"
+  },
+  {
+    "CVE": "CVE-2011-4715",
+    "PoC": "http://www.exploit-db.com/exploits/18153"
+  },
+  {
+    "CVE": "CVE-2011-4716",
+    "PoC": "http://www.exploit-db.com/exploits/18079"
   },
   {
     "CVE": "CVE-2011-4722",
@@ -97896,8 +98968,16 @@
     "PoC": "http://www.splunk.com/view/SP-CAAAGMM"
   },
   {
+    "CVE": "CVE-2011-4800",
+    "PoC": "http://www.exploit-db.com/exploits/18182"
+  },
+  {
     "CVE": "CVE-2011-4801",
     "PoC": "http://www.exploit-db.com/exploits/18117"
+  },
+  {
+    "CVE": "CVE-2011-4803",
+    "PoC": "http://www.exploit-db.com/exploits/18039"
   },
   {
     "CVE": "CVE-2011-4806",
@@ -97908,8 +98988,52 @@
     "PoC": "http://www.exploit-db.com/exploits/18045"
   },
   {
+    "CVE": "CVE-2011-4808",
+    "PoC": "http://www.exploit-db.com/exploits/18050"
+  },
+  {
+    "CVE": "CVE-2011-4809",
+    "PoC": "http://www.exploit-db.com/exploits/18050"
+  },
+  {
+    "CVE": "CVE-2011-4810",
+    "PoC": "http://www.exploit-db.com/exploits/18088"
+  },
+  {
+    "CVE": "CVE-2011-4811",
+    "PoC": "http://www.exploit-db.com/exploits/18063"
+  },
+  {
+    "CVE": "CVE-2011-4812",
+    "PoC": "http://www.exploit-db.com/exploits/18063"
+  },
+  {
+    "CVE": "CVE-2011-4813",
+    "PoC": "http://www.exploit-db.com/exploits/18081"
+  },
+  {
     "CVE": "CVE-2011-4815",
     "PoC": "http://www.ocert.org/advisories/ocert-2011-003.html"
+  },
+  {
+    "CVE": "CVE-2011-4823",
+    "PoC": "http://www.exploit-db.com/exploits/18048"
+  },
+  {
+    "CVE": "CVE-2011-4825",
+    "PoC": "http://www.exploit-db.com/exploits/18075"
+  },
+  {
+    "CVE": "CVE-2011-4829",
+    "PoC": "http://www.exploit-db.com/exploits/18046"
+  },
+  {
+    "CVE": "CVE-2011-4830",
+    "PoC": "http://www.exploit-db.com/exploits/18046"
+  },
+  {
+    "CVE": "CVE-2011-4831",
+    "PoC": "http://www.exploit-db.com/exploits/18070"
   },
   {
     "CVE": "CVE-2011-4832",
@@ -97980,8 +99104,32 @@
     "PoC": "https://github.com/FireFart/HashCollision-DOS-POC/blob/master/HashtablePOC.py"
   },
   {
+    "CVE": "CVE-2011-4862",
+    "PoC": "http://www.exploit-db.com/exploits/18280/"
+  },
+  {
     "CVE": "CVE-2011-4873",
     "PoC": "http://aluigi.altervista.org/adv/atvise_1-adv.txt"
+  },
+  {
+    "CVE": "CVE-2011-4875",
+    "PoC": "http://www.exploit-db.com/exploits/18166"
+  },
+  {
+    "CVE": "CVE-2011-4876",
+    "PoC": "http://www.exploit-db.com/exploits/18166"
+  },
+  {
+    "CVE": "CVE-2011-4877",
+    "PoC": "http://www.exploit-db.com/exploits/18166"
+  },
+  {
+    "CVE": "CVE-2011-4878",
+    "PoC": "http://www.exploit-db.com/exploits/18166"
+  },
+  {
+    "CVE": "CVE-2011-4879",
+    "PoC": "http://www.exploit-db.com/exploits/18166"
   },
   {
     "CVE": "CVE-2011-4885",
@@ -98144,8 +99292,32 @@
     "PoC": "http://insecurety.net/?p=872"
   },
   {
+    "CVE": "CVE-2011-5002",
+    "PoC": "http://www.exploit-db.com/exploits/18184"
+  },
+  {
+    "CVE": "CVE-2011-5003",
+    "PoC": "http://www.exploit-db.com/exploits/18183"
+  },
+  {
     "CVE": "CVE-2011-5004",
     "PoC": "http://www.vulnerability-lab.com/get_content.php?id=342"
+  },
+  {
+    "CVE": "CVE-2011-5005",
+    "PoC": "http://www.exploit-db.com/exploits/18118"
+  },
+  {
+    "CVE": "CVE-2011-5006",
+    "PoC": "http://www.exploit-db.com/exploits/18137"
+  },
+  {
+    "CVE": "CVE-2011-5007",
+    "PoC": "http://www.exploit-db.com/exploits/18187"
+  },
+  {
+    "CVE": "CVE-2011-5010",
+    "PoC": "http://www.exploit-db.com/exploits/18172"
   },
   {
     "CVE": "CVE-2011-5012",
@@ -98158,6 +99330,14 @@
   {
     "CVE": "CVE-2011-5020",
     "PoC": "http://www.cloudscan.me/2012/02/cve-2011-5020-online-tv-database-sql.html"
+  },
+  {
+    "CVE": "CVE-2011-5026",
+    "PoC": "http://www.exploit-db.com/exploits/18290"
+  },
+  {
+    "CVE": "CVE-2011-5031",
+    "PoC": "http://www.exploit-db.com/exploits/18247"
   },
   {
     "CVE": "CVE-2011-5033",
@@ -98224,8 +99404,20 @@
     "PoC": "http://www.zeroscience.mk/en/vulnerabilities/ZSL-2011-5064.php"
   },
   {
+    "CVE": "CVE-2011-5043",
+    "PoC": "http://www.exploit-db.com/exploits/18254"
+  },
+  {
+    "CVE": "CVE-2011-5044",
+    "PoC": "http://www.exploit-db.com/exploits/18201"
+  },
+  {
     "CVE": "CVE-2011-5044",
     "PoC": "http://www.zeroscience.mk/en/vulnerabilities/ZSL-2011-5062.php"
+  },
+  {
+    "CVE": "CVE-2011-5046",
+    "PoC": "http://www.exploit-db.com/exploits/18275"
   },
   {
     "CVE": "CVE-2011-5046",
@@ -98234,6 +99426,10 @@
   {
     "CVE": "CVE-2011-5050",
     "PoC": "http://www.vulnerability-lab.com/get_content.php?id=60"
+  },
+  {
+    "CVE": "CVE-2011-5052",
+    "PoC": "http://www.exploit-db.com/exploits/18283"
   },
   {
     "CVE": "CVE-2011-5053",
@@ -98268,6 +99464,10 @@
     "PoC": "http://vigilance.fr/vulnerability/Dotclear-file-upload-via-swfupload-swf-11396"
   },
   {
+    "CVE": "CVE-2011-5083",
+    "PoC": "http://www.exploit-db.com/exploits/18529"
+  },
+  {
     "CVE": "CVE-2011-5094",
     "PoC": "http://vincent.bernat.im/en/blog/2011-ssl-dos-mitigation.html"
   },
@@ -98292,6 +99492,10 @@
     "PoC": "https://kc.mcafee.com/corporate/index?page=content&id=SB10018"
   },
   {
+    "CVE": "CVE-2011-5103",
+    "PoC": "http://www.exploit-db.com/exploits/18156"
+  },
+  {
     "CVE": "CVE-2011-5109",
     "PoC": "http://www.exploit-db.com/exploits/18127"
   },
@@ -98304,12 +99508,24 @@
     "PoC": "http://www.exploit-db.com/exploits/18129"
   },
   {
+    "CVE": "CVE-2011-5112",
+    "PoC": "http://www.exploit-db.com/exploits/18058"
+  },
+  {
+    "CVE": "CVE-2011-5113",
+    "PoC": "http://www.exploit-db.com/exploits/18042"
+  },
+  {
     "CVE": "CVE-2011-5114",
     "PoC": "http://www.vulnerability-lab.com/get_content.php?id=33"
   },
   {
     "CVE": "CVE-2011-5115",
     "PoC": "http://packetstormsecurity.org/files/106859/dlguardshoppingcart-xss.txt"
+  },
+  {
+    "CVE": "CVE-2011-5116",
+    "PoC": "http://www.exploit-db.com/exploits/18065"
   },
   {
     "CVE": "CVE-2011-5116",
@@ -98328,6 +99544,10 @@
     "PoC": "http://www.exploit-db.com/exploits/18198"
   },
   {
+    "CVE": "CVE-2011-5130",
+    "PoC": "http://www.exploit-db.com/exploits/18208"
+  },
+  {
     "CVE": "CVE-2011-5135",
     "PoC": "http://www.exploit-db.com/exploits/18224"
   },
@@ -98338,6 +99558,10 @@
   {
     "CVE": "CVE-2011-5139",
     "PoC": "http://www.exploit-db.com/exploits/18009"
+  },
+  {
+    "CVE": "CVE-2011-5140",
+    "PoC": "http://www.exploit-db.com/exploits/18288"
   },
   {
     "CVE": "CVE-2011-5147",
@@ -98364,12 +99588,32 @@
     "PoC": "http://sotiriu.de/adv/NSOADV-2010-010.txt"
   },
   {
+    "CVE": "CVE-2011-5160",
+    "PoC": "http://www.exploit-db.com/exploits/18274"
+  },
+  {
+    "CVE": "CVE-2011-5161",
+    "PoC": "http://www.exploit-db.com/exploits/18274"
+  },
+  {
+    "CVE": "CVE-2011-5162",
+    "PoC": "http://www.exploit-db.com/exploits/18174/"
+  },
+  {
+    "CVE": "CVE-2011-5164",
+    "PoC": "http://www.exploit-db.com/exploits/18102"
+  },
+  {
     "CVE": "CVE-2011-5165",
     "PoC": "http://www.exploit-db.com/exploits/11975"
   },
   {
     "CVE": "CVE-2011-5165",
     "PoC": "http://www.exploit-db.com/exploits/11976"
+  },
+  {
+    "CVE": "CVE-2011-5165",
+    "PoC": "http://www.exploit-db.com/exploits/17727"
   },
   {
     "CVE": "CVE-2011-5165",
@@ -98389,19 +99633,51 @@
   },
   {
     "CVE": "CVE-2011-5166",
+    "PoC": "http://www.exploit-db.com/exploits/17819"
+  },
+  {
+    "CVE": "CVE-2011-5166",
     "PoC": "http://www.exploit-db.com/exploits/17856"
+  },
+  {
+    "CVE": "CVE-2011-5166",
+    "PoC": "http://www.exploit-db.com/exploits/17870"
+  },
+  {
+    "CVE": "CVE-2011-5166",
+    "PoC": "http://www.exploit-db.com/exploits/18089"
   },
   {
     "CVE": "CVE-2011-5167",
     "PoC": "http://www.exploit-db.com/exploits/18092"
   },
   {
+    "CVE": "CVE-2011-5168",
+    "PoC": "http://www.exploit-db.com/exploits/17919"
+  },
+  {
     "CVE": "CVE-2011-5169",
     "PoC": "http://www.vulnerability-lab.com/get_content.php?id=196"
   },
   {
+    "CVE": "CVE-2011-5170",
+    "PoC": "http://www.exploit-db.com/exploits/18178"
+  },
+  {
+    "CVE": "CVE-2011-5170",
+    "PoC": "http://www.exploit-db.com/exploits/18195"
+  },
+  {
     "CVE": "CVE-2011-5171",
     "PoC": "http://www.exploit-db.com/exploits/18220"
+  },
+  {
+    "CVE": "CVE-2011-5172",
+    "PoC": "http://www.exploit-db.com/exploits/18186"
+  },
+  {
+    "CVE": "CVE-2011-5173",
+    "PoC": "http://www.exploit-db.com/exploits/18173"
   },
   {
     "CVE": "CVE-2011-5175",
@@ -98420,6 +99696,10 @@
     "PoC": "http://0a29.blogspot.com/2011/11/0a29-11-1-cross-site-scripting.html"
   },
   {
+    "CVE": "CVE-2011-5185",
+    "PoC": "http://www.exploit-db.com/exploits/18035"
+  },
+  {
     "CVE": "CVE-2011-5186",
     "PoC": "http://www.exploit-db.com/exploits/18056"
   },
@@ -98436,6 +99716,18 @@
     "PoC": "http://www.exploit-db.com/exploits/18266"
   },
   {
+    "CVE": "CVE-2011-5200",
+    "PoC": "http://www.exploit-db.com/exploits/18292"
+  },
+  {
+    "CVE": "CVE-2011-5203",
+    "PoC": "http://www.exploit-db.com/exploits/18293"
+  },
+  {
+    "CVE": "CVE-2011-5204",
+    "PoC": "http://www.exploit-db.com/exploits/18293"
+  },
+  {
     "CVE": "CVE-2011-5205",
     "PoC": "http://packetstormsecurity.org/files/108239/rapidleech-xss.txt"
   },
@@ -98448,8 +99740,24 @@
     "PoC": "http://www.autosectools.com/Advisories/Limny.3.0.0_Local.File.Inclusion_99.html"
   },
   {
+    "CVE": "CVE-2011-5211",
+    "PoC": "http://www.exploit-db.com/exploits/17390"
+  },
+  {
+    "CVE": "CVE-2011-5212",
+    "PoC": "http://www.exploit-db.com/exploits/17390"
+  },
+  {
     "CVE": "CVE-2011-5215",
     "PoC": "http://packetstormsecurity.org/files/107970/videoportalneu-sql.txt"
+  },
+  {
+    "CVE": "CVE-2011-5218",
+    "PoC": "http://www.exploit-db.com/exploits/18250"
+  },
+  {
+    "CVE": "CVE-2011-5219",
+    "PoC": "http://www.exploit-db.com/exploits/18248"
   },
   {
     "CVE": "CVE-2011-5222",
@@ -98512,6 +99820,10 @@
     "PoC": "http://www.exploit-db.com/exploits/18053"
   },
   {
+    "CVE": "CVE-2011-5262",
+    "PoC": "http://www.exploit-db.com/exploits/18122"
+  },
+  {
     "CVE": "CVE-2011-5267",
     "PoC": "http://www.autosectools.com/Advisories/WikiWig.5.01_Persistent-Reflected.Cross-site.Scripting_139.html"
   },
@@ -98524,6 +99836,14 @@
     "PoC": "https://projects.duckcorp.org/versions/13"
   },
   {
+    "CVE": "CVE-2011-5277",
+    "PoC": "http://www.exploit-db.com/exploits/17961"
+  },
+  {
+    "CVE": "CVE-2011-5278",
+    "PoC": "http://www.exploit-db.com/exploits/17961"
+  },
+  {
     "CVE": "CVE-2011-5279",
     "PoC": "http://seclists.org/fulldisclosure/2012/Apr/0"
   },
@@ -98532,8 +99852,16 @@
     "PoC": "http://packetstormsecurity.com/files/129698/SmoothWall-3.1-Cross-Site-Request-Forgery-Cross-Site-Scripting.html"
   },
   {
+    "CVE": "CVE-2011-5283",
+    "PoC": "http://www.exploit-db.com/exploits/16006"
+  },
+  {
     "CVE": "CVE-2011-5284",
     "PoC": "http://packetstormsecurity.com/files/129698/SmoothWall-3.1-Cross-Site-Request-Forgery-Cross-Site-Scripting.html"
+  },
+  {
+    "CVE": "CVE-2011-5284",
+    "PoC": "http://www.exploit-db.com/exploits/16006"
   },
   {
     "CVE": "CVE-2011-5322",
@@ -98928,6 +100256,10 @@
     "PoC": "https://docs.microsoft.com/en-us/security-updates/securitybulletins/2012/ms12-027"
   },
   {
+    "CVE": "CVE-2012-0201",
+    "PoC": "http://www.exploit-db.com/exploits/18539/"
+  },
+  {
     "CVE": "CVE-2012-0206",
     "PoC": "http://doc.powerdns.com/powerdns-advisory-2012-01.html"
   },
@@ -98980,8 +100312,36 @@
     "PoC": "http://www.kb.cert.org/vuls/id/551715"
   },
   {
+    "CVE": "CVE-2012-0266",
+    "PoC": "http://www.exploit-db.com/exploits/21841"
+  },
+  {
+    "CVE": "CVE-2012-0267",
+    "PoC": "http://www.exploit-db.com/exploits/21839"
+  },
+  {
+    "CVE": "CVE-2012-0276",
+    "PoC": "http://www.exploit-db.com/exploits/19337"
+  },
+  {
+    "CVE": "CVE-2012-0276",
+    "PoC": "http://www.exploit-db.com/exploits/19338"
+  },
+  {
+    "CVE": "CVE-2012-0277",
+    "PoC": "http://www.exploit-db.com/exploits/19336"
+  },
+  {
+    "CVE": "CVE-2012-0282",
+    "PoC": "http://www.exploit-db.com/exploits/19335"
+  },
+  {
     "CVE": "CVE-2012-0287",
     "PoC": "http://oldmanlab.blogspot.com/2012/01/wordpress-33-xss-vulnerability.html"
+  },
+  {
+    "CVE": "CVE-2012-0292",
+    "PoC": "http://www.exploit-db.com/exploits/18493/"
   },
   {
     "CVE": "CVE-2012-0324",
@@ -99880,6 +101240,10 @@
     "PoC": "http://packetstormsecurity.com/files/118281/TrouSerS-Denial-Of-Service.html"
   },
   {
+    "CVE": "CVE-2012-0698",
+    "PoC": "http://www.exploit-db.com/exploits/22904/"
+  },
+  {
     "CVE": "CVE-2012-0699",
     "PoC": "http://www.exploit-db.com/exploits/18667"
   },
@@ -100160,6 +101524,10 @@
     "PoC": "http://www.darksecurity.de/advisories/SSCHADV2011-042.txt"
   },
   {
+    "CVE": "CVE-2012-0902",
+    "PoC": "http://www.exploit-db.com/exploits/18336"
+  },
+  {
     "CVE": "CVE-2012-0903",
     "PoC": "http://seclists.org/fulldisclosure/2012/Jan/244"
   },
@@ -100192,6 +101560,10 @@
     "PoC": "http://www.exploit-db.com/exploits/19630"
   },
   {
+    "CVE": "CVE-2012-0913",
+    "PoC": "http://www.exploit-db.com/exploits/18394"
+  },
+  {
     "CVE": "CVE-2012-0929",
     "PoC": "https://us-cert.cisa.gov/ics/alerts/ICS-ALERT-12-020-03"
   },
@@ -100210,6 +101582,10 @@
   {
     "CVE": "CVE-2012-0933",
     "PoC": "http://packetstormsecurity.org/files/108869/acidcat-xss.txt"
+  },
+  {
+    "CVE": "CVE-2012-0935",
+    "PoC": "http://www.exploit-db.com/exploits/18405"
   },
   {
     "CVE": "CVE-2012-0936",
@@ -100262,6 +101638,22 @@
   {
     "CVE": "CVE-2012-0979",
     "PoC": "http://st2tea.blogspot.com/2012/01/cross-site-scripting-twiki.html"
+  },
+  {
+    "CVE": "CVE-2012-0980",
+    "PoC": "http://www.exploit-db.com/exploits/18432"
+  },
+  {
+    "CVE": "CVE-2012-0981",
+    "PoC": "http://www.exploit-db.com/exploits/18435"
+  },
+  {
+    "CVE": "CVE-2012-0982",
+    "PoC": "http://www.exploit-db.com/exploits/18441"
+  },
+  {
+    "CVE": "CVE-2012-0983",
+    "PoC": "http://www.exploit-db.com/exploits/18438"
   },
   {
     "CVE": "CVE-2012-0984",
@@ -100832,6 +102224,14 @@
     "PoC": "http://www.exploit-db.com/exploits/18454"
   },
   {
+    "CVE": "CVE-2012-1010",
+    "PoC": "http://www.exploit-db.com/exploits/18407"
+  },
+  {
+    "CVE": "CVE-2012-1011",
+    "PoC": "http://www.exploit-db.com/exploits/18407"
+  },
+  {
     "CVE": "CVE-2012-1014",
     "PoC": "http://web.mit.edu/kerberos/advisories/MITKRB5-SA-2012-001.txt"
   },
@@ -100874,6 +102274,18 @@
   {
     "CVE": "CVE-2012-1023",
     "PoC": "http://packetstormsecurity.org/files/109290/4images-xss.txt"
+  },
+  {
+    "CVE": "CVE-2012-1024",
+    "PoC": "http://www.exploit-db.com/exploits/18343"
+  },
+  {
+    "CVE": "CVE-2012-1025",
+    "PoC": "http://www.exploit-db.com/exploits/18343"
+  },
+  {
+    "CVE": "CVE-2012-1026",
+    "PoC": "http://www.exploit-db.com/exploits/18467"
   },
   {
     "CVE": "CVE-2012-1027",
@@ -100934,6 +102346,10 @@
   {
     "CVE": "CVE-2012-1058",
     "PoC": "http://packetstormsecurity.org/files/109507/Flyspray-0.9.9.6-Cross-Site-Request-Forgery.html"
+  },
+  {
+    "CVE": "CVE-2012-1058",
+    "PoC": "http://www.exploit-db.com/exploits/18468"
   },
   {
     "CVE": "CVE-2012-1059",
@@ -101000,6 +102416,10 @@
     "PoC": "https://github.com/mantisbt/mantisbt/commit/cf5df427f17cf9204645f83e000665780eb9afe6"
   },
   {
+    "CVE": "CVE-2012-1124",
+    "PoC": "http://www.exploit-db.com/exploits/18549"
+  },
+  {
     "CVE": "CVE-2012-1125",
     "PoC": "http://www.exploit-db.com/exploits/18412"
   },
@@ -101048,6 +102468,10 @@
     "PoC": "http://freecode.com/projects/torcs/releases/341672"
   },
   {
+    "CVE": "CVE-2012-1189",
+    "PoC": "http://www.exploit-db.com/exploits/18471"
+  },
+  {
     "CVE": "CVE-2012-1198",
     "PoC": "http://packetstormsecurity.org/files/109663/BASE-1.4.5-Remote-File-Inclusion-Shell-Creation.html"
   },
@@ -101058,6 +102482,10 @@
   {
     "CVE": "CVE-2012-1200",
     "PoC": "http://packetstormsecurity.org/files/109669/Nova-CMS-Remote-File-Inclusion.html"
+  },
+  {
+    "CVE": "CVE-2012-1203",
+    "PoC": "http://www.exploit-db.com/exploits/18498/"
   },
   {
     "CVE": "CVE-2012-1207",
@@ -101124,6 +102552,10 @@
     "PoC": "http://www.vulnerability-lab.com/get_content.php?id=402"
   },
   {
+    "CVE": "CVE-2012-1220",
+    "PoC": "http://www.exploit-db.com/exploits/18464"
+  },
+  {
     "CVE": "CVE-2012-1224",
     "PoC": "http://www.darksecurity.de/advisories/2012/SSCHADV2012-004.txt"
   },
@@ -101138,6 +102570,10 @@
   {
     "CVE": "CVE-2012-1226",
     "PoC": "http://www.vulnerability-lab.com/get_content.php?id=428"
+  },
+  {
+    "CVE": "CVE-2012-1227",
+    "PoC": "http://www.exploit-db.com/exploits/18474"
   },
   {
     "CVE": "CVE-2012-1257",
@@ -101208,6 +102644,14 @@
     "PoC": "http://packetstormsecurity.org/files/110214/ContaoCMS-2.11.0-Cross-Site-Request-Forgery.html"
   },
   {
+    "CVE": "CVE-2012-1297",
+    "PoC": "http://www.exploit-db.com/exploits/18527"
+  },
+  {
+    "CVE": "CVE-2012-1308",
+    "PoC": "http://www.exploit-db.com/exploits/18499"
+  },
+  {
     "CVE": "CVE-2012-1317",
     "PoC": "http://www.cisco.com/c/en/us/td/docs/switches/lan/catalyst6500/ios/15-1SY/release_notes.pdf"
   },
@@ -101224,8 +102668,20 @@
     "PoC": "http://www4.comp.polyu.edu.hk/~appsec/bugs/CVE-2012-1381-vulnerability-in-NetEaseCloudAlbum.html"
   },
   {
+    "CVE": "CVE-2012-1414",
+    "PoC": "http://www.exploit-db.com/exploits/18502"
+  },
+  {
+    "CVE": "CVE-2012-1415",
+    "PoC": "http://www.exploit-db.com/exploits/18513/"
+  },
+  {
     "CVE": "CVE-2012-1417",
     "PoC": "http://packetstormsecurity.org/files/110320/yealink-xss.txt"
+  },
+  {
+    "CVE": "CVE-2012-1417",
+    "PoC": "http://www.exploit-db.com/exploits/18540"
   },
   {
     "CVE": "CVE-2012-1464",
@@ -101282,6 +102738,10 @@
   {
     "CVE": "CVE-2012-1498",
     "PoC": "http://packetstormsecurity.org/files/110294/WebfolioCMS-1.1.4-Cross-Site-Request-Forgery.html"
+  },
+  {
+    "CVE": "CVE-2012-1498",
+    "PoC": "http://www.exploit-db.com/exploits/18536"
   },
   {
     "CVE": "CVE-2012-1500",
@@ -101445,6 +102905,10 @@
   },
   {
     "CVE": "CVE-2012-1613",
+    "PoC": "http://www.exploit-db.com/exploits/18680"
+  },
+  {
+    "CVE": "CVE-2012-1613",
     "PoC": "http://www.waraxe.us/advisory-81.html"
   },
   {
@@ -101454,6 +102918,10 @@
   {
     "CVE": "CVE-2012-1614",
     "PoC": "http://packetstormsecurity.org/files/111369/Coppermine-1.5.18-Cross-Site-Scripting-Path-Disclosure.html"
+  },
+  {
+    "CVE": "CVE-2012-1614",
+    "PoC": "http://www.exploit-db.com/exploits/18680"
   },
   {
     "CVE": "CVE-2012-1614",
@@ -102392,6 +103860,10 @@
     "PoC": "http://www.oracle.com/technetwork/topics/security/cpujul2012-392727.html"
   },
   {
+    "CVE": "CVE-2012-1775",
+    "PoC": "http://www.exploit-db.com/exploits/18825"
+  },
+  {
     "CVE": "CVE-2012-1776",
     "PoC": "https://oval.cisecurity.org/repository/search/definition/oval%3Aorg.mitre.oval%3Adef%3A14817"
   },
@@ -102402,6 +103874,10 @@
   {
     "CVE": "CVE-2012-1777",
     "PoC": "http://seclists.org/fulldisclosure/2012/Mar/324"
+  },
+  {
+    "CVE": "CVE-2012-1778",
+    "PoC": "http://www.exploit-db.com/exploits/18525"
   },
   {
     "CVE": "CVE-2012-1779",
@@ -102445,7 +103921,15 @@
   },
   {
     "CVE": "CVE-2012-1790",
+    "PoC": "http://www.exploit-db.com/exploits/18523"
+  },
+  {
+    "CVE": "CVE-2012-1790",
     "PoC": "http://www.zeroscience.mk/en/vulnerabilities/ZSL-2012-5075.php"
+  },
+  {
+    "CVE": "CVE-2012-1803",
+    "PoC": "http://www.exploit-db.com/exploits/18779"
   },
   {
     "CVE": "CVE-2012-1803",
@@ -102652,6 +104136,10 @@
     "PoC": "http://www.exploit-db.com/exploits/18575"
   },
   {
+    "CVE": "CVE-2012-1901",
+    "PoC": "http://www.exploit-db.com/exploits/18609"
+  },
+  {
     "CVE": "CVE-2012-1903",
     "PoC": "https://web.archive.org/web/20160317182930/http://www.cloudscan.me/2013/03/cve-2012-1903-stored-xss-javascript.html"
   },
@@ -102758,6 +104246,10 @@
   {
     "CVE": "CVE-2012-1935",
     "PoC": "http://www.exploit-db.com/exploits/18752"
+  },
+  {
+    "CVE": "CVE-2012-1936",
+    "PoC": "http://www.exploit-db.com/exploits/18791"
   },
   {
     "CVE": "CVE-2012-1942",
@@ -102968,6 +104460,10 @@
     "PoC": "http://packetstormsecurity.org/files/111405/SyndeoCMS-3.0.01-Cross-Site-Scripting.html"
   },
   {
+    "CVE": "CVE-2012-1979",
+    "PoC": "http://www.exploit-db.com/exploits/18686/"
+  },
+  {
     "CVE": "CVE-2012-20001",
     "PoC": "https://seclists.org/bugtraq/2012/Nov/1"
   },
@@ -103016,6 +104512,10 @@
     "PoC": "http://sourceforge.net/mailarchive/message.php?msg_id=28957051"
   },
   {
+    "CVE": "CVE-2012-2095",
+    "PoC": "http://www.exploit-db.com/exploits/18733"
+  },
+  {
     "CVE": "CVE-2012-2096",
     "PoC": "http://drupal.org/node/1528614"
   },
@@ -103040,12 +104540,28 @@
     "PoC": "http://eromang.zataz.com/2012/04/10/oracle-mysql-innodb-bugs-13510739-and-63775-dos-demo/"
   },
   {
+    "CVE": "CVE-2012-2105",
+    "PoC": "http://www.exploit-db.com/exploits/18554"
+  },
+  {
+    "CVE": "CVE-2012-2109",
+    "PoC": "http://www.exploit-db.com/exploits/18690"
+  },
+  {
+    "CVE": "CVE-2012-2110",
+    "PoC": "http://www.exploit-db.com/exploits/18756"
+  },
+  {
     "CVE": "CVE-2012-2113",
     "PoC": "https://bugzilla.redhat.com/show_bug.cgi?id=810551"
   },
   {
     "CVE": "CVE-2012-2115",
     "PoC": "http://seclists.org/fulldisclosure/2012/Jan/27"
+  },
+  {
+    "CVE": "CVE-2012-2115",
+    "PoC": "http://www.exploit-db.com/exploits/18274"
   },
   {
     "CVE": "CVE-2012-2115",
@@ -103062,6 +104578,10 @@
   {
     "CVE": "CVE-2012-2121",
     "PoC": "http://www.ubuntu.com/usn/USN-1577-1"
+  },
+  {
+    "CVE": "CVE-2012-2122",
+    "PoC": "http://www.exploit-db.com/exploits/19092"
   },
   {
     "CVE": "CVE-2012-2123",
@@ -103136,6 +104656,10 @@
     "PoC": "http://www.oracle.com/technetwork/topics/security/linuxbulletinoct2015-2719645.html"
   },
   {
+    "CVE": "CVE-2012-2156",
+    "PoC": "http://www.exploit-db.com/exploits/18699"
+  },
+  {
     "CVE": "CVE-2012-2168",
     "PoC": "http://www.ibm.com/support/docview.wss?uid=swg21606319"
   },
@@ -103160,12 +104684,20 @@
     "PoC": "http://www.ibm.com/support/docview.wss?uid=isg1IV21128"
   },
   {
+    "CVE": "CVE-2012-2206",
+    "PoC": "http://www.exploit-db.com/exploits/20478/"
+  },
+  {
     "CVE": "CVE-2012-2208",
     "PoC": "http://www.exploit-db.com/exploits/18782"
   },
   {
     "CVE": "CVE-2012-2209",
     "PoC": "http://www.exploit-db.com/exploits/18782"
+  },
+  {
+    "CVE": "CVE-2012-2210",
+    "PoC": "http://www.exploit-db.com/exploits/18705/"
   },
   {
     "CVE": "CVE-2012-2211",
@@ -103254,6 +104786,10 @@
   {
     "CVE": "CVE-2012-2376",
     "PoC": "http://openwall.com/lists/oss-security/2012/05/20/2"
+  },
+  {
+    "CVE": "CVE-2012-2376",
+    "PoC": "http://www.exploit-db.com/exploits/18861/"
   },
   {
     "CVE": "CVE-2012-2376",
@@ -103376,8 +104912,32 @@
     "PoC": "http://www.kb.cert.org/vuls/id/515283"
   },
   {
+    "CVE": "CVE-2012-2569",
+    "PoC": "http://www.exploit-db.com/exploits/20367"
+  },
+  {
     "CVE": "CVE-2012-2570",
     "PoC": "http://www.exploit-db.com/exploits/20010"
+  },
+  {
+    "CVE": "CVE-2012-2571",
+    "PoC": "http://www.exploit-db.com/exploits/20366/"
+  },
+  {
+    "CVE": "CVE-2012-2572",
+    "PoC": "http://www.exploit-db.com/exploits/20365"
+  },
+  {
+    "CVE": "CVE-2012-2573",
+    "PoC": "http://www.exploit-db.com/exploits/20364/"
+  },
+  {
+    "CVE": "CVE-2012-2575",
+    "PoC": "http://www.exploit-db.com/exploits/20363/"
+  },
+  {
+    "CVE": "CVE-2012-2576",
+    "PoC": "http://www.exploit-db.com/exploits/18818"
   },
   {
     "CVE": "CVE-2012-2576",
@@ -103388,16 +104948,60 @@
     "PoC": "http://www.kb.cert.org/vuls/id/174119"
   },
   {
+    "CVE": "CVE-2012-2578",
+    "PoC": "http://www.exploit-db.com/exploits/20362/"
+  },
+  {
+    "CVE": "CVE-2012-2579",
+    "PoC": "http://www.exploit-db.com/exploits/20361"
+  },
+  {
+    "CVE": "CVE-2012-2580",
+    "PoC": "http://www.exploit-db.com/exploits/20360"
+  },
+  {
     "CVE": "CVE-2012-2582",
     "PoC": "http://www.kb.cert.org/vuls/id/582879"
+  },
+  {
+    "CVE": "CVE-2012-2583",
+    "PoC": "http://www.exploit-db.com/exploits/20358"
+  },
+  {
+    "CVE": "CVE-2012-2584",
+    "PoC": "http://www.exploit-db.com/exploits/20357/"
   },
   {
     "CVE": "CVE-2012-2585",
     "PoC": "http://www.exploit-db.com/exploits/20356/"
   },
   {
+    "CVE": "CVE-2012-2587",
+    "PoC": "http://www.exploit-db.com/exploits/20352/"
+  },
+  {
+    "CVE": "CVE-2012-2588",
+    "PoC": "http://www.exploit-db.com/exploits/20351"
+  },
+  {
+    "CVE": "CVE-2012-2590",
+    "PoC": "http://www.exploit-db.com/exploits/20350/"
+  },
+  {
     "CVE": "CVE-2012-2591",
     "PoC": "http://packetstormsecurity.org/files/115354/EmailArchitect-Enterprise-Email-Server-10.0-Cross-Site-Scripting.html"
+  },
+  {
+    "CVE": "CVE-2012-2591",
+    "PoC": "http://www.exploit-db.com/exploits/20349"
+  },
+  {
+    "CVE": "CVE-2012-2592",
+    "PoC": "http://www.exploit-db.com/exploits/20348"
+  },
+  {
+    "CVE": "CVE-2012-2593",
+    "PoC": "http://www.exploit-db.com/exploits/20009"
   },
   {
     "CVE": "CVE-2012-2601",
@@ -103406,6 +105010,10 @@
   {
     "CVE": "CVE-2012-2601",
     "PoC": "http://www.kb.cert.org/vuls/id/777007"
+  },
+  {
+    "CVE": "CVE-2012-2602",
+    "PoC": "http://www.exploit-db.com/exploits/20011"
   },
   {
     "CVE": "CVE-2012-2602",
@@ -103478,6 +105086,10 @@
   {
     "CVE": "CVE-2012-2629",
     "PoC": "http://packetstormsecurity.com/files/112748/Axous-1.1.1-Cross-Site-Request-Forgery-Cross-Site-Scripting.html"
+  },
+  {
+    "CVE": "CVE-2012-2629",
+    "PoC": "http://www.exploit-db.com/exploits/18886"
   },
   {
     "CVE": "CVE-2012-2657",
@@ -103573,7 +105185,15 @@
   },
   {
     "CVE": "CVE-2012-2740",
+    "PoC": "http://www.exploit-db.com/exploits/18639"
+  },
+  {
+    "CVE": "CVE-2012-2740",
     "PoC": "http://www.zeroscience.mk/en/vulnerabilities/ZSL-2012-5081.php"
+  },
+  {
+    "CVE": "CVE-2012-2741",
+    "PoC": "http://www.exploit-db.com/exploits/18639"
   },
   {
     "CVE": "CVE-2012-2741",
@@ -103602,6 +105222,10 @@
   {
     "CVE": "CVE-2012-2760",
     "PoC": "http://packetstormsecurity.org/files/112991/Mod_Auth_OpenID-Session-Stealing.html"
+  },
+  {
+    "CVE": "CVE-2012-2760",
+    "PoC": "http://www.exploit-db.com/exploits/18917"
   },
   {
     "CVE": "CVE-2012-2763",
@@ -103817,6 +105441,10 @@
   },
   {
     "CVE": "CVE-2012-2905",
+    "PoC": "http://www.exploit-db.com/exploits/18889"
+  },
+  {
+    "CVE": "CVE-2012-2905",
     "PoC": "http://www.zeroscience.mk/en/vulnerabilities/ZSL-2012-5091.php"
   },
   {
@@ -103932,6 +105560,10 @@
     "PoC": "http://www.vulnerability-lab.com/get_content.php?id=530"
   },
   {
+    "CVE": "CVE-2012-2940",
+    "PoC": "http://www.exploit-db.com/exploits/18902"
+  },
+  {
     "CVE": "CVE-2012-2941",
     "PoC": "http://packetstormsecurity.org/files/112945/Yandex.Server-2010-9.0-Enterprise-Cross-Site-Scripting.html"
   },
@@ -103944,12 +105576,20 @@
     "PoC": "http://www.reuters.com/article/2012/05/18/us-zte-phone-idUSBRE84H08J20120518"
   },
   {
+    "CVE": "CVE-2012-2952",
+    "PoC": "http://www.exploit-db.com/exploits/18921"
+  },
+  {
     "CVE": "CVE-2012-2956",
     "PoC": "http://www.exploit-db.com/exploits/20063"
   },
   {
     "CVE": "CVE-2012-2959",
     "PoC": "http://www.kb.cert.org/vuls/id/221180"
+  },
+  {
+    "CVE": "CVE-2012-2962",
+    "PoC": "http://www.exploit-db.com/exploits/20033"
   },
   {
     "CVE": "CVE-2012-2971",
@@ -104321,6 +105961,10 @@
   },
   {
     "CVE": "CVE-2012-3137",
+    "PoC": "http://www.exploit-db.com/exploits/22069"
+  },
+  {
+    "CVE": "CVE-2012-3137",
     "PoC": "http://www.mandriva.com/security/advisories?name=MDVSA-2013:150"
   },
   {
@@ -104461,6 +106105,10 @@
   },
   {
     "CVE": "CVE-2012-3152",
+    "PoC": "http://www.exploit-db.com/exploits/31253"
+  },
+  {
+    "CVE": "CVE-2012-3152",
     "PoC": "http://www.mandriva.com/security/advisories?name=MDVSA-2013:150"
   },
   {
@@ -104470,6 +106118,10 @@
   {
     "CVE": "CVE-2012-3152",
     "PoC": "http://www.youtube.com/watch?v=NinvMDOj7sM"
+  },
+  {
+    "CVE": "CVE-2012-3153",
+    "PoC": "http://www.exploit-db.com/exploits/31253"
   },
   {
     "CVE": "CVE-2012-3153",
@@ -105132,6 +106784,10 @@
     "PoC": "http://www.reactionpenetrationtesting.co.uk/FIT-file-handling-dos.html"
   },
   {
+    "CVE": "CVE-2012-3294",
+    "PoC": "http://www.exploit-db.com/exploits/20477/"
+  },
+  {
     "CVE": "CVE-2012-3296",
     "PoC": "http://www.ibm.com/connections/blogs/PSIRT/entry/security_bulletin_the_help_link_on_the_power_hmc_login_panel_is_susceptible_to_reflected_cross_site_scripting_cve_2012_329617"
   },
@@ -105190,6 +106846,10 @@
   {
     "CVE": "CVE-2012-3386",
     "PoC": "https://lists.gnu.org/archive/html/automake/2012-07/msg00023.html"
+  },
+  {
+    "CVE": "CVE-2012-3399",
+    "PoC": "http://www.exploit-db.com/exploits/19631"
   },
   {
     "CVE": "CVE-2012-3399",
@@ -105288,6 +106948,10 @@
     "PoC": "http://www.darksecurity.de/advisories/2012/SSCHADV2012-015.txt"
   },
   {
+    "CVE": "CVE-2012-3435",
+    "PoC": "http://www.exploit-db.com/exploits/20087"
+  },
+  {
     "CVE": "CVE-2012-3440",
     "PoC": "http://www.oracle.com/technetwork/topics/security/ovmbulletinjul2016-3090546.html"
   },
@@ -105318,6 +106982,10 @@
   {
     "CVE": "CVE-2012-3484",
     "PoC": "http://www.openwall.com/lists/oss-security/2012/08/14/1"
+  },
+  {
+    "CVE": "CVE-2012-3485",
+    "PoC": "http://www.exploit-db.com/exploits/24578"
   },
   {
     "CVE": "CVE-2012-3485",
@@ -105396,6 +107064,10 @@
     "PoC": "http://www.vmware.com/security/advisories/VMSA-2014-0012.html"
   },
   {
+    "CVE": "CVE-2012-3549",
+    "PoC": "http://www.exploit-db.com/exploits/20226"
+  },
+  {
     "CVE": "CVE-2012-3551",
     "PoC": "https://github.com/SUSE-Cloud/barclamp-crowbar/commit/90e905b7668a1cc884fb70040f96c7a0a287de48"
   },
@@ -105420,6 +107092,18 @@
     "PoC": "http://sourceforge.net/projects/mymesyuarat/files/mymesyuarat/mymesyuarat%20ver0.9b-2.zip/download"
   },
   {
+    "CVE": "CVE-2012-3574",
+    "PoC": "http://www.exploit-db.com/exploits/18997"
+  },
+  {
+    "CVE": "CVE-2012-3575",
+    "PoC": "http://www.exploit-db.com/exploits/19019"
+  },
+  {
+    "CVE": "CVE-2012-3576",
+    "PoC": "http://www.exploit-db.com/exploits/19023"
+  },
+  {
     "CVE": "CVE-2012-3577",
     "PoC": "http://packetstormsecurity.org/files/113287/WordPress-Nmedia-WP-Member-Conversation-1.35.0-Shell-Upload.html"
   },
@@ -105434,6 +107118,10 @@
   {
     "CVE": "CVE-2012-3585",
     "PoC": "http://www.reactionpenetrationtesting.co.uk/Irfanview-JLS-Heap-Overflow.html"
+  },
+  {
+    "CVE": "CVE-2012-3588",
+    "PoC": "http://www.exploit-db.com/exploits/19018"
   },
   {
     "CVE": "CVE-2012-3647",
@@ -105524,6 +107212,10 @@
     "PoC": "https://www.tenable.com/plugins/nessus/65612"
   },
   {
+    "CVE": "CVE-2012-3814",
+    "PoC": "http://www.exploit-db.com/exploits/18994"
+  },
+  {
     "CVE": "CVE-2012-3816",
     "PoC": "http://www.exploit-db.com/exploits/18945"
   },
@@ -105565,11 +107257,23 @@
   },
   {
     "CVE": "CVE-2012-3836",
+    "PoC": "http://www.exploit-db.com/exploits/18827"
+  },
+  {
+    "CVE": "CVE-2012-3836",
     "PoC": "http://www.zeroscience.mk/en/vulnerabilities/ZSL-2012-5086.php"
   },
   {
     "CVE": "CVE-2012-3837",
+    "PoC": "http://www.exploit-db.com/exploits/18827"
+  },
+  {
+    "CVE": "CVE-2012-3837",
     "PoC": "http://www.zeroscience.mk/en/vulnerabilities/ZSL-2012-5086.php"
+  },
+  {
+    "CVE": "CVE-2012-3838",
+    "PoC": "http://www.exploit-db.com/exploits/18827"
   },
   {
     "CVE": "CVE-2012-3838",
@@ -105598,6 +107302,10 @@
   {
     "CVE": "CVE-2012-3844",
     "PoC": "http://packetstormsecurity.org/files/112385/vBulletin-4.1.12-Cross-Site-Scripting.html"
+  },
+  {
+    "CVE": "CVE-2012-3845",
+    "PoC": "http://www.exploit-db.com/exploits/18816"
   },
   {
     "CVE": "CVE-2012-3846",
@@ -105692,6 +107400,10 @@
     "PoC": "https://packetstormsecurity.com/files/115927/Chamilo-1.8.8.4-XSS-File-Deletion.html"
   },
   {
+    "CVE": "CVE-2012-4031",
+    "PoC": "http://www.exploit-db.com/exploits/19526"
+  },
+  {
     "CVE": "CVE-2012-4032",
     "PoC": "http://packetstormsecurity.org/files/114541/WebsitePanel-CMS-Open-Redirect.html"
   },
@@ -105710,6 +107422,10 @@
   {
     "CVE": "CVE-2012-4051",
     "PoC": "http://www.kb.cert.org/vuls/id/555668"
+  },
+  {
+    "CVE": "CVE-2012-4054",
+    "PoC": "http://www.exploit-db.com/exploits/18792"
   },
   {
     "CVE": "CVE-2012-4055",
@@ -105865,6 +107581,10 @@
   },
   {
     "CVE": "CVE-2012-4240",
+    "PoC": "http://www.exploit-db.com/exploits/21056"
+  },
+  {
+    "CVE": "CVE-2012-4240",
     "PoC": "http://www.reactionpenetrationtesting.co.uk/group-office-sqli.html"
   },
   {
@@ -105894,6 +107614,10 @@
   {
     "CVE": "CVE-2012-4249",
     "PoC": "http://www.kb.cert.org/vuls/id/MORO-8WKGBN"
+  },
+  {
+    "CVE": "CVE-2012-4250",
+    "PoC": "http://www.exploit-db.com/exploits/18808"
   },
   {
     "CVE": "CVE-2012-4251",
@@ -105984,6 +107708,10 @@
     "PoC": "http://www.vulnerability-lab.com/get_content.php?id=512"
   },
   {
+    "CVE": "CVE-2012-4267",
+    "PoC": "http://www.exploit-db.com/exploits/18868"
+  },
+  {
     "CVE": "CVE-2012-4268",
     "PoC": "http://packetstormsecurity.org/files/112618/WordPress-BulletProof-Security-Cross-Site-Scripting.html"
   },
@@ -106041,6 +107769,10 @@
   },
   {
     "CVE": "CVE-2012-4284",
+    "PoC": "http://www.exploit-db.com/exploits/24579"
+  },
+  {
+    "CVE": "CVE-2012-4284",
     "PoC": "https://packetstormsecurity.com/files/120643/Viscosity-setuid-set-ViscosityHelper-Privilege-Escalation.html"
   },
   {
@@ -106078,6 +107810,10 @@
   {
     "CVE": "CVE-2012-4324",
     "PoC": "http://packetstormsecurity.org/files/111564/Vacation-Rental-Listing-Cross-Site-Request-Forgery.html"
+  },
+  {
+    "CVE": "CVE-2012-4325",
+    "PoC": "http://www.exploit-db.com/exploits/18720"
   },
   {
     "CVE": "CVE-2012-4326",
@@ -106157,11 +107893,19 @@
   },
   {
     "CVE": "CVE-2012-4361",
+    "PoC": "http://www.exploit-db.com/exploits/18893/"
+  },
+  {
+    "CVE": "CVE-2012-4361",
     "PoC": "http://www.exploit-db.com/exploits/18901/"
   },
   {
     "CVE": "CVE-2012-4361",
     "PoC": "http://www.kb.cert.org/vuls/id/441363"
+  },
+  {
+    "CVE": "CVE-2012-4362",
+    "PoC": "http://www.exploit-db.com/exploits/18893/"
   },
   {
     "CVE": "CVE-2012-4362",
@@ -106564,6 +108308,10 @@
     "PoC": "http://yehg.net/lab/pr0js/advisories/%5Bacuity_cms2.6.x_(asp)%5D_xss"
   },
   {
+    "CVE": "CVE-2012-4746",
+    "PoC": "http://www.exploit-db.com/exploits/18722"
+  },
+  {
     "CVE": "CVE-2012-4750",
     "PoC": "https://packetstormsecurity.com/files/117391/Ezhometech-EzServer-7.0-Remote-Heap-Corruption.html"
   },
@@ -106693,6 +108441,10 @@
   },
   {
     "CVE": "CVE-2012-4864",
+    "PoC": "http://www.exploit-db.com/exploits/18637"
+  },
+  {
+    "CVE": "CVE-2012-4864",
     "PoC": "http://www.zeroscience.mk/en/vulnerabilities/ZSL-2012-5080.php"
   },
   {
@@ -106712,6 +108464,10 @@
     "PoC": "http://packetstormsecurity.org/files/111075/Vtiger-5.1.0-Local-File-Inclusion.html"
   },
   {
+    "CVE": "CVE-2012-4867",
+    "PoC": "http://www.exploit-db.com/exploits/18635"
+  },
+  {
     "CVE": "CVE-2012-4869",
     "PoC": "http://packetstormsecurity.org/files/111028/FreePBX-2.10.0-Remote-Command-Execution-XSS.html"
   },
@@ -106722,6 +108478,10 @@
   {
     "CVE": "CVE-2012-4869",
     "PoC": "http://www.exploit-db.com/exploits/18649"
+  },
+  {
+    "CVE": "CVE-2012-4869",
+    "PoC": "http://www.exploit-db.com/exploits/18659"
   },
   {
     "CVE": "CVE-2012-4870",
@@ -106742,6 +108502,10 @@
   {
     "CVE": "CVE-2012-4872",
     "PoC": "http://st2tea.blogspot.com/2012/03/kayako-fusion-cross-site-scripting.html"
+  },
+  {
+    "CVE": "CVE-2012-4873",
+    "PoC": "http://www.exploit-db.com/exploits/18627"
   },
   {
     "CVE": "CVE-2012-4876",
@@ -106796,6 +108560,10 @@
     "PoC": "http://packetstormsecurity.com/files/130169/ManageEngine-Firewall-Analyzer-8.0-Directory-Traversal-XSS.html"
   },
   {
+    "CVE": "CVE-2012-4891",
+    "PoC": "http://www.exploit-db.com/exploits/35933"
+  },
+  {
     "CVE": "CVE-2012-4893",
     "PoC": "http://www.kb.cert.org/vuls/id/788478"
   },
@@ -106842,6 +108610,10 @@
   {
     "CVE": "CVE-2012-4927",
     "PoC": "http://packetstormsecurity.org/files/110100/limesurvey-sql.txt"
+  },
+  {
+    "CVE": "CVE-2012-4927",
+    "PoC": "http://www.exploit-db.com/exploits/18508"
   },
   {
     "CVE": "CVE-2012-4928",
@@ -107004,6 +108776,10 @@
     "PoC": "https://www.exploit-db.com/exploits/21741/"
   },
   {
+    "CVE": "CVE-2012-4991",
+    "PoC": "http://www.exploit-db.com/exploits/23324/"
+  },
+  {
     "CVE": "CVE-2012-4992",
     "PoC": "http://seclists.org/fulldisclosure/2012/Mar/7"
   },
@@ -107016,12 +108792,20 @@
     "PoC": "http://www.vulnerability-lab.com/get_content.php?id=462"
   },
   {
+    "CVE": "CVE-2012-4993",
+    "PoC": "http://www.exploit-db.com/exploits/18553"
+  },
+  {
     "CVE": "CVE-2012-4994",
     "PoC": "http://freecode.com/projects/limesurvey/releases/342070"
   },
   {
     "CVE": "CVE-2012-4995",
     "PoC": "http://freecode.com/projects/limesurvey/releases/342070"
+  },
+  {
+    "CVE": "CVE-2012-4996",
+    "PoC": "http://www.exploit-db.com/exploits/18553"
   },
   {
     "CVE": "CVE-2012-4997",
@@ -107038,6 +108822,10 @@
   {
     "CVE": "CVE-2012-5004",
     "PoC": "http://www.vulnerability-lab.com/get_content.php?id=392"
+  },
+  {
+    "CVE": "CVE-2012-5005",
+    "PoC": "http://www.exploit-db.com/exploits/18418"
   },
   {
     "CVE": "CVE-2012-5014",
@@ -107372,6 +109160,10 @@
     "PoC": "http://www.oracle.com/technetwork/topics/security/cpujan2013-1515902.html"
   },
   {
+    "CVE": "CVE-2012-5098",
+    "PoC": "http://www.exploit-db.com/exploits/18298"
+  },
+  {
     "CVE": "CVE-2012-5103",
     "PoC": "http://packetstormsecurity.org/files/108389/ggbguestbook-xss.txt"
   },
@@ -107382,6 +109174,10 @@
   {
     "CVE": "CVE-2012-5104",
     "PoC": "http://st2tea.blogspot.com/2012/01/ubb-forum756-cross-site-scripting.html"
+  },
+  {
+    "CVE": "CVE-2012-5106",
+    "PoC": "http://www.exploit-db.com/exploits/22351"
   },
   {
     "CVE": "CVE-2012-5112",
@@ -107421,11 +109217,31 @@
   },
   {
     "CVE": "CVE-2012-5223",
+    "PoC": "http://www.exploit-db.com/exploits/18424"
+  },
+  {
+    "CVE": "CVE-2012-5223",
     "PoC": "http://www.vbseo.com/f5/vbseo-security-bulletin-all-supported-versions-patch-release-52783/"
   },
   {
     "CVE": "CVE-2012-5225",
     "PoC": "http://st2tea.blogspot.com/2012/01/xclick-cart-cross-site-scripting.html"
+  },
+  {
+    "CVE": "CVE-2012-5226",
+    "PoC": "http://www.exploit-db.com/exploits/18422"
+  },
+  {
+    "CVE": "CVE-2012-5227",
+    "PoC": "http://www.exploit-db.com/exploits/18422"
+  },
+  {
+    "CVE": "CVE-2012-5228",
+    "PoC": "http://www.exploit-db.com/exploits/18419"
+  },
+  {
+    "CVE": "CVE-2012-5231",
+    "PoC": "http://www.exploit-db.com/exploits/18410"
   },
   {
     "CVE": "CVE-2012-5242",
@@ -107440,8 +109256,16 @@
     "PoC": "http://www.exploit-db.com/exploits/23573/"
   },
   {
+    "CVE": "CVE-2012-5288",
+    "PoC": "http://www.exploit-db.com/exploits/18338"
+  },
+  {
     "CVE": "CVE-2012-5290",
     "PoC": "http://packetstormsecurity.org/files/108342/EasyWebRealEstate-Blind-SQL-Injection.html"
+  },
+  {
+    "CVE": "CVE-2012-5291",
+    "PoC": "http://www.exploit-db.com/exploits/18320"
   },
   {
     "CVE": "CVE-2012-5293",
@@ -107450,6 +109274,14 @@
   {
     "CVE": "CVE-2012-5293",
     "PoC": "http://www.osvdb.org/82476"
+  },
+  {
+    "CVE": "CVE-2012-5294",
+    "PoC": "http://www.exploit-db.com/exploits/18302"
+  },
+  {
+    "CVE": "CVE-2012-5300",
+    "PoC": "http://www.exploit-db.com/exploits/18306"
   },
   {
     "CVE": "CVE-2012-5302",
@@ -107476,8 +109308,20 @@
     "PoC": "http://st2tea.blogspot.com/2012/01/viewgit-cross-site-scripting.html"
   },
   {
+    "CVE": "CVE-2012-5315",
+    "PoC": "http://www.exploit-db.com/exploits/18402"
+  },
+  {
     "CVE": "CVE-2012-5316",
     "PoC": "http://www.vulnerability-lab.com/get_content.php?id=28"
+  },
+  {
+    "CVE": "CVE-2012-5319",
+    "PoC": "http://www.exploit-db.com/exploits/18509"
+  },
+  {
+    "CVE": "CVE-2012-5320",
+    "PoC": "http://www.exploit-db.com/exploits/18504"
   },
   {
     "CVE": "CVE-2012-5321",
@@ -107500,8 +109344,32 @@
     "PoC": "http://www.zeroscience.mk/en/vulnerabilities/ZSL-2012-5067.php"
   },
   {
+    "CVE": "CVE-2012-5326",
+    "PoC": "http://www.exploit-db.com/exploits/18404"
+  },
+  {
+    "CVE": "CVE-2012-5329",
+    "PoC": "http://www.exploit-db.com/exploits/18615"
+  },
+  {
+    "CVE": "CVE-2012-5330",
+    "PoC": "http://www.exploit-db.com/exploits/18599"
+  },
+  {
+    "CVE": "CVE-2012-5331",
+    "PoC": "http://www.exploit-db.com/exploits/18599"
+  },
+  {
+    "CVE": "CVE-2012-5333",
+    "PoC": "http://www.exploit-db.com/exploits/18614"
+  },
+  {
     "CVE": "CVE-2012-5334",
     "PoC": "http://www.exploit-db.com/exploits/18616"
+  },
+  {
+    "CVE": "CVE-2012-5335",
+    "PoC": "http://www.exploit-db.com/exploits/18610"
   },
   {
     "CVE": "CVE-2012-5337",
@@ -107628,8 +109496,16 @@
     "PoC": "http://packetstormsecurity.org/files/117590/White-Label-CMS-1.5-Cross-Site-Request-Forgery-Cross-Site-Scripting.html"
   },
   {
+    "CVE": "CVE-2012-5387",
+    "PoC": "http://www.exploit-db.com/exploits/22156/"
+  },
+  {
     "CVE": "CVE-2012-5388",
     "PoC": "http://packetstormsecurity.org/files/117590/White-Label-CMS-1.5-Cross-Site-Request-Forgery-Cross-Site-Scripting.html"
+  },
+  {
+    "CVE": "CVE-2012-5388",
+    "PoC": "http://www.exploit-db.com/exploits/22156/"
   },
   {
     "CVE": "CVE-2012-5450",
@@ -107908,8 +109784,20 @@
     "PoC": "http://packetstormsecurity.com/files/117894/ZPanel-10.0.1-XSS-CSRF-SQL-Injection.html"
   },
   {
+    "CVE": "CVE-2012-5683",
+    "PoC": "http://www.exploit-db.com/exploits/22490"
+  },
+  {
     "CVE": "CVE-2012-5684",
     "PoC": "http://packetstormsecurity.com/files/117894/ZPanel-10.0.1-XSS-CSRF-SQL-Injection.html"
+  },
+  {
+    "CVE": "CVE-2012-5684",
+    "PoC": "http://www.exploit-db.com/exploits/22490"
+  },
+  {
+    "CVE": "CVE-2012-5685",
+    "PoC": "http://www.exploit-db.com/exploits/22490"
   },
   {
     "CVE": "CVE-2012-5687",
@@ -107989,7 +109877,15 @@
   },
   {
     "CVE": "CVE-2012-5861",
+    "PoC": "http://www.exploit-db.com/exploits/21273/"
+  },
+  {
+    "CVE": "CVE-2012-5861",
     "PoC": "https://www.cisa.gov/news-events/ics-advisories/icsa-12-325-01"
+  },
+  {
+    "CVE": "CVE-2012-5862",
+    "PoC": "http://www.exploit-db.com/exploits/21273/"
   },
   {
     "CVE": "CVE-2012-5862",
@@ -107997,7 +109893,15 @@
   },
   {
     "CVE": "CVE-2012-5863",
+    "PoC": "http://www.exploit-db.com/exploits/21273/"
+  },
+  {
+    "CVE": "CVE-2012-5863",
     "PoC": "https://www.cisa.gov/news-events/ics-advisories/icsa-12-325-01"
+  },
+  {
+    "CVE": "CVE-2012-5864",
+    "PoC": "http://www.exploit-db.com/exploits/21273/"
   },
   {
     "CVE": "CVE-2012-5864",
@@ -108078,6 +109982,10 @@
   {
     "CVE": "CVE-2012-5896",
     "PoC": "http://www.exploit-db.com/exploits/18674"
+  },
+  {
+    "CVE": "CVE-2012-5897",
+    "PoC": "http://www.exploit-db.com/exploits/18672"
   },
   {
     "CVE": "CVE-2012-5898",
@@ -108204,6 +110112,14 @@
     "PoC": "http://packetstormsecurity.org/files/111320/Seditio-Build-161-Cross-Site-Scripting-Information-Disclosure.html"
   },
   {
+    "CVE": "CVE-2012-5917",
+    "PoC": "http://www.exploit-db.com/exploits/18692"
+  },
+  {
+    "CVE": "CVE-2012-5918",
+    "PoC": "http://www.exploit-db.com/exploits/18344"
+  },
+  {
     "CVE": "CVE-2012-5919",
     "PoC": "http://packetstormsecurity.org/files/112089/Havalite-CMS-1.0.4-Cross-Site-Scripting.html"
   },
@@ -108288,12 +110204,28 @@
     "PoC": "https://www.cisa.gov/news-events/ics-advisories/icsa-13-011-02"
   },
   {
+    "CVE": "CVE-2012-5975",
+    "PoC": "http://www.exploit-db.com/exploits/23082/"
+  },
+  {
     "CVE": "CVE-2012-6029",
     "PoC": "http://tools.cisco.com/security/center/content/CiscoSecurityNotice/CVE-2012-6029"
   },
   {
+    "CVE": "CVE-2012-6038",
+    "PoC": "http://www.exploit-db.com/exploits/18344"
+  },
+  {
     "CVE": "CVE-2012-6039",
     "PoC": "http://www.exploit-db.com/exploits/18352"
+  },
+  {
+    "CVE": "CVE-2012-6042",
+    "PoC": "http://www.exploit-db.com/exploits/18339"
+  },
+  {
+    "CVE": "CVE-2012-6044",
+    "PoC": "http://www.exploit-db.com/exploits/18337"
   },
   {
     "CVE": "CVE-2012-6045",
@@ -108302,6 +110234,10 @@
   {
     "CVE": "CVE-2012-6046",
     "PoC": "http://packetstormsecurity.org/files/112536/PHP-Enter-Code-Injection.html"
+  },
+  {
+    "CVE": "CVE-2012-6047",
+    "PoC": "http://www.exploit-db.com/exploits/18850"
   },
   {
     "CVE": "CVE-2012-6048",
@@ -108366,6 +110302,14 @@
   {
     "CVE": "CVE-2012-6084",
     "PoC": "http://www.stack.nl/~jilles/irc/charybdis-3.4.2.tbz2"
+  },
+  {
+    "CVE": "CVE-2012-6096",
+    "PoC": "http://www.exploit-db.com/exploits/24084"
+  },
+  {
+    "CVE": "CVE-2012-6096",
+    "PoC": "http://www.exploit-db.com/exploits/24159"
   },
   {
     "CVE": "CVE-2012-6119",
@@ -108516,6 +110460,14 @@
     "PoC": "http://e107.svn.sourceforge.net/viewvc/e107/trunk/e107_0.7/e107_admin/newspost.php?sortdir=down&r1=12622&r2=12992&sortby=rev"
   },
   {
+    "CVE": "CVE-2012-6433",
+    "PoC": "http://www.exploit-db.com/exploits/23828/"
+  },
+  {
+    "CVE": "CVE-2012-6434",
+    "PoC": "http://www.exploit-db.com/exploits/23829/"
+  },
+  {
     "CVE": "CVE-2012-6435",
     "PoC": "https://www.cisa.gov/news-events/ics-advisories/icsa-13-011-03"
   },
@@ -108568,12 +110520,24 @@
     "PoC": "http://www.youtube.com/watch?v=CfvTCSS3LGY"
   },
   {
+    "CVE": "CVE-2012-6499",
+    "PoC": "http://www.exploit-db.com/exploits/18350"
+  },
+  {
+    "CVE": "CVE-2012-6500",
+    "PoC": "http://www.exploit-db.com/exploits/18347"
+  },
+  {
     "CVE": "CVE-2012-6504",
     "PoC": "http://www.exploit-db.com/exploits/18788"
   },
   {
     "CVE": "CVE-2012-6505",
     "PoC": "http://www.exploit-db.com/exploits/18788"
+  },
+  {
+    "CVE": "CVE-2012-6506",
+    "PoC": "http://www.exploit-db.com/exploits/18787"
   },
   {
     "CVE": "CVE-2012-6507",
@@ -108673,7 +110637,23 @@
   },
   {
     "CVE": "CVE-2012-6522",
+    "PoC": "http://www.exploit-db.com/exploits/18348"
+  },
+  {
+    "CVE": "CVE-2012-6522",
     "PoC": "http://www.exploit-db.com/exploits/18711"
+  },
+  {
+    "CVE": "CVE-2012-6523",
+    "PoC": "http://www.exploit-db.com/exploits/18348"
+  },
+  {
+    "CVE": "CVE-2012-6524",
+    "PoC": "http://www.exploit-db.com/exploits/18383"
+  },
+  {
+    "CVE": "CVE-2012-6525",
+    "PoC": "http://www.exploit-db.com/exploits/18384"
   },
   {
     "CVE": "CVE-2012-6526",
@@ -108682,6 +110662,14 @@
   {
     "CVE": "CVE-2012-6528",
     "PoC": "http://www.darksecurity.de/advisories/2012/SSCHADV2012-002.txt"
+  },
+  {
+    "CVE": "CVE-2012-6530",
+    "PoC": "http://www.exploit-db.com/exploits/18382"
+  },
+  {
+    "CVE": "CVE-2012-6530",
+    "PoC": "http://www.exploit-db.com/exploits/18420"
   },
   {
     "CVE": "CVE-2012-6534",
@@ -108752,8 +110740,32 @@
     "PoC": "http://waleedassar.blogspot.com/2012/05/resource-hacker-heap-overflow.html"
   },
   {
+    "CVE": "CVE-2012-6554",
+    "PoC": "http://www.exploit-db.com/exploits/18898"
+  },
+  {
+    "CVE": "CVE-2012-6555",
+    "PoC": "http://www.exploit-db.com/exploits/18908"
+  },
+  {
+    "CVE": "CVE-2012-6556",
+    "PoC": "http://www.exploit-db.com/exploits/18912"
+  },
+  {
+    "CVE": "CVE-2012-6557",
+    "PoC": "http://www.exploit-db.com/exploits/18911"
+  },
+  {
     "CVE": "CVE-2012-6558",
     "PoC": "http://waleedassar.blogspot.com/2012/05/pe-explorer-heap-overflow-vulnerability.html"
+  },
+  {
+    "CVE": "CVE-2012-6559",
+    "PoC": "http://www.exploit-db.com/exploits/18900"
+  },
+  {
+    "CVE": "CVE-2012-6560",
+    "PoC": "http://www.exploit-db.com/exploits/18900"
   },
   {
     "CVE": "CVE-2012-6561",
@@ -108772,12 +110784,28 @@
     "PoC": "http://www.madirish.net/550"
   },
   {
+    "CVE": "CVE-2012-6584",
+    "PoC": "http://www.exploit-db.com/exploits/22713/"
+  },
+  {
+    "CVE": "CVE-2012-6585",
+    "PoC": "http://www.exploit-db.com/exploits/22713/"
+  },
+  {
     "CVE": "CVE-2012-6586",
     "PoC": "http://www.exploit-db.com/exploits/22712/"
   },
   {
     "CVE": "CVE-2012-6587",
     "PoC": "http://www.exploit-db.com/exploits/22712/"
+  },
+  {
+    "CVE": "CVE-2012-6588",
+    "PoC": "http://www.exploit-db.com/exploits/22711/"
+  },
+  {
+    "CVE": "CVE-2012-6589",
+    "PoC": "http://www.exploit-db.com/exploits/22711/"
   },
   {
     "CVE": "CVE-2012-6607",
@@ -108900,6 +110928,10 @@
     "PoC": "http://packetstormsecurity.org/files/108489/clipbucket-sqlxss.txt"
   },
   {
+    "CVE": "CVE-2012-6644",
+    "PoC": "http://www.exploit-db.com/exploits/18341"
+  },
+  {
     "CVE": "CVE-2012-6645",
     "PoC": "http://drupal.org/node/1432318"
   },
@@ -108930,6 +110962,10 @@
   {
     "CVE": "CVE-2012-6666",
     "PoC": "https://www.exploit-db.com/exploits/37944"
+  },
+  {
+    "CVE": "CVE-2012-6667",
+    "PoC": "http://www.exploit-db.com/exploits/18644"
   },
   {
     "CVE": "CVE-2012-6684",
@@ -109113,6 +111149,10 @@
   },
   {
     "CVE": "CVE-2013-0126",
+    "PoC": "http://www.exploit-db.com/exploits/24860/"
+  },
+  {
+    "CVE": "CVE-2013-0126",
     "PoC": "http://www.kb.cert.org/vuls/id/278204"
   },
   {
@@ -109244,6 +111284,10 @@
     "PoC": "http://itsecuritysolutions.org/2013-01-22-ZoneMinder-Video-Server-arbitrary-command-execution-vulnerability/"
   },
   {
+    "CVE": "CVE-2013-0232",
+    "PoC": "http://www.exploit-db.com/exploits/24310"
+  },
+  {
     "CVE": "CVE-2013-0234",
     "PoC": "http://packetstormsecurity.com/files/119903/Elgg-Twitter-Widget-Cross-Site-Scripting.html"
   },
@@ -109258,6 +111302,10 @@
   {
     "CVE": "CVE-2013-0238",
     "PoC": "http://bugs.debian.org/cgi-bin/bugreport.cgi?bug=699267"
+  },
+  {
+    "CVE": "CVE-2013-0238",
+    "PoC": "http://www.exploit-db.com/exploits/24951"
   },
   {
     "CVE": "CVE-2013-0238",
@@ -110212,6 +112260,10 @@
     "PoC": "https://oval.cisecurity.org/repository/search/definition/oval%3Aorg.mitre.oval%3Adef%3A15822"
   },
   {
+    "CVE": "CVE-2013-0632",
+    "PoC": "http://www.exploit-db.com/exploits/30210"
+  },
+  {
     "CVE": "CVE-2013-0657",
     "PoC": "https://www.exploit-db.com/exploits/45218/"
   },
@@ -110234,6 +112286,10 @@
   {
     "CVE": "CVE-2013-0722",
     "PoC": "http://www.exploit-db.com/exploits/23945/"
+  },
+  {
+    "CVE": "CVE-2013-0742",
+    "PoC": "http://www.exploit-db.com/exploits/26805"
   },
   {
     "CVE": "CVE-2013-0750",
@@ -110486,6 +112542,10 @@
   {
     "CVE": "CVE-2013-0914",
     "PoC": "http://www.ubuntu.com/usn/USN-1797-1"
+  },
+  {
+    "CVE": "CVE-2013-0928",
+    "PoC": "http://www.exploit-db.com/exploits/34756"
   },
   {
     "CVE": "CVE-2013-0946",
@@ -110920,6 +112980,10 @@
     "PoC": "http://www.ubuntu.com/usn/USN-1946-1"
   },
   {
+    "CVE": "CVE-2013-1080",
+    "PoC": "http://www.exploit-db.com/exploits/24938"
+  },
+  {
     "CVE": "CVE-2013-1100",
     "PoC": "http://tools.cisco.com/security/center/content/CiscoSecurityNotice/CVE-2013-1100"
   },
@@ -110965,6 +113029,10 @@
   },
   {
     "CVE": "CVE-2013-1300",
+    "PoC": "http://www.exploit-db.com/exploits/33213"
+  },
+  {
+    "CVE": "CVE-2013-1300",
     "PoC": "https://docs.microsoft.com/en-us/security-updates/securitybulletins/2013/ms13-053"
   },
   {
@@ -110992,12 +113060,24 @@
     "PoC": "https://docs.microsoft.com/en-us/security-updates/securitybulletins/2013/ms13-053"
   },
   {
+    "CVE": "CVE-2013-1347",
+    "PoC": "http://www.exploit-db.com/exploits/25294"
+  },
+  {
     "CVE": "CVE-2013-1352",
     "PoC": "https://packetstormsecurity.com/files/cve/CVE-2013-1352/page1/"
   },
   {
     "CVE": "CVE-2013-1353",
     "PoC": "https://packetstormsecurity.com/files/119461/OrangeHRM-2.7.1-Cross-Site-Scripting.html"
+  },
+  {
+    "CVE": "CVE-2013-1359",
+    "PoC": "http://www.exploit-db.com/exploits/24204"
+  },
+  {
+    "CVE": "CVE-2013-1359",
+    "PoC": "http://www.exploit-db.com/exploits/24322"
   },
   {
     "CVE": "CVE-2013-1359",
@@ -111014,6 +113094,10 @@
   {
     "CVE": "CVE-2013-1360",
     "PoC": "https://packetstormsecurity.com/files/cve/CVE-2013-1360"
+  },
+  {
+    "CVE": "CVE-2013-1362",
+    "PoC": "http://www.exploit-db.com/exploits/24955"
   },
   {
     "CVE": "CVE-2013-1364",
@@ -111042,6 +113126,14 @@
   {
     "CVE": "CVE-2013-1410",
     "PoC": "https://www.exploit-database.net/?id=59355"
+  },
+  {
+    "CVE": "CVE-2013-1412",
+    "PoC": "http://www.exploit-db.com/exploits/24438"
+  },
+  {
+    "CVE": "CVE-2013-1412",
+    "PoC": "http://www.exploit-db.com/exploits/24444"
   },
   {
     "CVE": "CVE-2013-1413",
@@ -111102,6 +113194,10 @@
   {
     "CVE": "CVE-2013-1465",
     "PoC": "http://packetstormsecurity.com/files/120094/CubeCart-5.2.0-PHP-Object-Injection.html"
+  },
+  {
+    "CVE": "CVE-2013-1465",
+    "PoC": "http://www.exploit-db.com/exploits/24465"
   },
   {
     "CVE": "CVE-2013-1466",
@@ -111246,6 +113342,10 @@
   {
     "CVE": "CVE-2013-1491",
     "PoC": "http://www.zdnet.com/pwn2own-down-go-all-the-browsers-7000012283/"
+  },
+  {
+    "CVE": "CVE-2013-1493",
+    "PoC": "http://www.exploit-db.com/exploits/24904"
   },
   {
     "CVE": "CVE-2013-1493",
@@ -112236,6 +114336,10 @@
     "PoC": "http://www.exploit-db.com/exploits/24629"
   },
   {
+    "CVE": "CVE-2013-1670",
+    "PoC": "http://www.exploit-db.com/exploits/34363"
+  },
+  {
     "CVE": "CVE-2013-1672",
     "PoC": "https://bugzilla.mozilla.org/show_bug.cgi?id=850492"
   },
@@ -112437,6 +114541,14 @@
   },
   {
     "CVE": "CVE-2013-1763",
+    "PoC": "http://www.exploit-db.com/exploits/24555"
+  },
+  {
+    "CVE": "CVE-2013-1763",
+    "PoC": "http://www.exploit-db.com/exploits/24746"
+  },
+  {
+    "CVE": "CVE-2013-1763",
     "PoC": "http://www.exploit-db.com/exploits/33336"
   },
   {
@@ -112600,6 +114712,10 @@
     "PoC": "https://support.t-mobile.com/docs/DOC-21994"
   },
   {
+    "CVE": "CVE-2013-1814",
+    "PoC": "http://www.exploit-db.com/exploits/24744/"
+  },
+  {
     "CVE": "CVE-2013-1815",
     "PoC": "http://rhn.redhat.com/errata/RHSA-2013-0671.html"
   },
@@ -112642,6 +114758,10 @@
   {
     "CVE": "CVE-2013-1852",
     "PoC": "http://packetstormsecurity.com/files/120817/WordPress-LeagueManager-3.8-SQL-Injection.html"
+  },
+  {
+    "CVE": "CVE-2013-1852",
+    "PoC": "http://www.exploit-db.com/exploits/24789"
   },
   {
     "CVE": "CVE-2013-1853",
@@ -112694,6 +114814,10 @@
   {
     "CVE": "CVE-2013-1891",
     "PoC": "http://www.waraxe.us/advisory-98.html"
+  },
+  {
+    "CVE": "CVE-2013-1892",
+    "PoC": "http://www.exploit-db.com/exploits/24935"
   },
   {
     "CVE": "CVE-2013-1892",
@@ -112793,6 +114917,10 @@
   },
   {
     "CVE": "CVE-2013-1959",
+    "PoC": "http://www.exploit-db.com/exploits/25307"
+  },
+  {
+    "CVE": "CVE-2013-1959",
     "PoC": "http://www.openwall.com/lists/oss-security/2013/04/29/1"
   },
   {
@@ -112872,6 +115000,10 @@
     "PoC": "http://packetstormsecurity.com/files/130999/WordPress-W3-Total-Cache-PHP-Code-Execution.html"
   },
   {
+    "CVE": "CVE-2013-2010",
+    "PoC": "http://www.exploit-db.com/exploits/25137"
+  },
+  {
     "CVE": "CVE-2013-2017",
     "PoC": "http://www.openwall.com/lists/oss-security/2013/04/29/10"
   },
@@ -112948,6 +115080,10 @@
     "PoC": "http://www.oracle.com/technetwork/topics/security/cpujan2014-1972949.html"
   },
   {
+    "CVE": "CVE-2013-2068",
+    "PoC": "http://www.exploit-db.com/exploits/30469"
+  },
+  {
     "CVE": "CVE-2013-2071",
     "PoC": "http://www.oracle.com/technetwork/topics/security/cpujan2014-1972949.html"
   },
@@ -112966,6 +115102,10 @@
   {
     "CVE": "CVE-2013-2094",
     "PoC": "http://packetstormsecurity.com/files/121616/semtex.c"
+  },
+  {
+    "CVE": "CVE-2013-2094",
+    "PoC": "http://www.exploit-db.com/exploits/33589"
   },
   {
     "CVE": "CVE-2013-2094",
@@ -113018,6 +115158,10 @@
   {
     "CVE": "CVE-2013-2115",
     "PoC": "https://cwiki.apache.org/confluence/display/WW/S2-014"
+  },
+  {
+    "CVE": "CVE-2013-2121",
+    "PoC": "http://www.exploit-db.com/exploits/27045"
   },
   {
     "CVE": "CVE-2013-2131",
@@ -113086,6 +115230,10 @@
   {
     "CVE": "CVE-2013-2143",
     "PoC": "http://packetstormsecurity.com/files/125866/Katello-Red-Hat-Satellite-users-update_roles-Missing-Authorization.html"
+  },
+  {
+    "CVE": "CVE-2013-2143",
+    "PoC": "http://www.exploit-db.com/exploits/32515"
   },
   {
     "CVE": "CVE-2013-2145",
@@ -113202,6 +115350,10 @@
   {
     "CVE": "CVE-2013-2224",
     "PoC": "http://www.openwall.com/lists/oss-security/2013/06/30/7"
+  },
+  {
+    "CVE": "CVE-2013-2225",
+    "PoC": "http://www.exploit-db.com/exploits/26530"
   },
   {
     "CVE": "CVE-2013-2226",
@@ -113326,6 +115478,10 @@
   {
     "CVE": "CVE-2013-2299",
     "PoC": "http://ics-cert.us-cert.gov/advisories/ICSA-13-225-01"
+  },
+  {
+    "CVE": "CVE-2013-2347",
+    "PoC": "http://www.exploit-db.com/exploits/32164"
   },
   {
     "CVE": "CVE-2013-2352",
@@ -114592,6 +116748,10 @@
     "PoC": "http://packetstormsecurity.com/files/121402/Hornbill-Supportworks-ITSM-1.0.0-SQL-Injection.html"
   },
   {
+    "CVE": "CVE-2013-2594",
+    "PoC": "http://www.exploit-db.com/exploits/25002"
+  },
+  {
     "CVE": "CVE-2013-2596",
     "PoC": "http://forum.xda-developers.com/showthread.php?t=2255491"
   },
@@ -114628,12 +116788,20 @@
     "PoC": "http://packetstormsecurity.com/files/121034/Network-Weathermap-0.97a-Cross-Site-Scripting.html"
   },
   {
+    "CVE": "CVE-2013-2618",
+    "PoC": "http://www.exploit-db.com/exploits/24913"
+  },
+  {
     "CVE": "CVE-2013-2619",
     "PoC": "http://packetstormsecurity.com/files/121035/Aspen-0.8-Directory-Traversal.html"
   },
   {
     "CVE": "CVE-2013-2619",
     "PoC": "http://seclists.org/fulldisclosure/2013/Apr/2"
+  },
+  {
+    "CVE": "CVE-2013-2619",
+    "PoC": "http://www.exploit-db.com/exploits/24915"
   },
   {
     "CVE": "CVE-2013-2621",
@@ -114694,6 +116862,14 @@
   {
     "CVE": "CVE-2013-2635",
     "PoC": "http://www.ubuntu.com/usn/USN-1814-1"
+  },
+  {
+    "CVE": "CVE-2013-2637",
+    "PoC": "http://www.exploit-db.com/exploits/24922"
+  },
+  {
+    "CVE": "CVE-2013-2639",
+    "PoC": "http://www.exploit-db.com/exploits/31517"
   },
   {
     "CVE": "CVE-2013-2651",
@@ -114848,8 +117024,16 @@
     "PoC": "http://packetstormsecurity.com/files/123726/Netgear-ReadyNAS-Complete-System-Takeover.html"
   },
   {
+    "CVE": "CVE-2013-2751",
+    "PoC": "http://www.exploit-db.com/exploits/29815"
+  },
+  {
     "CVE": "CVE-2013-2754",
     "PoC": "http://packetstormsecurity.com/files/121564/UMI.CMS-2.9-Cross-Site-Request-Forgery.html"
+  },
+  {
+    "CVE": "CVE-2013-2754",
+    "PoC": "http://www.exploit-db.com/exploits/25449"
   },
   {
     "CVE": "CVE-2013-2760",
@@ -115124,6 +117308,10 @@
     "PoC": "https://www.ise.io/wp-content/uploads/2017/07/soho_techreport.pdf"
   },
   {
+    "CVE": "CVE-2013-3075",
+    "PoC": "http://www.exploit-db.com/exploits/24886/"
+  },
+  {
     "CVE": "CVE-2013-3085",
     "PoC": "https://www.ise.io/research/studies-and-papers/belkin_f5d8236-4v2/"
   },
@@ -115196,6 +117384,14 @@
     "PoC": "https://docs.microsoft.com/en-us/security-updates/securitybulletins/2013/ms13-053"
   },
   {
+    "CVE": "CVE-2013-3212",
+    "PoC": "http://www.exploit-db.com/exploits/27279"
+  },
+  {
+    "CVE": "CVE-2013-3214",
+    "PoC": "http://www.exploit-db.com/exploits/30787"
+  },
+  {
     "CVE": "CVE-2013-3221",
     "PoC": "http://pl.reddit.com/r/netsec/comments/17yajp/mysql_madness_and_rails/"
   },
@@ -115250,6 +117446,10 @@
   {
     "CVE": "CVE-2013-3235",
     "PoC": "http://www.mandriva.com/security/advisories?name=MDVSA-2013:176"
+  },
+  {
+    "CVE": "CVE-2013-3238",
+    "PoC": "http://www.exploit-db.com/exploits/25136"
   },
   {
     "CVE": "CVE-2013-3242",
@@ -115308,6 +117508,10 @@
     "PoC": "http://www.kernel.org/pub/linux/kernel/v3.x/ChangeLog-3.7.2"
   },
   {
+    "CVE": "CVE-2013-3304",
+    "PoC": "http://www.exploit-db.com/exploits/35056"
+  },
+  {
     "CVE": "CVE-2013-3311",
     "PoC": "http://www.exploit-db.com/exploits/27878"
   },
@@ -115352,6 +117556,10 @@
     "PoC": "https://www.securityfocus.com/archive/1/526552"
   },
   {
+    "CVE": "CVE-2013-3336",
+    "PoC": "http://www.exploit-db.com/exploits/25305"
+  },
+  {
     "CVE": "CVE-2013-3365",
     "PoC": "http://infosec42.blogspot.com/2013/07/exploit-trendnet-tew-812dru-csrfcommand.html"
   },
@@ -115386,6 +117594,10 @@
   {
     "CVE": "CVE-2013-3434",
     "PoC": "http://tools.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-20130717-cucm"
+  },
+  {
+    "CVE": "CVE-2013-3482",
+    "PoC": "http://www.exploit-db.com/exploits/26708"
   },
   {
     "CVE": "CVE-2013-3482",
@@ -115484,6 +117696,10 @@
     "PoC": "https://www.ise.io/research/studies-and-papers/netgear_wnr3500/"
   },
   {
+    "CVE": "CVE-2013-3522",
+    "PoC": "http://www.exploit-db.com/exploits/24882"
+  },
+  {
     "CVE": "CVE-2013-3524",
     "PoC": "http://www.exploit-db.com/exploits/24960"
   },
@@ -115508,8 +117724,16 @@
     "PoC": "http://packetstormsecurity.com/files/121151/Vanilla-Forums-2.0.18.4-SQL-Injection.html"
   },
   {
+    "CVE": "CVE-2013-3527",
+    "PoC": "http://www.exploit-db.com/exploits/24927"
+  },
+  {
     "CVE": "CVE-2013-3529",
     "PoC": "http://packetstormsecurity.com/files/121030/WordPress-FuneralPress-1.1.6-Cross-Site-Scripting.html"
+  },
+  {
+    "CVE": "CVE-2013-3529",
+    "PoC": "http://www.exploit-db.com/exploits/24914"
   },
   {
     "CVE": "CVE-2013-3530",
@@ -115537,11 +117761,19 @@
   },
   {
     "CVE": "CVE-2013-3535",
+    "PoC": "http://www.exploit-db.com/exploits/24959"
+  },
+  {
+    "CVE": "CVE-2013-3535",
     "PoC": "http://www.zeroscience.mk/en/vulnerabilities/ZSL-2013-5136.php"
   },
   {
     "CVE": "CVE-2013-3536",
     "PoC": "http://packetstormsecurity.com/files/121046/WHMCS-Grouppay-1.5-SQL-Injection.html"
+  },
+  {
+    "CVE": "CVE-2013-3536",
+    "PoC": "http://www.exploit-db.com/exploits/24934"
   },
   {
     "CVE": "CVE-2013-3537",
@@ -115582,6 +117814,14 @@
   {
     "CVE": "CVE-2013-3557",
     "PoC": "https://bugs.wireshark.org/bugzilla/show_bug.cgi?id=8599"
+  },
+  {
+    "CVE": "CVE-2013-3563",
+    "PoC": "http://www.exploit-db.com/exploits/25851/"
+  },
+  {
+    "CVE": "CVE-2013-3568",
+    "PoC": "http://www.exploit-db.com/exploits/28484"
   },
   {
     "CVE": "CVE-2013-3577",
@@ -115642,6 +117882,10 @@
   {
     "CVE": "CVE-2013-3587",
     "PoC": "https://www.blackhat.com/us-13/briefings.html#Prado"
+  },
+  {
+    "CVE": "CVE-2013-3591",
+    "PoC": "http://www.exploit-db.com/exploits/29319"
   },
   {
     "CVE": "CVE-2013-3591",
@@ -115712,6 +117956,10 @@
     "PoC": "https://community.rapid7.com/community/metasploit/blog/2013/10/30/seven-tricks-and-treats"
   },
   {
+    "CVE": "CVE-2013-3623",
+    "PoC": "http://www.exploit-db.com/exploits/29666"
+  },
+  {
     "CVE": "CVE-2013-3626",
     "PoC": "http://www.kb.cert.org/vuls/id/436214"
   },
@@ -115725,7 +117973,15 @@
   },
   {
     "CVE": "CVE-2013-3628",
+    "PoC": "http://www.exploit-db.com/exploits/29321"
+  },
+  {
+    "CVE": "CVE-2013-3628",
     "PoC": "https://community.rapid7.com/community/metasploit/blog/2013/10/30/seven-tricks-and-treats"
+  },
+  {
+    "CVE": "CVE-2013-3629",
+    "PoC": "http://www.exploit-db.com/exploits/29322"
   },
   {
     "CVE": "CVE-2013-3629",
@@ -115746,6 +118002,10 @@
   {
     "CVE": "CVE-2013-3631",
     "PoC": "https://community.rapid7.com/community/metasploit/blog/2013/10/30/seven-tricks-and-treats"
+  },
+  {
+    "CVE": "CVE-2013-3632",
+    "PoC": "http://www.exploit-db.com/exploits/29323"
   },
   {
     "CVE": "CVE-2013-3632",
@@ -115773,6 +118033,10 @@
   },
   {
     "CVE": "CVE-2013-3660",
+    "PoC": "http://www.exploit-db.com/exploits/25611/"
+  },
+  {
+    "CVE": "CVE-2013-3660",
     "PoC": "http://www.reddit.com/r/netsec/comments/1eqh66/0day_windows_kernel_epathobj_vulnerability/"
   },
   {
@@ -115782,6 +118046,10 @@
   {
     "CVE": "CVE-2013-3660",
     "PoC": "https://docs.microsoft.com/en-us/security-updates/securitybulletins/2013/ms13-053"
+  },
+  {
+    "CVE": "CVE-2013-3661",
+    "PoC": "http://www.exploit-db.com/exploits/25611/"
   },
   {
     "CVE": "CVE-2013-3661",
@@ -115894,6 +118162,10 @@
   {
     "CVE": "CVE-2013-3721",
     "PoC": "http://packetstormsecurity.com/files/120976/PsychoStats-3.2.2b-Blind-SQL-Injection.html"
+  },
+  {
+    "CVE": "CVE-2013-3721",
+    "PoC": "http://www.exploit-db.com/exploits/24893"
   },
   {
     "CVE": "CVE-2013-3727",
@@ -116404,6 +118676,10 @@
     "PoC": "http://packetstormsecurity.com/files/162585/Microsoft-Internet-Explorer-8-SetMouseCapture-Use-After-Free.html"
   },
   {
+    "CVE": "CVE-2013-3906",
+    "PoC": "http://www.exploit-db.com/exploits/30011"
+  },
+  {
     "CVE": "CVE-2013-3918",
     "PoC": "http://www.darkreading.com/vulnerability/new-ie-vulnerability-found-in-the-wild-s/240163814/"
   },
@@ -116422,6 +118698,14 @@
   {
     "CVE": "CVE-2013-3956",
     "PoC": "http://pastebin.com/GB4iiEwR"
+  },
+  {
+    "CVE": "CVE-2013-3956",
+    "PoC": "http://www.exploit-db.com/exploits/26452"
+  },
+  {
+    "CVE": "CVE-2013-3956",
+    "PoC": "http://www.exploit-db.com/exploits/27191"
   },
   {
     "CVE": "CVE-2013-3960",
@@ -116530,6 +118814,10 @@
   {
     "CVE": "CVE-2013-4074",
     "PoC": "http://packetstormsecurity.com/files/126848/Wireshark-CAPWAP-Dissector-Denial-Of-Service.html"
+  },
+  {
+    "CVE": "CVE-2013-4074",
+    "PoC": "http://www.exploit-db.com/exploits/33556"
   },
   {
     "CVE": "CVE-2013-4078",
@@ -116669,7 +118957,15 @@
   },
   {
     "CVE": "CVE-2013-4211",
+    "PoC": "http://www.exploit-db.com/exploits/27529"
+  },
+  {
+    "CVE": "CVE-2013-4211",
     "PoC": "https://packetstormsecurity.com/files/cve/CVE-2013-4211"
+  },
+  {
+    "CVE": "CVE-2013-4212",
+    "PoC": "http://www.exploit-db.com/exploits/29859"
   },
   {
     "CVE": "CVE-2013-4213",
@@ -117000,6 +119296,14 @@
     "PoC": "https://github.com/SimpleMachines/SMF2.1/issues/701"
   },
   {
+    "CVE": "CVE-2013-4467",
+    "PoC": "http://www.exploit-db.com/exploits/29513"
+  },
+  {
+    "CVE": "CVE-2013-4468",
+    "PoC": "http://www.exploit-db.com/exploits/29513"
+  },
+  {
     "CVE": "CVE-2013-4470",
     "PoC": "http://www.ubuntu.com/usn/USN-2044-1"
   },
@@ -117192,6 +119496,10 @@
     "PoC": "http://www.ubuntu.com/usn/USN-2065-1"
   },
   {
+    "CVE": "CVE-2013-4589",
+    "PoC": "http://sourceforge.net/p/graphicsmagick/discussion/250737/thread/20888e8b/"
+  },
+  {
     "CVE": "CVE-2013-4590",
     "PoC": "http://www.oracle.com/technetwork/security-advisory/cpuoct2016-2881722.html"
   },
@@ -117368,6 +119676,14 @@
     "PoC": "http://packetstormsecurity.com/files/122954/CM3-AcoraCMS-XSS-CSRF-Redirection-Disclosure.html"
   },
   {
+    "CVE": "CVE-2013-4730",
+    "PoC": "http://www.exploit-db.com/exploits/26471"
+  },
+  {
+    "CVE": "CVE-2013-4743",
+    "PoC": "http://www.exploit-db.com/exploits/26520"
+  },
+  {
     "CVE": "CVE-2013-4744",
     "PoC": "http://typo3.org/teams/security/security-bulletins/typo3-extensions/typo3-ext-sa-2013-001/"
   },
@@ -117456,6 +119772,10 @@
     "PoC": "http://www.kb.cert.org/vuls/id/895524"
   },
   {
+    "CVE": "CVE-2013-4835",
+    "PoC": "http://www.exploit-db.com/exploits/30473"
+  },
+  {
     "CVE": "CVE-2013-4848",
     "PoC": "https://vuldb.com/?id.10495"
   },
@@ -117474,6 +119794,10 @@
   {
     "CVE": "CVE-2013-4856",
     "PoC": "https://www.ise.io/wp-content/uploads/2017/06/soho_defcon21.pdf"
+  },
+  {
+    "CVE": "CVE-2013-4859",
+    "PoC": "http://www.exploit-db.com/exploits/27284"
   },
   {
     "CVE": "CVE-2013-4860",
@@ -117605,6 +119929,10 @@
   },
   {
     "CVE": "CVE-2013-4884",
+    "PoC": "http://www.exploit-db.com/exploits/27406"
+  },
+  {
+    "CVE": "CVE-2013-4884",
     "PoC": "https://kc.mcafee.com/corporate/index?page=content&id=KB78992"
   },
   {
@@ -117618,6 +119946,10 @@
   {
     "CVE": "CVE-2013-4891",
     "PoC": "https://nealpoole.com/blog/2013/07/codeigniter-21-xss-clean-filter-bypass/"
+  },
+  {
+    "CVE": "CVE-2013-4898",
+    "PoC": "http://www.exploit-db.com/exploits/27272/"
   },
   {
     "CVE": "CVE-2013-4900",
@@ -117664,20 +119996,44 @@
     "PoC": "http://reviews.cnet.com/8301-3132_7-57594003-98"
   },
   {
+    "CVE": "CVE-2013-4945",
+    "PoC": "http://www.exploit-db.com/exploits/26806"
+  },
+  {
+    "CVE": "CVE-2013-4946",
+    "PoC": "http://www.exploit-db.com/exploits/26806"
+  },
+  {
     "CVE": "CVE-2013-4948",
     "PoC": "http://packetstormsecurity.com/files/122255/Machform-Form-Maker-2-XSS-Shell-Upload-SQL-Injection.html"
+  },
+  {
+    "CVE": "CVE-2013-4948",
+    "PoC": "http://www.exploit-db.com/exploits/26553"
   },
   {
     "CVE": "CVE-2013-4949",
     "PoC": "http://packetstormsecurity.com/files/122255/Machform-Form-Maker-2-XSS-Shell-Upload-SQL-Injection.html"
   },
   {
+    "CVE": "CVE-2013-4949",
+    "PoC": "http://www.exploit-db.com/exploits/26553"
+  },
+  {
     "CVE": "CVE-2013-4950",
     "PoC": "http://packetstormsecurity.com/files/122255/Machform-Form-Maker-2-XSS-Shell-Upload-SQL-Injection.html"
   },
   {
+    "CVE": "CVE-2013-4950",
+    "PoC": "http://www.exploit-db.com/exploits/26553"
+  },
+  {
     "CVE": "CVE-2013-4952",
     "PoC": "http://www.exploit-db.com/exploits/26416"
+  },
+  {
+    "CVE": "CVE-2013-4953",
+    "PoC": "http://www.exploit-db.com/exploits/26405"
   },
   {
     "CVE": "CVE-2013-4973",
@@ -117809,6 +120165,18 @@
   },
   {
     "CVE": "CVE-2013-5019",
+    "PoC": "http://www.exploit-db.com/exploits/26739"
+  },
+  {
+    "CVE": "CVE-2013-5019",
+    "PoC": "http://www.exploit-db.com/exploits/31736"
+  },
+  {
+    "CVE": "CVE-2013-5019",
+    "PoC": "http://www.exploit-db.com/exploits/31814"
+  },
+  {
+    "CVE": "CVE-2013-5019",
     "PoC": "https://www.exploit-db.com/exploits/44472/"
   },
   {
@@ -117830,6 +120198,10 @@
   {
     "CVE": "CVE-2013-5030",
     "PoC": "http://www.kb.cert.org/vuls/id/742932"
+  },
+  {
+    "CVE": "CVE-2013-5036",
+    "PoC": "http://www.exploit-db.com/exploits/27530"
   },
   {
     "CVE": "CVE-2013-5037",
@@ -117860,12 +120232,24 @@
     "PoC": "http://packetstormsecurity.com/files/127245/MS13-097-Registry-Symlink-IE-Sandbox-Escape.html"
   },
   {
+    "CVE": "CVE-2013-5045",
+    "PoC": "http://www.exploit-db.com/exploits/33893"
+  },
+  {
     "CVE": "CVE-2013-5065",
     "PoC": "https://www.exploit-db.com/exploits/37732/"
   },
   {
+    "CVE": "CVE-2013-5091",
+    "PoC": "http://www.exploit-db.com/exploits/28409"
+  },
+  {
     "CVE": "CVE-2013-5092",
     "PoC": "http://packetstormsecurity.com/files/122737/algosec-xss.txt"
+  },
+  {
+    "CVE": "CVE-2013-5093",
+    "PoC": "http://www.exploit-db.com/exploits/27752"
   },
   {
     "CVE": "CVE-2013-5094",
@@ -117996,16 +120380,36 @@
     "PoC": "http://packetstormsecurity.com/files/122746/PHP-VID-XSS-SQL-Injection-CRLF-Injection.html"
   },
   {
+    "CVE": "CVE-2013-5311",
+    "PoC": "http://www.exploit-db.com/exploits/27519"
+  },
+  {
     "CVE": "CVE-2013-5312",
     "PoC": "http://packetstormsecurity.com/files/122746/PHP-VID-XSS-SQL-Injection-CRLF-Injection.html"
+  },
+  {
+    "CVE": "CVE-2013-5312",
+    "PoC": "http://www.exploit-db.com/exploits/27519"
   },
   {
     "CVE": "CVE-2013-5316",
     "PoC": "http://packetstormsecurity.com/files/122663/Rite-CMS-1.0.0-Cross-Site-Request-Forgery-Cross-Site-Scripting.html"
   },
   {
+    "CVE": "CVE-2013-5316",
+    "PoC": "http://www.exploit-db.com/exploits/27315"
+  },
+  {
     "CVE": "CVE-2013-5317",
     "PoC": "http://packetstormsecurity.com/files/122663/Rite-CMS-1.0.0-Cross-Site-Request-Forgery-Cross-Site-Scripting.html"
+  },
+  {
+    "CVE": "CVE-2013-5317",
+    "PoC": "http://www.exploit-db.com/exploits/27315"
+  },
+  {
+    "CVE": "CVE-2013-5318",
+    "PoC": "http://www.exploit-db.com/exploits/27274"
   },
   {
     "CVE": "CVE-2013-5319",
@@ -118060,6 +120464,10 @@
     "PoC": "http://packetstormsecurity.com/files/124658"
   },
   {
+    "CVE": "CVE-2013-5447",
+    "PoC": "http://www.exploit-db.com/exploits/30789"
+  },
+  {
     "CVE": "CVE-2013-5456",
     "PoC": "http://www-01.ibm.com/support/docview.wss?uid=swg21655201"
   },
@@ -118070,6 +120478,10 @@
   {
     "CVE": "CVE-2013-5458",
     "PoC": "http://www-01.ibm.com/support/docview.wss?uid=swg21655201"
+  },
+  {
+    "CVE": "CVE-2013-5486",
+    "PoC": "http://www.exploit-db.com/exploits/30008"
   },
   {
     "CVE": "CVE-2013-5528",
@@ -118101,11 +120513,19 @@
   },
   {
     "CVE": "CVE-2013-5576",
+    "PoC": "http://www.exploit-db.com/exploits/27610"
+  },
+  {
+    "CVE": "CVE-2013-5576",
     "PoC": "http://www.kb.cert.org/vuls/id/639620"
   },
   {
     "CVE": "CVE-2013-5576",
     "PoC": "https://github.com/joomla/joomla-cms/commit/fa5645208eefd70f521cd2e4d53d5378622133d8"
+  },
+  {
+    "CVE": "CVE-2013-5578",
+    "PoC": "http://www.exploit-db.com/exploits/27317/"
   },
   {
     "CVE": "CVE-2013-5580",
@@ -118276,6 +120696,10 @@
     "PoC": "https://bugs.mageia.org/show_bug.cgi?id=11100"
   },
   {
+    "CVE": "CVE-2013-5656",
+    "PoC": "http://www.exploit-db.com/exploits/25130"
+  },
+  {
     "CVE": "CVE-2013-5658",
     "PoC": "https://packetstormsecurity.com/files/123049/PWStore-2010.8.30.0-Cross-Site-Scripting-Denial-Of-Service.html"
   },
@@ -118352,8 +120776,20 @@
     "PoC": "http://www.exploit-db.com/exploits/28683"
   },
   {
+    "CVE": "CVE-2013-5692",
+    "PoC": "http://www.exploit-db.com/exploits/28557"
+  },
+  {
+    "CVE": "CVE-2013-5693",
+    "PoC": "http://www.exploit-db.com/exploits/28557"
+  },
+  {
     "CVE": "CVE-2013-5694",
     "PoC": "http://packetstormsecurity.com/files/123821/Ops-View-Pre-4.4.1-Blind-SQL-Injection.html"
+  },
+  {
+    "CVE": "CVE-2013-5694",
+    "PoC": "http://www.exploit-db.com/exploits/29326"
   },
   {
     "CVE": "CVE-2013-5701",
@@ -118422,6 +120858,10 @@
   {
     "CVE": "CVE-2013-5749",
     "PoC": "http://packetstormsecurity.com/files/123455/SimpleRisk-20130915-01-Cross-Site-Request-Forgery-Cross-Site-Scripting.html"
+  },
+  {
+    "CVE": "CVE-2013-5755",
+    "PoC": "http://www.exploit-db.com/exploits/33739"
   },
   {
     "CVE": "CVE-2013-5756",
@@ -119548,6 +121988,14 @@
     "PoC": "http://packetstormsecurity.com/files/123746/PHPCMS-Guestbook-Cross-Site-Scripting.html"
   },
   {
+    "CVE": "CVE-2013-5945",
+    "PoC": "http://www.exploit-db.com/exploits/30061"
+  },
+  {
+    "CVE": "CVE-2013-5946",
+    "PoC": "http://www.exploit-db.com/exploits/30061"
+  },
+  {
     "CVE": "CVE-2013-5948",
     "PoC": "http://seclists.org/fulldisclosure/2014/Apr/59"
   },
@@ -119610,6 +122058,10 @@
   {
     "CVE": "CVE-2013-5961",
     "PoC": "http://packetstormsecurity.com/files/123349"
+  },
+  {
+    "CVE": "CVE-2013-5961",
+    "PoC": "http://www.exploit-db.com/exploits/28452"
   },
   {
     "CVE": "CVE-2013-5962",
@@ -119682,6 +122134,10 @@
   {
     "CVE": "CVE-2013-6017",
     "PoC": "http://www.kb.cert.org/vuls/id/204950"
+  },
+  {
+    "CVE": "CVE-2013-6021",
+    "PoC": "http://www.exploit-db.com/exploits/29273"
   },
   {
     "CVE": "CVE-2013-6021",
@@ -119776,6 +122232,10 @@
     "PoC": "http://packetstormsecurity.com/files/123929"
   },
   {
+    "CVE": "CVE-2013-6058",
+    "PoC": "http://www.exploit-db.com/exploits/29514"
+  },
+  {
     "CVE": "CVE-2013-6074",
     "PoC": "http://packetstormsecurity.com/files/123934/Open-Xchange-AppSuite-Script-Insertion.html"
   },
@@ -119786,6 +122246,14 @@
   {
     "CVE": "CVE-2013-6079",
     "PoC": "http://packetstormsecurity.com/files/122677"
+  },
+  {
+    "CVE": "CVE-2013-6079",
+    "PoC": "http://www.exploit-db.com/exploits/26214"
+  },
+  {
+    "CVE": "CVE-2013-6079",
+    "PoC": "http://www.exploit-db.com/exploits/27316"
   },
   {
     "CVE": "CVE-2013-6114",
@@ -119892,8 +122360,16 @@
     "PoC": "http://packetstormsecurity.com/files/124584/EMC-Replication-Manager-Unquoted-File-Path-Enumeration.html"
   },
   {
+    "CVE": "CVE-2013-6194",
+    "PoC": "http://www.exploit-db.com/exploits/31181"
+  },
+  {
     "CVE": "CVE-2013-6221",
     "PoC": "http://packetstormsecurity.com/files/127247/HP-AutoPass-License-Server-File-Upload.html"
+  },
+  {
+    "CVE": "CVE-2013-6221",
+    "PoC": "http://www.exploit-db.com/exploits/33891"
   },
   {
     "CVE": "CVE-2013-6223",
@@ -120048,6 +122524,14 @@
     "PoC": "http://packetstormsecurity.com/files/124201"
   },
   {
+    "CVE": "CVE-2013-6341",
+    "PoC": "http://www.exploit-db.com/exploits/30013"
+  },
+  {
+    "CVE": "CVE-2013-6343",
+    "PoC": "http://www.exploit-db.com/exploits/31033"
+  },
+  {
     "CVE": "CVE-2013-6343",
     "PoC": "https://support.t-mobile.com/docs/DOC-21994"
   },
@@ -120082,6 +122566,10 @@
   {
     "CVE": "CVE-2013-6365",
     "PoC": "https://packetstormsecurity.com/files/cve/CVE-2013-6365"
+  },
+  {
+    "CVE": "CVE-2013-6366",
+    "PoC": "http://www.exploit-db.com/exploits/28962/"
   },
   {
     "CVE": "CVE-2013-6367",
@@ -120448,6 +122936,14 @@
     "PoC": "http://www.ibm.com/connections/blogs/PSIRT/entry/security_bulletin_ibm_bladecenter_advanced_management_module_account_information_exposure_cve_2013_6718"
   },
   {
+    "CVE": "CVE-2013-6719",
+    "PoC": "http://www.exploit-db.com/exploits/32546"
+  },
+  {
+    "CVE": "CVE-2013-6720",
+    "PoC": "http://www.exploit-db.com/exploits/32546"
+  },
+  {
     "CVE": "CVE-2013-6735",
     "PoC": "http://packetstormsecurity.com/files/124611/IBM-Web-Content-Manager-XPath-Injection.html"
   },
@@ -120500,6 +122996,10 @@
     "PoC": "http://packetstormsecurity.com/files/130527/Cisco-Ironport-AsyncOS-Cross-Site-Scripting.html"
   },
   {
+    "CVE": "CVE-2013-6787",
+    "PoC": "http://www.exploit-db.com/exploits/30012"
+  },
+  {
     "CVE": "CVE-2013-6789",
     "PoC": "http://seclists.org/bugtraq/2013/Aug/12"
   },
@@ -120538,6 +123038,10 @@
   {
     "CVE": "CVE-2013-6796",
     "PoC": "http://packetstormsecurity.com/files/124054"
+  },
+  {
+    "CVE": "CVE-2013-6796",
+    "PoC": "http://www.exploit-db.com/exploits/29706"
   },
   {
     "CVE": "CVE-2013-6799",
@@ -120608,6 +123112,10 @@
     "PoC": "http://www.rafayhackingarticles.net/2013/05/kali-linux-dom-based-xss-writeup.html"
   },
   {
+    "CVE": "CVE-2013-6852",
+    "PoC": "http://www.exploit-db.com/exploits/28562/"
+  },
+  {
     "CVE": "CVE-2013-6853",
     "PoC": "http://packetstormsecurity.com/files/124800/Y-Toolbar-Cross-Site-Scripting.html"
   },
@@ -120636,6 +123144,10 @@
     "PoC": "http://packetstormsecurity.com/files/124035/testa-sql.txt"
   },
   {
+    "CVE": "CVE-2013-6874",
+    "PoC": "http://www.exploit-db.com/exploits/29777"
+  },
+  {
     "CVE": "CVE-2013-6876",
     "PoC": "http://packetstormsecurity.com/files/126887/s3dvt-Privilege-Escalation.html"
   },
@@ -120656,16 +123168,32 @@
     "PoC": "http://packetstormsecurity.com/files/124420/Ditto-Forensic-FieldStation-2013Oct15a-XSS-CSRF-Command-Execution.html"
   },
   {
+    "CVE": "CVE-2013-6881",
+    "PoC": "http://www.exploit-db.com/exploits/30396"
+  },
+  {
     "CVE": "CVE-2013-6882",
     "PoC": "http://packetstormsecurity.com/files/124420/Ditto-Forensic-FieldStation-2013Oct15a-XSS-CSRF-Command-Execution.html"
+  },
+  {
+    "CVE": "CVE-2013-6882",
+    "PoC": "http://www.exploit-db.com/exploits/30396"
   },
   {
     "CVE": "CVE-2013-6883",
     "PoC": "http://packetstormsecurity.com/files/124420/Ditto-Forensic-FieldStation-2013Oct15a-XSS-CSRF-Command-Execution.html"
   },
   {
+    "CVE": "CVE-2013-6883",
+    "PoC": "http://www.exploit-db.com/exploits/30396"
+  },
+  {
     "CVE": "CVE-2013-6884",
     "PoC": "http://packetstormsecurity.com/files/124420/Ditto-Forensic-FieldStation-2013Oct15a-XSS-CSRF-Command-Execution.html"
+  },
+  {
+    "CVE": "CVE-2013-6884",
+    "PoC": "http://www.exploit-db.com/exploits/30396"
   },
   {
     "CVE": "CVE-2013-6885",
@@ -120714,6 +123242,14 @@
   {
     "CVE": "CVE-2013-6936",
     "PoC": "http://packetstormsecurity.com/files/124091/MyBB-Ajaxfs-SQL-Injection.html"
+  },
+  {
+    "CVE": "CVE-2013-6936",
+    "PoC": "http://www.exploit-db.com/exploits/29797"
+  },
+  {
+    "CVE": "CVE-2013-6937",
+    "PoC": "http://www.exploit-db.com/exploits/29594"
   },
   {
     "CVE": "CVE-2013-6945",
@@ -120768,6 +123304,10 @@
     "PoC": "http://packetstormsecurity.com/files/124563"
   },
   {
+    "CVE": "CVE-2013-6987",
+    "PoC": "http://www.exploit-db.com/exploits/30475"
+  },
+  {
     "CVE": "CVE-2013-6994",
     "PoC": "https://github.com/koto/exceed-mitm"
   },
@@ -120778,6 +123318,14 @@
   {
     "CVE": "CVE-2013-7003",
     "PoC": "http://packetstormsecurity.com/files/124374/LiveZilla-5.1.1.0-Cross-Site-Scripting.html"
+  },
+  {
+    "CVE": "CVE-2013-7004",
+    "PoC": "http://www.exploit-db.com/exploits/30061"
+  },
+  {
+    "CVE": "CVE-2013-7005",
+    "PoC": "http://www.exploit-db.com/exploits/30061"
   },
   {
     "CVE": "CVE-2013-7008",
@@ -120961,6 +123509,10 @@
   },
   {
     "CVE": "CVE-2013-7091",
+    "PoC": "http://www.exploit-db.com/exploits/30085"
+  },
+  {
+    "CVE": "CVE-2013-7091",
     "PoC": "http://www.exploit-db.com/exploits/30472"
   },
   {
@@ -120985,7 +123537,15 @@
   },
   {
     "CVE": "CVE-2013-7136",
+    "PoC": "http://www.exploit-db.com/exploits/30358/"
+  },
+  {
+    "CVE": "CVE-2013-7136",
     "PoC": "http://www.planitcomputing.ie/upc-wifi-attack.pdf"
+  },
+  {
+    "CVE": "CVE-2013-7137",
+    "PoC": "http://www.exploit-db.com/exploits/30916"
   },
   {
     "CVE": "CVE-2013-7140",
@@ -121044,6 +123604,10 @@
     "PoC": "http://packetstormsecurity.com/files/124284"
   },
   {
+    "CVE": "CVE-2013-7186",
+    "PoC": "http://www.exploit-db.com/exploits/30032"
+  },
+  {
     "CVE": "CVE-2013-7187",
     "PoC": "http://packetstormsecurity.com/files/124343/wpformcraft-sql.txt"
   },
@@ -121082,6 +123646,10 @@
   {
     "CVE": "CVE-2013-7203",
     "PoC": "http://packetstormsecurity.com/files/149438/ManageEngine-SupportCenter-Plus-8.1.0-Cross-Site-Scripting.html"
+  },
+  {
+    "CVE": "CVE-2013-7204",
+    "PoC": "http://www.exploit-db.com/exploits/30914"
   },
   {
     "CVE": "CVE-2013-7209",
@@ -121162,6 +123730,10 @@
   {
     "CVE": "CVE-2013-7259",
     "PoC": "https://github.com/o2platform/DefCon_RESTing/tree/master/Live-Demos/Neo4j"
+  },
+  {
+    "CVE": "CVE-2013-7260",
+    "PoC": "http://www.exploit-db.com/exploits/30468/"
   },
   {
     "CVE": "CVE-2013-7260",
@@ -121288,6 +123860,10 @@
     "PoC": "http://www.exploit-db.com/exploits/24556"
   },
   {
+    "CVE": "CVE-2013-7280",
+    "PoC": "http://www.exploit-db.com/exploits/29445"
+  },
+  {
     "CVE": "CVE-2013-7281",
     "PoC": "http://www.ubuntu.com/usn/USN-2136-1"
   },
@@ -121398,6 +123974,10 @@
   {
     "CVE": "CVE-2013-7314",
     "PoC": "http://www.kb.cert.org/vuls/id/BLUU-985QUQ"
+  },
+  {
+    "CVE": "CVE-2013-7316",
+    "PoC": "http://www.exploit-db.com/exploits/30329"
   },
   {
     "CVE": "CVE-2013-7317",
@@ -121516,6 +124096,10 @@
     "PoC": "http://seclists.org/bugtraq/2013/Jul/27"
   },
   {
+    "CVE": "CVE-2013-7382",
+    "PoC": "http://www.exploit-db.com/exploits/29513"
+  },
+  {
     "CVE": "CVE-2013-7385",
     "PoC": "http://packetstormsecurity.com/files/124444/LiveZilla-5.1.2.0-Insecure-Password-Storage.html"
   },
@@ -121582,6 +124166,18 @@
   {
     "CVE": "CVE-2013-7409",
     "PoC": "http://www.exploit-db.com/exploits/29549"
+  },
+  {
+    "CVE": "CVE-2013-7409",
+    "PoC": "http://www.exploit-db.com/exploits/29798"
+  },
+  {
+    "CVE": "CVE-2013-7409",
+    "PoC": "http://www.exploit-db.com/exploits/32041"
+  },
+  {
+    "CVE": "CVE-2013-7409",
+    "PoC": "http://www.exploit-db.com/exploits/32074"
   },
   {
     "CVE": "CVE-2013-7417",
@@ -131678,6 +134274,10 @@
   {
     "CVE": "CVE-2014-4903",
     "PoC": "https://docs.google.com/spreadsheets/d/1t5GXwjw82SyunALVJb2w0zi3FoLRIkfGPc7AMjRF0r4/edit?usp=sharing"
+  },
+  {
+    "CVE": "CVE-2014-4904",
+    "PoC": "http://www.kb.cert.org/vuls/id/430345"
   },
   {
     "CVE": "CVE-2014-4904",
@@ -149964,6 +152564,10 @@
     "PoC": "http://packetstormsecurity.com/files/129666"
   },
   {
+    "CVE": "CVE-2014-9580",
+    "PoC": "http://www.exploit-db.com/exploits/35582"
+  },
+  {
     "CVE": "CVE-2014-9583",
     "PoC": "http://packetstormsecurity.com/files/129815/ASUSWRT-3.0.0.4.376_1071-LAN-Backdoor-Command-Execution.html"
   },
@@ -150802,6 +153406,10 @@
   {
     "CVE": "CVE-2015-0016",
     "PoC": "http://packetstormsecurity.com/files/130201/MS15-004-Microsoft-Remote-Desktop-Services-Web-Proxy-IE-Sandbox-Escape.html"
+  },
+  {
+    "CVE": "CVE-2015-0016",
+    "PoC": "http://www.exploit-db.com/exploits/35983"
   },
   {
     "CVE": "CVE-2015-0030",
@@ -152752,6 +155360,10 @@
     "PoC": "http://packetstormsecurity.com/files/129828/Pirelli-ADSL2-2-Wireless-Router-P.DGA4001N-Information-Disclosure.html"
   },
   {
+    "CVE": "CVE-2015-0554",
+    "PoC": "http://www.exploit-db.com/exploits/35721"
+  },
+  {
     "CVE": "CVE-2015-0555",
     "PoC": "http://packetstormsecurity.com/files/131421/Samsung-iPOLiS-1.12.2-ReadConfigValue-Remote-Code-Execution.html"
   },
@@ -152762,6 +155374,10 @@
   {
     "CVE": "CVE-2015-0558",
     "PoC": "http://packetstormsecurity.com/files/129817/Pirelli-Router-P.DG-A4001N-WPA-Key-Reverse-Engineering.html"
+  },
+  {
+    "CVE": "CVE-2015-0558",
+    "PoC": "http://www.exploit-db.com/exploits/35721"
   },
   {
     "CVE": "CVE-2015-0561",
@@ -153548,8 +156164,16 @@
     "PoC": "http://packetstormsecurity.com/files/129841/Brother-MFC-J4410DW-Cross-Site-Scripting.html"
   },
   {
+    "CVE": "CVE-2015-1057",
+    "PoC": "http://www.exploit-db.com/exploits/35679"
+  },
+  {
     "CVE": "CVE-2015-1058",
     "PoC": "http://packetstormsecurity.com/files/129812/AdaptCMS-3.0.3-Cross-Site-Scripting.html"
+  },
+  {
+    "CVE": "CVE-2015-1058",
+    "PoC": "http://www.exploit-db.com/exploits/35710"
   },
   {
     "CVE": "CVE-2015-1058",
@@ -153561,11 +156185,19 @@
   },
   {
     "CVE": "CVE-2015-1059",
+    "PoC": "http://www.exploit-db.com/exploits/35710"
+  },
+  {
+    "CVE": "CVE-2015-1059",
     "PoC": "http://zeroscience.mk/en/vulnerabilities/ZSL-2015-5220.php"
   },
   {
     "CVE": "CVE-2015-1060",
     "PoC": "http://packetstormsecurity.com/files/129813/AdaptCMS-3.0.3-HTTP-Referer-Header-Open-Redirect.html"
+  },
+  {
+    "CVE": "CVE-2015-1060",
+    "PoC": "http://www.exploit-db.com/exploits/35710"
   },
   {
     "CVE": "CVE-2015-1060",
@@ -153857,6 +156489,10 @@
   },
   {
     "CVE": "CVE-2015-1328",
+    "PoC": "http://www.exploit-db.com/exploits/40688/"
+  },
+  {
+    "CVE": "CVE-2015-1328",
     "PoC": "https://people.canonical.com/~ubuntu-security/cve/2015/CVE-2015-1328.html"
   },
   {
@@ -153934,6 +156570,10 @@
   {
     "CVE": "CVE-2015-1362",
     "PoC": "http://packetstormsecurity.com/files/130037/Exif-Pilot-4.7.2-Buffer-Overflow.html"
+  },
+  {
+    "CVE": "CVE-2015-1362",
+    "PoC": "http://www.exploit-db.com/exploits/35870"
   },
   {
     "CVE": "CVE-2015-1363",
@@ -154157,11 +156797,19 @@
   },
   {
     "CVE": "CVE-2015-1422",
+    "PoC": "http://www.exploit-db.com/exploits/35767"
+  },
+  {
+    "CVE": "CVE-2015-1422",
     "PoC": "http://www.zeroscience.mk/en/vulnerabilities/ZSL-2015-5222.php"
   },
   {
     "CVE": "CVE-2015-1423",
     "PoC": "http://packetstormsecurity.com/files/129929/Gecko-CMS-2.2-2.3-CSRF-XSS-SQL-Injection.html"
+  },
+  {
+    "CVE": "CVE-2015-1423",
+    "PoC": "http://www.exploit-db.com/exploits/35767"
   },
   {
     "CVE": "CVE-2015-1423",
@@ -154170,6 +156818,10 @@
   {
     "CVE": "CVE-2015-1424",
     "PoC": "http://packetstormsecurity.com/files/129929/Gecko-CMS-2.2-2.3-CSRF-XSS-SQL-Injection.html"
+  },
+  {
+    "CVE": "CVE-2015-1424",
+    "PoC": "http://www.exploit-db.com/exploits/35767"
   },
   {
     "CVE": "CVE-2015-1424",
@@ -154404,8 +157056,20 @@
     "PoC": "https://www.exploit-db.com/exploits/37812/"
   },
   {
+    "CVE": "CVE-2015-1494",
+    "PoC": "http://www.exploit-db.com/exploits/36087"
+  },
+  {
     "CVE": "CVE-2015-1497",
     "PoC": "http://packetstormsecurity.com/files/130459/HP-Client-Automation-Command-Injection.html"
+  },
+  {
+    "CVE": "CVE-2015-1497",
+    "PoC": "http://www.exploit-db.com/exploits/36169"
+  },
+  {
+    "CVE": "CVE-2015-1497",
+    "PoC": "http://www.exploit-db.com/exploits/36206"
   },
   {
     "CVE": "CVE-2015-1497",
@@ -154446,6 +157110,10 @@
   {
     "CVE": "CVE-2015-1514",
     "PoC": "https://www.syss.de/fileadmin/dokumente/Publikationen/Advisories/SYSS-2014-010.txt"
+  },
+  {
+    "CVE": "CVE-2015-1515",
+    "PoC": "http://www.exploit-db.com/exploits/36052"
   },
   {
     "CVE": "CVE-2015-1516",
@@ -154549,6 +157217,10 @@
   },
   {
     "CVE": "CVE-2015-1575",
+    "PoC": "http://www.exploit-db.com/exploits/36029"
+  },
+  {
+    "CVE": "CVE-2015-1575",
     "PoC": "http://www.zeroscience.mk/en/vulnerabilities/ZSL-2015-5223.php"
   },
   {
@@ -154565,6 +157237,10 @@
   },
   {
     "CVE": "CVE-2015-1577",
+    "PoC": "http://www.exploit-db.com/exploits/36026"
+  },
+  {
+    "CVE": "CVE-2015-1577",
     "PoC": "http://www.zeroscience.mk/en/vulnerabilities/ZSL-2015-5226.php"
   },
   {
@@ -154574,6 +157250,10 @@
   {
     "CVE": "CVE-2015-1578",
     "PoC": "http://www.zeroscience.mk/en/vulnerabilities/ZSL-2015-5227.php"
+  },
+  {
+    "CVE": "CVE-2015-1579",
+    "PoC": "http://www.exploit-db.com/exploits/36039"
   },
   {
     "CVE": "CVE-2015-1579",
@@ -155616,8 +158296,16 @@
     "PoC": "http://packetstormsecurity.com/files/130250/Magento-Server-MAGMI-Cross-Site-Scripting-Local-File-Inclusion.html"
   },
   {
+    "CVE": "CVE-2015-2067",
+    "PoC": "http://www.exploit-db.com/exploits/35996"
+  },
+  {
     "CVE": "CVE-2015-2068",
     "PoC": "http://packetstormsecurity.com/files/130250/Magento-Server-MAGMI-Cross-Site-Scripting-Local-File-Inclusion.html"
+  },
+  {
+    "CVE": "CVE-2015-2068",
+    "PoC": "http://www.exploit-db.com/exploits/35996"
   },
   {
     "CVE": "CVE-2015-2069",
@@ -155632,8 +158320,16 @@
     "PoC": "http://packetstormsecurity.com/files/130386/eTouch-Samepage-4.4.0.0.239-SQL-Injection-File-Read.html"
   },
   {
+    "CVE": "CVE-2015-2070",
+    "PoC": "http://www.exploit-db.com/exploits/36089"
+  },
+  {
     "CVE": "CVE-2015-2071",
     "PoC": "http://packetstormsecurity.com/files/130386/eTouch-Samepage-4.4.0.0.239-SQL-Injection-File-Read.html"
+  },
+  {
+    "CVE": "CVE-2015-2071",
+    "PoC": "http://www.exploit-db.com/exploits/36089"
   },
   {
     "CVE": "CVE-2015-2072",
@@ -155861,11 +158557,19 @@
   },
   {
     "CVE": "CVE-2015-2182",
+    "PoC": "http://www.exploit-db.com/exploits/36159"
+  },
+  {
+    "CVE": "CVE-2015-2182",
     "PoC": "https://github.com/ZeusCart/zeuscart/issues/28"
   },
   {
     "CVE": "CVE-2015-2183",
     "PoC": "http://packetstormsecurity.com/files/130487/Zeuscart-4-Cross-Site-Scripting-SQL-Injection.html"
+  },
+  {
+    "CVE": "CVE-2015-2183",
+    "PoC": "http://www.exploit-db.com/exploits/36159"
   },
   {
     "CVE": "CVE-2015-2183",
@@ -155874,6 +158578,10 @@
   {
     "CVE": "CVE-2015-2184",
     "PoC": "http://packetstormsecurity.com/files/130487/Zeuscart-4-Cross-Site-Scripting-SQL-Injection.html"
+  },
+  {
+    "CVE": "CVE-2015-2184",
+    "PoC": "http://www.exploit-db.com/exploits/36159"
   },
   {
     "CVE": "CVE-2015-2184",
@@ -155906,6 +158614,10 @@
   {
     "CVE": "CVE-2015-2194",
     "PoC": "http://packetstormsecurity.com/files/130397/WordPress-Fusion-3.1-Arbitrary-File-Upload.html"
+  },
+  {
+    "CVE": "CVE-2015-2196",
+    "PoC": "http://www.exploit-db.com/exploits/36061"
   },
   {
     "CVE": "CVE-2015-2198",
@@ -157053,6 +159765,10 @@
   },
   {
     "CVE": "CVE-2015-2678",
+    "PoC": "http://www.exploit-db.com/exploits/36321"
+  },
+  {
+    "CVE": "CVE-2015-2678",
     "PoC": "http://www.zeroscience.mk/en/vulnerabilities/ZSL-2015-5233.php"
   },
   {
@@ -157061,11 +159777,19 @@
   },
   {
     "CVE": "CVE-2015-2679",
+    "PoC": "http://www.exploit-db.com/exploits/36321"
+  },
+  {
+    "CVE": "CVE-2015-2679",
     "PoC": "http://www.zeroscience.mk/en/vulnerabilities/ZSL-2015-5232.php"
   },
   {
     "CVE": "CVE-2015-2680",
     "PoC": "http://packetstormsecurity.com/files/130772/GeniXCMS-0.0.1-Cross-Site-Request-Forgery.html"
+  },
+  {
+    "CVE": "CVE-2015-2680",
+    "PoC": "http://www.exploit-db.com/exploits/36321"
   },
   {
     "CVE": "CVE-2015-2680",
@@ -157134,6 +159858,10 @@
   {
     "CVE": "CVE-2015-2698",
     "PoC": "https://github.com/krb5/krb5/commit/3db8dfec1ef50ddd78d6ba9503185995876a39fd"
+  },
+  {
+    "CVE": "CVE-2015-2701",
+    "PoC": "http://www.exploit-db.com/exploits/36358"
   },
   {
     "CVE": "CVE-2015-2702",
@@ -157626,6 +160354,10 @@
   {
     "CVE": "CVE-2015-2789",
     "PoC": "http://packetstormsecurity.com/files/130840/Foxit-Reader-7.0.6.1126-Privilege-Escalation.html"
+  },
+  {
+    "CVE": "CVE-2015-2789",
+    "PoC": "http://www.exploit-db.com/exploits/36390"
   },
   {
     "CVE": "CVE-2015-2789",
@@ -212832,6 +215564,10 @@
     "PoC": "https://kb.netgear.com/000051484/Security-Advisory-for-Post-Authentication-Stack-Overflow-on-R8000-PSV-2017-2229"
   },
   {
+    "CVE": "CVE-2017-18763",
+    "PoC": "https://kb.netgear.com/000051482/Security-Advisory-for-Security-Misconfiguration-on-Some-Routers-and-Extenders-PSV-2017-2212"
+  },
+  {
     "CVE": "CVE-2017-18765",
     "PoC": "https://kb.netgear.com/000051480/Security-Advisory-for-Denial-of-Service-on-Some-Routers-PSV-2017-0648"
   },
@@ -245372,6 +248108,22 @@
     "PoC": "https://www.trustwave.com/Resources/SpiderLabs-Blog/Credential-Leak-Flaws-in-Windows-PureVPN-Client/"
   },
   {
+    "CVE": "CVE-2018-18657",
+    "PoC": "https://www.digitaldefense.com/blog/zero-day-alerts/arcserve-disclosure/"
+  },
+  {
+    "CVE": "CVE-2018-18658",
+    "PoC": "https://www.digitaldefense.com/blog/zero-day-alerts/arcserve-disclosure/"
+  },
+  {
+    "CVE": "CVE-2018-18659",
+    "PoC": "https://www.digitaldefense.com/blog/zero-day-alerts/arcserve-disclosure/"
+  },
+  {
+    "CVE": "CVE-2018-18660",
+    "PoC": "https://www.digitaldefense.com/blog/zero-day-alerts/arcserve-disclosure/"
+  },
+  {
     "CVE": "CVE-2018-18661",
     "PoC": "http://bugzilla.maptools.org/show_bug.cgi?id=2819"
   },
@@ -261216,6 +263968,10 @@
     "PoC": "https://www.exploit-db.com/exploits/44247/"
   },
   {
+    "CVE": "CVE-2018-6795",
+    "PoC": "https://exploit-db.com/exploits/43990/"
+  },
+  {
     "CVE": "CVE-2018-6797",
     "PoC": "https://www.oracle.com/security-alerts/cpujul2020.html"
   },
@@ -261374,6 +264130,10 @@
   {
     "CVE": "CVE-2018-6867",
     "PoC": "https://github.com/WlX-33/PoC-for-CVE/blob/main/CVE-2018-6867/Alibaba%20Clone%20Script%201.0.2%20Cross%20Site%20Scripting.txt"
+  },
+  {
+    "CVE": "CVE-2018-6868",
+    "PoC": "https://exploit-db.com/exploits/44172"
   },
   {
     "CVE": "CVE-2018-6869",
@@ -409724,6 +412484,10 @@
     "PoC": "https://huntr.dev/bounties/bc5689e4-221a-4200-a8ab-42c659f89f67"
   },
   {
+    "CVE": "CVE-2022-34382",
+    "PoC": "https://www.dell.com/support/kbdoc/000202198"
+  },
+  {
     "CVE": "CVE-2022-34384",
     "PoC": "https://www.dell.com/support/kbdoc/000204114"
   },
@@ -413890,6 +416654,10 @@
   {
     "CVE": "CVE-2022-37313",
     "PoC": "https://seclists.org/fulldisclosure/2022/Nov/18"
+  },
+  {
+    "CVE": "CVE-2022-37315",
+    "PoC": "http://www.openwall.com/lists/oss-security/2026/08/25/2"
   },
   {
     "CVE": "CVE-2022-37317",
@@ -519713,6 +522481,10 @@
   },
   {
     "CVE": "CVE-2025-10810",
+    "PoC": "https://vuldb.com/?ctiid.325168"
+  },
+  {
+    "CVE": "CVE-2025-10810",
     "PoC": "https://vuldb.com/?id.325168"
   },
   {
@@ -522282,6 +525054,10 @@
   {
     "CVE": "CVE-2025-11914",
     "PoC": "https://github.com/FightingLzn9/vul/blob/main/%E6%B7%B1%E5%9C%B3%E5%B8%82%E9%94%90%E6%98%8E%E6%8A%80%E6%9C%AF%E8%82%A1%E4%BB%BD%E6%9C%89%E9%99%90%E5%85%AC%E5%8F%B8Crocus%E7%B3%BB%E7%BB%9F-7.md"
+  },
+  {
+    "CVE": "CVE-2025-11919",
+    "PoC": "https://github.com/PeterRoberge/vulnerability-wolfram-cloud-14.2/blob/main/disclosure.md"
   },
   {
     "CVE": "CVE-2025-1192",
@@ -549369,6 +552145,10 @@
   },
   {
     "CVE": "CVE-2025-53841",
+    "PoC": "https://techdocs.akamai.com/guardicore-platform-agent/changelog"
+  },
+  {
+    "CVE": "CVE-2025-53841",
     "PoC": "https://www.tuv.com/landingpage/en/vulnerability-disclosure/"
   },
   {
@@ -571536,6 +574316,18 @@
     "PoC": "https://mattermost.com/security-updates"
   },
   {
+    "CVE": "CVE-2026-10007",
+    "PoC": "https://issues.chromium.org/issues/513754619"
+  },
+  {
+    "CVE": "CVE-2026-10009",
+    "PoC": "https://issues.chromium.org/issues/513973560"
+  },
+  {
+    "CVE": "CVE-2026-10012",
+    "PoC": "https://issues.chromium.org/issues/514063977"
+  },
+  {
     "CVE": "CVE-2026-10017",
     "PoC": "https://issues.chromium.org/issues/504156069"
   },
@@ -571550,6 +574342,10 @@
   {
     "CVE": "CVE-2026-10020",
     "PoC": "https://issues.chromium.org/issues/496565479"
+  },
+  {
+    "CVE": "CVE-2026-10022",
+    "PoC": "https://issues.chromium.org/issues/513289241"
   },
   {
     "CVE": "CVE-2026-10042",
@@ -574588,6 +577384,10 @@
     "PoC": "https://github.com/StrTzz123/iot_vul/tree/main/GL-iNet/MT3000/4.4.5/upgrade_online_url"
   },
   {
+    "CVE": "CVE-2026-12188",
+    "PoC": "https://github.com/heylaika/vuln-research-program/blob/main/2026/CVE-2026-12188%20-%20grit42%20-%20SQL%20Injection%20in%20CSV%20Export%20Endpoint/README.md"
+  },
+  {
     "CVE": "CVE-2026-12189",
     "PoC": "https://github.com/honestcorrupt/MOOVIT-CVE-.git"
   },
@@ -574686,6 +577486,14 @@
   {
     "CVE": "CVE-2026-12225",
     "PoC": "https://syracom-bee.atlassian.net/wiki/spaces/SL/pages/4230217729/Mobile+app+login+does+not+work+with+Secure+Login"
+  },
+  {
+    "CVE": "CVE-2026-12234",
+    "PoC": "https://github.com/zephyrproject-rtos/zephyr/security/advisories/GHSA-fcp3-vrr2-xfjv"
+  },
+  {
+    "CVE": "CVE-2026-12235",
+    "PoC": "https://github.com/zephyrproject-rtos/zephyr/security/advisories/GHSA-xv9q-6mrf-8j49"
   },
   {
     "CVE": "CVE-2026-12251",
@@ -574832,6 +577640,10 @@
     "PoC": "https://wpscan.com/vulnerability/460a996f-e27d-47e8-9d68-9e6be93100c0/"
   },
   {
+    "CVE": "CVE-2026-12520",
+    "PoC": "https://github.com/zephyrproject-rtos/zephyr/security/advisories/GHSA-9xc4-j5x8-v6jx"
+  },
+  {
     "CVE": "CVE-2026-12525",
     "PoC": "https://wpscan.com/vulnerability/11d5d4c2-7ba9-4389-9050-28c90920e34b/"
   },
@@ -574866,6 +577678,10 @@
   {
     "CVE": "CVE-2026-12592",
     "PoC": "https://wpscan.com/vulnerability/3658cae6-f6ae-4ecc-8d74-bb402e61f5d5/"
+  },
+  {
+    "CVE": "CVE-2026-12634",
+    "PoC": "https://github.com/zephyrproject-rtos/zephyr/security/advisories/GHSA-q7c8-m2qg-385c"
   },
   {
     "CVE": "CVE-2026-12644",
@@ -575236,6 +578052,10 @@
     "PoC": "https://wpscan.com/vulnerability/90240025-4dca-4bdb-9698-b63f4c60f413/"
   },
   {
+    "CVE": "CVE-2026-13172",
+    "PoC": "https://wpscan.com/vulnerability/1b2d4b55-1b7e-4150-8f90-492f7a3d5400/"
+  },
+  {
     "CVE": "CVE-2026-13173",
     "PoC": "https://wpscan.com/vulnerability/f1bb2ee8-85b2-415e-ab41-97b9958e5e70/"
   },
@@ -575360,8 +578180,16 @@
     "PoC": "https://wpscan.com/vulnerability/1a7a9159-0e85-43c4-b1ab-7ea37a4f2d95/"
   },
   {
+    "CVE": "CVE-2026-13404",
+    "PoC": "https://wpscan.com/vulnerability/c4915a6c-8bf5-46aa-8134-ea490bd6137f/"
+  },
+  {
     "CVE": "CVE-2026-13405",
     "PoC": "https://wpscan.com/vulnerability/247be7fc-a49f-429e-875d-8649510c42b5/"
+  },
+  {
+    "CVE": "CVE-2026-13406",
+    "PoC": "https://wpscan.com/vulnerability/44b457b8-5759-4d1d-b6fd-9dfe19a249a6/"
   },
   {
     "CVE": "CVE-2026-13423",
@@ -575844,6 +578672,18 @@
     "PoC": "https://issues.chromium.org/issues/511823182"
   },
   {
+    "CVE": "CVE-2026-13832",
+    "PoC": "https://issues.chromium.org/issues/513822378"
+  },
+  {
+    "CVE": "CVE-2026-13836",
+    "PoC": "https://issues.chromium.org/issues/514420555"
+  },
+  {
+    "CVE": "CVE-2026-13837",
+    "PoC": "https://issues.chromium.org/issues/514429130"
+  },
+  {
     "CVE": "CVE-2026-13856",
     "PoC": "https://issues.chromium.org/issues/508092634"
   },
@@ -575940,6 +578780,14 @@
     "PoC": "https://issues.chromium.org/issues/511722559"
   },
   {
+    "CVE": "CVE-2026-13929",
+    "PoC": "https://issues.chromium.org/issues/512249559"
+  },
+  {
+    "CVE": "CVE-2026-13930",
+    "PoC": "https://issues.chromium.org/issues/512937764"
+  },
+  {
     "CVE": "CVE-2026-13940",
     "PoC": "https://issues.chromium.org/issues/513158425"
   },
@@ -575950,6 +578798,30 @@
   {
     "CVE": "CVE-2026-13952",
     "PoC": "https://issues.chromium.org/issues/513401808"
+  },
+  {
+    "CVE": "CVE-2026-13981",
+    "PoC": "https://issues.chromium.org/issues/513990408"
+  },
+  {
+    "CVE": "CVE-2026-13982",
+    "PoC": "https://issues.chromium.org/issues/514006829"
+  },
+  {
+    "CVE": "CVE-2026-13987",
+    "PoC": "https://issues.chromium.org/issues/514039122"
+  },
+  {
+    "CVE": "CVE-2026-13988",
+    "PoC": "https://issues.chromium.org/issues/514040614"
+  },
+  {
+    "CVE": "CVE-2026-13991",
+    "PoC": "https://issues.chromium.org/issues/514061117"
+  },
+  {
+    "CVE": "CVE-2026-13996",
+    "PoC": "https://issues.chromium.org/issues/514068972"
   },
   {
     "CVE": "CVE-2026-13997",
@@ -575986,6 +578858,10 @@
   {
     "CVE": "CVE-2026-1414",
     "PoC": "https://github.com/LX-LX88/cve/issues/24"
+  },
+  {
+    "CVE": "CVE-2026-14144",
+    "PoC": "https://issues.chromium.org/issues/514079793"
   },
   {
     "CVE": "CVE-2026-1415",
@@ -576112,12 +578988,20 @@
     "PoC": "https://wpscan.com/vulnerability/511d2d53-34c5-4457-bc25-6f9105b57825/"
   },
   {
+    "CVE": "CVE-2026-14212",
+    "PoC": "https://wpscan.com/vulnerability/5afb51cc-8e1e-4c3c-aba6-6789e89161ae/"
+  },
+  {
     "CVE": "CVE-2026-14213",
     "PoC": "https://wpscan.com/vulnerability/30015f96-2771-493e-96d7-9067996e1531/"
   },
   {
     "CVE": "CVE-2026-14214",
     "PoC": "https://wpscan.com/vulnerability/4dd7bb63-e058-49d8-96ba-1fe38985e78e/"
+  },
+  {
+    "CVE": "CVE-2026-14216",
+    "PoC": "https://wpscan.com/vulnerability/c38bf5b3-902c-4126-a9a3-42d9f2d359c3/"
   },
   {
     "CVE": "CVE-2026-1422",
@@ -576374,6 +579258,10 @@
   {
     "CVE": "CVE-2026-14549",
     "PoC": "https://wpscan.com/vulnerability/3dd9bf3b-7fe4-4a58-ad05-1fc0bfb85413/"
+  },
+  {
+    "CVE": "CVE-2026-14550",
+    "PoC": "https://wpscan.com/vulnerability/98d547aa-6060-45d0-9cf6-cc9092dcc7d2/"
   },
   {
     "CVE": "CVE-2026-14553",
@@ -577148,6 +580036,10 @@
     "PoC": "https://github.com/christopherthielen/check-peer-dependencies/issues/74"
   },
   {
+    "CVE": "CVE-2026-15036",
+    "PoC": "https://github.com/harness/harness/issues/3689"
+  },
+  {
     "CVE": "CVE-2026-15038",
     "PoC": "https://wpscan.com/vulnerability/629d655f-cdb8-4733-81d5-12fa88c32bb6/"
   },
@@ -577290,6 +580182,26 @@
   {
     "CVE": "CVE-2026-15184",
     "PoC": "https://vuldb.com/submit/851192"
+  },
+  {
+    "CVE": "CVE-2026-15185",
+    "PoC": "https://github.com/gpac/gpac/issues/3611"
+  },
+  {
+    "CVE": "CVE-2026-15187",
+    "PoC": "https://github.com/enquirer/enquirer/issues/487"
+  },
+  {
+    "CVE": "CVE-2026-15187",
+    "PoC": "https://github.com/enquirer/enquirer/issues/487#issuecomment-4648521328"
+  },
+  {
+    "CVE": "CVE-2026-15188",
+    "PoC": "https://github.com/manjurulhoque/django-job-portal/issues/91"
+  },
+  {
+    "CVE": "CVE-2026-15190",
+    "PoC": "https://github.com/zainaakinyi45-boop/cve/issues/1"
   },
   {
     "CVE": "CVE-2026-15191",
@@ -577476,12 +580388,44 @@
     "PoC": "https://wpscan.com/vulnerability/dea1f3a9-2681-47a6-9e36-9d6ea799decb/"
   },
   {
+    "CVE": "CVE-2026-15276",
+    "PoC": "https://github.com/pdeljanov/Symphonia/issues/508"
+  },
+  {
+    "CVE": "CVE-2026-15276",
+    "PoC": "https://github.com/pdeljanov/Symphonia/pull/514"
+  },
+  {
+    "CVE": "CVE-2026-15319",
+    "PoC": "https://github.com/sipeed/picoclaw/issues/3069"
+  },
+  {
+    "CVE": "CVE-2026-15321",
+    "PoC": "https://github.com/MyEMS/myems/issues/412"
+  },
+  {
+    "CVE": "CVE-2026-15326",
+    "PoC": "https://github.com/halo-dev/halo/issues/10062"
+  },
+  {
+    "CVE": "CVE-2026-15329",
+    "PoC": "https://github.com/zhayujie/CowAgent/issues/2871"
+  },
+  {
+    "CVE": "CVE-2026-15329",
+    "PoC": "https://github.com/zhayujie/CowAgent/issues/2871#issuecomment-4922534422"
+  },
+  {
     "CVE": "CVE-2026-1533",
     "PoC": "https://github.com/yuji0903/silver-guide/issues/2"
   },
   {
     "CVE": "CVE-2026-15330",
     "PoC": "https://github.com/zhayujie/CowAgent/issues/2872"
+  },
+  {
+    "CVE": "CVE-2026-15331",
+    "PoC": "https://github.com/zhayujie/CowAgent/issues/2873"
   },
   {
     "CVE": "CVE-2026-1534",
@@ -577522,6 +580466,10 @@
   {
     "CVE": "CVE-2026-15375",
     "PoC": "https://drive.google.com/file/d/14q47WM7nqXuUJbN-3xTXzCIbMUwD1kL8/view?usp=sharing"
+  },
+  {
+    "CVE": "CVE-2026-15375",
+    "PoC": "https://github.com/omarelshopky/cves/blob/main/eleveo/call-recording-software/CVE-2026-15375"
   },
   {
     "CVE": "CVE-2026-15375",
@@ -577624,12 +580572,24 @@
     "PoC": "https://drive.google.com/file/d/1mzZ3HKLoMpr44cgxK70xiE2weddfvTsE/view?usp=sharing"
   },
   {
+    "CVE": "CVE-2026-15470",
+    "PoC": "https://github.com/omarelshopky/cves/tree/main/eleveo/call-recording-software/CVE-2026-15470"
+  },
+  {
     "CVE": "CVE-2026-15471",
     "PoC": "https://drive.google.com/file/d/1mXPN23OQiKw9ui9ZUswn0-fOThfZt6xb/view?usp=sharing"
   },
   {
+    "CVE": "CVE-2026-15471",
+    "PoC": "https://github.com/omarelshopky/cves/tree/main/eleveo/call-recording-software/CVE-2026-15471"
+  },
+  {
     "CVE": "CVE-2026-15472",
     "PoC": "https://drive.google.com/file/d/1Cyt_9wlVx8n_9Hu6Ygo4Goy2aBCUgNs0/view?usp=sharing"
+  },
+  {
+    "CVE": "CVE-2026-15472",
+    "PoC": "https://github.com/omarelshopky/cves/tree/main/eleveo/call-recording-software/CVE-2026-15472"
   },
   {
     "CVE": "CVE-2026-15473",
@@ -577672,8 +580632,24 @@
     "PoC": "https://github.com/jishenghua/jshERP/issues/146#issue-3817997461"
   },
   {
+    "CVE": "CVE-2026-15494",
+    "PoC": "https://github.com/MichaelZhuang521/cve/issues/4"
+  },
+  {
+    "CVE": "CVE-2026-15497",
+    "PoC": "https://github.com/xpp3901/CVE_APPLY/blob/main/V-S001_SonicCloudPlatform_Unauth_ExchangeSend"
+  },
+  {
+    "CVE": "CVE-2026-15500",
+    "PoC": "https://gist.github.com/YLChen-007/cd162554554c273a3a7c0330aa02f3f0"
+  },
+  {
     "CVE": "CVE-2026-15509",
     "PoC": "https://bytium.com/insights/leantime-priv-escalation-vulnerability-low-priv-to-owner"
+  },
+  {
+    "CVE": "CVE-2026-15513",
+    "PoC": "https://github.com/0xcc12138/wavlink-nu516u1-csrf-command-injection-"
   },
   {
     "CVE": "CVE-2026-15516",
@@ -577684,12 +580660,24 @@
     "PoC": "https://bytium.com/insights/authenticated-arbitrary-file-upload-to-rce-in-twill-cms"
   },
   {
+    "CVE": "CVE-2026-15519",
+    "PoC": "https://github.com/ez-lbz/strix-vul-report"
+  },
+  {
     "CVE": "CVE-2026-1552",
     "PoC": "https://github.com/Sqli22/Sqli/issues/4"
   },
   {
+    "CVE": "CVE-2026-15520",
+    "PoC": "https://github.com/LibreDWG/libredwg/issues/1251"
+  },
+  {
     "CVE": "CVE-2026-15521",
     "PoC": "https://github.com/makafeli/n8n-workflow-builder/issues/28"
+  },
+  {
+    "CVE": "CVE-2026-15523",
+    "PoC": "https://github.com/wsx138/cve/issues/2"
   },
   {
     "CVE": "CVE-2026-15525",
@@ -577704,6 +580692,10 @@
     "PoC": "https://github.com/augmnt/augments-mcp-server/issues/8"
   },
   {
+    "CVE": "CVE-2026-15529",
+    "PoC": "https://github.com/yzhao062/pyod/issues/697"
+  },
+  {
     "CVE": "CVE-2026-15533",
     "PoC": "https://vuldb.com/submit/854988"
   },
@@ -577712,12 +580704,36 @@
     "PoC": "https://github.com/ltranquility/submit_vuln/issues/7"
   },
   {
+    "CVE": "CVE-2026-15559",
+    "PoC": "https://github.com/sl1der-fr0g/Findings/issues/3"
+  },
+  {
     "CVE": "CVE-2026-15595",
     "PoC": "https://github.com/AlbaDove/cve/issues/6"
   },
   {
     "CVE": "CVE-2026-15596",
     "PoC": "https://github.com/AlbaDove/cve/issues/5"
+  },
+  {
+    "CVE": "CVE-2026-15597",
+    "PoC": "https://github.com/asdasddqwdq29-a11y/new-cve/issues/1"
+  },
+  {
+    "CVE": "CVE-2026-15598",
+    "PoC": "https://github.com/antvis/layout/issues/292"
+  },
+  {
+    "CVE": "CVE-2026-15607",
+    "PoC": "https://github.com/TanStack/db/issues/1584"
+  },
+  {
+    "CVE": "CVE-2026-15618",
+    "PoC": "https://github.com/mosaxiv/clawlet/issues/12"
+  },
+  {
+    "CVE": "CVE-2026-15619",
+    "PoC": "https://github.com/mosaxiv/clawlet/issues/13"
   },
   {
     "CVE": "CVE-2026-15620",
@@ -577744,6 +580760,10 @@
     "PoC": "https://github.com/zhayujie/CowAgent/issues/2878"
   },
   {
+    "CVE": "CVE-2026-15629",
+    "PoC": "https://github.com/louisho5/picobot/issues/40"
+  },
+  {
     "CVE": "CVE-2026-15637",
     "PoC": "https://devolutions.net/security/advisories/DEVO-2026-0024/"
   },
@@ -577756,28 +580776,80 @@
     "PoC": "https://devolutions.net/security/advisories/DEVO-2026-0024/"
   },
   {
+    "CVE": "CVE-2026-15668",
+    "PoC": "https://github.com/louisho5/picobot/issues/41"
+  },
+  {
+    "CVE": "CVE-2026-15672",
+    "PoC": "https://github.com/sjmycz/cve/issues/1"
+  },
+  {
     "CVE": "CVE-2026-15675",
     "PoC": "https://github.com/shihuizhang-dazhi/MY-CVE/issues/3"
+  },
+  {
+    "CVE": "CVE-2026-15676",
+    "PoC": "https://github.com/shihuizhang-dazhi/MY-CVE/issues/4"
+  },
+  {
+    "CVE": "CVE-2026-15677",
+    "PoC": "https://github.com/shihuizhang-dazhi/MY-CVE/issues/6"
+  },
+  {
+    "CVE": "CVE-2026-15678",
+    "PoC": "https://github.com/shihuizhang-dazhi/MY-CVE/issues/7"
   },
   {
     "CVE": "CVE-2026-15692",
     "PoC": "https://github.com/cve-a/dexingzhiqing/issues/2"
   },
   {
+    "CVE": "CVE-2026-15693",
+    "PoC": "https://github.com/cve-a/dexingzhiqing/issues/3"
+  },
+  {
     "CVE": "CVE-2026-15695",
     "PoC": "https://github.com/cve-a/dexingzhiqing/issues/5"
+  },
+  {
+    "CVE": "CVE-2026-15698",
+    "PoC": "https://github.com/kofrasa/mingo/issues/606"
+  },
+  {
+    "CVE": "CVE-2026-15699",
+    "PoC": "https://github.com/spencermountain/compromise/issues/1208"
   },
   {
     "CVE": "CVE-2026-15703",
     "PoC": "https://github.com/Wut-sys/cve/issues/1"
   },
   {
+    "CVE": "CVE-2026-15715",
+    "PoC": "https://github.com/AlbaDove/cve/issues/7"
+  },
+  {
     "CVE": "CVE-2026-15733",
     "PoC": "https://github.com/Stuub/WGDashboard-v4.3.2-OS-Command-Injection-to-Root-RCE-PoC"
   },
   {
+    "CVE": "CVE-2026-15734",
+    "PoC": "https://github.com/Stuub/WGDashboard-v4.3.2-SSTI-to-Root-RCE-PoC"
+  },
+  {
     "CVE": "CVE-2026-15750",
     "PoC": "https://github.com/mastergo-design/mastergo-magic-mcp/issues/89"
+  },
+  {
+    "CVE": "CVE-2026-15751",
+    "PoC": "https://github.com/mastergo-design/mastergo-magic-mcp/issues/90"
+  },
+  {
+    "CVE": "CVE-2026-15752",
+    "PoC": "https://github.com/zhinianboke/xianyu-auto-reply/issues/192"
+  },
+  {
+    "CVE": "CVE-2026-15753",
+    "PoC": "https://github.com/zhinianboke/xianyu-auto-reply/issues/192"
   },
   {
     "CVE": "CVE-2026-15754",
@@ -577786,6 +580858,10 @@
   {
     "CVE": "CVE-2026-15779",
     "PoC": "https://bugzilla.redhat.com/show_bug.cgi?id=2499991"
+  },
+  {
+    "CVE": "CVE-2026-15806",
+    "PoC": "https://github.com/python/cpython/issues/155694"
   },
   {
     "CVE": "CVE-2026-15816",
@@ -577830,6 +580906,10 @@
   {
     "CVE": "CVE-2026-1592",
     "PoC": "https://www.foxit.com/support/security-bulletins.html"
+  },
+  {
+    "CVE": "CVE-2026-15921",
+    "PoC": "https://github.com/nvm-sh/nvm/security/advisories/GHSA-4ghp-wxpw-rhpg"
   },
   {
     "CVE": "CVE-2026-1593",
@@ -579036,8 +582116,16 @@
     "PoC": "https://wpscan.com/vulnerability/61b3228d-50a0-4928-977a-23448939dff9/"
   },
   {
+    "CVE": "CVE-2026-16984",
+    "PoC": "https://wpscan.com/vulnerability/c1bf0335-c954-473b-af30-7f227f041790/"
+  },
+  {
     "CVE": "CVE-2026-16985",
     "PoC": "https://wpscan.com/vulnerability/045a15f3-5750-4c4e-977d-e1283e3c967d/"
+  },
+  {
+    "CVE": "CVE-2026-16986",
+    "PoC": "https://wpscan.com/vulnerability/8df11bf9-1878-4220-b13c-82e8dadc3a08/"
   },
   {
     "CVE": "CVE-2026-16988",
@@ -580016,6 +583104,10 @@
     "PoC": "https://wpscan.com/vulnerability/9f8361a9-d424-4346-9d92-6f27ab9261c9/"
   },
   {
+    "CVE": "CVE-2026-19094",
+    "PoC": "https://wpscan.com/vulnerability/8830ba91-c316-4823-90a8-0cf0e527468f/"
+  },
+  {
     "CVE": "CVE-2026-19189",
     "PoC": "https://winslow1984.com/books/cve-collection/page/poweriso-9300-kernel-driver-6900-local-privilege-escalation-via-arbitrary-registry-write-or-deletion"
   },
@@ -580040,12 +583132,20 @@
     "PoC": "https://wpscan.com/vulnerability/c27c1dcd-a6d2-4e1d-a9da-88dff8fe5618/"
   },
   {
+    "CVE": "CVE-2026-19220",
+    "PoC": "https://wpscan.com/vulnerability/99e2a045-15cb-4c58-8090-1f92474f6485/"
+  },
+  {
     "CVE": "CVE-2026-19221",
     "PoC": "https://wpscan.com/vulnerability/5aa85c72-2a60-4243-b370-ef0b46e98cfe/"
   },
   {
     "CVE": "CVE-2026-19222",
     "PoC": "https://wpscan.com/vulnerability/bb3997c6-4d9a-46f6-85d7-d472dfc00829/"
+  },
+  {
+    "CVE": "CVE-2026-19226",
+    "PoC": "https://wpscan.com/vulnerability/1454d76e-c90b-40b3-b0b8-fb9a25ffb183/"
   },
   {
     "CVE": "CVE-2026-19230",
@@ -580174,6 +583274,10 @@
   {
     "CVE": "CVE-2026-19717",
     "PoC": "https://wpscan.com/vulnerability/79a4bae6-96e2-44b4-a56b-42198f8b3d32/"
+  },
+  {
+    "CVE": "CVE-2026-19718",
+    "PoC": "https://wpscan.com/vulnerability/68892d43-912d-421f-9376-8dc6e2e906bc/"
   },
   {
     "CVE": "CVE-2026-19725",
@@ -597932,6 +601036,10 @@
     "PoC": "https://github.com/V4bel/dirtyfrag"
   },
   {
+    "CVE": "CVE-2026-43501",
+    "PoC": "https://bugzilla.redhat.com/show_bug.cgi?id=2480457"
+  },
+  {
     "CVE": "CVE-2026-43504",
     "PoC": "https://prosody.im/security/advisory_735dd9d3/"
   },
@@ -605208,6 +608316,10 @@
     "PoC": "https://github.com/arikusi/deepseek-mcp-server/security/advisories/GHSA-fh3r-g96v-f578"
   },
   {
+    "CVE": "CVE-2026-55609",
+    "PoC": "https://github.com/BruceJqs/public_exp/issues/32"
+  },
+  {
     "CVE": "CVE-2026-5561",
     "PoC": "https://github.com/whatyourname12345/CVE/blob/main/POS/cve.md"
   },
@@ -606450,6 +609562,10 @@
   {
     "CVE": "CVE-2026-5760",
     "PoC": "https://github.com/Stuub/SGLang-0.5.9-RCE"
+  },
+  {
+    "CVE": "CVE-2026-5760",
+    "PoC": "https://github.com/sgl-project/sglang/pull/23660"
   },
   {
     "CVE": "CVE-2026-5772",
@@ -608268,6 +611384,10 @@
     "PoC": "https://github.com/xorbitsai/inference/commit/1b3d220f342ce68d34cec4586d9409d457dadc42"
   },
   {
+    "CVE": "CVE-2026-61555",
+    "PoC": "https://github.com/AcademySoftwareFoundation/openexr/security/advisories/GHSA-g8f2-r72m-48vx"
+  },
+  {
     "CVE": "CVE-2026-61556",
     "PoC": "https://github.com/harttle/liquidjs/security/advisories/GHSA-m7fp-h3p4-hr49"
   },
@@ -608592,6 +611712,14 @@
     "PoC": "https://cert-portal.siemens.com/productcert/html/ssa-082556.html"
   },
   {
+    "CVE": "CVE-2026-62382",
+    "PoC": "https://github.com/pglombardo/PasswordPusher/security/advisories/GHSA-jf2m-hpj9-4qx2"
+  },
+  {
+    "CVE": "CVE-2026-62383",
+    "PoC": "https://github.com/nltk/nltk/security/advisories/GHSA-3hhw-38pf-pxj6"
+  },
+  {
     "CVE": "CVE-2026-62384",
     "PoC": "https://github.com/nltk/nltk/security/advisories/GHSA-f833-7jw8-xwrv"
   },
@@ -608634,6 +611762,10 @@
   {
     "CVE": "CVE-2026-62672",
     "PoC": "https://github.com/getgrav/grav/security/advisories/GHSA-37f3-6p89-6qr9"
+  },
+  {
+    "CVE": "CVE-2026-62675",
+    "PoC": "https://github.com/omnigent-ai/omnigent/security/advisories/GHSA-756x-9hf6-q4h4"
   },
   {
     "CVE": "CVE-2026-6268",
@@ -608726,6 +611858,10 @@
   {
     "CVE": "CVE-2026-62982",
     "PoC": "https://github.com/nicolargo/glances/security/advisories/GHSA-73wf-9vmv-5pv9"
+  },
+  {
+    "CVE": "CVE-2026-62986",
+    "PoC": "https://github.com/AcademySoftwareFoundation/openexr/security/advisories/GHSA-pf59-r2mc-x746"
   },
   {
     "CVE": "CVE-2026-62988",
@@ -612256,6 +615392,10 @@
     "PoC": "https://github.com/Kira-Pgr/PromptShopMCP/issues/4"
   },
   {
+    "CVE": "CVE-2026-74851",
+    "PoC": "https://wpscan.com/vulnerability/4972f315-3819-4fb9-b56a-a88df992416e/"
+  },
+  {
     "CVE": "CVE-2026-74868",
     "PoC": "https://github.com/siyuan-note/siyuan/security/advisories/GHSA-phg7-xcr4-q5wg"
   },
@@ -612286,6 +615426,22 @@
   {
     "CVE": "CVE-2026-74907",
     "PoC": "https://github.com/getgrav/grav/security/advisories/GHSA-4v9q-p283-qc2m"
+  },
+  {
+    "CVE": "CVE-2026-74928",
+    "PoC": "https://wpscan.com/vulnerability/667093bc-e030-45ff-83e0-0d5a4f3abc16/"
+  },
+  {
+    "CVE": "CVE-2026-74929",
+    "PoC": "https://wpscan.com/vulnerability/6c8a1143-2f91-4977-a2bb-e3d3ca3a64f0/"
+  },
+  {
+    "CVE": "CVE-2026-74930",
+    "PoC": "https://wpscan.com/vulnerability/cf3dba8c-29d5-45eb-9da7-e470312cbcf2/"
+  },
+  {
+    "CVE": "CVE-2026-74932",
+    "PoC": "https://wpscan.com/vulnerability/f1eebb4a-cfd1-419e-852d-e5a949437afb/"
   },
   {
     "CVE": "CVE-2026-74992",
@@ -612382,6 +615538,14 @@
   {
     "CVE": "CVE-2026-75796",
     "PoC": "https://wpscan.com/vulnerability/919da0c7-7643-4903-9454-2fb66353f5cb/"
+  },
+  {
+    "CVE": "CVE-2026-75797",
+    "PoC": "https://wpscan.com/vulnerability/1048b130-9263-4780-b886-656a891de85a/"
+  },
+  {
+    "CVE": "CVE-2026-75798",
+    "PoC": "https://wpscan.com/vulnerability/a77168df-61b8-40df-95f5-e19cf6540ce5/"
   },
   {
     "CVE": "CVE-2026-7582",
@@ -612936,12 +616100,44 @@
     "PoC": "https://lists.xapian.org/pipermail/xapian-devel/2026-August/003429.html"
   },
   {
+    "CVE": "CVE-2026-77693",
+    "PoC": "https://wpscan.com/vulnerability/630de65a-d3ca-4690-a21a-985616ebfad1/"
+  },
+  {
+    "CVE": "CVE-2026-77694",
+    "PoC": "https://wpscan.com/vulnerability/2670eac4-b630-4546-9b56-f19feabfa550/"
+  },
+  {
+    "CVE": "CVE-2026-77695",
+    "PoC": "https://wpscan.com/vulnerability/2b09bafa-d812-4247-8199-ce7f2dbac85e/"
+  },
+  {
+    "CVE": "CVE-2026-77754",
+    "PoC": "https://wpscan.com/vulnerability/aa4b9a6a-d9ff-4469-ba17-a5b19c2984c2/"
+  },
+  {
+    "CVE": "CVE-2026-77757",
+    "PoC": "https://wpscan.com/vulnerability/84a5b1f0-b5a7-4800-91ee-813727604ec5/"
+  },
+  {
+    "CVE": "CVE-2026-77758",
+    "PoC": "https://wpscan.com/vulnerability/2d4fc012-9f80-43cc-b68d-96842700fe2f/"
+  },
+  {
     "CVE": "CVE-2026-77763",
     "PoC": "https://github.com/juicedata/juicefs/issues/7401"
   },
   {
     "CVE": "CVE-2026-77768",
     "PoC": "https://github.com/Openpanel-dev/openpanel/security/advisories/GHSA-9x7c-f87x-2243"
+  },
+  {
+    "CVE": "CVE-2026-77789",
+    "PoC": "https://wpscan.com/vulnerability/b467131b-15e1-4d1e-9a6a-3ee6e8bd3722/"
+  },
+  {
+    "CVE": "CVE-2026-77790",
+    "PoC": "https://wpscan.com/vulnerability/42c48c95-1384-4414-9236-64f44bea9027/"
   },
   {
     "CVE": "CVE-2026-7782",
@@ -613010,6 +616206,10 @@
   {
     "CVE": "CVE-2026-7812",
     "PoC": "https://github.com/54yyyu/code-mcp/issues/5"
+  },
+  {
+    "CVE": "CVE-2026-78146",
+    "PoC": "https://wpscan.com/vulnerability/dd6e7f9c-b986-4bb7-afb4-530a8b149605/"
   },
   {
     "CVE": "CVE-2026-7822",
@@ -613344,6 +616544,10 @@
     "PoC": "https://issues.chromium.org/issues/497952533"
   },
   {
+    "CVE": "CVE-2026-79845",
+    "PoC": "https://raw.githubusercontent.com/anubhavv106/Security-Advisories/refs/heads/main/Simple-Inventory-System-edit.php-SQLi.md"
+  },
+  {
     "CVE": "CVE-2026-7985",
     "PoC": "https://issues.chromium.org/issues/498352423"
   },
@@ -613394,6 +616598,10 @@
   {
     "CVE": "CVE-2026-8002",
     "PoC": "https://issues.chromium.org/issues/495779613"
+  },
+  {
+    "CVE": "CVE-2026-80051",
+    "PoC": "https://www.openwall.com/lists/oss-security/2026/08/25/2"
   },
   {
     "CVE": "CVE-2026-8007",
@@ -614874,6 +618082,10 @@
   {
     "CVE": "CVE-2026-9977",
     "PoC": "https://issues.chromium.org/issues/511741173"
+  },
+  {
+    "CVE": "CVE-2026-9985",
+    "PoC": "https://issues.chromium.org/issues/513019760"
   },
   {
     "CVE": "CVE-2026-9990",
