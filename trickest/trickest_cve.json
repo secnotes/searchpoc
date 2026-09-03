@@ -6228,6 +6228,10 @@
     "PoC": "http://marc.info/?l=bugtraq&m=107893764406905&w=2"
   },
   {
+    "CVE": "CVE-2004-1811",
+    "PoC": "http://www.immunitysec.com/downloads/hp_http.sxw.pdf"
+  },
+  {
     "CVE": "CVE-2004-1812",
     "PoC": "http://www.immunitysec.com/downloads/awservices.sxw.pdf"
   },
@@ -8970,6 +8974,10 @@
   {
     "CVE": "CVE-2005-1218",
     "PoC": "https://docs.microsoft.com/en-us/security-updates/securitybulletins/2005/ms05-041"
+  },
+  {
+    "CVE": "CVE-2005-1218",
+    "PoC": "https://www.immunitysec.com/pipermail/dailydave/2005-July/002188.html"
   },
   {
     "CVE": "CVE-2005-1220",
@@ -81389,6 +81397,10 @@
   },
   {
     "CVE": "CVE-2010-0249",
+    "PoC": "http://www.exploit-db.com/exploits/11167"
+  },
+  {
+    "CVE": "CVE-2010-0249",
     "PoC": "https://docs.microsoft.com/en-us/security-updates/securitybulletins/2010/ms10-002"
   },
   {
@@ -81512,6 +81524,10 @@
     "PoC": "http://packetstormsecurity.org/1001-exploits/jamitjobboard-xss.txt"
   },
   {
+    "CVE": "CVE-2010-0321",
+    "PoC": "http://www.exploit-db.com/exploits/11073"
+  },
+  {
     "CVE": "CVE-2010-0364",
     "PoC": "http://www.exploit-db.com/exploits/11174"
   },
@@ -81538,6 +81554,10 @@
   {
     "CVE": "CVE-2010-0372",
     "PoC": "http://packetstormsecurity.org/1001-exploits/joomlaarticlemanager-sql.txt"
+  },
+  {
+    "CVE": "CVE-2010-0372",
+    "PoC": "http://www.exploit-db.com/exploits/11140"
   },
   {
     "CVE": "CVE-2010-0373",
@@ -81726,6 +81746,10 @@
   {
     "CVE": "CVE-2010-0457",
     "PoC": "http://packetstormsecurity.org/1001-exploits/magicportal-sql.txt"
+  },
+  {
+    "CVE": "CVE-2010-0457",
+    "PoC": "http://www.exploit-db.com/exploits/11235"
   },
   {
     "CVE": "CVE-2010-0458",
@@ -82284,6 +82308,10 @@
     "PoC": "http://packetstormsecurity.org/1002-exploits/tribox-sql.txt"
   },
   {
+    "CVE": "CVE-2010-0702",
+    "PoC": "http://www.exploit-db.com/exploits/11508"
+  },
+  {
     "CVE": "CVE-2010-0703",
     "PoC": "http://packetstormsecurity.org/1002-exploits/PR09-04.txt"
   },
@@ -82320,8 +82348,20 @@
     "PoC": "http://packetstormsecurity.org/1002-exploits/erotik-sql.txt"
   },
   {
+    "CVE": "CVE-2010-0720",
+    "PoC": "http://www.exploit-db.com/exploits/11489"
+  },
+  {
     "CVE": "CVE-2010-0721",
     "PoC": "http://packetstormsecurity.org/1002-exploits/auktionshausgelb-sql.txt"
+  },
+  {
+    "CVE": "CVE-2010-0721",
+    "PoC": "http://www.exploit-db.com/exploits/11488"
+  },
+  {
+    "CVE": "CVE-2010-0722",
+    "PoC": "http://www.exploit-db.com/exploits/11547"
   },
   {
     "CVE": "CVE-2010-0723",
@@ -83236,6 +83276,10 @@
     "PoC": "http://packetstormsecurity.org/1001-exploits/todooforum-xss.txt"
   },
   {
+    "CVE": "CVE-2010-0938",
+    "PoC": "http://www.exploit-db.com/exploits/11099"
+  },
+  {
     "CVE": "CVE-2010-0939",
     "PoC": "http://packetstormsecurity.org/1001-exploits/abbforums-dislclose.txt"
   },
@@ -83282,6 +83326,10 @@
   {
     "CVE": "CVE-2010-0944",
     "PoC": "http://www.exploit-db.com/exploits/11088"
+  },
+  {
+    "CVE": "CVE-2010-0945",
+    "PoC": "http://www.exploit-db.com/exploits/10953"
   },
   {
     "CVE": "CVE-2010-0945",
@@ -83402,6 +83450,10 @@
   {
     "CVE": "CVE-2010-0971",
     "PoC": "http://packetstormsecurity.org/1003-exploits/atutor-xss.txt"
+  },
+  {
+    "CVE": "CVE-2010-0971",
+    "PoC": "http://www.exploit-db.com/exploits/11685"
   },
   {
     "CVE": "CVE-2010-0972",
@@ -83694,6 +83746,10 @@
   {
     "CVE": "CVE-2010-1058",
     "PoC": "http://packetstormsecurity.org/1003-exploits/addressbookscript-lfi.txt"
+  },
+  {
+    "CVE": "CVE-2010-1058",
+    "PoC": "http://www.exploit-db.com/exploits/11754"
   },
   {
     "CVE": "CVE-2010-1060",
@@ -84166,6 +84222,10 @@
   {
     "CVE": "CVE-2010-1198",
     "PoC": "https://bugzilla.mozilla.org/show_bug.cgi?id=532246"
+  },
+  {
+    "CVE": "CVE-2010-1199",
+    "PoC": "http://www.exploit-db.com/exploits/14949"
   },
   {
     "CVE": "CVE-2010-1199",
@@ -84672,6 +84732,10 @@
     "PoC": "http://packetstormsecurity.org/1003-exploits/woltlabb-sql.txt"
   },
   {
+    "CVE": "CVE-2010-1338",
+    "PoC": "http://www.exploit-db.com/exploits/11824"
+  },
+  {
     "CVE": "CVE-2010-1340",
     "PoC": "http://packetstormsecurity.org/1003-exploits/joomlajresearch-lfi.txt"
   },
@@ -85030,6 +85094,10 @@
   {
     "CVE": "CVE-2010-1461",
     "PoC": "http://www.exploit-db.com/exploits/12232"
+  },
+  {
+    "CVE": "CVE-2010-1465",
+    "PoC": "http://www.exploit-db.com/exploits/12152"
   },
   {
     "CVE": "CVE-2010-1466",
@@ -85732,6 +85800,10 @@
     "PoC": "http://packetstormsecurity.org/1004-exploits/postnukemodload-sql.txt"
   },
   {
+    "CVE": "CVE-2010-1713",
+    "PoC": "http://www.exploit-db.com/exploits/12410"
+  },
+  {
     "CVE": "CVE-2010-1714",
     "PoC": "http://packetstormsecurity.org/1004-exploits/joomlaarcadegames-lfi.txt"
   },
@@ -86006,6 +86078,10 @@
   {
     "CVE": "CVE-2010-1874",
     "PoC": "http://www.exploit-db.com/exploits/12136"
+  },
+  {
+    "CVE": "CVE-2010-1875",
+    "PoC": "http://www.exploit-db.com/exploits/11851"
   },
   {
     "CVE": "CVE-2010-1876",
@@ -86788,6 +86864,10 @@
     "PoC": "http://packetstormsecurity.org/1005-exploits/joomlamscomment-lfi.txt"
   },
   {
+    "CVE": "CVE-2010-2050",
+    "PoC": "http://www.exploit-db.com/exploits/12611"
+  },
+  {
     "CVE": "CVE-2010-2051",
     "PoC": "http://packetstormsecurity.org/1005-exploits/dbcart-sql.txt"
   },
@@ -87324,6 +87404,10 @@
     "PoC": "http://packetstormsecurity.org/1001-exploits/joomlabfsurvey-lfi.txt"
   },
   {
+    "CVE": "CVE-2010-2259",
+    "PoC": "http://www.exploit-db.com/exploits/10946"
+  },
+  {
     "CVE": "CVE-2010-2260",
     "PoC": "http://packetstormsecurity.org/1001-exploits/bandwidthmeter-xss.txt"
   },
@@ -87442,6 +87526,10 @@
   {
     "CVE": "CVE-2010-2301",
     "PoC": "https://bugs.webkit.org/show_bug.cgi?id=38922"
+  },
+  {
+    "CVE": "CVE-2010-2305",
+    "PoC": "http://www.exploit-db.com/exploits/13834"
   },
   {
     "CVE": "CVE-2010-2307",
@@ -87594,6 +87682,10 @@
   {
     "CVE": "CVE-2010-2341",
     "PoC": "http://packetstormsecurity.org/1006-exploits/ezpxphotoblog-rfi.txt"
+  },
+  {
+    "CVE": "CVE-2010-2341",
+    "PoC": "http://www.exploit-db.com/exploits/13890"
   },
   {
     "CVE": "CVE-2010-2342",
@@ -88204,6 +88296,10 @@
     "PoC": "http://packetstormsecurity.org/1006-exploits/inetsolutionjobsearch-sql.txt"
   },
   {
+    "CVE": "CVE-2010-2611",
+    "PoC": "http://www.exploit-db.com/exploits/14079"
+  },
+  {
     "CVE": "CVE-2010-2613",
     "PoC": "http://packetstormsecurity.org/1006-exploits/joomlaawdsong-xss.txt"
   },
@@ -88352,6 +88448,10 @@
     "PoC": "http://packetstormsecurity.org/1004-exploits/joomlarealtyna-lfi.txt"
   },
   {
+    "CVE": "CVE-2010-2682",
+    "PoC": "http://www.exploit-db.com/exploits/14017"
+  },
+  {
     "CVE": "CVE-2010-2683",
     "PoC": "http://packetstormsecurity.org/1006-exploits/pagedirector-sql.txt"
   },
@@ -88386,6 +88486,10 @@
   {
     "CVE": "CVE-2010-2688",
     "PoC": "http://packetstormsecurity.org/1006-exploits/boatclassdetail-sql.txt"
+  },
+  {
+    "CVE": "CVE-2010-2688",
+    "PoC": "http://www.exploit-db.com/exploits/13990"
   },
   {
     "CVE": "CVE-2010-2689",
@@ -88470,6 +88574,10 @@
   {
     "CVE": "CVE-2010-2716",
     "PoC": "http://packetstormsecurity.org/1007-exploits/psnews-sql.txt"
+  },
+  {
+    "CVE": "CVE-2010-2716",
+    "PoC": "http://www.exploit-db.com/exploits/14251"
   },
   {
     "CVE": "CVE-2010-2718",
@@ -88980,6 +89088,10 @@
     "PoC": "http://packetstormsecurity.org/0804-exploits/joomlavisites-rfi.txt"
   },
   {
+    "CVE": "CVE-2010-2918",
+    "PoC": "http://www.exploit-db.com/exploits/14476"
+  },
+  {
     "CVE": "CVE-2010-2919",
     "PoC": "http://packetstormsecurity.org/1007-exploits/joomlastaticxt-sql.txt"
   },
@@ -89437,6 +89549,14 @@
   },
   {
     "CVE": "CVE-2010-3131",
+    "PoC": "http://www.exploit-db.com/exploits/14730"
+  },
+  {
+    "CVE": "CVE-2010-3131",
+    "PoC": "http://www.exploit-db.com/exploits/14783"
+  },
+  {
+    "CVE": "CVE-2010-3131",
     "PoC": "https://bugzilla.mozilla.org/show_bug.cgi?id=579593"
   },
   {
@@ -89444,8 +89564,24 @@
     "PoC": "http://www.exploit-db.com/exploits/14740"
   },
   {
+    "CVE": "CVE-2010-3133",
+    "PoC": "http://www.exploit-db.com/exploits/14721/"
+  },
+  {
+    "CVE": "CVE-2010-3134",
+    "PoC": "http://www.exploit-db.com/exploits/14790"
+  },
+  {
+    "CVE": "CVE-2010-3135",
+    "PoC": "http://www.exploit-db.com/exploits/14774"
+  },
+  {
     "CVE": "CVE-2010-3136",
     "PoC": "http://www.exploit-db.com/exploits/14766"
+  },
+  {
+    "CVE": "CVE-2010-3137",
+    "PoC": "http://www.exploit-db.com/exploits/14789"
   },
   {
     "CVE": "CVE-2010-3138",
@@ -90136,6 +90272,10 @@
     "PoC": "http://packetstormsecurity.org/1009-exploits/exoopport-sql.txt"
   },
   {
+    "CVE": "CVE-2010-3467",
+    "PoC": "http://www.exploit-db.com/exploits/15004"
+  },
+  {
     "CVE": "CVE-2010-3468",
     "PoC": "http://www.exploit-db.com/exploits/15120"
   },
@@ -90154,6 +90294,10 @@
   {
     "CVE": "CVE-2010-3479",
     "PoC": "http://packetstormsecurity.org/1009-exploits/boutikone-sql.txt"
+  },
+  {
+    "CVE": "CVE-2010-3479",
+    "PoC": "http://www.exploit-db.com/exploits/15049"
   },
   {
     "CVE": "CVE-2010-3480",
@@ -91456,6 +91600,10 @@
     "PoC": "http://securityreason.com/securityalert/8147"
   },
   {
+    "CVE": "CVE-2010-3749",
+    "PoC": "http://www.exploit-db.com/exploits/15991"
+  },
+  {
     "CVE": "CVE-2010-3765",
     "PoC": "http://www.exploit-db.com/exploits/15341"
   },
@@ -91802,6 +91950,10 @@
   {
     "CVE": "CVE-2010-3889",
     "PoC": "http://www.symantec.com/connect/blogs/stuxnet-using-three-additional-zero-day-vulnerabilities"
+  },
+  {
+    "CVE": "CVE-2010-3891",
+    "PoC": "http://www.exploit-db.com/exploits/15473"
   },
   {
     "CVE": "CVE-2010-3894",
@@ -93420,6 +93572,10 @@
     "PoC": "http://www.tibco.com/services/support/advisories/cim-advisory_20100105.jsp"
   },
   {
+    "CVE": "CVE-2010-4502",
+    "PoC": "http://www.exploit-db.com/exploits/15624"
+  },
+  {
     "CVE": "CVE-2010-4507",
     "PoC": "http://www.exploit-db.com/exploits/15728/"
   },
@@ -93636,8 +93792,16 @@
     "PoC": "http://packetstormsecurity.org/1011-exploits/aspilotpilotcart-sqlxssinject.txt"
   },
   {
+    "CVE": "CVE-2010-4631",
+    "PoC": "http://www.exploit-db.com/exploits/15448"
+  },
+  {
     "CVE": "CVE-2010-4632",
     "PoC": "http://packetstormsecurity.org/1011-exploits/aspilotpilotcart-sqlxssinject.txt"
+  },
+  {
+    "CVE": "CVE-2010-4632",
+    "PoC": "http://www.exploit-db.com/exploits/15448"
   },
   {
     "CVE": "CVE-2010-4633",
@@ -93670,6 +93834,10 @@
   {
     "CVE": "CVE-2010-4635",
     "PoC": "http://www.exploit-db.com/exploits/15395"
+  },
+  {
+    "CVE": "CVE-2010-4636",
+    "PoC": "http://www.exploit-db.com/exploits/15399"
   },
   {
     "CVE": "CVE-2010-4637",
@@ -93794,6 +93962,10 @@
   {
     "CVE": "CVE-2010-4721",
     "PoC": "http://www.exploit-db.com/exploits/15754"
+  },
+  {
+    "CVE": "CVE-2010-4734",
+    "PoC": "http://www.exploit-db.com/exploits/15625"
   },
   {
     "CVE": "CVE-2010-4735",
@@ -94098,6 +94270,10 @@
   {
     "CVE": "CVE-2010-4843",
     "PoC": "http://securityreason.com/securityalert/8395"
+  },
+  {
+    "CVE": "CVE-2010-4843",
+    "PoC": "http://www.exploit-db.com/exploits/15790"
   },
   {
     "CVE": "CVE-2010-4844",
@@ -94608,6 +94784,10 @@
     "PoC": "http://securityreason.com/securityalert/8460"
   },
   {
+    "CVE": "CVE-2010-4924",
+    "PoC": "http://www.exploit-db.com/exploits/14614"
+  },
+  {
     "CVE": "CVE-2010-4925",
     "PoC": "http://packetstormsecurity.org/1008-exploits/nukedklanpartenaires-sql.txt"
   },
@@ -94664,12 +94844,20 @@
     "PoC": "http://www.exploit-db.com/exploits/14637"
   },
   {
+    "CVE": "CVE-2010-4935",
+    "PoC": "http://www.exploit-db.com/exploits/15126"
+  },
+  {
     "CVE": "CVE-2010-4936",
     "PoC": "http://packetstormsecurity.org/1008-exploits/joomlaslideshow-sql.txt"
   },
   {
     "CVE": "CVE-2010-4937",
     "PoC": "http://www.exploit-db.com/exploits/14596"
+  },
+  {
+    "CVE": "CVE-2010-4939",
+    "PoC": "http://www.exploit-db.com/exploits/14639"
   },
   {
     "CVE": "CVE-2010-4940",
@@ -94886,6 +95074,10 @@
   {
     "CVE": "CVE-2010-4980",
     "PoC": "http://www.exploit-db.com/exploits/14163"
+  },
+  {
+    "CVE": "CVE-2010-4981",
+    "PoC": "http://www.exploit-db.com/exploits/13929"
   },
   {
     "CVE": "CVE-2010-4982",
@@ -95144,6 +95336,10 @@
     "PoC": "http://packetstormsecurity.org/1006-exploits/digitalinterchange-sql.txt"
   },
   {
+    "CVE": "CVE-2010-5023",
+    "PoC": "http://www.exploit-db.com/exploits/13860"
+  },
+  {
     "CVE": "CVE-2010-5024",
     "PoC": "http://packetstormsecurity.org/1006-exploits/cutesitecms-sql.txt"
   },
@@ -95292,6 +95488,10 @@
     "PoC": "http://packetstormsecurity.org/1005-exploits/pressrelease-sql.txt"
   },
   {
+    "CVE": "CVE-2010-5047",
+    "PoC": "http://www.exploit-db.com/exploits/12597"
+  },
+  {
     "CVE": "CVE-2010-5048",
     "PoC": "http://packetstormsecurity.org/1005-exploits/joomlajcomments-xss.txt"
   },
@@ -95390,6 +95590,14 @@
   {
     "CVE": "CVE-2010-5076",
     "PoC": "https://bugreports.qt-project.org/browse/QTBUG-4455"
+  },
+  {
+    "CVE": "CVE-2010-5081",
+    "PoC": "http://www.exploit-db.com/exploits/14373"
+  },
+  {
+    "CVE": "CVE-2010-5081",
+    "PoC": "http://www.exploit-db.com/exploits/18113"
   },
   {
     "CVE": "CVE-2010-5082",
@@ -95984,6 +96192,10 @@
     "PoC": "http://secunia.com/blog/120"
   },
   {
+    "CVE": "CVE-2010-5236",
+    "PoC": "http://www.exploit-db.com/exploits/14768"
+  },
+  {
     "CVE": "CVE-2010-5237",
     "PoC": "http://extraexploit.blogspot.com/2010/08/dll-hijacking-my-test-cases-on-default.html"
   },
@@ -96086,6 +96298,10 @@
   {
     "CVE": "CVE-2010-5286",
     "PoC": "http://packetstormsecurity.org/1010-exploits/joomlajstore-lfi.txt"
+  },
+  {
+    "CVE": "CVE-2010-5287",
+    "PoC": "http://www.exploit-db.com/exploits/13980"
   },
   {
     "CVE": "CVE-2010-5287",
@@ -388988,6 +389204,10 @@
     "PoC": "https://kb.netgear.com/000064084/Security-Advisory-for-Post-Authentication-Command-Injection-on-Some-WiFi-Systems-PSV-2020-0066"
   },
   {
+    "CVE": "CVE-2021-45565",
+    "PoC": "https://kb.netgear.com/000064086/Security-Advisory-for-Post-Authentication-Command-Injection-on-Some-WiFi-Systems-PSV-2020-0069"
+  },
+  {
     "CVE": "CVE-2021-45567",
     "PoC": "https://kb.netgear.com/000064089/Security-Advisory-for-Post-Authentication-Command-Injection-on-Some-WiFi-Systems-PSV-2020-0075"
   },
@@ -391154,6 +391374,14 @@
   {
     "CVE": "CVE-2021-46829",
     "PoC": "https://gitlab.gnome.org/GNOME/gdk-pixbuf/-/issues/190"
+  },
+  {
+    "CVE": "CVE-2021-46839",
+    "PoC": "https://device.harmonyos.com/en/docs/security/update/security-bulletins-phones-202210-0000001416095697"
+  },
+  {
+    "CVE": "CVE-2021-46840",
+    "PoC": "https://device.harmonyos.com/en/docs/security/update/security-bulletins-phones-202210-0000001416095697"
   },
   {
     "CVE": "CVE-2021-46850",
@@ -423772,12 +424000,56 @@
     "PoC": "https://www.realinfosec.net/cybersecurity-news/iegeek-vulnerabilities-still-prevalent-in-2022-amazon-ft-ig20/"
   },
   {
+    "CVE": "CVE-2022-38977",
+    "PoC": "https://device.harmonyos.com/en/docs/security/update/security-bulletins-phones-202210-0000001416095697"
+  },
+  {
+    "CVE": "CVE-2022-38980",
+    "PoC": "https://device.harmonyos.com/en/docs/security/update/security-bulletins-phones-202210-0000001416095697"
+  },
+  {
+    "CVE": "CVE-2022-38981",
+    "PoC": "https://device.harmonyos.com/en/docs/security/update/security-bulletins-phones-202210-0000001416095697"
+  },
+  {
+    "CVE": "CVE-2022-38982",
+    "PoC": "https://device.harmonyos.com/en/docs/security/update/security-bulletins-phones-202210-0000001416095697"
+  },
+  {
+    "CVE": "CVE-2022-38983",
+    "PoC": "https://device.harmonyos.com/en/docs/security/update/security-bulletins-phones-202210-0000001416095697"
+  },
+  {
+    "CVE": "CVE-2022-38984",
+    "PoC": "https://device.harmonyos.com/en/docs/security/update/security-bulletins-phones-202210-0000001416095697"
+  },
+  {
+    "CVE": "CVE-2022-38985",
+    "PoC": "https://device.harmonyos.com/en/docs/security/update/security-bulletins-phones-202210-0000001416095697"
+  },
+  {
+    "CVE": "CVE-2022-38986",
+    "PoC": "https://device.harmonyos.com/en/docs/security/update/security-bulletins-phones-202210-0000001416095697"
+  },
+  {
     "CVE": "CVE-2022-3899",
     "PoC": "https://wpscan.com/vulnerability/e3131e16-a0eb-4d26-b6d3-048fc1f1e9fa/"
   },
   {
+    "CVE": "CVE-2022-38998",
+    "PoC": "https://device.harmonyos.com/en/docs/security/update/security-bulletins-phones-202210-0000001416095697"
+  },
+  {
     "CVE": "CVE-2022-3900",
     "PoC": "https://wpscan.com/vulnerability/c969c4bc-82d7-46a0-88ba-e056c0b27de7"
+  },
+  {
+    "CVE": "CVE-2022-39002",
+    "PoC": "https://device.harmonyos.com/en/docs/security/update/security-bulletins-phones-202210-0000001416095697"
+  },
+  {
+    "CVE": "CVE-2022-39011",
+    "PoC": "https://device.harmonyos.com/en/docs/security/update/security-bulletins-phones-202210-0000001416095697"
   },
   {
     "CVE": "CVE-2022-39013",
@@ -427308,12 +427580,60 @@
     "PoC": "https://github.com/Orange-Cyberdefense/CVE-repository/blob/master/PoCs/poc_CVE-2022-41573.txt"
   },
   {
+    "CVE": "CVE-2022-41576",
+    "PoC": "https://device.harmonyos.com/en/docs/security/update/security-bulletins-phones-202210-0000001416095697"
+  },
+  {
+    "CVE": "CVE-2022-41577",
+    "PoC": "https://device.harmonyos.com/en/docs/security/update/security-bulletins-phones-202210-0000001416095697"
+  },
+  {
+    "CVE": "CVE-2022-41578",
+    "PoC": "https://device.harmonyos.com/en/docs/security/update/security-bulletins-phones-202210-0000001416095697"
+  },
+  {
     "CVE": "CVE-2022-4158",
     "PoC": "https://bulletin.iese.de/post/contest-gallery_19-1-4-1_15"
   },
   {
     "CVE": "CVE-2022-4158",
     "PoC": "https://wpscan.com/vulnerability/1b3b51af-ad73-4f8e-ba97-375b8a363b64"
+  },
+  {
+    "CVE": "CVE-2022-41580",
+    "PoC": "https://device.harmonyos.com/en/docs/security/update/security-bulletins-phones-202210-0000001416095697"
+  },
+  {
+    "CVE": "CVE-2022-41581",
+    "PoC": "https://device.harmonyos.com/en/docs/security/update/security-bulletins-phones-202210-0000001416095697"
+  },
+  {
+    "CVE": "CVE-2022-41582",
+    "PoC": "https://device.harmonyos.com/en/docs/security/update/security-bulletins-phones-202210-0000001416095697"
+  },
+  {
+    "CVE": "CVE-2022-41583",
+    "PoC": "https://device.harmonyos.com/en/docs/security/update/security-bulletins-phones-202210-0000001416095697"
+  },
+  {
+    "CVE": "CVE-2022-41584",
+    "PoC": "https://device.harmonyos.com/en/docs/security/update/security-bulletins-phones-202210-0000001416095697"
+  },
+  {
+    "CVE": "CVE-2022-41585",
+    "PoC": "https://device.harmonyos.com/en/docs/security/update/security-bulletins-phones-202210-0000001416095697"
+  },
+  {
+    "CVE": "CVE-2022-41586",
+    "PoC": "https://device.harmonyos.com/en/docs/security/update/security-bulletins-phones-202210-0000001416095697"
+  },
+  {
+    "CVE": "CVE-2022-41588",
+    "PoC": "https://device.harmonyos.com/en/docs/security/update/security-bulletins-phones-202210-0000001416095697"
+  },
+  {
+    "CVE": "CVE-2022-41589",
+    "PoC": "https://device.harmonyos.com/en/docs/security/update/security-bulletins-phones-202210-0000001416095697"
   },
   {
     "CVE": "CVE-2022-4159",
@@ -427324,12 +427644,52 @@
     "PoC": "https://wpscan.com/vulnerability/2e993280-1007-4e9d-9ca6-2b5f774e9965"
   },
   {
+    "CVE": "CVE-2022-41592",
+    "PoC": "https://device.harmonyos.com/en/docs/security/update/security-bulletins-phones-202210-0000001416095697"
+  },
+  {
+    "CVE": "CVE-2022-41593",
+    "PoC": "https://device.harmonyos.com/en/docs/security/update/security-bulletins-phones-202210-0000001416095697"
+  },
+  {
+    "CVE": "CVE-2022-41594",
+    "PoC": "https://device.harmonyos.com/en/docs/security/update/security-bulletins-phones-202210-0000001416095697"
+  },
+  {
+    "CVE": "CVE-2022-41595",
+    "PoC": "https://device.harmonyos.com/en/docs/security/update/security-bulletins-phones-202210-0000001416095697"
+  },
+  {
+    "CVE": "CVE-2022-41597",
+    "PoC": "https://device.harmonyos.com/en/docs/security/update/security-bulletins-phones-202210-0000001416095697"
+  },
+  {
+    "CVE": "CVE-2022-41598",
+    "PoC": "https://device.harmonyos.com/en/docs/security/update/security-bulletins-phones-202210-0000001416095697"
+  },
+  {
     "CVE": "CVE-2022-4160",
     "PoC": "https://bulletin.iese.de/post/contest-gallery_19-1-4-1_14"
   },
   {
     "CVE": "CVE-2022-4160",
     "PoC": "https://wpscan.com/vulnerability/813de343-4814-42b8-b8df-1695320512cd"
+  },
+  {
+    "CVE": "CVE-2022-41600",
+    "PoC": "https://device.harmonyos.com/en/docs/security/update/security-bulletins-phones-202210-0000001416095697"
+  },
+  {
+    "CVE": "CVE-2022-41601",
+    "PoC": "https://device.harmonyos.com/en/docs/security/update/security-bulletins-phones-202210-0000001416095697"
+  },
+  {
+    "CVE": "CVE-2022-41602",
+    "PoC": "https://device.harmonyos.com/en/docs/security/update/security-bulletins-phones-202210-0000001416095697"
+  },
+  {
+    "CVE": "CVE-2022-41603",
+    "PoC": "https://device.harmonyos.com/en/docs/security/update/security-bulletins-phones-202210-0000001416095697"
   },
   {
     "CVE": "CVE-2022-4161",
@@ -519661,6 +520021,10 @@
   },
   {
     "CVE": "CVE-2024-6731",
+    "PoC": "https://vuldb.com/?id.271449"
+  },
+  {
+    "CVE": "CVE-2024-6731",
     "PoC": "https://www.sourcecodester.com/"
   },
   {
@@ -519694,6 +520058,10 @@
   {
     "CVE": "CVE-2024-6735",
     "PoC": "https://github.com/xzyxiaohaha/cve/issues/1"
+  },
+  {
+    "CVE": "CVE-2024-6735",
+    "PoC": "https://vuldb.com/?id.271456"
   },
   {
     "CVE": "CVE-2024-6736",
@@ -530472,6 +530840,10 @@
     "PoC": "https://github.com/FightingLzn9/vul/blob/main/%E6%B7%B1%E5%9C%B3%E5%B8%82%E9%94%90%E6%98%8E%E6%8A%80%E6%9C%AF%E8%82%A1%E4%BB%BD%E6%9C%89%E9%99%90%E5%85%AC%E5%8F%B8Crocus%E7%B3%BB%E7%BB%9F-3.md"
   },
   {
+    "CVE": "CVE-2025-11910",
+    "PoC": "https://vuldb.com/?ctiid.328920"
+  },
+  {
     "CVE": "CVE-2025-11911",
     "PoC": "https://github.com/FightingLzn9/vul/blob/main/%E6%B7%B1%E5%9C%B3%E5%B8%82%E9%94%90%E6%98%8E%E6%8A%80%E6%9C%AF%E8%82%A1%E4%BB%BD%E6%9C%89%E9%99%90%E5%85%AC%E5%8F%B8Crocus%E7%B3%BB%E7%BB%9F-4.md"
   },
@@ -535998,6 +536370,10 @@
   {
     "CVE": "CVE-2025-15662",
     "PoC": "https://wpscan.com/vulnerability/6294afde-d23a-4634-a49a-168ce463278c/"
+  },
+  {
+    "CVE": "CVE-2025-15664",
+    "PoC": "https://wpscan.com/vulnerability/31bfd4c6-32e8-4790-b9a8-949fdaba9454/"
   },
   {
     "CVE": "CVE-2025-15665",
@@ -581256,6 +581632,10 @@
     "PoC": "https://issues.chromium.org/issues/513468021"
   },
   {
+    "CVE": "CVE-2026-10987",
+    "PoC": "https://issues.chromium.org/issues/515431687"
+  },
+  {
     "CVE": "CVE-2026-10991",
     "PoC": "https://issues.chromium.org/issues/503553614"
   },
@@ -582956,6 +583336,10 @@
     "PoC": "https://github.com/rgaufman/live555/issues/65"
   },
   {
+    "CVE": "CVE-2026-12014",
+    "PoC": "https://issues.chromium.org/issues/514742747"
+  },
+  {
     "CVE": "CVE-2026-1202",
     "PoC": "https://github.com/foeCat/CVE/blob/main/CRMEB/apple_login_auth_bypass.md"
   },
@@ -583356,6 +583740,10 @@
     "PoC": "https://wpscan.com/vulnerability/11d5d4c2-7ba9-4389-9050-28c90920e34b/"
   },
   {
+    "CVE": "CVE-2026-12526",
+    "PoC": "https://wpscan.com/vulnerability/a4a9eab6-3c10-402c-a635-3ae275b12c1d/"
+  },
+  {
     "CVE": "CVE-2026-12527",
     "PoC": "https://github.com/AounShAh/Research-on-v380-cctv-ip-camera#broken-access-control-leading-to-critical-live-video-exposure"
   },
@@ -583590,6 +583978,10 @@
   {
     "CVE": "CVE-2026-12823",
     "PoC": "https://github.com/NARKHEDE-VAIBHAV/poc/blob/main/CVE-2026-12823%20-%20Browserbase%20Skills%20Autobrowse%20Trace%20Artifact%20Insecure%20File%20Permissions/poc.sh"
+  },
+  {
+    "CVE": "CVE-2026-12865",
+    "PoC": "https://wpscan.com/vulnerability/a78cc4ca-120e-4b6e-9285-34dcaa0bca77/"
   },
   {
     "CVE": "CVE-2026-12866",
@@ -583932,6 +584324,10 @@
     "PoC": "https://devolutions.net/security/advisories/DEVO-2026-0022/"
   },
   {
+    "CVE": "CVE-2026-13480",
+    "PoC": "https://github.com/zephyrproject-rtos/zephyr/security/advisories/GHSA-845m-2m84-g5h2"
+  },
+  {
     "CVE": "CVE-2026-13483",
     "PoC": "https://github.com/arc53/DocsGPT/issues/2503"
   },
@@ -583954,6 +584350,10 @@
   {
     "CVE": "CVE-2026-13488",
     "PoC": "https://vuldb.com/cve/CVE-2026-13488"
+  },
+  {
+    "CVE": "CVE-2026-13493",
+    "PoC": "https://github.com/AIDC-AI/ComfyUI-Copilot/issues/149"
   },
   {
     "CVE": "CVE-2026-13495",
@@ -584030,6 +584430,10 @@
   {
     "CVE": "CVE-2026-13527",
     "PoC": "https://github.com/yuanyuandechen/vul/issues/1"
+  },
+  {
+    "CVE": "CVE-2026-13528",
+    "PoC": "https://github.com/YunaiV/ruoyi-vue-pro/issues/1146"
   },
   {
     "CVE": "CVE-2026-13528",
@@ -584192,6 +584596,10 @@
     "PoC": "https://github.com/seladb/PcapPlusPlus/issues/2149"
   },
   {
+    "CVE": "CVE-2026-13587",
+    "PoC": "https://github.com/user-attachments/files/28207967/poc.zip"
+  },
+  {
     "CVE": "CVE-2026-13588",
     "PoC": "https://github.com/seladb/PcapPlusPlus/issues/2151"
   },
@@ -584210,6 +584618,10 @@
   {
     "CVE": "CVE-2026-13590",
     "PoC": "https://github.com/seladb/PcapPlusPlus/issues/2155"
+  },
+  {
+    "CVE": "CVE-2026-13590",
+    "PoC": "https://github.com/user-attachments/files/28249048/poc.zip"
   },
   {
     "CVE": "CVE-2026-13592",
@@ -584416,6 +584828,10 @@
     "PoC": "https://issues.chromium.org/issues/512962749"
   },
   {
+    "CVE": "CVE-2026-13820",
+    "PoC": "https://issues.chromium.org/issues/512986879"
+  },
+  {
     "CVE": "CVE-2026-13830",
     "PoC": "https://issues.chromium.org/issues/513727494"
   },
@@ -584468,6 +584884,10 @@
     "PoC": "https://issues.chromium.org/issues/497610642"
   },
   {
+    "CVE": "CVE-2026-13873",
+    "PoC": "https://issues.chromium.org/issues/498085466"
+  },
+  {
     "CVE": "CVE-2026-13875",
     "PoC": "https://issues.chromium.org/issues/498721671"
   },
@@ -584502,6 +584922,10 @@
   {
     "CVE": "CVE-2026-13898",
     "PoC": "https://issues.chromium.org/issues/501925480"
+  },
+  {
+    "CVE": "CVE-2026-13899",
+    "PoC": "https://issues.chromium.org/issues/502109002"
   },
   {
     "CVE": "CVE-2026-13900",
@@ -584548,6 +584972,10 @@
     "PoC": "https://issues.chromium.org/issues/512937764"
   },
   {
+    "CVE": "CVE-2026-13935",
+    "PoC": "https://issues.chromium.org/issues/513009005"
+  },
+  {
     "CVE": "CVE-2026-13940",
     "PoC": "https://issues.chromium.org/issues/513158425"
   },
@@ -584556,12 +584984,20 @@
     "PoC": "https://issues.chromium.org/issues/513224212"
   },
   {
+    "CVE": "CVE-2026-13950",
+    "PoC": "https://issues.chromium.org/issues/513360781"
+  },
+  {
     "CVE": "CVE-2026-13952",
     "PoC": "https://issues.chromium.org/issues/513401808"
   },
   {
     "CVE": "CVE-2026-13977",
     "PoC": "https://issues.chromium.org/issues/513859894"
+  },
+  {
+    "CVE": "CVE-2026-13979",
+    "PoC": "https://issues.chromium.org/issues/513988889"
   },
   {
     "CVE": "CVE-2026-13981",
@@ -584598,6 +585034,18 @@
   {
     "CVE": "CVE-2026-14000",
     "PoC": "https://issues.chromium.org/issues/514461552"
+  },
+  {
+    "CVE": "CVE-2026-14001",
+    "PoC": "https://issues.chromium.org/issues/514481943"
+  },
+  {
+    "CVE": "CVE-2026-14003",
+    "PoC": "https://issues.chromium.org/issues/514503077"
+  },
+  {
+    "CVE": "CVE-2026-14004",
+    "PoC": "https://issues.chromium.org/issues/514538751"
   },
   {
     "CVE": "CVE-2026-14030",
@@ -584794,6 +585242,10 @@
   {
     "CVE": "CVE-2026-14214",
     "PoC": "https://wpscan.com/vulnerability/4dd7bb63-e058-49d8-96ba-1fe38985e78e/"
+  },
+  {
+    "CVE": "CVE-2026-14215",
+    "PoC": "https://wpscan.com/vulnerability/1d4c8417-59e3-41ed-91c0-283133f6cc22/"
   },
   {
     "CVE": "CVE-2026-14216",
@@ -585022,6 +585474,10 @@
   {
     "CVE": "CVE-2026-14408",
     "PoC": "https://issues.chromium.org/issues/513631768"
+  },
+  {
+    "CVE": "CVE-2026-14412",
+    "PoC": "https://issues.chromium.org/issues/513920834"
   },
   {
     "CVE": "CVE-2026-1443",
@@ -586156,6 +586612,10 @@
     "PoC": "https://wpscan.com/vulnerability/5980ab15-bc6e-4298-9d0c-92c17217ec2c/"
   },
   {
+    "CVE": "CVE-2026-15232",
+    "PoC": "https://wpscan.com/vulnerability/b0ffa74d-a03a-4eed-95c7-579360990d7f/"
+  },
+  {
     "CVE": "CVE-2026-15233",
     "PoC": "https://wpscan.com/vulnerability/c0376718-4bea-4e1e-a76c-100799cb9b25/"
   },
@@ -587080,6 +587540,10 @@
     "PoC": "https://wpscan.com/vulnerability/f8520320-527b-4b30-9bac-f6e538154a40/"
   },
   {
+    "CVE": "CVE-2026-16033",
+    "PoC": "https://github.com/canonical/lxd/security/advisories/GHSA-9hcm-hxh5-7xxh"
+  },
+  {
     "CVE": "CVE-2026-16035",
     "PoC": "https://wpscan.com/vulnerability/26217efe-b867-4bb9-ac7c-765fb796e2c1/"
   },
@@ -587672,6 +588136,14 @@
     "PoC": "https://github.com/LX-LX88/cve/issues/26"
   },
   {
+    "CVE": "CVE-2026-16434",
+    "PoC": "https://github.com/vrana/adminer/security/advisories/GHSA-fr74-9mf9-gf44"
+  },
+  {
+    "CVE": "CVE-2026-16440",
+    "PoC": "https://github.com/eclipse-openj9/openj9/security/advisories/GHSA-ch6r-v7rg-4jqx"
+  },
+  {
     "CVE": "CVE-2026-16445",
     "PoC": "https://bugzilla.redhat.com/show_bug.cgi?id=2459963"
   },
@@ -588184,6 +588656,10 @@
     "PoC": "https://wpscan.com/vulnerability/514f4577-1f7e-4d50-90d5-36bc504a260c/"
   },
   {
+    "CVE": "CVE-2026-16966",
+    "PoC": "https://wpscan.com/vulnerability/44090198-8eb9-4799-aad0-841e80e70aab/"
+  },
+  {
     "CVE": "CVE-2026-16968",
     "PoC": "https://wpscan.com/vulnerability/d7a4e3ee-507d-44fb-9386-27ad67158cdc/"
   },
@@ -588214,6 +588690,10 @@
   {
     "CVE": "CVE-2026-16981",
     "PoC": "https://wpscan.com/vulnerability/61b3228d-50a0-4928-977a-23448939dff9/"
+  },
+  {
+    "CVE": "CVE-2026-16983",
+    "PoC": "https://wpscan.com/vulnerability/30862f10-a2e6-4536-9a96-bbd8789b954f/"
   },
   {
     "CVE": "CVE-2026-16984",
@@ -589332,6 +589812,10 @@
     "PoC": "https://wpscan.com/vulnerability/8830ba91-c316-4823-90a8-0cf0e527468f/"
   },
   {
+    "CVE": "CVE-2026-19116",
+    "PoC": "https://wpscan.com/vulnerability/019d83bd-24d3-4575-9d0b-55f75fdb0bfa/"
+  },
+  {
     "CVE": "CVE-2026-19189",
     "PoC": "https://winslow1984.com/books/cve-collection/page/poweriso-9300-kernel-driver-6900-local-privilege-escalation-via-arbitrary-registry-write-or-deletion"
   },
@@ -589410,6 +589894,10 @@
   {
     "CVE": "CVE-2026-19246",
     "PoC": "https://gist.github.com/YLChen-007/44bc77ac259e461c6938cc6c286c4430"
+  },
+  {
+    "CVE": "CVE-2026-19251",
+    "PoC": "https://wpscan.com/vulnerability/c840b8fc-3185-4eb9-a33c-1be4b0d2a6b5/"
   },
   {
     "CVE": "CVE-2026-19268",
@@ -589536,6 +590024,10 @@
     "PoC": "https://wpscan.com/vulnerability/483051a0-28da-4141-a197-83bda56a29d4/"
   },
   {
+    "CVE": "CVE-2026-19453",
+    "PoC": "https://wpscan.com/vulnerability/82792fbb-36b3-4a90-a7a3-ddb2573e62f2/"
+  },
+  {
     "CVE": "CVE-2026-19454",
     "PoC": "https://wpscan.com/vulnerability/1f5480c1-260a-40ce-9938-112746f9e8e8/"
   },
@@ -589616,6 +590108,10 @@
     "PoC": "https://wpscan.com/vulnerability/301f10fd-ac72-4d80-8ca3-402a4a55ba3d/"
   },
   {
+    "CVE": "CVE-2026-19704",
+    "PoC": "https://wpscan.com/vulnerability/cc9ab6ca-7ad3-44b7-941c-9302ff990e5d/"
+  },
+  {
     "CVE": "CVE-2026-19709",
     "PoC": "https://wpscan.com/vulnerability/957888a4-bb11-42c6-930a-8c836170452b/"
   },
@@ -589648,8 +590144,16 @@
     "PoC": "https://wpscan.com/vulnerability/68892d43-912d-421f-9376-8dc6e2e906bc/"
   },
   {
+    "CVE": "CVE-2026-19719",
+    "PoC": "https://wpscan.com/vulnerability/c2f7987b-8cac-4c02-97f7-b33bea5b5cc4/"
+  },
+  {
     "CVE": "CVE-2026-19722",
     "PoC": "https://wpscan.com/vulnerability/a61974fc-d9d6-4aee-a624-fc0a6e7b940b/"
+  },
+  {
+    "CVE": "CVE-2026-19723",
+    "PoC": "https://wpscan.com/vulnerability/d4ef9803-bcf8-4d3f-8a41-ea9b215dbafe/"
   },
   {
     "CVE": "CVE-2026-19725",
@@ -589706,6 +590210,10 @@
   {
     "CVE": "CVE-2026-19753",
     "PoC": "https://github.com/emekaokoye/mcp-rdf-explorer/issues/3"
+  },
+  {
+    "CVE": "CVE-2026-19754",
+    "PoC": "https://fluidattacks.com/es/advisories/superestrella"
   },
   {
     "CVE": "CVE-2026-19755",
@@ -597370,6 +597878,10 @@
   {
     "CVE": "CVE-2026-29514",
     "PoC": "https://github.com/netbox-community/netbox/issues/22079"
+  },
+  {
+    "CVE": "CVE-2026-29514",
+    "PoC": "https://github.com/netbox-community/netbox/pull/22170"
   },
   {
     "CVE": "CVE-2026-29514",
@@ -613764,6 +614276,10 @@
     "PoC": "https://github.com/maidangdang1/CVE/issues/3"
   },
   {
+    "CVE": "CVE-2026-51974",
+    "PoC": "https://mrbruh.com/fooocus/"
+  },
+  {
     "CVE": "CVE-2026-5198",
     "PoC": "https://github.com/maidangdang1/CVE/issues/4"
   },
@@ -615428,6 +615944,14 @@
     "PoC": "https://cna.erlef.org/cves/CVE-2026-55950.html"
   },
   {
+    "CVE": "CVE-2026-55951",
+    "PoC": "https://cna.erlef.org/cves/CVE-2026-55951.html"
+  },
+  {
+    "CVE": "CVE-2026-55951",
+    "PoC": "https://osv.dev/vulnerability/EEF-CVE-2026-55951"
+  },
+  {
     "CVE": "CVE-2026-55952",
     "PoC": "https://cna.erlef.org/cves/CVE-2026-55952.html"
   },
@@ -617080,6 +617604,10 @@
     "PoC": "https://github.com/Jovancoding/Network-AI/security/advisories/GHSA-6x2m-p4xp-wg22"
   },
   {
+    "CVE": "CVE-2026-58417",
+    "PoC": "https://github.com/go-gitea/gitea/security/advisories/GHSA-jr5x-6h83-wrxf"
+  },
+  {
     "CVE": "CVE-2026-58419",
     "PoC": "https://github.com/go-gitea/gitea/security/advisories/GHSA-44qc-pgvp-wx7v"
   },
@@ -617114,6 +617642,14 @@
   {
     "CVE": "CVE-2026-58429",
     "PoC": "https://github.com/go-gitea/gitea/security/advisories/GHSA-fq2p-5p22-8g6j"
+  },
+  {
+    "CVE": "CVE-2026-58432",
+    "PoC": "https://github.com/go-gitea/gitea/security/advisories/GHSA-q9pg-jj6x-j9p6"
+  },
+  {
+    "CVE": "CVE-2026-58434",
+    "PoC": "https://github.com/go-gitea/gitea/security/advisories/GHSA-j2w3-9c3r-g83q"
   },
   {
     "CVE": "CVE-2026-5844",
@@ -621236,6 +621772,10 @@
     "PoC": "https://gist.github.com/thesmartshadow/e7dac0bb690ee17b9cc142154cb11726"
   },
   {
+    "CVE": "CVE-2026-70626",
+    "PoC": "https://github.com/nltk/nltk/security/advisories/GHSA-r6gq-whwq-mvg9"
+  },
+  {
     "CVE": "CVE-2026-7063",
     "PoC": "https://github.com/ahmadmarz10-hub/CVEsMarz/blob/main/SQL%20Injection%20in%20Employee%20Management%20System%20PHP%20mailuid%20Parameter.md"
   },
@@ -621252,8 +621792,16 @@
     "PoC": "https://github.com/BidingCC/BuildingAI/issues/110"
   },
   {
+    "CVE": "CVE-2026-70656",
+    "PoC": "https://github.com/bluewave-labs/Checkmate/security/advisories/GHSA-4c6j-p2cv-wf56"
+  },
+  {
     "CVE": "CVE-2026-7066",
     "PoC": "https://github.com/choieastsea/simple-openstack-mcp/issues/3"
+  },
+  {
+    "CVE": "CVE-2026-70665",
+    "PoC": "https://github.com/doorkeeper-gem/doorkeeper-openid_connect/security/advisories/GHSA-8r7r-wh7x-27ff"
   },
   {
     "CVE": "CVE-2026-70666",
@@ -622888,6 +623436,10 @@
     "PoC": "https://wpscan.com/vulnerability/b6f8be96-13d9-497a-8e57-5a65b519958b/"
   },
   {
+    "CVE": "CVE-2026-74927",
+    "PoC": "https://wpscan.com/vulnerability/c81aa489-0663-40b7-b2ce-f4c8f2edd4b6/"
+  },
+  {
     "CVE": "CVE-2026-74928",
     "PoC": "https://wpscan.com/vulnerability/667093bc-e030-45ff-83e0-0d5a4f3abc16/"
   },
@@ -623676,12 +624228,40 @@
     "PoC": "https://github.com/juicedata/juicefs/issues/7401"
   },
   {
+    "CVE": "CVE-2026-77764",
+    "PoC": "https://wpscan.com/vulnerability/c272dadd-9fc9-402f-8712-51d16a271e4b/"
+  },
+  {
     "CVE": "CVE-2026-77768",
     "PoC": "https://github.com/Openpanel-dev/openpanel/security/advisories/GHSA-9x7c-f87x-2243"
   },
   {
+    "CVE": "CVE-2026-77782",
+    "PoC": "https://wpscan.com/vulnerability/e7a81d62-3fc7-4212-bd77-c559a6065808/"
+  },
+  {
+    "CVE": "CVE-2026-77783",
+    "PoC": "https://wpscan.com/vulnerability/c10db1c1-3af9-45ed-af83-ce95211d0251/"
+  },
+  {
+    "CVE": "CVE-2026-77784",
+    "PoC": "https://wpscan.com/vulnerability/7a6ad8c5-eb7e-4201-8597-479e77863985/"
+  },
+  {
+    "CVE": "CVE-2026-77785",
+    "PoC": "https://wpscan.com/vulnerability/7cf8aa8a-7ac2-4e70-a7af-3f23e4ac1824/"
+  },
+  {
     "CVE": "CVE-2026-77786",
     "PoC": "https://wpscan.com/vulnerability/b0f3dfdb-9f0a-418c-9ce5-6a2b2b1f1b49/"
+  },
+  {
+    "CVE": "CVE-2026-77787",
+    "PoC": "https://wpscan.com/vulnerability/849a4859-e10e-49e6-9c38-265b902507b8/"
+  },
+  {
+    "CVE": "CVE-2026-77788",
+    "PoC": "https://wpscan.com/vulnerability/c02511a0-9c8b-44cd-b25f-e95cf5f9fef3/"
   },
   {
     "CVE": "CVE-2026-77789",
@@ -623690,6 +624270,10 @@
   {
     "CVE": "CVE-2026-77790",
     "PoC": "https://wpscan.com/vulnerability/42c48c95-1384-4414-9236-64f44bea9027/"
+  },
+  {
+    "CVE": "CVE-2026-77792",
+    "PoC": "https://wpscan.com/vulnerability/16661d09-6f8f-4f87-93b9-67a2f8b728f7/"
   },
   {
     "CVE": "CVE-2026-7782",
@@ -623830,6 +624414,10 @@
   {
     "CVE": "CVE-2026-78147",
     "PoC": "https://github.com/ggml-org/llama.cpp/issues/25289"
+  },
+  {
+    "CVE": "CVE-2026-78151",
+    "PoC": "https://wpscan.com/vulnerability/ae844713-444f-43bc-9e1e-78f46e1545c7/"
   },
   {
     "CVE": "CVE-2026-78158",
@@ -624320,6 +624908,10 @@
     "PoC": "https://issues.chromium.org/issues/497081987"
   },
   {
+    "CVE": "CVE-2026-79621",
+    "PoC": "https://wpscan.com/vulnerability/9a4c12ff-80d8-400c-abfa-de557ead3b07/"
+  },
+  {
     "CVE": "CVE-2026-7963",
     "PoC": "https://issues.chromium.org/issues/497250399"
   },
@@ -624484,6 +625076,10 @@
     "PoC": "https://issues.chromium.org/issues/498292657"
   },
   {
+    "CVE": "CVE-2026-80205",
+    "PoC": "http://www.openwall.com/lists/oss-security/2026/09/01/3"
+  },
+  {
     "CVE": "CVE-2026-8022",
     "PoC": "https://issues.chromium.org/issues/499194407"
   },
@@ -624514,6 +625110,10 @@
   {
     "CVE": "CVE-2026-8037",
     "PoC": "https://www.esentire.com/security-advisories/progress-kemp-loadmaster-vulnerability-targeted-cve-2026-8037"
+  },
+  {
+    "CVE": "CVE-2026-80467",
+    "PoC": "https://wpscan.com/vulnerability/929f243b-2f1c-4eca-88bc-03b1a86270ed/"
   },
   {
     "CVE": "CVE-2026-80488",
@@ -624576,6 +625176,30 @@
     "PoC": "https://github.com/jeecgboot/JeecgBoot/issues/9571"
   },
   {
+    "CVE": "CVE-2026-81194",
+    "PoC": "https://wpscan.com/vulnerability/727903d4-ce0f-4ab4-bbd4-c973091e0b8f/"
+  },
+  {
+    "CVE": "CVE-2026-81195",
+    "PoC": "https://wpscan.com/vulnerability/513d2c6e-9b9e-432d-8106-47916252bd55/"
+  },
+  {
+    "CVE": "CVE-2026-81196",
+    "PoC": "https://wpscan.com/vulnerability/d11acb84-6dd0-4229-ac30-dba3ad6b9614/"
+  },
+  {
+    "CVE": "CVE-2026-81197",
+    "PoC": "https://wpscan.com/vulnerability/8738320c-eb44-46b9-b809-b5cb786cb3e4/"
+  },
+  {
+    "CVE": "CVE-2026-81198",
+    "PoC": "https://wpscan.com/vulnerability/424b3a47-78fe-4c95-a317-c1deaf2b7b0c/"
+  },
+  {
+    "CVE": "CVE-2026-81199",
+    "PoC": "https://wpscan.com/vulnerability/8dd53f85-5d1b-4e0b-a0f5-8c65d89cefb5/"
+  },
+  {
     "CVE": "CVE-2026-81200",
     "PoC": "https://wpscan.com/vulnerability/1a4db76f-7043-4f9e-a584-17151d008ab1/"
   },
@@ -624596,8 +625220,24 @@
     "PoC": "https://github.com/Kiciot/cve/issues/4"
   },
   {
+    "CVE": "CVE-2026-81426",
+    "PoC": "https://wpscan.com/vulnerability/804efc9d-d2b4-46f0-a84f-0ff5fed7d3d6/"
+  },
+  {
+    "CVE": "CVE-2026-81427",
+    "PoC": "https://wpscan.com/vulnerability/f7fcf650-6e5e-4629-97ac-a76a5a0551db/"
+  },
+  {
+    "CVE": "CVE-2026-81428",
+    "PoC": "https://wpscan.com/vulnerability/e573c233-ed24-40a3-a16a-c80317910cce/"
+  },
+  {
     "CVE": "CVE-2026-8143",
     "PoC": "https://codecanyon.net/item/hbook-hotel-booking-system-wordpress-plugin/15059946"
+  },
+  {
+    "CVE": "CVE-2026-81432",
+    "PoC": "https://wpscan.com/vulnerability/ac6c4bce-9783-43ee-9549-41cbb2c3e9ac/"
   },
   {
     "CVE": "CVE-2026-81521",
@@ -624640,6 +625280,10 @@
     "PoC": "https://shelltrail.com/research/local-privilege-escalation-to-system-in-wibu-systems-codemeter-application"
   },
   {
+    "CVE": "CVE-2026-81583",
+    "PoC": "https://wpscan.com/vulnerability/6ced93ee-5629-42a4-9103-44cf99265bd2/"
+  },
+  {
     "CVE": "CVE-2026-8163",
     "PoC": "https://wpscan.com/vulnerability/e471516a-6f43-4a89-8486-7a638845e197/"
   },
@@ -624652,8 +625296,16 @@
     "PoC": "https://wpscan.com/vulnerability/535ec1a1-b822-43c9-8264-6442199493d3/"
   },
   {
+    "CVE": "CVE-2026-81737",
+    "PoC": "https://wpscan.com/vulnerability/b8a97781-5c3b-4a89-845e-ee4eb60ea29c/"
+  },
+  {
     "CVE": "CVE-2026-81766",
     "PoC": "https://wpscan.com/vulnerability/948d70a2-605e-4a83-8feb-eca4dbb5f948/"
+  },
+  {
+    "CVE": "CVE-2026-81807",
+    "PoC": "https://wpscan.com/vulnerability/7aceefd5-aa09-4828-b375-6a62997fa0c2/"
   },
   {
     "CVE": "CVE-2026-8207",
@@ -624706,6 +625358,14 @@
   {
     "CVE": "CVE-2026-8217",
     "PoC": "https://hawktrace.com/blog/caniaserp/"
+  },
+  {
+    "CVE": "CVE-2026-82182",
+    "PoC": "https://wpscan.com/vulnerability/79e58b77-6da8-4569-8ed3-a1ff5ced0991/"
+  },
+  {
+    "CVE": "CVE-2026-82183",
+    "PoC": "https://wpscan.com/vulnerability/bc7c18f2-4e8c-47a3-a972-6162fd27aaca/"
   },
   {
     "CVE": "CVE-2026-82217",
@@ -625388,6 +626048,10 @@
     "PoC": "https://winslow1984.com/books/cve-collection/page/ultra-ramdisk-pro-182-kernel-driver-urdscsisys-local-privilege-escalation-via-arbitrary-registry-value-write"
   },
   {
+    "CVE": "CVE-2026-82809",
+    "PoC": "https://github.com/xryj920/chrome_extensions/blob/main/vidIQ%20Inc.%20vidIQ%20Vision%20for%20YouTube%203.199.0%20exposes%20YouTube%20video%20frame%20captures%20through%20an%20unauthenticated%20postMessage%20handler"
+  },
+  {
     "CVE": "CVE-2026-82811",
     "PoC": "https://github.com/xryj920/chrome_extensions/blob/main/Toggl%20O%C3%9C%20Toggl%20Track%204.11.16%20accepts%20forged%20session-state%20messages%20through%20an%20unauthenticated%20postMessage%20handler"
   },
@@ -625550,6 +626214,18 @@
   {
     "CVE": "CVE-2026-8407",
     "PoC": "https://devolutions.net/security/advisories/DEVO-2026-0010/"
+  },
+  {
+    "CVE": "CVE-2026-84233",
+    "PoC": "https://bugzilla.redhat.com/show_bug.cgi?id=2478409"
+  },
+  {
+    "CVE": "CVE-2026-84431",
+    "PoC": "https://docs.google.com/document/d/19qRCn6NWF2UE4urLXMXKgW555PHhnQiw/edit?usp=sharing&ouid=100768766778062598194&rtpof=true&sd=true"
+  },
+  {
+    "CVE": "CVE-2026-84442",
+    "PoC": "https://docs.google.com/document/d/1NqFuHvwq66hpOfxTWPKlUB1_eMwLvujH/edit?usp=sharing&ouid=100768766778062598194&rtpof=true&sd=true"
   },
   {
     "CVE": "CVE-2026-8466",
