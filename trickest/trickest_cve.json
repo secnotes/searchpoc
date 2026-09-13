@@ -9909,6 +9909,10 @@
   },
   {
     "CVE": "CVE-2005-1920",
+    "PoC": "http://www.redhat.com/support/errata/RHSA-2005-612.html"
+  },
+  {
+    "CVE": "CVE-2005-1920",
     "PoC": "https://oval.cisecurity.org/repository/search/definition/oval%3Aorg.mitre.oval%3Adef%3A9434"
   },
   {
@@ -70313,6 +70317,10 @@
   },
   {
     "CVE": "CVE-2009-0689",
+    "PoC": "http://www.redhat.com/support/errata/RHSA-2010-0154.html"
+  },
+  {
+    "CVE": "CVE-2009-0689",
     "PoC": "http://www.vupen.com/english/advisories/2009/3297"
   },
   {
@@ -72541,6 +72549,10 @@
   },
   {
     "CVE": "CVE-2009-1571",
+    "PoC": "http://www.redhat.com/support/errata/RHSA-2010-0154.html"
+  },
+  {
+    "CVE": "CVE-2009-1571",
     "PoC": "https://bugzilla.mozilla.org/show_bug.cgi?id=526500"
   },
   {
@@ -74745,7 +74757,15 @@
   },
   {
     "CVE": "CVE-2009-2462",
+    "PoC": "http://www.redhat.com/support/errata/RHSA-2010-0154.html"
+  },
+  {
+    "CVE": "CVE-2009-2462",
     "PoC": "http://www.vupen.com/english/advisories/2009/1972"
+  },
+  {
+    "CVE": "CVE-2009-2463",
+    "PoC": "http://www.redhat.com/support/errata/RHSA-2010-0154.html"
   },
   {
     "CVE": "CVE-2009-2463",
@@ -74766,6 +74786,10 @@
   {
     "CVE": "CVE-2009-2465",
     "PoC": "https://bugzilla.mozilla.org/show_bug.cgi?id=489050"
+  },
+  {
+    "CVE": "CVE-2009-2466",
+    "PoC": "http://www.redhat.com/support/errata/RHSA-2010-0154.html"
   },
   {
     "CVE": "CVE-2009-2466",
@@ -74790,6 +74814,10 @@
   {
     "CVE": "CVE-2009-2469",
     "PoC": "http://www.vupen.com/english/advisories/2009/1972"
+  },
+  {
+    "CVE": "CVE-2009-2470",
+    "PoC": "http://www.redhat.com/support/errata/RHSA-2010-0154.html"
   },
   {
     "CVE": "CVE-2009-2470",
@@ -76209,6 +76237,10 @@
   },
   {
     "CVE": "CVE-2009-3072",
+    "PoC": "http://www.redhat.com/support/errata/RHSA-2010-0154.html"
+  },
+  {
+    "CVE": "CVE-2009-3072",
     "PoC": "https://bugzilla.mozilla.org/show_bug.cgi?id=501900"
   },
   {
@@ -76236,12 +76268,20 @@
     "PoC": "http://www.redhat.com/support/errata/RHSA-2009-1430.html"
   },
   {
+    "CVE": "CVE-2009-3075",
+    "PoC": "http://www.redhat.com/support/errata/RHSA-2010-0154.html"
+  },
+  {
     "CVE": "CVE-2009-3076",
     "PoC": "http://www.novell.com/linux/security/advisories/2009_48_firefox.html"
   },
   {
     "CVE": "CVE-2009-3076",
     "PoC": "http://www.redhat.com/support/errata/RHSA-2009-1430.html"
+  },
+  {
+    "CVE": "CVE-2009-3076",
+    "PoC": "http://www.redhat.com/support/errata/RHSA-2010-0154.html"
   },
   {
     "CVE": "CVE-2009-3076",
@@ -76254,6 +76294,10 @@
   {
     "CVE": "CVE-2009-3077",
     "PoC": "http://www.redhat.com/support/errata/RHSA-2009-1430.html"
+  },
+  {
+    "CVE": "CVE-2009-3077",
+    "PoC": "http://www.redhat.com/support/errata/RHSA-2010-0154.html"
   },
   {
     "CVE": "CVE-2009-3078",
@@ -76733,6 +76777,10 @@
   },
   {
     "CVE": "CVE-2009-3274",
+    "PoC": "http://www.redhat.com/support/errata/RHSA-2010-0154.html"
+  },
+  {
+    "CVE": "CVE-2009-3274",
     "PoC": "https://bugzilla.mozilla.org/show_bug.cgi?id=514823"
   },
   {
@@ -76998,6 +77046,14 @@
   {
     "CVE": "CVE-2009-3374",
     "PoC": "https://oval.cisecurity.org/repository/search/definition/oval%3Aorg.mitre.oval%3Adef%3A9789"
+  },
+  {
+    "CVE": "CVE-2009-3376",
+    "PoC": "http://www.redhat.com/support/errata/RHSA-2010-0154.html"
+  },
+  {
+    "CVE": "CVE-2009-3380",
+    "PoC": "http://www.redhat.com/support/errata/RHSA-2010-0154.html"
   },
   {
     "CVE": "CVE-2009-3380",
@@ -78257,6 +78313,10 @@
   },
   {
     "CVE": "CVE-2009-3979",
+    "PoC": "http://www.redhat.com/support/errata/RHSA-2010-0154.html"
+  },
+  {
+    "CVE": "CVE-2009-3979",
     "PoC": "http://www.ubuntu.com/usn/USN-873-1"
   },
   {
@@ -78354,6 +78414,10 @@
   {
     "CVE": "CVE-2009-4030",
     "PoC": "http://www.vupen.com/english/advisories/2010/1107"
+  },
+  {
+    "CVE": "CVE-2009-4035",
+    "PoC": "http://www.redhat.com/support/errata/RHSA-2009-1680.html"
   },
   {
     "CVE": "CVE-2009-4056",
@@ -81262,6 +81326,10 @@
   {
     "CVE": "CVE-2010-0159",
     "PoC": "http://www.redhat.com/support/errata/RHSA-2010-0112.html"
+  },
+  {
+    "CVE": "CVE-2010-0159",
+    "PoC": "http://www.redhat.com/support/errata/RHSA-2010-0154.html"
   },
   {
     "CVE": "CVE-2010-0159",
@@ -101353,6 +101421,10 @@
   },
   {
     "CVE": "CVE-2011-2911",
+    "PoC": "http://sourceforge.net/projects/modplug-xmms/files/libmodplug/0.8.8.4/"
+  },
+  {
+    "CVE": "CVE-2011-2911",
     "PoC": "http://ubuntu.com/usn/usn-1255-1"
   },
   {
@@ -101361,11 +101433,23 @@
   },
   {
     "CVE": "CVE-2011-2912",
+    "PoC": "http://sourceforge.net/projects/modplug-xmms/files/libmodplug/0.8.8.4/"
+  },
+  {
+    "CVE": "CVE-2011-2912",
     "PoC": "http://ubuntu.com/usn/usn-1255-1"
   },
   {
     "CVE": "CVE-2011-2913",
+    "PoC": "http://sourceforge.net/projects/modplug-xmms/files/libmodplug/0.8.8.4/"
+  },
+  {
+    "CVE": "CVE-2011-2913",
     "PoC": "http://ubuntu.com/usn/usn-1255-1"
+  },
+  {
+    "CVE": "CVE-2011-2914",
+    "PoC": "http://sourceforge.net/projects/modplug-xmms/files/libmodplug/0.8.8.4/"
   },
   {
     "CVE": "CVE-2011-2914",
@@ -101374,6 +101458,10 @@
   {
     "CVE": "CVE-2011-2915",
     "PoC": "http://modplug-xmms.git.sourceforge.net/git/gitweb.cgi?p=modplug-xmms/modplug-xmms%3Ba=commitdiff%3Bh=16d7a78efe14d345a6c5b241f88422ad0ee483ea"
+  },
+  {
+    "CVE": "CVE-2011-2915",
+    "PoC": "http://sourceforge.net/projects/modplug-xmms/files/libmodplug/0.8.8.4/"
   },
   {
     "CVE": "CVE-2011-2915",
@@ -230946,6 +231034,22 @@
   {
     "CVE": "CVE-2017-7625",
     "PoC": "https://github.com/Xyntax/POC-T/blob/2.0/script/fiyo2.0.7-getshell.py"
+  },
+  {
+    "CVE": "CVE-2017-7634",
+    "PoC": "https://www.qnap.com/zh-tw/security-advisory/nas-201803-08"
+  },
+  {
+    "CVE": "CVE-2017-7638",
+    "PoC": "https://www.qnap.com/zh-tw/security-advisory/nas-201803-08"
+  },
+  {
+    "CVE": "CVE-2017-7640",
+    "PoC": "https://www.qnap.com/zh-tw/security-advisory/nas-201803-08"
+  },
+  {
+    "CVE": "CVE-2017-7641",
+    "PoC": "https://www.qnap.com/zh-tw/security-advisory/nas-201803-08"
   },
   {
     "CVE": "CVE-2017-7642",
@@ -572057,6 +572161,10 @@
   },
   {
     "CVE": "CVE-2025-70146",
+    "PoC": "https://0x0bito.github.io/posts/CVE-2025-70146-OTTTG-Unauth-Deletion/"
+  },
+  {
+    "CVE": "CVE-2025-70146",
     "PoC": "https://youngkevinn.github.io/posts/CVE-2025-70146-OTTTG-Unauth-Deletion/"
   },
   {
@@ -572069,7 +572177,15 @@
   },
   {
     "CVE": "CVE-2025-70148",
+    "PoC": "https://0x0bito.github.io/posts/CVE-2025-70148-Membership-IDOR/"
+  },
+  {
+    "CVE": "CVE-2025-70148",
     "PoC": "https://youngkevinn.github.io/posts/CVE-2025-70148-Membership-IDOR/"
+  },
+  {
+    "CVE": "CVE-2025-70149",
+    "PoC": "https://0x0bito.github.io/posts/CVE-2025-70149-Membership-SQLi/"
   },
   {
     "CVE": "CVE-2025-70149",
@@ -572082,6 +572198,10 @@
   {
     "CVE": "CVE-2025-70150",
     "PoC": "https://youngkevinn.github.io/posts/CVE-2025-70150-Membership-Unauth-Delete/"
+  },
+  {
+    "CVE": "CVE-2025-70151",
+    "PoC": "https://0x0bito.github.io/posts/CVE-2025-70151-Scholars-FileUpload-RCE/"
   },
   {
     "CVE": "CVE-2025-70151",
@@ -586524,6 +586644,10 @@
     "PoC": "https://wpscan.com/vulnerability/9ddd1628-0b06-461b-8a5f-ba977f83fa7f/"
   },
   {
+    "CVE": "CVE-2026-14368",
+    "PoC": "https://github.com/zephyrproject-rtos/zephyr/security/advisories/GHSA-vg53-h6qq-xx7h"
+  },
+  {
     "CVE": "CVE-2026-14380",
     "PoC": "https://metacpan.org/release/HMBRAND/DBI-1.650/changes"
   },
@@ -589012,6 +589136,10 @@
     "PoC": "https://github.com/QIU-DIE/CVE/issues/49"
   },
   {
+    "CVE": "CVE-2026-16101",
+    "PoC": "https://www.ndss-symposium.org/ndss-paper/blerp-ble-re-pairing-attacks-and-defenses/"
+  },
+  {
     "CVE": "CVE-2026-16119",
     "PoC": "https://github.com/nextlevelbuilder/goclaw/issues/1212"
   },
@@ -590588,6 +590716,10 @@
     "PoC": "https://issues.chromium.org/issues/528501127"
   },
   {
+    "CVE": "CVE-2026-17728",
+    "PoC": "https://issues.chromium.org/issues/461167648"
+  },
+  {
     "CVE": "CVE-2026-17729",
     "PoC": "https://issues.chromium.org/issues/520656237"
   },
@@ -591858,6 +591990,18 @@
   {
     "CVE": "CVE-2026-19288",
     "PoC": "https://github.com/astralisone/rive-mcp-server-core/issues/2"
+  },
+  {
+    "CVE": "CVE-2026-19291",
+    "PoC": "https://www.ndss-symposium.org/ndss-paper/blerp-ble-re-pairing-attacks-and-defenses/"
+  },
+  {
+    "CVE": "CVE-2026-19292",
+    "PoC": "https://www.ndss-symposium.org/ndss-paper/blerp-ble-re-pairing-attacks-and-defenses/"
+  },
+  {
+    "CVE": "CVE-2026-19293",
+    "PoC": "https://www.ndss-symposium.org/ndss-paper/blerp-ble-re-pairing-attacks-and-defenses/"
   },
   {
     "CVE": "CVE-2026-19314",
@@ -593228,6 +593372,10 @@
     "PoC": "https://github.com/Wzl731/test/issues/1"
   },
   {
+    "CVE": "CVE-2026-2161",
+    "PoC": "https://vuldb.com/?id.344863"
+  },
+  {
     "CVE": "CVE-2026-21618",
     "PoC": "https://cna.erlef.org/cves/CVE-2026-21618.html"
   },
@@ -594038,6 +594186,14 @@
   {
     "CVE": "CVE-2026-22680",
     "PoC": "https://github.com/volcengine/OpenViking/pull/1182"
+  },
+  {
+    "CVE": "CVE-2026-22681",
+    "PoC": "https://github.com/volcengine/OpenViking/pull/1133"
+  },
+  {
+    "CVE": "CVE-2026-22681",
+    "PoC": "https://github.com/volcengine/OpenViking/pull/1133https://github.com/volcengine/OpenViking/pull/1133"
   },
   {
     "CVE": "CVE-2026-22682",
@@ -609312,6 +609468,14 @@
     "PoC": "https://github.com/bazinga012/mcp_code_executor/issues/17"
   },
   {
+    "CVE": "CVE-2026-42016",
+    "PoC": "https://www.wiz.io/blog/artifactory-under-attack-in-the-wild-exploitation-of-cve-2026-42016-cve-2026-4201"
+  },
+  {
+    "CVE": "CVE-2026-42018",
+    "PoC": "https://www.wiz.io/blog/artifactory-under-attack-in-the-wild-exploitation-of-cve-2026-42016-cve-2026-4201"
+  },
+  {
     "CVE": "CVE-2026-42028",
     "PoC": "https://github.com/novafacile/novagallery/security/advisories/GHSA-wv5j-98c7-frm9"
   },
@@ -616202,6 +616366,10 @@
   {
     "CVE": "CVE-2026-49224",
     "PoC": "https://github.com/givanz/Vvveb/security/advisories/GHSA-88w5-4x93-48rf"
+  },
+  {
+    "CVE": "CVE-2026-49226",
+    "PoC": "https://github.com/givanz/Vvveb/security/advisories/GHSA-xxx7-8f3v-g9p6"
   },
   {
     "CVE": "CVE-2026-49228",
@@ -626332,6 +626500,14 @@
     "PoC": "https://github.com/Litengzheng/vuldb_new/blob/main/A7100RU/vul_193/README.md"
   },
   {
+    "CVE": "CVE-2026-61409",
+    "PoC": "https://www.dell.com/support/kbdoc/en-in/000503426/dsa-2026-382-security-update-for-dell-secure-connect-gateway-virtual-edition-multiple-vulnerabilities"
+  },
+  {
+    "CVE": "CVE-2026-61410",
+    "PoC": "https://www.dell.com/support/kbdoc/en-in/000503426/dsa-2026-382-security-update-for-dell-secure-connect-gateway-virtual-edition-multiple-vulnerabilities"
+  },
+  {
     "CVE": "CVE-2026-6142",
     "PoC": "https://gist.github.com/freeloader9527/a9ab20c922c6aa2b3eabf93e01a40f6b"
   },
@@ -626566,6 +626742,10 @@
   {
     "CVE": "CVE-2026-6157",
     "PoC": "https://github.com/xyh4ck/iot_poc/blob/main/TOTOLINK/A800R/01_Buffer_Overflow_setAppEasyWizardConfig.md"
+  },
+  {
+    "CVE": "CVE-2026-6157",
+    "PoC": "https://vuldb.com/submit/793114"
   },
   {
     "CVE": "CVE-2026-6158",
@@ -631405,6 +631585,10 @@
   },
   {
     "CVE": "CVE-2026-74239",
+    "PoC": "https://github.com/BomboBombone/CVE-2026-74239"
+  },
+  {
+    "CVE": "CVE-2026-74239",
     "PoC": "https://www.vulncheck.com/advisories/xenforo-path-traversal-via-style-archive-importer-on-windows"
   },
   {
@@ -631514,6 +631698,10 @@
   {
     "CVE": "CVE-2026-74836",
     "PoC": "https://github.com/mtrudel/bandit/security/advisories/GHSA-xj8g-532w-jv94"
+  },
+  {
+    "CVE": "CVE-2026-74837",
+    "PoC": "https://github.com/ash-project/ash_typescript/security/advisories/GHSA-mhxc-mhqx-3v28"
   },
   {
     "CVE": "CVE-2026-74842",
@@ -631702,6 +631890,10 @@
   {
     "CVE": "CVE-2026-75798",
     "PoC": "https://wpscan.com/vulnerability/a77168df-61b8-40df-95f5-e19cf6540ce5/"
+  },
+  {
+    "CVE": "CVE-2026-75800",
+    "PoC": "https://wpscan.com/vulnerability/be658aa5-8f7f-4938-bf13-b2e6ed3dcf89/"
   },
   {
     "CVE": "CVE-2026-7582",
@@ -632172,6 +632364,14 @@
     "PoC": "https://gitlab.com/wireshark/wireshark/-/work_items/21460"
   },
   {
+    "CVE": "CVE-2026-7696",
+    "PoC": "https://vuldb.com/vuln/360865"
+  },
+  {
+    "CVE": "CVE-2026-7696",
+    "PoC": "https://vuldb.com/vuln/360865/cti"
+  },
+  {
     "CVE": "CVE-2026-7697",
     "PoC": "https://github.com/testnet0/testnet/issues/74"
   },
@@ -632202,6 +632402,14 @@
   {
     "CVE": "CVE-2026-77003",
     "PoC": "https://wpscan.com/vulnerability/1a78993c-1e5c-43fb-9aa4-13edc24100ee/"
+  },
+  {
+    "CVE": "CVE-2026-77005",
+    "PoC": "https://wpscan.com/vulnerability/b9340774-84c2-41ec-a770-0123dd5608c2/"
+  },
+  {
+    "CVE": "CVE-2026-77006",
+    "PoC": "https://wpscan.com/vulnerability/71bc08cb-681c-44bd-b6a0-bb5c58e31653/"
   },
   {
     "CVE": "CVE-2026-77007",
@@ -632302,6 +632510,10 @@
   {
     "CVE": "CVE-2026-7715",
     "PoC": "https://github.com/ravenwits/mcp-server-arangodb/issues/7"
+  },
+  {
+    "CVE": "CVE-2026-77159",
+    "PoC": "https://gitlab.com/libvirt/libvirt/-/work_items/909"
   },
   {
     "CVE": "CVE-2026-7716",
@@ -632408,6 +632620,10 @@
     "PoC": "https://lists.xapian.org/pipermail/xapian-devel/2026-August/003429.html"
   },
   {
+    "CVE": "CVE-2026-77689",
+    "PoC": "https://wpscan.com/vulnerability/ac597716-193d-419f-b55c-802ee979385e/"
+  },
+  {
     "CVE": "CVE-2026-77693",
     "PoC": "https://wpscan.com/vulnerability/630de65a-d3ca-4690-a21a-985616ebfad1/"
   },
@@ -632426,6 +632642,18 @@
   {
     "CVE": "CVE-2026-77704",
     "PoC": "https://wpscan.com/vulnerability/7b444920-28c4-4e4c-b5fd-38fdc31aef0c/"
+  },
+  {
+    "CVE": "CVE-2026-77705",
+    "PoC": "https://wpscan.com/vulnerability/bfd0ce74-f91e-41fe-8288-7b1d34dd16fe/"
+  },
+  {
+    "CVE": "CVE-2026-77752",
+    "PoC": "https://wpscan.com/vulnerability/09308b99-3142-44f0-b2e1-9f4680325d2d/"
+  },
+  {
+    "CVE": "CVE-2026-77753",
+    "PoC": "https://wpscan.com/vulnerability/9424fd42-5c77-41a9-a1fb-db568126515e/"
   },
   {
     "CVE": "CVE-2026-77754",
@@ -632666,6 +632894,10 @@
   {
     "CVE": "CVE-2026-78151",
     "PoC": "https://wpscan.com/vulnerability/ae844713-444f-43bc-9e1e-78f46e1545c7/"
+  },
+  {
+    "CVE": "CVE-2026-78152",
+    "PoC": "https://wpscan.com/vulnerability/f16d3d06-6db0-4c6a-9eee-80b87d886a47/"
   },
   {
     "CVE": "CVE-2026-78153",
@@ -632922,6 +633154,66 @@
   {
     "CVE": "CVE-2026-7847",
     "PoC": "https://github.com/chatchat-space/Langchain-Chatchat/issues/5464"
+  },
+  {
+    "CVE": "CVE-2026-78480",
+    "PoC": "https://www.dell.com/support/kbdoc/en-in/000503426/dsa-2026-382-security-update-for-dell-secure-connect-gateway-virtual-edition-multiple-vulnerabilities?msockid=3021cac2195069ed3194ddad186a68f9"
+  },
+  {
+    "CVE": "CVE-2026-78481",
+    "PoC": "https://www.dell.com/support/kbdoc/en-in/000503426/dsa-2026-382-security-update-for-dell-secure-connect-gateway-virtual-edition-multiple-vulnerabilities"
+  },
+  {
+    "CVE": "CVE-2026-78482",
+    "PoC": "https://www.dell.com/support/kbdoc/en-in/000503426/dsa-2026-382-security-update-for-dell-secure-connect-gateway-virtual-edition-multiple-vulnerabilities"
+  },
+  {
+    "CVE": "CVE-2026-78483",
+    "PoC": "https://www.dell.com/support/kbdoc/en-in/000503426/dsa-2026-382-security-update-for-dell-secure-connect-gateway-virtual-edition-multiple-vulnerabilities"
+  },
+  {
+    "CVE": "CVE-2026-78484",
+    "PoC": "https://www.dell.com/support/kbdoc/en-in/000503426/dsa-2026-382-security-update-for-dell-secure-connect-gateway-virtual-edition-multiple-vulnerabilities"
+  },
+  {
+    "CVE": "CVE-2026-78485",
+    "PoC": "https://www.dell.com/support/kbdoc/en-in/000503426/dsa-2026-382-security-update-for-dell-secure-connect-gateway-virtual-edition-multiple-vulnerabilities"
+  },
+  {
+    "CVE": "CVE-2026-78486",
+    "PoC": "https://www.dell.com/support/kbdoc/en-in/000503426/dsa-2026-382-security-update-for-dell-secure-connect-gateway-virtual-edition-multiple-vulnerabilities"
+  },
+  {
+    "CVE": "CVE-2026-78487",
+    "PoC": "https://www.dell.com/support/kbdoc/en-in/000503426/dsa-2026-382-security-update-for-dell-secure-connect-gateway-virtual-edition-multiple-vulnerabilities?msockid=3021cac2195069ed3194ddad186a68f9"
+  },
+  {
+    "CVE": "CVE-2026-78488",
+    "PoC": "https://www.dell.com/support/kbdoc/en-in/000503426/dsa-2026-382-security-update-for-dell-secure-connect-gateway-virtual-edition-multiple-vulnerabilities?msockid=3021cac2195069ed3194ddad186a68f9"
+  },
+  {
+    "CVE": "CVE-2026-78489",
+    "PoC": "https://www.dell.com/support/kbdoc/en-in/000503426/dsa-2026-382-security-update-for-dell-secure-connect-gateway-virtual-edition-multiple-vulnerabilities"
+  },
+  {
+    "CVE": "CVE-2026-78490",
+    "PoC": "https://www.dell.com/support/kbdoc/en-in/000503426/dsa-2026-382-security-update-for-dell-secure-connect-gateway-virtual-edition-multiple-vulnerabilities"
+  },
+  {
+    "CVE": "CVE-2026-78491",
+    "PoC": "https://www.dell.com/support/kbdoc/en-in/000503426/dsa-2026-382-security-update-for-dell-secure-connect-gateway-virtual-edition-multiple-vulnerabilities"
+  },
+  {
+    "CVE": "CVE-2026-78492",
+    "PoC": "https://www.dell.com/support/kbdoc/en-in/000503426/dsa-2026-382-security-update-for-dell-secure-connect-gateway-virtual-edition-multiple-vulnerabilities"
+  },
+  {
+    "CVE": "CVE-2026-78493",
+    "PoC": "https://www.dell.com/support/kbdoc/en-in/000503426/dsa-2026-382-security-update-for-dell-secure-connect-gateway-virtual-edition-multiple-vulnerabilities"
+  },
+  {
+    "CVE": "CVE-2026-78494",
+    "PoC": "https://www.dell.com/support/kbdoc/en-in/000503426/dsa-2026-382-security-update-for-dell-secure-connect-gateway-virtual-edition-multiple-vulnerabilities"
   },
   {
     "CVE": "CVE-2026-7850",
@@ -633964,12 +634256,56 @@
     "PoC": "https://wpscan.com/vulnerability/45abb077-c4ed-472e-8658-443506605235/"
   },
   {
+    "CVE": "CVE-2026-79635",
+    "PoC": "https://www.dell.com/support/kbdoc/en-in/000503426/dsa-2026-382-security-update-for-dell-secure-connect-gateway-virtual-edition-multiple-vulnerabilities"
+  },
+  {
+    "CVE": "CVE-2026-79636",
+    "PoC": "https://www.dell.com/support/kbdoc/en-in/000503426/dsa-2026-382-security-update-for-dell-secure-connect-gateway-virtual-edition-multiple-vulnerabilities"
+  },
+  {
+    "CVE": "CVE-2026-79637",
+    "PoC": "https://www.dell.com/support/kbdoc/en-in/000503426/dsa-2026-382-security-update-for-dell-secure-connect-gateway-virtual-edition-multiple-vulnerabilities"
+  },
+  {
+    "CVE": "CVE-2026-79638",
+    "PoC": "https://www.dell.com/support/kbdoc/en-in/000503426/dsa-2026-382-security-update-for-dell-secure-connect-gateway-virtual-edition-multiple-vulnerabilities"
+  },
+  {
+    "CVE": "CVE-2026-79639",
+    "PoC": "https://www.dell.com/support/kbdoc/en-in/000503426/dsa-2026-382-security-update-for-dell-secure-connect-gateway-virtual-edition-multiple-vulnerabilities?msockid=3021cac2195069ed3194ddad186a68f9"
+  },
+  {
     "CVE": "CVE-2026-7964",
     "PoC": "https://chromereleases.googleblog.com/2026/05/stable-channel-update-for-desktop.html"
   },
   {
     "CVE": "CVE-2026-7964",
     "PoC": "https://issues.chromium.org/issues/497254383"
+  },
+  {
+    "CVE": "CVE-2026-79640",
+    "PoC": "https://www.dell.com/support/kbdoc/en-in/000503426/dsa-2026-382-security-update-for-dell-secure-connect-gateway-virtual-edition-multiple-vulnerabilities"
+  },
+  {
+    "CVE": "CVE-2026-79641",
+    "PoC": "https://www.dell.com/support/kbdoc/en-in/000503426/dsa-2026-382-security-update-for-dell-secure-connect-gateway-virtual-edition-multiple-vulnerabilities"
+  },
+  {
+    "CVE": "CVE-2026-79642",
+    "PoC": "https://www.dell.com/support/kbdoc/en-in/000503426/dsa-2026-382-security-update-for-dell-secure-connect-gateway-virtual-edition-multiple-vulnerabilities?msockid=3021cac2195069ed3194ddad186a68f9"
+  },
+  {
+    "CVE": "CVE-2026-79643",
+    "PoC": "https://www.dell.com/support/kbdoc/en-in/000503426/dsa-2026-382-security-update-for-dell-secure-connect-gateway-virtual-edition-multiple-vulnerabilities?msockid=3021cac2195069ed3194ddad186a68f9"
+  },
+  {
+    "CVE": "CVE-2026-79644",
+    "PoC": "https://www.dell.com/support/kbdoc/en-in/000503426/dsa-2026-382-security-update-for-dell-secure-connect-gateway-virtual-edition-multiple-vulnerabilities?msockid=3021cac2195069ed3194ddad186a68f9"
+  },
+  {
+    "CVE": "CVE-2026-79645",
+    "PoC": "https://www.dell.com/support/kbdoc/en-in/000503426/dsa-2026-382-security-update-for-dell-secure-connect-gateway-virtual-edition-multiple-vulnerabilities?msockid=3021cac2195069ed3194ddad186a68f9"
   },
   {
     "CVE": "CVE-2026-7965",
@@ -634004,12 +634340,40 @@
     "PoC": "https://chromereleases.googleblog.com/2026/05/stable-channel-update-for-desktop.html"
   },
   {
+    "CVE": "CVE-2026-79689",
+    "PoC": "https://www.dell.com/support/kbdoc/en-in/000503426/dsa-2026-382-security-update-for-dell-secure-connect-gateway-virtual-edition-multiple-vulnerabilities"
+  },
+  {
     "CVE": "CVE-2026-7969",
     "PoC": "https://chromereleases.googleblog.com/2026/05/stable-channel-update-for-desktop.html"
   },
   {
     "CVE": "CVE-2026-7969",
     "PoC": "https://issues.chromium.org/issues/497450574"
+  },
+  {
+    "CVE": "CVE-2026-79690",
+    "PoC": "https://www.dell.com/support/kbdoc/en-in/000503426/dsa-2026-382-security-update-for-dell-secure-connect-gateway-virtual-edition-multiple-vulnerabilities"
+  },
+  {
+    "CVE": "CVE-2026-79691",
+    "PoC": "https://www.dell.com/support/kbdoc/en-in/000503426/dsa-2026-382-security-update-for-dell-secure-connect-gateway-virtual-edition-multiple-vulnerabilities?msockid=3021cac2195069ed3194ddad186a68f9"
+  },
+  {
+    "CVE": "CVE-2026-79692",
+    "PoC": "https://www.dell.com/support/kbdoc/en-in/000503426/dsa-2026-382-security-update-for-dell-secure-connect-gateway-virtual-edition-multiple-vulnerabilities"
+  },
+  {
+    "CVE": "CVE-2026-79693",
+    "PoC": "https://www.dell.com/support/kbdoc/en-in/000503426/dsa-2026-382-security-update-for-dell-secure-connect-gateway-virtual-edition-multiple-vulnerabilities"
+  },
+  {
+    "CVE": "CVE-2026-79694",
+    "PoC": "https://www.dell.com/support/kbdoc/en-in/000503426/dsa-2026-382-security-update-for-dell-secure-connect-gateway-virtual-edition-multiple-vulnerabilities"
+  },
+  {
+    "CVE": "CVE-2026-79695",
+    "PoC": "https://www.dell.com/support/kbdoc/en-in/000503426/dsa-2026-382-security-update-for-dell-secure-connect-gateway-virtual-edition-multiple-vulnerabilities"
   },
   {
     "CVE": "CVE-2026-7970",
@@ -634040,8 +634404,48 @@
     "PoC": "https://www.hiddenlayer.com/sai-security-advisory/2026-09-mlflow"
   },
   {
+    "CVE": "CVE-2026-79727",
+    "PoC": "https://www.dell.com/support/kbdoc/en-in/000503426/dsa-2026-382-security-update-for-dell-secure-connect-gateway-virtual-edition-multiple-vulnerabilities"
+  },
+  {
+    "CVE": "CVE-2026-79728",
+    "PoC": "https://www.dell.com/support/kbdoc/en-in/000503426/dsa-2026-382-security-update-for-dell-secure-connect-gateway-virtual-edition-multiple-vulnerabilities"
+  },
+  {
+    "CVE": "CVE-2026-79729",
+    "PoC": "https://www.dell.com/support/kbdoc/en-in/000503426/dsa-2026-382-security-update-for-dell-secure-connect-gateway-virtual-edition-multiple-vulnerabilities"
+  },
+  {
     "CVE": "CVE-2026-7973",
     "PoC": "https://chromereleases.googleblog.com/2026/05/stable-channel-update-for-desktop.html"
+  },
+  {
+    "CVE": "CVE-2026-79730",
+    "PoC": "https://www.dell.com/support/kbdoc/en-in/000503426/dsa-2026-382-security-update-for-dell-secure-connect-gateway-virtual-edition-multiple-vulnerabilities"
+  },
+  {
+    "CVE": "CVE-2026-79731",
+    "PoC": "https://www.dell.com/support/kbdoc/en-in/000503426/dsa-2026-382-security-update-for-dell-secure-connect-gateway-virtual-edition-multiple-vulnerabilities"
+  },
+  {
+    "CVE": "CVE-2026-79732",
+    "PoC": "https://www.dell.com/support/kbdoc/en-in/000503426/dsa-2026-382-security-update-for-dell-secure-connect-gateway-virtual-edition-multiple-vulnerabilities"
+  },
+  {
+    "CVE": "CVE-2026-79734",
+    "PoC": "https://www.dell.com/support/kbdoc/en-in/000503426/dsa-2026-382-security-update-for-dell-secure-connect-gateway-virtual-edition-multiple-vulnerabilities?msockid=3021cac2195069ed3194ddad186a68f9"
+  },
+  {
+    "CVE": "CVE-2026-79735",
+    "PoC": "https://www.dell.com/support/kbdoc/en-in/000503426/dsa-2026-382-security-update-for-dell-secure-connect-gateway-virtual-edition-multiple-vulnerabilities"
+  },
+  {
+    "CVE": "CVE-2026-79736",
+    "PoC": "https://www.dell.com/support/kbdoc/en-in/000503426/dsa-2026-382-security-update-for-dell-secure-connect-gateway-virtual-edition-multiple-vulnerabilities"
+  },
+  {
+    "CVE": "CVE-2026-79738",
+    "PoC": "https://www.dell.com/support/kbdoc/en-in/000503426/dsa-2026-382-security-update-for-dell-secure-connect-gateway-virtual-edition-multiple-vulnerabilities"
   },
   {
     "CVE": "CVE-2026-7974",
@@ -634050,6 +634454,14 @@
   {
     "CVE": "CVE-2026-7974",
     "PoC": "https://issues.chromium.org/issues/497649372"
+  },
+  {
+    "CVE": "CVE-2026-79740",
+    "PoC": "https://www.dell.com/support/kbdoc/en-in/000503426/dsa-2026-382-security-update-for-dell-secure-connect-gateway-virtual-edition-multiple-vulnerabilities"
+  },
+  {
+    "CVE": "CVE-2026-79741",
+    "PoC": "https://www.dell.com/support/kbdoc/en-in/000503426/dsa-2026-382-security-update-for-dell-secure-connect-gateway-virtual-edition-multiple-vulnerabilities"
   },
   {
     "CVE": "CVE-2026-7975",
@@ -634180,8 +634592,44 @@
     "PoC": "https://issues.chromium.org/issues/499116954"
   },
   {
+    "CVE": "CVE-2026-79941",
+    "PoC": "https://www.dell.com/support/kbdoc/en-in/000503426/dsa-2026-382-security-update-for-dell-secure-connect-gateway-virtual-edition-multiple-vulnerabilities"
+  },
+  {
+    "CVE": "CVE-2026-79942",
+    "PoC": "https://www.dell.com/support/kbdoc/en-in/000503426/dsa-2026-382-security-update-for-dell-secure-connect-gateway-virtual-edition-multiple-vulnerabilities"
+  },
+  {
+    "CVE": "CVE-2026-79943",
+    "PoC": "https://www.dell.com/support/kbdoc/en-in/000503426/dsa-2026-382-security-update-for-dell-secure-connect-gateway-virtual-edition-multiple-vulnerabilities?msockid=3021cac2195069ed3194ddad186a68f9"
+  },
+  {
+    "CVE": "CVE-2026-79944",
+    "PoC": "https://www.dell.com/support/kbdoc/en-in/000503426/dsa-2026-382-security-update-for-dell-secure-connect-gateway-virtual-edition-multiple-vulnerabilities"
+  },
+  {
+    "CVE": "CVE-2026-79945",
+    "PoC": "https://www.dell.com/support/kbdoc/en-in/000503426/dsa-2026-382-security-update-for-dell-secure-connect-gateway-virtual-edition-multiple-vulnerabilities"
+  },
+  {
+    "CVE": "CVE-2026-79946",
+    "PoC": "https://www.dell.com/support/kbdoc/en-in/000503426/dsa-2026-382-security-update-for-dell-secure-connect-gateway-virtual-edition-multiple-vulnerabilities"
+  },
+  {
+    "CVE": "CVE-2026-79947",
+    "PoC": "https://www.dell.com/support/kbdoc/en-in/000503426/dsa-2026-382-security-update-for-dell-secure-connect-gateway-virtual-edition-multiple-vulnerabilities"
+  },
+  {
     "CVE": "CVE-2026-7995",
     "PoC": "https://chromereleases.googleblog.com/2026/05/stable-channel-update-for-desktop.html"
+  },
+  {
+    "CVE": "CVE-2026-79950",
+    "PoC": "https://www.dell.com/support/kbdoc/en-in/000503426/dsa-2026-382-security-update-for-dell-secure-connect-gateway-virtual-edition-multiple-vulnerabilities"
+  },
+  {
+    "CVE": "CVE-2026-79952",
+    "PoC": "https://www.dell.com/support/kbdoc/en-in/000503426/dsa-2026-382-security-update-for-dell-secure-connect-gateway-virtual-edition-multiple-vulnerabilities"
   },
   {
     "CVE": "CVE-2026-7996",
@@ -634192,8 +634640,68 @@
     "PoC": "https://issues.chromium.org/issues/484547631"
   },
   {
+    "CVE": "CVE-2026-79961",
+    "PoC": "https://www.dell.com/support/kbdoc/en-in/000503426/dsa-2026-382-security-update-for-dell-secure-connect-gateway-virtual-edition-multiple-vulnerabilities"
+  },
+  {
+    "CVE": "CVE-2026-79962",
+    "PoC": "https://www.dell.com/support/kbdoc/en-in/000503426/dsa-2026-382-security-update-for-dell-secure-connect-gateway-virtual-edition-multiple-vulnerabilities"
+  },
+  {
+    "CVE": "CVE-2026-79963",
+    "PoC": "https://www.dell.com/support/kbdoc/en-in/000503426/dsa-2026-382-security-update-for-dell-secure-connect-gateway-virtual-edition-multiple-vulnerabilities"
+  },
+  {
+    "CVE": "CVE-2026-79964",
+    "PoC": "https://www.dell.com/support/kbdoc/en-in/000503426/dsa-2026-382-security-update-for-dell-secure-connect-gateway-virtual-edition-multiple-vulnerabilities"
+  },
+  {
+    "CVE": "CVE-2026-79965",
+    "PoC": "https://www.dell.com/support/kbdoc/en-in/000503426/dsa-2026-382-security-update-for-dell-secure-connect-gateway-virtual-edition-multiple-vulnerabilities"
+  },
+  {
+    "CVE": "CVE-2026-79966",
+    "PoC": "https://www.dell.com/support/kbdoc/en-in/000503426/dsa-2026-382-security-update-for-dell-secure-connect-gateway-virtual-edition-multiple-vulnerabilities"
+  },
+  {
+    "CVE": "CVE-2026-79967",
+    "PoC": "https://www.dell.com/support/kbdoc/en-in/000503426/dsa-2026-382-security-update-for-dell-secure-connect-gateway-virtual-edition-multiple-vulnerabilities"
+  },
+  {
+    "CVE": "CVE-2026-79968",
+    "PoC": "https://www.dell.com/support/kbdoc/en-in/000503426/dsa-2026-382-security-update-for-dell-secure-connect-gateway-virtual-edition-multiple-vulnerabilities"
+  },
+  {
+    "CVE": "CVE-2026-79969",
+    "PoC": "https://www.dell.com/support/kbdoc/en-in/000503426/dsa-2026-382-security-update-for-dell-secure-connect-gateway-virtual-edition-multiple-vulnerabilities"
+  },
+  {
     "CVE": "CVE-2026-7997",
     "PoC": "https://chromereleases.googleblog.com/2026/05/stable-channel-update-for-desktop.html"
+  },
+  {
+    "CVE": "CVE-2026-79970",
+    "PoC": "https://www.dell.com/support/kbdoc/en-in/000503426/dsa-2026-382-security-update-for-dell-secure-connect-gateway-virtual-edition-multiple-vulnerabilities"
+  },
+  {
+    "CVE": "CVE-2026-79971",
+    "PoC": "https://www.dell.com/support/kbdoc/en-in/000503426/dsa-2026-382-security-update-for-dell-secure-connect-gateway-virtual-edition-multiple-vulnerabilities"
+  },
+  {
+    "CVE": "CVE-2026-79972",
+    "PoC": "https://www.dell.com/support/kbdoc/en-in/000503426/dsa-2026-382-security-update-for-dell-secure-connect-gateway-virtual-edition-multiple-vulnerabilities"
+  },
+  {
+    "CVE": "CVE-2026-79973",
+    "PoC": "https://www.dell.com/support/kbdoc/en-in/000503426/dsa-2026-382-security-update-for-dell-secure-connect-gateway-virtual-edition-multiple-vulnerabilities"
+  },
+  {
+    "CVE": "CVE-2026-79974",
+    "PoC": "https://www.dell.com/support/kbdoc/en-in/000503426/dsa-2026-382-security-update-for-dell-secure-connect-gateway-virtual-edition-multiple-vulnerabilities"
+  },
+  {
+    "CVE": "CVE-2026-79975",
+    "PoC": "https://www.dell.com/support/kbdoc/en-in/000503426/dsa-2026-382-security-update-for-dell-secure-connect-gateway-virtual-edition-multiple-vulnerabilities?msockid=3021cac2195069ed3194ddad186a68f9"
   },
   {
     "CVE": "CVE-2026-7998",
@@ -634262,6 +634770,26 @@
   {
     "CVE": "CVE-2026-80051",
     "PoC": "https://www.openwall.com/lists/oss-security/2026/08/25/2"
+  },
+  {
+    "CVE": "CVE-2026-80054",
+    "PoC": "https://www.dell.com/support/kbdoc/en-in/000503426/dsa-2026-382-security-update-for-dell-secure-connect-gateway-virtual-edition-multiple-vulnerabilities?msockid=3021cac2195069ed3194ddad186a68f9"
+  },
+  {
+    "CVE": "CVE-2026-80055",
+    "PoC": "https://www.dell.com/support/kbdoc/en-in/000503426/dsa-2026-382-security-update-for-dell-secure-connect-gateway-virtual-edition-multiple-vulnerabilities"
+  },
+  {
+    "CVE": "CVE-2026-80056",
+    "PoC": "https://www.dell.com/support/kbdoc/en-in/000503426/dsa-2026-382-security-update-for-dell-secure-connect-gateway-virtual-edition-multiple-vulnerabilities?msockid=3021cac2195069ed3194ddad186a68f9"
+  },
+  {
+    "CVE": "CVE-2026-80057",
+    "PoC": "https://www.dell.com/support/kbdoc/en-in/000503426/dsa-2026-382-security-update-for-dell-secure-connect-gateway-virtual-edition-multiple-vulnerabilities?msockid=3021cac2195069ed3194ddad186a68f9"
+  },
+  {
+    "CVE": "CVE-2026-80058",
+    "PoC": "https://www.dell.com/support/kbdoc/en-in/000503426/dsa-2026-382-security-update-for-dell-secure-connect-gateway-virtual-edition-multiple-vulnerabilities?msockid=3021cac2195069ed3194ddad186a68f9"
   },
   {
     "CVE": "CVE-2026-8006",
@@ -634380,8 +634908,64 @@
     "PoC": "https://issues.chromium.org/issues/496628298"
   },
   {
+    "CVE": "CVE-2026-80122",
+    "PoC": "https://www.dell.com/support/kbdoc/en-in/000503426/dsa-2026-382-security-update-for-dell-secure-connect-gateway-virtual-edition-multiple-vulnerabilities"
+  },
+  {
+    "CVE": "CVE-2026-80123",
+    "PoC": "https://www.dell.com/support/kbdoc/en-in/000503426/dsa-2026-382-security-update-for-dell-secure-connect-gateway-virtual-edition-multiple-vulnerabilities"
+  },
+  {
+    "CVE": "CVE-2026-80124",
+    "PoC": "https://www.dell.com/support/kbdoc/en-in/000503426/dsa-2026-382-security-update-for-dell-secure-connect-gateway-virtual-edition-multiple-vulnerabilities"
+  },
+  {
+    "CVE": "CVE-2026-80125",
+    "PoC": "https://www.dell.com/support/kbdoc/en-in/000503426/dsa-2026-382-security-update-for-dell-secure-connect-gateway-virtual-edition-multiple-vulnerabilities?msockid=3021cac2195069ed3194ddad186a68f9"
+  },
+  {
+    "CVE": "CVE-2026-80126",
+    "PoC": "https://www.dell.com/support/kbdoc/en-in/000503426/dsa-2026-382-security-update-for-dell-secure-connect-gateway-virtual-edition-multiple-vulnerabilities?msockid=3021cac2195069ed3194ddad186a68f9"
+  },
+  {
+    "CVE": "CVE-2026-80127",
+    "PoC": "https://www.dell.com/support/kbdoc/en-in/000503426/dsa-2026-382-security-update-for-dell-secure-connect-gateway-virtual-edition-multiple-vulnerabilities?msockid=3021cac2195069ed3194ddad186a68f9"
+  },
+  {
+    "CVE": "CVE-2026-80128",
+    "PoC": "https://www.dell.com/support/kbdoc/en-in/000503426/dsa-2026-382-security-update-for-dell-secure-connect-gateway-virtual-edition-multiple-vulnerabilities?msockid=3021cac2195069ed3194ddad186a68f9"
+  },
+  {
+    "CVE": "CVE-2026-80129",
+    "PoC": "https://www.dell.com/support/kbdoc/en-in/000503426/dsa-2026-382-security-update-for-dell-secure-connect-gateway-virtual-edition-multiple-vulnerabilities?msockid=3021cac2195069ed3194ddad186a68f9"
+  },
+  {
     "CVE": "CVE-2026-8013",
     "PoC": "https://chromereleases.googleblog.com/2026/05/stable-channel-update-for-desktop.html"
+  },
+  {
+    "CVE": "CVE-2026-80130",
+    "PoC": "https://www.dell.com/support/kbdoc/en-in/000503426/dsa-2026-382-security-update-for-dell-secure-connect-gateway-virtual-edition-multiple-vulnerabilities?msockid=3021cac2195069ed3194ddad186a68f9"
+  },
+  {
+    "CVE": "CVE-2026-80131",
+    "PoC": "https://www.dell.com/support/kbdoc/en-in/000503426/dsa-2026-382-security-update-for-dell-secure-connect-gateway-virtual-edition-multiple-vulnerabilities?msockid=3021cac2195069ed3194ddad186a68f9"
+  },
+  {
+    "CVE": "CVE-2026-80132",
+    "PoC": "https://www.dell.com/support/kbdoc/en-in/000503426/dsa-2026-382-security-update-for-dell-secure-connect-gateway-virtual-edition-multiple-vulnerabilities"
+  },
+  {
+    "CVE": "CVE-2026-80133",
+    "PoC": "https://www.dell.com/support/kbdoc/en-in/000503426/dsa-2026-382-security-update-for-dell-secure-connect-gateway-virtual-edition-multiple-vulnerabilities"
+  },
+  {
+    "CVE": "CVE-2026-80134",
+    "PoC": "https://www.dell.com/support/kbdoc/en-in/000503426/dsa-2026-382-security-update-for-dell-secure-connect-gateway-virtual-edition-multiple-vulnerabilities"
+  },
+  {
+    "CVE": "CVE-2026-80135",
+    "PoC": "https://www.dell.com/support/kbdoc/en-in/000503426/dsa-2026-382-security-update-for-dell-secure-connect-gateway-virtual-edition-multiple-vulnerabilities?msockid=3021cac2195069ed3194ddad186a68f9"
   },
   {
     "CVE": "CVE-2026-8014",
@@ -634404,8 +634988,56 @@
     "PoC": "https://chromereleases.googleblog.com/2026/05/stable-channel-update-for-desktop.html"
   },
   {
+    "CVE": "CVE-2026-80164",
+    "PoC": "https://www.dell.com/support/kbdoc/en-in/000503426/dsa-2026-382-security-update-for-dell-secure-connect-gateway-virtual-edition-multiple-vulnerabilities?msockid=3021cac2195069ed3194ddad186a68f9"
+  },
+  {
+    "CVE": "CVE-2026-80166",
+    "PoC": "https://www.dell.com/support/kbdoc/en-in/000503426/dsa-2026-382-security-update-for-dell-secure-connect-gateway-virtual-edition-multiple-vulnerabilities?msockid=3021cac2195069ed3194ddad186a68f9"
+  },
+  {
+    "CVE": "CVE-2026-80167",
+    "PoC": "https://www.dell.com/support/kbdoc/en-in/000503426/dsa-2026-382-security-update-for-dell-secure-connect-gateway-virtual-edition-multiple-vulnerabilities?msockid=3021cac2195069ed3194ddad186a68f9"
+  },
+  {
+    "CVE": "CVE-2026-80169",
+    "PoC": "https://www.dell.com/support/kbdoc/en-in/000503426/dsa-2026-382-security-update-for-dell-secure-connect-gateway-virtual-edition-multiple-vulnerabilities"
+  },
+  {
     "CVE": "CVE-2026-8017",
     "PoC": "https://chromereleases.googleblog.com/2026/05/stable-channel-update-for-desktop.html"
+  },
+  {
+    "CVE": "CVE-2026-80170",
+    "PoC": "https://www.dell.com/support/kbdoc/en-in/000503426/dsa-2026-382-security-update-for-dell-secure-connect-gateway-virtual-edition-multiple-vulnerabilities?msockid=3021cac2195069ed3194ddad186a68f9"
+  },
+  {
+    "CVE": "CVE-2026-80171",
+    "PoC": "https://www.dell.com/support/kbdoc/en-in/000503426/dsa-2026-382-security-update-for-dell-secure-connect-gateway-virtual-edition-multiple-vulnerabilities"
+  },
+  {
+    "CVE": "CVE-2026-80172",
+    "PoC": "https://www.dell.com/support/kbdoc/en-in/000503426/dsa-2026-382-security-update-for-dell-secure-connect-gateway-virtual-edition-multiple-vulnerabilities"
+  },
+  {
+    "CVE": "CVE-2026-80174",
+    "PoC": "https://www.dell.com/support/kbdoc/en-in/000503426/dsa-2026-382-security-update-for-dell-secure-connect-gateway-virtual-edition-multiple-vulnerabilities"
+  },
+  {
+    "CVE": "CVE-2026-80175",
+    "PoC": "https://www.dell.com/support/kbdoc/en-in/000503426/dsa-2026-382-security-update-for-dell-secure-connect-gateway-virtual-edition-multiple-vulnerabilities"
+  },
+  {
+    "CVE": "CVE-2026-80176",
+    "PoC": "https://www.dell.com/support/kbdoc/en-in/000503426/dsa-2026-382-security-update-for-dell-secure-connect-gateway-virtual-edition-multiple-vulnerabilities?msockid=3021cac2195069ed3194ddad186a68f9"
+  },
+  {
+    "CVE": "CVE-2026-80177",
+    "PoC": "https://www.dell.com/support/kbdoc/en-in/000503426/dsa-2026-382-security-update-for-dell-secure-connect-gateway-virtual-edition-multiple-vulnerabilities"
+  },
+  {
+    "CVE": "CVE-2026-80178",
+    "PoC": "https://www.dell.com/support/kbdoc/en-in/000503426/dsa-2026-382-security-update-for-dell-secure-connect-gateway-virtual-edition-multiple-vulnerabilities?msockid=3021cac2195069ed3194ddad186a68f9"
   },
   {
     "CVE": "CVE-2026-8018",
@@ -634492,6 +635124,14 @@
     "PoC": "https://github.com/zephyrproject-rtos/zephyr/security/advisories/GHSA-hch3-53g6-jj3h"
   },
   {
+    "CVE": "CVE-2026-80238",
+    "PoC": "https://www.dell.com/support/kbdoc/en-in/000503426/dsa-2026-382-security-update-for-dell-secure-connect-gateway-virtual-edition-multiple-vulnerabilities?msockid=3021cac2195069ed3194ddad186a68f9"
+  },
+  {
+    "CVE": "CVE-2026-80239",
+    "PoC": "https://www.dell.com/support/kbdoc/en-in/000503426/dsa-2026-382-security-update-for-dell-secure-connect-gateway-virtual-edition-multiple-vulnerabilities"
+  },
+  {
     "CVE": "CVE-2026-8026",
     "PoC": "https://gist.github.com/YLChen-007/50a553f09aa1c7c04ce18cec13986a91"
   },
@@ -634576,6 +635216,14 @@
     "PoC": "https://wpscan.com/vulnerability/94ed94c8-88e9-4fe8-ad83-cacd4f39dd20/"
   },
   {
+    "CVE": "CVE-2026-80491",
+    "PoC": "https://wpscan.com/vulnerability/765e7131-2eb4-41df-a1e0-05c8a89cb88c/"
+  },
+  {
+    "CVE": "CVE-2026-80494",
+    "PoC": "https://wpscan.com/vulnerability/fdc0fefb-c090-4972-9867-d1090353e40c/"
+  },
+  {
     "CVE": "CVE-2026-80515",
     "PoC": "https://gitlab.eclipse.org/security/vulnerability-reports/-/work_items/752"
   },
@@ -634648,6 +635296,10 @@
     "PoC": "https://wpscan.com/vulnerability/6677b55c-5d51-4849-ac67-849a500aefe2/"
   },
   {
+    "CVE": "CVE-2026-81090",
+    "PoC": "https://wpscan.com/vulnerability/92e50025-cfa4-4727-bd02-8f45196021ae/"
+  },
+  {
     "CVE": "CVE-2026-8114",
     "PoC": "https://github.com/jeecgboot/JeecgBoot/issues/9571"
   },
@@ -634704,6 +635356,10 @@
     "PoC": "https://github.com/Kiciot/cve/issues/4"
   },
   {
+    "CVE": "CVE-2026-81402",
+    "PoC": "https://wpscan.com/vulnerability/60e82611-ddf1-4275-8c68-14694d863fca/"
+  },
+  {
     "CVE": "CVE-2026-81404",
     "PoC": "https://wpscan.com/vulnerability/8fbfb296-78d8-4f3b-ab21-7a5a4e0ea421/"
   },
@@ -634726,6 +635382,10 @@
   {
     "CVE": "CVE-2026-81428",
     "PoC": "https://wpscan.com/vulnerability/e573c233-ed24-40a3-a16a-c80317910cce/"
+  },
+  {
+    "CVE": "CVE-2026-81429",
+    "PoC": "https://wpscan.com/vulnerability/48f67510-9fb3-4f74-a38e-31635617ba60/"
   },
   {
     "CVE": "CVE-2026-8143",
@@ -634810,6 +635470,10 @@
   {
     "CVE": "CVE-2026-81741",
     "PoC": "https://wpscan.com/vulnerability/4bfdee51-f2d0-4549-a9b4-5f4e11f2de4c/"
+  },
+  {
+    "CVE": "CVE-2026-81742",
+    "PoC": "https://wpscan.com/vulnerability/ea7c371a-3d0b-4e09-9c76-145345ad316b/"
   },
   {
     "CVE": "CVE-2026-81766",
@@ -634914,6 +635578,14 @@
   {
     "CVE": "CVE-2026-82194",
     "PoC": "https://wpscan.com/vulnerability/bb68f7ae-e380-4154-bd77-8511d8f949d3/"
+  },
+  {
+    "CVE": "CVE-2026-82213",
+    "PoC": "https://wpscan.com/vulnerability/ccdf87ac-7442-441f-ad96-466c715b1d66/"
+  },
+  {
+    "CVE": "CVE-2026-82215",
+    "PoC": "https://wpscan.com/vulnerability/c7703a51-9d5d-4483-b214-7249701ee9ff/"
   },
   {
     "CVE": "CVE-2026-82217",
@@ -635620,6 +636292,10 @@
     "PoC": "https://github.com/ash-project/ash/security/advisories/GHSA-j8fx-ff37-4j9c"
   },
   {
+    "CVE": "CVE-2026-82750",
+    "PoC": "https://github.com/ZenHive/mpp/security/advisories/GHSA-5qrp-r24c-w6jr"
+  },
+  {
     "CVE": "CVE-2026-82752",
     "PoC": "https://github.com/ash-project/ash/security/advisories/GHSA-cwjv-574p-59f6"
   },
@@ -635652,12 +636328,24 @@
     "PoC": "https://github.com/raind20001020/Poc/blob/main/flvmeta_heap_buffer_overflow"
   },
   {
+    "CVE": "CVE-2026-82845",
+    "PoC": "https://wpscan.com/vulnerability/5ced30ea-8b78-495f-b10c-42b3f10adcb3/"
+  },
+  {
     "CVE": "CVE-2026-82846",
     "PoC": "https://wpscan.com/vulnerability/0ee2052c-90a8-4b98-947a-adc55feb1de7/"
   },
   {
+    "CVE": "CVE-2026-82847",
+    "PoC": "https://wpscan.com/vulnerability/9cc4f7a7-e5b9-48fe-962b-f5d0753e6158/"
+  },
+  {
     "CVE": "CVE-2026-82848",
     "PoC": "https://wpscan.com/vulnerability/a6e580be-ce42-479d-97cd-fcfa2f752b2c/"
+  },
+  {
+    "CVE": "CVE-2026-82851",
+    "PoC": "https://wpscan.com/vulnerability/07664081-72c3-4f7e-9324-e0047b6e6d22/"
   },
   {
     "CVE": "CVE-2026-82853",
@@ -635762,6 +636450,10 @@
   {
     "CVE": "CVE-2026-83530",
     "PoC": "https://github.com/cel-expr/cel-go/pull/1302"
+  },
+  {
+    "CVE": "CVE-2026-83532",
+    "PoC": "https://wpscan.com/vulnerability/164f3fdd-00a6-482f-b3a2-78b50508011d/"
   },
   {
     "CVE": "CVE-2026-83533",
@@ -635928,6 +636620,10 @@
     "PoC": "https://wpscan.com/vulnerability/fa7f5cb0-abe2-4079-9290-e0e4dc89f27f/"
   },
   {
+    "CVE": "CVE-2026-8388",
+    "PoC": "https://bugzilla.mozilla.org/show_bug.cgi?id=2036978"
+  },
+  {
     "CVE": "CVE-2026-8389",
     "PoC": "https://bugzilla.mozilla.org/show_bug.cgi?id=2036983"
   },
@@ -635938,6 +636634,10 @@
   {
     "CVE": "CVE-2026-84022",
     "PoC": "https://wpscan.com/vulnerability/53bbe80c-caea-4893-82a6-03e5173390de/"
+  },
+  {
+    "CVE": "CVE-2026-84025",
+    "PoC": "https://wpscan.com/vulnerability/468a9f1a-1a16-410f-97a0-8a87a974df21/"
   },
   {
     "CVE": "CVE-2026-84028",
@@ -636316,6 +637016,10 @@
     "PoC": "https://wpscan.com/vulnerability/d81ebdaa-4a06-48df-a471-c11ea7dc62f8/"
   },
   {
+    "CVE": "CVE-2026-85681",
+    "PoC": "https://wpscan.com/vulnerability/c602bd9e-a825-4990-a66b-1403bbeb2cee/"
+  },
+  {
     "CVE": "CVE-2026-8571",
     "PoC": "https://issues.chromium.org/issues/491422244"
   },
@@ -636356,20 +637060,228 @@
     "PoC": "https://portal.perforce.com/s/cve/a91Qi000003CcxRIAS/unauthenticated-remote-code-execution-in-akana-policy-manager-console"
   },
   {
+    "CVE": "CVE-2026-85979",
+    "PoC": "https://portal.perforce.com/s/cve/a91Qi000003CybNIAS/command-injection-in-puppet-enterprise"
+  },
+  {
     "CVE": "CVE-2026-86060",
     "PoC": "https://forum.mikrotik.com/t/7-24-2-stable-is-released/272800"
+  },
+  {
+    "CVE": "CVE-2026-86090",
+    "PoC": "https://github.com/ntop/ntopng/security/advisories/GHSA-m22w-f647-vx88"
+  },
+  {
+    "CVE": "CVE-2026-86091",
+    "PoC": "https://github.com/ntop/ntopng/security/advisories/GHSA-m22w-f647-vx88"
+  },
+  {
+    "CVE": "CVE-2026-86097",
+    "PoC": "https://github.com/PX4/PX4-Autopilot/pull/28475"
+  },
+  {
+    "CVE": "CVE-2026-86120",
+    "PoC": "https://github.com/apitable/apitable/issues/1814"
+  },
+  {
+    "CVE": "CVE-2026-86122",
+    "PoC": "https://github.com/rowboatlabs/rowboat/issues/621"
+  },
+  {
+    "CVE": "CVE-2026-86124",
+    "PoC": "https://github.com/HKUDS/AutoAgent/issues/96"
+  },
+  {
+    "CVE": "CVE-2026-86145",
+    "PoC": "https://github.com/PCRE2Project/pcre2/security/advisories/GHSA-3r4p-g7gg-ppmf"
+  },
+  {
+    "CVE": "CVE-2026-86160",
+    "PoC": "https://github.com/lwcc223/CVE/issues/2"
+  },
+  {
+    "CVE": "CVE-2026-86161",
+    "PoC": "https://github.com/lwcc223/CVE/issues/3"
+  },
+  {
+    "CVE": "CVE-2026-86164",
+    "PoC": "https://github.com/ltranquility/submit_repository/issues/4"
+  },
+  {
+    "CVE": "CVE-2026-86165",
+    "PoC": "https://github.com/SunnyYANGyaya/cuicuishark-sheep-fishIOT/blob/main/Tenda/HG10/bof-formURL-keywd.md"
+  },
+  {
+    "CVE": "CVE-2026-86166",
+    "PoC": "https://github.com/SunnyYANGyaya/cuicuishark-sheep-fishIOT/blob/main/Tenda/HG10/bof-formWanRedirect-if.md"
+  },
+  {
+    "CVE": "CVE-2026-86168",
+    "PoC": "https://github.com/ahmadmarz10-hub/CVEsMarz/blob/main/SQL%20Injection%20Vulnerability%20in%20Content%20Management%20System%20%60user_name%60%20Parameter.md"
+  },
+  {
+    "CVE": "CVE-2026-86170",
+    "PoC": "https://github.com/DefaultFuction/Customer-Relationship-Management-System/issues/3"
+  },
+  {
+    "CVE": "CVE-2026-86172",
+    "PoC": "https://github.com/DefaultFuction/Customer-Relationship-Management-System/issues/5"
+  },
+  {
+    "CVE": "CVE-2026-86173",
+    "PoC": "https://github.com/mindsdb/mindshub/issues/12480"
+  },
+  {
+    "CVE": "CVE-2026-86176",
+    "PoC": "https://github.com/geo-chen/oss/blob/main/netbox.md#finding-1-cross-user-disclosure-of-private-notifications-subscriptions-and-bookmarks-via-rest-api-and-graphql-missing-per-user-scoping"
+  },
+  {
+    "CVE": "CVE-2026-86187",
+    "PoC": "https://github.com/WWBN/AVideo/security/advisories/GHSA-h3ff-c2qq-pr2g"
+  },
+  {
+    "CVE": "CVE-2026-86193",
+    "PoC": "https://github.com/getgrav/grav/security/advisories/GHSA-vv8m-jqpm-38x4"
+  },
+  {
+    "CVE": "CVE-2026-86194",
+    "PoC": "https://github.com/getgrav/grav/security/advisories/GHSA-33m4-m988-5fvh"
+  },
+  {
+    "CVE": "CVE-2026-86195",
+    "PoC": "https://github.com/getgrav/grav/security/advisories/GHSA-m363-3hww-gcwc"
+  },
+  {
+    "CVE": "CVE-2026-86197",
+    "PoC": "https://github.com/getgrav/grav/security/advisories/GHSA-8hgv-xc77-jmcr"
+  },
+  {
+    "CVE": "CVE-2026-86222",
+    "PoC": "https://github.com/justconter/_CVE/issues/3"
+  },
+  {
+    "CVE": "CVE-2026-86223",
+    "PoC": "https://github.com/justconter/_CVE/issues/4"
+  },
+  {
+    "CVE": "CVE-2026-86223",
+    "PoC": "https://github.com/justconter/cve/issues/4"
+  },
+  {
+    "CVE": "CVE-2026-86224",
+    "PoC": "https://github.com/justconter/_CVE/issues/5"
+  },
+  {
+    "CVE": "CVE-2026-86231",
+    "PoC": "https://github.com/mwiede/jsch/issues/1091"
+  },
+  {
+    "CVE": "CVE-2026-86231",
+    "PoC": "https://github.com/mwiede/jsch/pull/1098"
+  },
+  {
+    "CVE": "CVE-2026-86234",
+    "PoC": "https://github.com/v89269561-web/CyberseReasearch/issues/3"
+  },
+  {
+    "CVE": "CVE-2026-86236",
+    "PoC": "https://github.com/ltranquility/submit_repository/issues/6"
+  },
+  {
+    "CVE": "CVE-2026-86238",
+    "PoC": "https://github.com/CyberShailendra1/Online-Examination-System-Project"
   },
   {
     "CVE": "CVE-2026-86244",
     "PoC": "https://lhzzz08.github.io/posts/cveapplication4/"
   },
   {
+    "CVE": "CVE-2026-86255",
+    "PoC": "https://github.com/wger-project/wger/security/advisories/GHSA-v25j-wqcw-fvhj"
+  },
+  {
+    "CVE": "CVE-2026-86256",
+    "PoC": "https://github.com/wger-project/wger/security/advisories/GHSA-vqv8-j3mj-wjxj"
+  },
+  {
+    "CVE": "CVE-2026-86257",
+    "PoC": "https://github.com/wger-project/wger/security/advisories/GHSA-xq9m-hmp9-fw87"
+  },
+  {
     "CVE": "CVE-2026-86270",
     "PoC": "https://github.com/ltranquility/submit_repository/issues/10"
   },
   {
+    "CVE": "CVE-2026-86271",
+    "PoC": "https://github.com/fluentcms/FluentCMS/issues/2409"
+  },
+  {
+    "CVE": "CVE-2026-86275",
+    "PoC": "https://github.com/hackliu/Vulnerability-Reports/blob/master/Syllabus%20Aligned%20Learning%20Management%20Examination%20System/VULN-01-Unauthenticated-Privilege-Escalation.md"
+  },
+  {
+    "CVE": "CVE-2026-86279",
+    "PoC": "https://github.com/hackliu/Vulnerability-Reports/blob/master/Syllabus%20Aligned%20Learning%20Management%20Examination%20System/VULN-06-Session-Management-Flaws.md"
+  },
+  {
+    "CVE": "CVE-2026-86281",
+    "PoC": "https://github.com/hackliu/Vulnerability-Reports/blob/master/Syllabus%20Aligned%20Learning%20Management%20Examination%20System/VULN-08-CSRF-Missing-Tokens.md"
+  },
+  {
+    "CVE": "CVE-2026-86290",
+    "PoC": "https://github.com/W5M1n9/cve/issues/2"
+  },
+  {
     "CVE": "CVE-2026-86291",
     "PoC": "https://github.com/ltranquility/submit_repository/issues/11"
+  },
+  {
+    "CVE": "CVE-2026-86298",
+    "PoC": "https://github.com/mexics2/vulnerability-report/issues/5"
+  },
+  {
+    "CVE": "CVE-2026-86300",
+    "PoC": "https://github.com/limou89/somevul/blob/main/Tenda_AC9_fast_setting_wifi_set_Unauth_Password.md"
+  },
+  {
+    "CVE": "CVE-2026-86300",
+    "PoC": "https://github.com/limou89/somevul/blob/main/Tenda_AC9_getProduct_Info_Disclosure.md"
+  },
+  {
+    "CVE": "CVE-2026-86302",
+    "PoC": "https://github.com/ahmadmarz10-hub/CVEsMarz/blob/main/Hospital%20Information%20System%20%E2%80%93%20Sensitive%20Information%20Disclosure%20via%20Exposed%20SQL%20Database%20File.md"
+  },
+  {
+    "CVE": "CVE-2026-86318",
+    "PoC": "https://github.com/java-json-tools/json-patch/issues/168"
+  },
+  {
+    "CVE": "CVE-2026-86319",
+    "PoC": "https://github.com/java-json-tools/json-patch/issues/167"
+  },
+  {
+    "CVE": "CVE-2026-86427",
+    "PoC": "https://github.com/librenms/librenms/security/advisories/GHSA-3hvv-wxpw-cx83"
+  },
+  {
+    "CVE": "CVE-2026-86431",
+    "PoC": "https://github.com/thephpleague/commonmark/security/advisories/GHSA-f8fg-pg57-v4j8"
+  },
+  {
+    "CVE": "CVE-2026-86436",
+    "PoC": "https://github.com/laradashboard/laradashboard/security/advisories/GHSA-hp3f-j9w2-5rqg"
+  },
+  {
+    "CVE": "CVE-2026-86436",
+    "PoC": "https://github.com/laradashboard/laradashboard/security/advisories/GHSA-j4mm-xcgj-vpvv"
+  },
+  {
+    "CVE": "CVE-2026-86437",
+    "PoC": "https://github.com/laradashboard/laradashboard/security/advisories/GHSA-xv98-x5h7-4g7v"
+  },
+  {
+    "CVE": "CVE-2026-86438",
+    "PoC": "https://github.com/laradashboard/laradashboard/security/advisories/GHSA-4x9p-vg5m-vr6p"
   },
   {
     "CVE": "CVE-2026-86464",
@@ -636382,6 +637294,14 @@
   {
     "CVE": "CVE-2026-86464",
     "PoC": "https://gitlab.eclipse.org/security/vulnerability-reports/-/work_items/829"
+  },
+  {
+    "CVE": "CVE-2026-86511",
+    "PoC": "https://github.com/java-json-tools/jackson-coreutils/issues/65"
+  },
+  {
+    "CVE": "CVE-2026-86513",
+    "PoC": "https://github.com/java-json-tools/jackson-coreutils/issues/66"
   },
   {
     "CVE": "CVE-2026-8654",
@@ -636404,8 +637324,84 @@
     "PoC": "https://gitlab.eclipse.org/security/vulnerability-reports/-/work_items/617"
   },
   {
+    "CVE": "CVE-2026-86644",
+    "PoC": "https://gist.github.com/saDL0w/36a72a076e9ab24408a3d27582e778b2"
+  },
+  {
     "CVE": "CVE-2026-86675",
     "PoC": "https://github.com/ltranquility/submit_repository/issues/12"
+  },
+  {
+    "CVE": "CVE-2026-86711",
+    "PoC": "https://github.com/electerm/electerm/issues/4509"
+  },
+  {
+    "CVE": "CVE-2026-86712",
+    "PoC": "https://github.com/siyuan-note/siyuan/security/advisories/GHSA-9rr9-pxr4-gcgc"
+  },
+  {
+    "CVE": "CVE-2026-86714",
+    "PoC": "https://github.com/PX4/PX4-Autopilot/pull/28483"
+  },
+  {
+    "CVE": "CVE-2026-86716",
+    "PoC": "https://github.com/cesanta/mjs/issues/324"
+  },
+  {
+    "CVE": "CVE-2026-86720",
+    "PoC": "https://github.com/WWBN/AVideo/security/advisories/GHSA-7c8r-rj82-c8fv"
+  },
+  {
+    "CVE": "CVE-2026-86722",
+    "PoC": "https://github.com/WWBN/AVideo/security/advisories/GHSA-wmhg-p72j-72gf"
+  },
+  {
+    "CVE": "CVE-2026-86723",
+    "PoC": "https://github.com/WWBN/AVideo/security/advisories/GHSA-vmpj-f3mf-q4j2"
+  },
+  {
+    "CVE": "CVE-2026-86724",
+    "PoC": "https://github.com/WWBN/AVideo/security/advisories/GHSA-v2q3-cpm3-r8pq"
+  },
+  {
+    "CVE": "CVE-2026-86727",
+    "PoC": "https://github.com/WWBN/AVideo/security/advisories/GHSA-8g4j-g3r6-73xr"
+  },
+  {
+    "CVE": "CVE-2026-86762",
+    "PoC": "https://github.com/grokability/snipe-it/security/advisories/GHSA-cj4w-vx6j-42rf"
+  },
+  {
+    "CVE": "CVE-2026-86765",
+    "PoC": "https://github.com/grokability/snipe-it/security/advisories/GHSA-6g2g-83pc-6365"
+  },
+  {
+    "CVE": "CVE-2026-86766",
+    "PoC": "https://github.com/grokability/snipe-it/security/advisories/GHSA-x4g2-87xc-m5jm"
+  },
+  {
+    "CVE": "CVE-2026-86767",
+    "PoC": "https://github.com/grokability/snipe-it/security/advisories/GHSA-fxm8-w79r-g7wr"
+  },
+  {
+    "CVE": "CVE-2026-86768",
+    "PoC": "https://github.com/grokability/snipe-it/security/advisories/GHSA-qffp-xpqv-gqr4"
+  },
+  {
+    "CVE": "CVE-2026-86770",
+    "PoC": "https://github.com/grokability/snipe-it/security/advisories/GHSA-w3vv-5wxh-xg4h"
+  },
+  {
+    "CVE": "CVE-2026-86771",
+    "PoC": "https://github.com/grokability/snipe-it/security/advisories/GHSA-73xg-j94v-gjcf"
+  },
+  {
+    "CVE": "CVE-2026-86772",
+    "PoC": "https://github.com/grokability/snipe-it/security/advisories/GHSA-3j84-c68v-g76m"
+  },
+  {
+    "CVE": "CVE-2026-86776",
+    "PoC": "https://github.com/KSecur1ty/KDBX-Header-Size-Mirage-POC"
   },
   {
     "CVE": "CVE-2026-86776",
@@ -636428,8 +637424,24 @@
     "PoC": "https://wpscan.com/vulnerability/ad9909b8-c302-4cb5-bbe7-bff89c64b6ce/"
   },
   {
+    "CVE": "CVE-2026-86790",
+    "PoC": "https://wpscan.com/vulnerability/b48571ae-368e-4193-977a-f22fb09db4d4/"
+  },
+  {
+    "CVE": "CVE-2026-86793",
+    "PoC": "https://vicone.com/blog/cve-2026-86793-sglang-bypass-could-let-attackers-run-code-on-ai-servers/"
+  },
+  {
+    "CVE": "CVE-2026-86809",
+    "PoC": "https://wpscan.com/vulnerability/ed1f8ac4-078b-49c6-b7c5-7d422a20e59e/"
+  },
+  {
     "CVE": "CVE-2026-86812",
     "PoC": "https://wpscan.com/vulnerability/fe8d76b2-6d57-49cc-9927-5231e1a26a41/"
+  },
+  {
+    "CVE": "CVE-2026-86813",
+    "PoC": "https://wpscan.com/vulnerability/afda2a26-b965-42cb-85a8-4a4d83ec026e/"
   },
   {
     "CVE": "CVE-2026-86815",
@@ -636596,6 +637608,10 @@
     "PoC": "https://issues.chromium.org/issues/496595299"
   },
   {
+    "CVE": "CVE-2026-87555",
+    "PoC": "https://issues.chromium.org/issues/517337579"
+  },
+  {
     "CVE": "CVE-2026-87557",
     "PoC": "https://issues.chromium.org/issues/497635917"
   },
@@ -636650,6 +637666,10 @@
   {
     "CVE": "CVE-2026-87596",
     "PoC": "https://issues.chromium.org/issues/536434693"
+  },
+  {
+    "CVE": "CVE-2026-87601",
+    "PoC": "https://issues.chromium.org/issues/541604100"
   },
   {
     "CVE": "CVE-2026-87603",
@@ -636732,6 +637752,14 @@
     "PoC": "https://gist.github.com/A1AAAAAAAAAA1/ab8df4181f9311cb9e7dad905e9aa512"
   },
   {
+    "CVE": "CVE-2026-87759",
+    "PoC": "https://wpscan.com/vulnerability/41020730-c79a-43b4-a902-3a34fdca90d6/"
+  },
+  {
+    "CVE": "CVE-2026-87797",
+    "PoC": "https://wpscan.com/vulnerability/ded55e47-568d-4702-b043-4707e4182a09/"
+  },
+  {
     "CVE": "CVE-2026-8781",
     "PoC": "https://vuldb.com/vuln/364405"
   },
@@ -636748,8 +637776,44 @@
     "PoC": "https://github.com/npitre/cramfs-tools/issues/13#issuecomment-4306102583"
   },
   {
+    "CVE": "CVE-2026-87842",
+    "PoC": "https://wpscan.com/vulnerability/fb0cafdc-d1d5-4cad-852e-b0d569ae4469/"
+  },
+  {
     "CVE": "CVE-2026-8786",
     "PoC": "https://gist.github.com/YLChen-007/1cdc50418f29af7ae671466425e52c7b"
+  },
+  {
+    "CVE": "CVE-2026-87888",
+    "PoC": "https://wpscan.com/vulnerability/19bc425d-2aa3-4b2b-bc66-ac5ea96502e0/"
+  },
+  {
+    "CVE": "CVE-2026-87891",
+    "PoC": "https://wpscan.com/vulnerability/e7f3b29e-2503-41bb-b15c-3c0ef71a3a00/"
+  },
+  {
+    "CVE": "CVE-2026-87892",
+    "PoC": "https://wpscan.com/vulnerability/971084b9-5bf9-438a-a94d-435d1b1f01d1/"
+  },
+  {
+    "CVE": "CVE-2026-87894",
+    "PoC": "https://wpscan.com/vulnerability/3f098db1-5406-4a77-adb1-99a66eb806a4/"
+  },
+  {
+    "CVE": "CVE-2026-87916",
+    "PoC": "https://wpscan.com/vulnerability/31d65e66-10b1-467a-8b20-ecf4880359e0/"
+  },
+  {
+    "CVE": "CVE-2026-87918",
+    "PoC": "https://wpscan.com/vulnerability/d6b3745b-bda1-4734-b39c-75376477ba0a/"
+  },
+  {
+    "CVE": "CVE-2026-87919",
+    "PoC": "https://wpscan.com/vulnerability/2e2f48d3-9106-4357-beec-4dbea02223dc/"
+  },
+  {
+    "CVE": "CVE-2026-87987",
+    "PoC": "https://www.hiddenlayer.com/sai-security-advisory/2026-09-mistral-vibe5"
   },
   {
     "CVE": "CVE-2026-88023",
@@ -636818,6 +637882,38 @@
   {
     "CVE": "CVE-2026-8861",
     "PoC": "https://www.ibm.com/support/pages/node/7279510"
+  },
+  {
+    "CVE": "CVE-2026-89212",
+    "PoC": "https://portal.perforce.com/s/cve/a91Qi000003CxPBIA0/xml-external-entity-in-akana-api-platform"
+  },
+  {
+    "CVE": "CVE-2026-89260",
+    "PoC": "https://www.vulncheck.com/advisories/mogublog-through-6.2-xml-external-entity-injection-in-the-unauthenticated-wechat-callback-endpoint"
+  },
+  {
+    "CVE": "CVE-2026-89261",
+    "PoC": "https://www.vulncheck.com/advisories/mogublog-through-6.2-missing-authentication-for-elasticsearch-index-management-endpoints"
+  },
+  {
+    "CVE": "CVE-2026-89262",
+    "PoC": "https://www.vulncheck.com/advisories/mogublog-through-6.2-arbitrary-comment-deletion-via-request-body-ownership-check"
+  },
+  {
+    "CVE": "CVE-2026-89263",
+    "PoC": "https://www.vulncheck.com/advisories/mogublog-through-6.2-missing-authentication-on-the-comment-email-notification-endpoint"
+  },
+  {
+    "CVE": "CVE-2026-89264",
+    "PoC": "https://www.vulncheck.com/advisories/mogublog-through-6.2-comment-author-spoofing-via-request-body-identity"
+  },
+  {
+    "CVE": "CVE-2026-89265",
+    "PoC": "https://www.vulncheck.com/advisories/mogublog-through-6.2-missing-authorization-on-the-admin-getpicturesortbyuid-endpoint"
+  },
+  {
+    "CVE": "CVE-2026-89329",
+    "PoC": "https://bugzilla.redhat.com/show_bug.cgi?id=2470013"
   },
   {
     "CVE": "CVE-2026-8935",
@@ -636898,6 +637994,10 @@
   {
     "CVE": "CVE-2026-8989",
     "PoC": "https://cyberdanube.com/security-research/multiple-vulnerabilities-in-autel-maxi-charger/"
+  },
+  {
+    "CVE": "CVE-2026-90460",
+    "PoC": "https://launchpad.net/bugs/2158931"
   },
   {
     "CVE": "CVE-2026-9047",
