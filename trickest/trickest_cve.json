@@ -159104,6 +159104,10 @@
     "PoC": "https://www.exploit-db.com/exploits/37657/"
   },
   {
+    "CVE": "CVE-2015-0098",
+    "PoC": "https://docs.microsoft.com/en-us/security-updates/securitybulletins/2015/ms15-037"
+  },
+  {
     "CVE": "CVE-2015-0138",
     "PoC": "http://www-01.ibm.com/support/docview.wss?uid=swg21883640"
   },
@@ -346245,6 +346249,10 @@
   },
   {
     "CVE": "CVE-2020-6859",
+    "PoC": "https://github.com/ultimatemember/ultimatemember/commit/249682559012734a4f7d71f52609b2f301ea55b1"
+  },
+  {
+    "CVE": "CVE-2020-6859",
     "PoC": "https://wpvulndb.com/vulnerabilities/10041"
   },
   {
@@ -484604,6 +484612,10 @@
     "PoC": "https://www.drupal.org/sa-contrib-2024-049"
   },
   {
+    "CVE": "CVE-2024-13294",
+    "PoC": "https://www.drupal.org/sa-contrib-2024-060"
+  },
+  {
     "CVE": "CVE-2024-1330",
     "PoC": "https://wpscan.com/vulnerability/1988815b-7a53-4657-9b1c-1f83c9f9ccfd/"
   },
@@ -524082,6 +524094,10 @@
   {
     "CVE": "CVE-2024-8567",
     "PoC": "https://github.com/ppp-src/ha/issues/8"
+  },
+  {
+    "CVE": "CVE-2024-8568",
+    "PoC": "https://vuldb.com/?submit.401010"
   },
   {
     "CVE": "CVE-2024-8569",
@@ -565080,6 +565096,10 @@
     "PoC": "https://github.com/szluyu99/gin-vue-blog/issues/28"
   },
   {
+    "CVE": "CVE-2025-6099",
+    "PoC": "https://vuldb.com/?id.312568"
+  },
+  {
     "CVE": "CVE-2025-60991",
     "PoC": "https://github.com/ShadowByte1/CVE-Reports/blob/main/CVE-2025-60991.md"
   },
@@ -592312,6 +592332,10 @@
     "PoC": "https://github.com/EnzoVezzaro/mcp-dominican-layer/issues/2"
   },
   {
+    "CVE": "CVE-2026-19752",
+    "PoC": "https://vuldb.com/cve/CVE-2026-19752"
+  },
+  {
     "CVE": "CVE-2026-19753",
     "PoC": "https://github.com/emekaokoye/mcp-rdf-explorer/issues/3"
   },
@@ -609750,6 +609774,10 @@
   {
     "CVE": "CVE-2026-42140",
     "PoC": "https://jira.xwiki.org/browse/PLANTUML-25"
+  },
+  {
+    "CVE": "CVE-2026-42142",
+    "PoC": "https://github.com/baptisteArno/typebot.io/security/advisories/GHSA-7jr4-r73c-h4h9"
   },
   {
     "CVE": "CVE-2026-42143",
@@ -631992,6 +632020,10 @@
     "PoC": "https://issues.chromium.org/issues/541854084"
   },
   {
+    "CVE": "CVE-2026-76023",
+    "PoC": "https://issues.chromium.org/issues/545124048"
+  },
+  {
     "CVE": "CVE-2026-76033",
     "PoC": "https://issues.chromium.org/issues/516715010"
   },
@@ -632034,6 +632066,10 @@
   {
     "CVE": "CVE-2026-76044",
     "PoC": "https://issues.chromium.org/issues/522732244"
+  },
+  {
+    "CVE": "CVE-2026-76046",
+    "PoC": "https://issues.chromium.org/issues/536581050"
   },
   {
     "CVE": "CVE-2026-76047",
@@ -632686,6 +632722,10 @@
   {
     "CVE": "CVE-2026-77771",
     "PoC": "https://wpscan.com/vulnerability/e1e57673-18cb-4157-9d58-547af7101b04/"
+  },
+  {
+    "CVE": "CVE-2026-77773",
+    "PoC": "https://wpscan.com/vulnerability/c4c15701-2149-43b4-b794-38871c0dc734/"
   },
   {
     "CVE": "CVE-2026-77782",
@@ -633516,6 +633556,10 @@
     "PoC": "https://issues.chromium.org/issues/523704817"
   },
   {
+    "CVE": "CVE-2026-79014",
+    "PoC": "https://issues.chromium.org/issues/536568319"
+  },
+  {
     "CVE": "CVE-2026-7902",
     "PoC": "https://chromereleases.googleblog.com/2026/05/stable-channel-update-for-desktop.html"
   },
@@ -633840,6 +633884,10 @@
     "PoC": "https://issues.chromium.org/issues/517655953"
   },
   {
+    "CVE": "CVE-2026-79195",
+    "PoC": "https://issues.chromium.org/issues/501892500"
+  },
+  {
     "CVE": "CVE-2026-79198",
     "PoC": "https://issues.chromium.org/issues/536606137"
   },
@@ -633878,6 +633926,10 @@
   {
     "CVE": "CVE-2026-7921",
     "PoC": "https://issues.chromium.org/issues/499062376"
+  },
+  {
+    "CVE": "CVE-2026-79210",
+    "PoC": "https://issues.chromium.org/issues/501331457"
   },
   {
     "CVE": "CVE-2026-79214",
@@ -634802,6 +634854,14 @@
   {
     "CVE": "CVE-2026-8007",
     "PoC": "https://issues.chromium.org/issues/496399759"
+  },
+  {
+    "CVE": "CVE-2026-80071",
+    "PoC": "https://wpscan.com/vulnerability/a4fbdeea-0d3b-466b-b4b6-4c4db277cd1d/"
+  },
+  {
+    "CVE": "CVE-2026-80072",
+    "PoC": "https://wpscan.com/vulnerability/0af2c06d-87a0-4be7-a409-ffb7ad958aad/"
   },
   {
     "CVE": "CVE-2026-8008",
@@ -636636,6 +636696,14 @@
     "PoC": "https://wpscan.com/vulnerability/53bbe80c-caea-4893-82a6-03e5173390de/"
   },
   {
+    "CVE": "CVE-2026-84023",
+    "PoC": "https://wpscan.com/vulnerability/7adbb52f-94e2-425e-9930-2ab856961b63/"
+  },
+  {
+    "CVE": "CVE-2026-84024",
+    "PoC": "https://wpscan.com/vulnerability/8ea75cb0-e6f0-4ea4-a70f-f9c4e2e16681/"
+  },
+  {
     "CVE": "CVE-2026-84025",
     "PoC": "https://wpscan.com/vulnerability/468a9f1a-1a16-410f-97a0-8a87a974df21/"
   },
@@ -636656,6 +636724,10 @@
     "PoC": "https://wpscan.com/vulnerability/241a7890-81b3-4685-a243-e774d560f17a/"
   },
   {
+    "CVE": "CVE-2026-84047",
+    "PoC": "https://wpscan.com/vulnerability/eebacbae-4b25-45b5-96d9-f5ba28dfd825/"
+  },
+  {
     "CVE": "CVE-2026-8406",
     "PoC": "https://fluidattacks.com/es/advisories/melanie"
   },
@@ -636672,12 +636744,20 @@
     "PoC": "https://devolutions.net/security/advisories/DEVO-2026-0010/"
   },
   {
+    "CVE": "CVE-2026-84099",
+    "PoC": "https://wpscan.com/vulnerability/11d36ab2-ac8d-42cf-91c0-dea55d7edc9a/"
+  },
+  {
     "CVE": "CVE-2026-84113",
     "PoC": "https://wpscan.com/vulnerability/359127b1-94a5-4007-94ac-a1d813b04ce0/"
   },
   {
     "CVE": "CVE-2026-84146",
     "PoC": "https://wpscan.com/vulnerability/8e7cdd07-0337-4e0b-adf6-b865e13322a2/"
+  },
+  {
+    "CVE": "CVE-2026-84171",
+    "PoC": "https://wpscan.com/vulnerability/e5b9fd87-92a7-4fc6-b8b2-896b87d97c40/"
   },
   {
     "CVE": "CVE-2026-84175",
@@ -636854,6 +636934,10 @@
   {
     "CVE": "CVE-2026-8510",
     "PoC": "https://issues.chromium.org/issues/502636904"
+  },
+  {
+    "CVE": "CVE-2026-85116",
+    "PoC": "https://wpscan.com/vulnerability/7bab04a6-59ef-4b4f-a374-ddc5a2a52b60/"
   },
   {
     "CVE": "CVE-2026-85117",
@@ -637260,6 +637344,14 @@
     "PoC": "https://github.com/java-json-tools/json-patch/issues/167"
   },
   {
+    "CVE": "CVE-2026-86406",
+    "PoC": "https://wpscan.com/vulnerability/0fb4ec40-3f92-4c7e-8877-8898b355d78d/"
+  },
+  {
+    "CVE": "CVE-2026-86407",
+    "PoC": "https://wpscan.com/vulnerability/2c9eb1fe-4e18-4fd0-9581-5672ffc4b598/"
+  },
+  {
     "CVE": "CVE-2026-86427",
     "PoC": "https://github.com/librenms/librenms/security/advisories/GHSA-3hvv-wxpw-cx83"
   },
@@ -637432,6 +637524,10 @@
     "PoC": "https://vicone.com/blog/cve-2026-86793-sglang-bypass-could-let-attackers-run-code-on-ai-servers/"
   },
   {
+    "CVE": "CVE-2026-86806",
+    "PoC": "https://vuldb.com/submit/911055"
+  },
+  {
     "CVE": "CVE-2026-86809",
     "PoC": "https://wpscan.com/vulnerability/ed1f8ac4-078b-49c6-b7c5-7d422a20e59e/"
   },
@@ -637528,6 +637624,10 @@
     "PoC": "https://issues.chromium.org/issues/536446354"
   },
   {
+    "CVE": "CVE-2026-87472",
+    "PoC": "https://issues.chromium.org/issues/514016678"
+  },
+  {
     "CVE": "CVE-2026-87481",
     "PoC": "https://issues.chromium.org/issues/498730641"
   },
@@ -637602,6 +637702,10 @@
   {
     "CVE": "CVE-2026-87542",
     "PoC": "https://issues.chromium.org/issues/542756749"
+  },
+  {
+    "CVE": "CVE-2026-87544",
+    "PoC": "https://issues.chromium.org/issues/542355360"
   },
   {
     "CVE": "CVE-2026-87553",
@@ -637884,6 +637988,22 @@
     "PoC": "https://www.ibm.com/support/pages/node/7279510"
   },
   {
+    "CVE": "CVE-2026-88764",
+    "PoC": "https://wpscan.com/vulnerability/54fdf46e-0385-40a3-b3bc-a862dc0fb03e/"
+  },
+  {
+    "CVE": "CVE-2026-88912",
+    "PoC": "https://wpscan.com/vulnerability/58115528-18b6-4f2a-9f6c-d84fdcd6efb4/"
+  },
+  {
+    "CVE": "CVE-2026-88995",
+    "PoC": "https://wpscan.com/vulnerability/5a6f6d75-e7b8-44ad-a0f6-f6e4938ac3d5/"
+  },
+  {
+    "CVE": "CVE-2026-89080",
+    "PoC": "https://wpscan.com/vulnerability/49546064-5663-40f8-be7c-4f3faa31fa9a/"
+  },
+  {
     "CVE": "CVE-2026-89212",
     "PoC": "https://portal.perforce.com/s/cve/a91Qi000003CxPBIA0/xml-external-entity-in-akana-api-platform"
   },
@@ -638002,6 +638122,10 @@
   {
     "CVE": "CVE-2026-9047",
     "PoC": "https://devolutions.net/security/advisories/DEVO-2026-0013/"
+  },
+  {
+    "CVE": "CVE-2026-90495",
+    "PoC": "https://drive.google.com/file/d/1Pc3Xn0funYMa-N-1ihZjSWrpS-zhqbna/view?usp=sharing"
   },
   {
     "CVE": "CVE-2026-9060",
