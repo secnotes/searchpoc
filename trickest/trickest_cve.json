@@ -36772,6 +36772,10 @@
     "PoC": "http://sourceforge.net/project/shownotes.php?release_id=513749&group_id=78745"
   },
   {
+    "CVE": "CVE-2007-3154",
+    "PoC": "http://www.walterzorn.com/tooltip/history.htm"
+  },
+  {
     "CVE": "CVE-2007-3155",
     "PoC": "http://sourceforge.net/project/shownotes.php?release_id=513749&group_id=78745"
   },
@@ -98769,6 +98773,10 @@
   },
   {
     "CVE": "CVE-2011-10028",
+    "PoC": "https://advisories.checkpoint.com/defense/advisories/public/2011/cpai-2011-347.html"
+  },
+  {
+    "CVE": "CVE-2011-10028",
     "PoC": "https://raw.githubusercontent.com/rapid7/metasploit-framework/master/modules/exploits/windows/browser/real_arcade_installerdlg.rb"
   },
   {
@@ -124150,6 +124158,10 @@
   {
     "CVE": "CVE-2013-4408",
     "PoC": "http://www.ubuntu.com/usn/USN-2054-1"
+  },
+  {
+    "CVE": "CVE-2013-4413",
+    "PoC": "https://github.com/schneems/wicked/commit/fe31bb2533fffc9d098c69ebeb7afc3b80509f53"
   },
   {
     "CVE": "CVE-2013-4428",
@@ -195428,8 +195440,68 @@
     "PoC": "https://blog.fortinet.com/2016/06/06/analysis-of-use-after-free-vulnerability-cve-2016-4119-in-adobe-acrobat-and-reader"
   },
   {
+    "CVE": "CVE-2016-4122",
+    "PoC": "https://docs.microsoft.com/en-us/security-updates/securitybulletins/2016/ms16-083"
+  },
+  {
+    "CVE": "CVE-2016-4123",
+    "PoC": "https://docs.microsoft.com/en-us/security-updates/securitybulletins/2016/ms16-083"
+  },
+  {
+    "CVE": "CVE-2016-4124",
+    "PoC": "https://docs.microsoft.com/en-us/security-updates/securitybulletins/2016/ms16-083"
+  },
+  {
+    "CVE": "CVE-2016-4125",
+    "PoC": "https://docs.microsoft.com/en-us/security-updates/securitybulletins/2016/ms16-083"
+  },
+  {
+    "CVE": "CVE-2016-4126",
+    "PoC": "https://docs.microsoft.com/en-us/security-updates/securitybulletins/2016/ms16-083"
+  },
+  {
+    "CVE": "CVE-2016-4127",
+    "PoC": "https://docs.microsoft.com/en-us/security-updates/securitybulletins/2016/ms16-083"
+  },
+  {
+    "CVE": "CVE-2016-4128",
+    "PoC": "https://docs.microsoft.com/en-us/security-updates/securitybulletins/2016/ms16-083"
+  },
+  {
+    "CVE": "CVE-2016-4129",
+    "PoC": "https://docs.microsoft.com/en-us/security-updates/securitybulletins/2016/ms16-083"
+  },
+  {
+    "CVE": "CVE-2016-4130",
+    "PoC": "https://docs.microsoft.com/en-us/security-updates/securitybulletins/2016/ms16-083"
+  },
+  {
+    "CVE": "CVE-2016-4131",
+    "PoC": "https://docs.microsoft.com/en-us/security-updates/securitybulletins/2016/ms16-083"
+  },
+  {
+    "CVE": "CVE-2016-4132",
+    "PoC": "https://docs.microsoft.com/en-us/security-updates/securitybulletins/2016/ms16-083"
+  },
+  {
+    "CVE": "CVE-2016-4133",
+    "PoC": "https://docs.microsoft.com/en-us/security-updates/securitybulletins/2016/ms16-083"
+  },
+  {
+    "CVE": "CVE-2016-4134",
+    "PoC": "https://docs.microsoft.com/en-us/security-updates/securitybulletins/2016/ms16-083"
+  },
+  {
+    "CVE": "CVE-2016-4135",
+    "PoC": "https://docs.microsoft.com/en-us/security-updates/securitybulletins/2016/ms16-083"
+  },
+  {
     "CVE": "CVE-2016-4135",
     "PoC": "https://www.exploit-db.com/exploits/40087/"
+  },
+  {
+    "CVE": "CVE-2016-4136",
+    "PoC": "https://docs.microsoft.com/en-us/security-updates/securitybulletins/2016/ms16-083"
   },
   {
     "CVE": "CVE-2016-4136",
@@ -195437,11 +195509,95 @@
   },
   {
     "CVE": "CVE-2016-4137",
+    "PoC": "https://docs.microsoft.com/en-us/security-updates/securitybulletins/2016/ms16-083"
+  },
+  {
+    "CVE": "CVE-2016-4137",
     "PoC": "https://www.exploit-db.com/exploits/40089/"
   },
   {
     "CVE": "CVE-2016-4138",
+    "PoC": "https://docs.microsoft.com/en-us/security-updates/securitybulletins/2016/ms16-083"
+  },
+  {
+    "CVE": "CVE-2016-4138",
     "PoC": "https://www.exploit-db.com/exploits/40090/"
+  },
+  {
+    "CVE": "CVE-2016-4139",
+    "PoC": "https://docs.microsoft.com/en-us/security-updates/securitybulletins/2016/ms16-083"
+  },
+  {
+    "CVE": "CVE-2016-4140",
+    "PoC": "https://docs.microsoft.com/en-us/security-updates/securitybulletins/2016/ms16-083"
+  },
+  {
+    "CVE": "CVE-2016-4141",
+    "PoC": "https://docs.microsoft.com/en-us/security-updates/securitybulletins/2016/ms16-083"
+  },
+  {
+    "CVE": "CVE-2016-4142",
+    "PoC": "https://docs.microsoft.com/en-us/security-updates/securitybulletins/2016/ms16-083"
+  },
+  {
+    "CVE": "CVE-2016-4143",
+    "PoC": "https://docs.microsoft.com/en-us/security-updates/securitybulletins/2016/ms16-083"
+  },
+  {
+    "CVE": "CVE-2016-4144",
+    "PoC": "https://docs.microsoft.com/en-us/security-updates/securitybulletins/2016/ms16-083"
+  },
+  {
+    "CVE": "CVE-2016-4145",
+    "PoC": "https://docs.microsoft.com/en-us/security-updates/securitybulletins/2016/ms16-083"
+  },
+  {
+    "CVE": "CVE-2016-4146",
+    "PoC": "https://docs.microsoft.com/en-us/security-updates/securitybulletins/2016/ms16-083"
+  },
+  {
+    "CVE": "CVE-2016-4147",
+    "PoC": "https://docs.microsoft.com/en-us/security-updates/securitybulletins/2016/ms16-083"
+  },
+  {
+    "CVE": "CVE-2016-4148",
+    "PoC": "https://docs.microsoft.com/en-us/security-updates/securitybulletins/2016/ms16-083"
+  },
+  {
+    "CVE": "CVE-2016-4149",
+    "PoC": "https://docs.microsoft.com/en-us/security-updates/securitybulletins/2016/ms16-083"
+  },
+  {
+    "CVE": "CVE-2016-4150",
+    "PoC": "https://docs.microsoft.com/en-us/security-updates/securitybulletins/2016/ms16-083"
+  },
+  {
+    "CVE": "CVE-2016-4151",
+    "PoC": "https://docs.microsoft.com/en-us/security-updates/securitybulletins/2016/ms16-083"
+  },
+  {
+    "CVE": "CVE-2016-4152",
+    "PoC": "https://docs.microsoft.com/en-us/security-updates/securitybulletins/2016/ms16-083"
+  },
+  {
+    "CVE": "CVE-2016-4153",
+    "PoC": "https://docs.microsoft.com/en-us/security-updates/securitybulletins/2016/ms16-083"
+  },
+  {
+    "CVE": "CVE-2016-4154",
+    "PoC": "https://docs.microsoft.com/en-us/security-updates/securitybulletins/2016/ms16-083"
+  },
+  {
+    "CVE": "CVE-2016-4155",
+    "PoC": "https://docs.microsoft.com/en-us/security-updates/securitybulletins/2016/ms16-083"
+  },
+  {
+    "CVE": "CVE-2016-4156",
+    "PoC": "https://docs.microsoft.com/en-us/security-updates/securitybulletins/2016/ms16-083"
+  },
+  {
+    "CVE": "CVE-2016-4166",
+    "PoC": "https://docs.microsoft.com/en-us/security-updates/securitybulletins/2016/ms16-083"
   },
   {
     "CVE": "CVE-2016-4175",
@@ -270848,6 +271004,10 @@
     "PoC": "https://0xd0ff9.wordpress.com/2018/06/21/cve-2018-7475/"
   },
   {
+    "CVE": "CVE-2018-7475",
+    "PoC": "https://www.youtube.com/watch?v=8_3Q80JrMm4"
+  },
+  {
     "CVE": "CVE-2018-7476",
     "PoC": "https://www.from0to1.me/index.php/archives/22/"
   },
@@ -323146,6 +323306,14 @@
   {
     "CVE": "CVE-2020-15874",
     "PoC": "https://www.shielder.com/advisories/librenms-graph-authenticated-command-injection/"
+  },
+  {
+    "CVE": "CVE-2020-15875",
+    "PoC": "https://shielder.it/blog"
+  },
+  {
+    "CVE": "CVE-2020-15875",
+    "PoC": "https://www.shielder.com/advisories/librenms-searchphrase-authenticated-sql-injection/"
   },
   {
     "CVE": "CVE-2020-15876",
@@ -589884,6 +590052,14 @@
     "PoC": "https://wpscan.com/vulnerability/ddf13b08-4ee2-46a1-929c-1f435e9e49d4/"
   },
   {
+    "CVE": "CVE-2026-16592",
+    "PoC": "https://wpscan.com/vulnerability/aed24421-3bc6-4b36-bb61-d842d40d7c3c/"
+  },
+  {
+    "CVE": "CVE-2026-16593",
+    "PoC": "https://wpscan.com/vulnerability/87379d9b-7d20-40c3-ab33-c3698bb59a51/"
+  },
+  {
     "CVE": "CVE-2026-16594",
     "PoC": "https://wpscan.com/vulnerability/d055d385-7e8a-4179-aa21-f07e240fd181/"
   },
@@ -591212,6 +591388,10 @@
     "PoC": "https://wpscan.com/vulnerability/c4508c33-40ac-42c6-aa7e-cf9004d381bd/"
   },
   {
+    "CVE": "CVE-2026-18232",
+    "PoC": "https://wpscan.com/vulnerability/69d10ee3-0d36-47d1-b5bf-88b8516d99f4/"
+  },
+  {
     "CVE": "CVE-2026-18233",
     "PoC": "https://wpscan.com/vulnerability/241c0394-8dfa-475c-a91b-e2b5e47add53/"
   },
@@ -592262,6 +592442,10 @@
   {
     "CVE": "CVE-2026-19615",
     "PoC": "https://wpscan.com/vulnerability/3a318175-8d25-4dba-a6ad-7a09d0a7fa5a/"
+  },
+  {
+    "CVE": "CVE-2026-19624",
+    "PoC": "https://linnemanlabs.com/posts/nm-l2tp-newline-to-root/"
   },
   {
     "CVE": "CVE-2026-1966",
@@ -604348,6 +604532,10 @@
     "PoC": "https://github.com/wazuh/wazuh/security/advisories/GHSA-rvr9-89q8-w883"
   },
   {
+    "CVE": "CVE-2026-34151",
+    "PoC": "https://jira.xwiki.org/browse/XWIKI-24075"
+  },
+  {
     "CVE": "CVE-2026-34156",
     "PoC": "https://github.com/nocobase/nocobase/security/advisories/GHSA-px3p-vgh9-m57c"
   },
@@ -606372,6 +606560,10 @@
     "PoC": "https://github.com/theemperorspath/advisories/blob/main/2026/CVE-2026-38581.md"
   },
   {
+    "CVE": "CVE-2026-38626",
+    "PoC": "https://github.com/GaurishBahurupi/SQLI-in-Garlic-Hub/blob/main/REPORT.md"
+  },
+  {
     "CVE": "CVE-2026-38651",
     "PoC": "https://www.zyenra.com/advisories/netmaker-jwt-verification-bypass"
   },
@@ -607974,6 +608166,10 @@
   {
     "CVE": "CVE-2026-40474",
     "PoC": "https://github.com/wger-project/wger/security/advisories/GHSA-xppv-4jrx-qf8m"
+  },
+  {
+    "CVE": "CVE-2026-40476",
+    "PoC": "http://www.openwall.com/lists/oss-security/2026/09/14/26"
   },
   {
     "CVE": "CVE-2026-40479",
@@ -632900,6 +633096,10 @@
     "PoC": "https://github.com/Axle-Bucamp/MCP-Docusaurus/issues/2"
   },
   {
+    "CVE": "CVE-2026-77884",
+    "PoC": "https://fluidattacks.com/advisories/suicide"
+  },
+  {
     "CVE": "CVE-2026-7790",
     "PoC": "https://cna.erlef.org/cves/CVE-2026-7790.html"
   },
@@ -633196,6 +633396,10 @@
     "PoC": "https://www.securin.io/zero-days/cve-2026-7829-post-auth-oob-nul-write-repeater-rule-parser-ultravnc"
   },
   {
+    "CVE": "CVE-2026-78299",
+    "PoC": "https://gitlab.eclipse.org/security/vulnerability-reports/-/work_items/747"
+  },
+  {
     "CVE": "CVE-2026-7830",
     "PoC": "https://www.securin.io/zero-days/cve-2026-7830-31-bit-dh-weak-rng-ms-logon-credential-interception-ultravnc"
   },
@@ -633470,6 +633674,10 @@
   {
     "CVE": "CVE-2026-7875",
     "PoC": "https://github.com/qwibitai/nanoclaw/pull/2001"
+  },
+  {
+    "CVE": "CVE-2026-78849",
+    "PoC": "https://redmine.pfsense.org/attachments/6991"
   },
   {
     "CVE": "CVE-2026-78849",
@@ -635500,6 +635708,10 @@
     "PoC": "https://wpscan.com/vulnerability/1a4db76f-7043-4f9e-a584-17151d008ab1/"
   },
   {
+    "CVE": "CVE-2026-81301",
+    "PoC": "https://fluidattacks.com/advisories/waking"
+  },
+  {
     "CVE": "CVE-2026-81341",
     "PoC": "https://www.wolfssl.com/docs/security-vulnerabilities/"
   },
@@ -635998,6 +636210,10 @@
   {
     "CVE": "CVE-2026-82424",
     "PoC": "https://github.com/Bai-public/CVE/issues/8"
+  },
+  {
+    "CVE": "CVE-2026-82426",
+    "PoC": "http://www.openwall.com/lists/oss-security/2026/09/13/6"
   },
   {
     "CVE": "CVE-2026-8243",
@@ -638216,6 +638432,10 @@
     "PoC": "https://issues.chromium.org/issues/502814490"
   },
   {
+    "CVE": "CVE-2026-87591",
+    "PoC": "https://issues.chromium.org/issues/543938457"
+  },
+  {
     "CVE": "CVE-2026-87596",
     "PoC": "https://issues.chromium.org/issues/536434693"
   },
@@ -638452,6 +638672,10 @@
     "PoC": "https://wpscan.com/vulnerability/cac1846c-bbf4-4ad2-8dfb-d7025034a9a7/"
   },
   {
+    "CVE": "CVE-2026-88819",
+    "PoC": "https://gitlab.eclipse.org/security/vulnerability-reports/-/work_items/931"
+  },
+  {
     "CVE": "CVE-2026-88912",
     "PoC": "https://wpscan.com/vulnerability/58115528-18b6-4f2a-9f6c-d84fdcd6efb4/"
   },
@@ -638618,6 +638842,34 @@
   {
     "CVE": "CVE-2026-90698",
     "PoC": "https://protectiv.ph/research/memcached-asciiauth-empty-line-dos"
+  },
+  {
+    "CVE": "CVE-2026-90815",
+    "PoC": "https://ffmpeg.org/"
+  },
+  {
+    "CVE": "CVE-2026-90816",
+    "PoC": "https://ffmpeg.org/"
+  },
+  {
+    "CVE": "CVE-2026-90843",
+    "PoC": "https://calledstriker.gitbook.io/blog/security-research/webmap"
+  },
+  {
+    "CVE": "CVE-2026-90939",
+    "PoC": "https://www.vulncheck.com/advisories/novel-plus-through-5.3.3-missing-authorization-on-the-admin-sys-user-list-endpoint"
+  },
+  {
+    "CVE": "CVE-2026-90940",
+    "PoC": "https://www.vulncheck.com/advisories/novel-plus-through-5.3.3-default-cache-management-password-in-the-front-portal"
+  },
+  {
+    "CVE": "CVE-2026-90941",
+    "PoC": "https://www.vulncheck.com/advisories/novel-plus-through-5.3.3-missing-authorization-on-the-admin-book-download-endpoint"
+  },
+  {
+    "CVE": "CVE-2026-91021",
+    "PoC": "https://vokecyber.com/research/trilium-share-renderer-stored-xss"
   },
   {
     "CVE": "CVE-2026-9110",
