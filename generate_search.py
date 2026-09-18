@@ -105,6 +105,26 @@ def save_first_seen(path, data):
     os.replace(tmp_path, path)
 
 
+def save_shields_stats(cve_path, poc_path, total_cves, total_pocs):
+    """Write shields.io endpoint JSONs with the current CVE and PoC counts.
+
+    Referenced from the README as endpoint badges, so the displayed counts
+    follow each daily data update automatically. Format: https://shields.io/endpoint
+    """
+    for path, label, count, color in (
+        (cve_path, 'CVE entries', total_cves, 'blue'),
+        (poc_path, 'PoC links', total_pocs, '8b5cf6'),
+    ):
+        badge = {
+            'schemaVersion': 1,
+            'label': label,
+            'message': f'{count:,}',
+            'color': color,
+        }
+        with open(path, 'w', encoding='utf-8') as f:
+            json.dump(badge, f, ensure_ascii=False)
+
+
 def compute_recent(cve_data, first_seen, count):
     """Return the most recently added CVEs as [{cveId, date, pocCount}, ...].
 
@@ -1071,6 +1091,16 @@ def main():
 
     print("Generating HTML search engine...")
     generate_html(cve_data, recent_data=recent_list)
+
+    config_dir = config.get('_config_dir', '')
+    total_pocs = sum(len(v) for v in cve_data.values())
+    save_shields_stats(
+        os.path.join(config_dir, 'stats_cve.json'),
+        os.path.join(config_dir, 'stats_poc.json'),
+        len(cve_data),
+        total_pocs,
+    )
+    print(f"Stats badges written: {config_dir}/stats_cve.json, {config_dir}/stats_poc.json")
 
     print("Done!")
 

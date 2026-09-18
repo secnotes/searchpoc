@@ -1,6 +1,15 @@
+<div align="center">
+
 # CVE PoC Search Engine
 
 [English](README.md) | [中文](README_CN.md)
+
+[![Daily Update](https://github.com/secnotes/searchpoc/actions/workflows/daily_update.yml/badge.svg)](https://github.com/secnotes/searchpoc/actions/workflows/daily_update.yml)
+[![Last Commit](https://img.shields.io/github/last-commit/secnotes/searchpoc)](https://github.com/secnotes/searchpoc/commits)
+[![CVE Entries](https://img.shields.io/endpoint?url=https%3A%2F%2Fraw.githubusercontent.com%2Fsecnotes%2Fsearchpoc%2Fmain%2Fstats_cve.json)](#)
+[![PoC Links](https://img.shields.io/endpoint?url=https%3A%2F%2Fraw.githubusercontent.com%2Fsecnotes%2Fsearchpoc%2Fmain%2Fstats_poc.json)](#)
+
+</div>
 
 A modern, standalone HTML-based search engine for CVE Proof of Concept (PoC) exploits. **Almost every publicly available CVE PoC is included.**
 
@@ -65,21 +74,11 @@ JSON files should follow this format:
 ]
 ```
 
-## Statistics
-
-Current data includes:
-- **118,304** CVE entries
-- **175,786** PoC links
-
 ## Sources
 
 - [trickest/cve](https://github.com/trickest/cve) - Comprehensive CVE references collection
 - Custom PoC collections
 
-## License
-
-This project is for educational and security research purposes only.
-
 ## Disclaimer
 
-Use these PoC resources responsibly. Only test on systems you own or have explicit permission to test. Unauthorized use of exploits may be illegal.
+This project is for educational and security research purposes only. Use these PoC resources responsibly. Only test on systems you own or have explicit permission to test. Unauthorized use of exploits may be illegal.

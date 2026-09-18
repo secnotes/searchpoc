@@ -1,4 +1,15 @@
+<div align="center">
+
 # CVE PoC 搜索引擎
+
+[English](README.md) | [中文](README_CN.md)
+
+[![Daily Update](https://github.com/secnotes/searchpoc/actions/workflows/daily_update.yml/badge.svg)](https://github.com/secnotes/searchpoc/actions/workflows/daily_update.yml)
+[![Last Commit](https://img.shields.io/github/last-commit/secnotes/searchpoc)](https://github.com/secnotes/searchpoc/commits)
+[![CVE Entries](https://img.shields.io/endpoint?url=https%3A%2F%2Fraw.githubusercontent.com%2Fsecnotes%2Fsearchpoc%2Fmain%2Fstats_cve.json)](#)
+[![PoC Links](https://img.shields.io/endpoint?url=https%3A%2F%2Fraw.githubusercontent.com%2Fsecnotes%2Fsearchpoc%2Fmain%2Fstats_poc.json)](#)
+
+</div>
 
 一个现代化的、独立的HTML版CVE PoC（概念验证）漏洞搜索引擎。**收录几乎所有公开可用的CVE PoC。**
 
@@ -63,21 +74,11 @@ JSON文件应遵循以下格式：
 ]
 ```
 
-## 数据统计
-
-当前数据包含：
-- **118,304** 个CVE条目
-- **175,786** 个PoC链接
-
 ## 数据来源
 
 - [trickest/cve](https://github.com/trickest/cve) - 全面的CVE参考链接集合
 - 自定义PoC收集
 
-## 许可证
-
-本项目仅供教育和安全研究目的使用。
-
 ## 免责声明
 
-请负责任地使用这些PoC资源。仅在你拥有或获得明确授权的系统上进行测试。未经授权使用漏洞利用可能违法。
+本项目仅供教育和安全研究目的使用。请负责任地使用这些PoC资源。仅在你拥有或获得明确授权的系统上进行测试。未经授权使用漏洞利用可能违法。
