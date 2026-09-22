@@ -100200,6 +100200,10 @@
     "PoC": "https://docs.microsoft.com/en-us/security-updates/securitybulletins/2011/ms11-074"
   },
   {
+    "CVE": "CVE-2011-1908",
+    "PoC": "http://www.foxitsoftware.com/products/reader/security_bulletins.php#freetype"
+  },
+  {
     "CVE": "CVE-2011-1931",
     "PoC": "http://securityreason.com/securityalert/8299"
   },
@@ -368292,6 +368296,10 @@
     "PoC": "https://notnnor.github.io/research/2021/03/16/weak-password-recovery-mechanism-in-invoiceplane.html"
   },
   {
+    "CVE": "CVE-2021-29023",
+    "PoC": "https://seran.github.io/research/2021/03/16/weak-password-recovery-mechanism-in-invoiceplane.html"
+  },
+  {
     "CVE": "CVE-2021-29025",
     "PoC": "https://github.com/xoffense/POC/blob/main/Multiple%20URI%20Based%20XSS%20in%20Bitweaver%203.1.0.md"
   },
@@ -369530,6 +369538,10 @@
   {
     "CVE": "CVE-2021-30298",
     "PoC": "https://www.qualcomm.com/company/product-security/bulletins/december-2021-bulletin"
+  },
+  {
+    "CVE": "CVE-2021-3030",
+    "PoC": "https://github.com/athosgonzaga/CVE-2021-3030"
   },
   {
     "CVE": "CVE-2021-30300",
@@ -475812,6 +475824,10 @@
     "PoC": "https://cn-sec.com/archives/2182384.html"
   },
   {
+    "CVE": "CVE-2023-54399",
+    "PoC": "https://cn-sec.com/archives/1861976.html"
+  },
+  {
     "CVE": "CVE-2023-5441",
     "PoC": "https://huntr.dev/bounties/b54cbdf5-3e85-458d-bb38-9ea2c0b669f2"
   },
@@ -499310,6 +499326,10 @@
   {
     "CVE": "CVE-2024-33664",
     "PoC": "https://www.vicarius.io/vsociety/posts/jwt-bomb-in-python-jose-cve-2024-33664"
+  },
+  {
+    "CVE": "CVE-2024-33668",
+    "PoC": "https://a7.de/fue/advisories/cve-2024-33668/"
   },
   {
     "CVE": "CVE-2024-33669",
@@ -524494,6 +524514,10 @@
   {
     "CVE": "CVE-2024-8579",
     "PoC": "https://github.com/abcdefg-png/IoT-vulnerable/blob/main/TOTOLINK/AC1200T8/setWiFiRepeaterCfg.md"
+  },
+  {
+    "CVE": "CVE-2024-8579",
+    "PoC": "https://vuldb.com/?submit.401292"
   },
   {
     "CVE": "CVE-2024-8580",
@@ -589260,6 +589284,10 @@
     "PoC": "https://github.com/zhinianboke/xianyu-auto-reply/issues/192"
   },
   {
+    "CVE": "CVE-2026-15753",
+    "PoC": "https://vuldb.com/submit/856719"
+  },
+  {
     "CVE": "CVE-2026-15754",
     "PoC": "https://mattermost.com/security-updates"
   },
@@ -595838,6 +595866,10 @@
   {
     "CVE": "CVE-2026-23550",
     "PoC": "https://patchstack.com/articles/critical-privilege-escalation-vulnerability-in-modular-ds-plugin-affecting-40k-sites-exploited-in-the-wild/"
+  },
+  {
+    "CVE": "CVE-2026-23552",
+    "PoC": "https://github.com/oscerd/CVE-2026-23552"
   },
   {
     "CVE": "CVE-2026-2359",
@@ -635048,6 +635080,10 @@
     "PoC": "https://issues.chromium.org/issues/517550232"
   },
   {
+    "CVE": "CVE-2026-78938",
+    "PoC": "https://issues.chromium.org/issues/545767601"
+  },
+  {
     "CVE": "CVE-2026-78939",
     "PoC": "https://issues.chromium.org/issues/513261751"
   },
@@ -637580,6 +637616,10 @@
     "PoC": "https://wpscan.com/vulnerability/a0285ba3-0741-4382-a037-db0ac3fc49d2/"
   },
   {
+    "CVE": "CVE-2026-82187",
+    "PoC": "https://wpscan.com/vulnerability/d3e49486-6c08-41d5-86c9-3aaff670fc63/"
+  },
+  {
     "CVE": "CVE-2026-82193",
     "PoC": "https://wpscan.com/vulnerability/ee70edba-f70e-4055-a656-63612de8097d/"
   },
@@ -638944,6 +638984,10 @@
     "PoC": "https://wpscan.com/vulnerability/9731b0f3-76c2-4e0a-9630-9160299a37ee/"
   },
   {
+    "CVE": "CVE-2026-85010",
+    "PoC": "https://wpscan.com/vulnerability/3ebcb11a-9f8c-48e3-8b1f-f91bb2518c34/"
+  },
+  {
     "CVE": "CVE-2026-85013",
     "PoC": "https://bugzilla.redhat.com/show_bug.cgi?id=2465635"
   },
@@ -639002,6 +639046,10 @@
   {
     "CVE": "CVE-2026-85110",
     "PoC": "https://github.com/SunnyYANGyaya/cuicuishark-sheep-fishIOT/blob/main/Tenda/HG10/bof-formWlanSetup-ssid.md"
+  },
+  {
+    "CVE": "CVE-2026-85113",
+    "PoC": "https://wpscan.com/vulnerability/b092c718-9a29-4153-894f-47892e7ba423/"
   },
   {
     "CVE": "CVE-2026-85116",
@@ -640260,6 +640308,10 @@
     "PoC": "https://wpscan.com/vulnerability/baebde16-141c-4de4-8ecb-173c25bed40d/"
   },
   {
+    "CVE": "CVE-2026-86802",
+    "PoC": "https://wpscan.com/vulnerability/71c678eb-35f8-4eac-a4bb-b71bdcb2ca4e/"
+  },
+  {
     "CVE": "CVE-2026-86804",
     "PoC": "https://github.com/seakee/CPA-Manager-Plus/issues/462"
   },
@@ -641352,6 +641404,10 @@
     "PoC": "https://ffmpeg.org/"
   },
   {
+    "CVE": "CVE-2026-90817",
+    "PoC": "https://www.securifera.com/advisories/"
+  },
+  {
     "CVE": "CVE-2026-90822",
     "PoC": "https://www.securifera.com/advisories/"
   },
@@ -641540,8 +641596,24 @@
     "PoC": "https://devolutions.net/security/advisories/DEVO-2026-0013/"
   },
   {
+    "CVE": "CVE-2026-92252",
+    "PoC": "https://watchdog.com/vulnerability-disclosure-policy/"
+  },
+  {
+    "CVE": "CVE-2026-92253",
+    "PoC": "https://watchdog.com/vulnerability-disclosure-policy/"
+  },
+  {
+    "CVE": "CVE-2026-92254",
+    "PoC": "https://watchdog.com/vulnerability-disclosure-policy/"
+  },
+  {
     "CVE": "CVE-2026-92385",
     "PoC": "https://drive.google.com/file/d/1nwr_EravSW9f62itP8sS6OpE3rqRDVkn/view?usp=sharing"
+  },
+  {
+    "CVE": "CVE-2026-92400",
+    "PoC": "https://wpscan.com/vulnerability/3dcee743-a95d-4233-b78e-8449a6cc8aea/"
   },
   {
     "CVE": "CVE-2026-92403",
@@ -641970,6 +642042,14 @@
   {
     "CVE": "CVE-2026-93988",
     "PoC": "https://hackmd.io/@leediay/qloapps-arbitrary-file-read-via-path-traversal"
+  },
+  {
+    "CVE": "CVE-2026-94032",
+    "PoC": "https://github.com/ltranquility/submit_repository/issues/15"
+  },
+  {
+    "CVE": "CVE-2026-94036",
+    "PoC": "https://pastebin.com/gzKNCCPV"
   },
   {
     "CVE": "CVE-2026-9404",
