@@ -1,5 +1,165 @@
 [
   {
+    "CVE": "CVE-2026-100740",
+    "PoC": "https://github.com/murrez/CVE-2026-100740"
+  },
+  {
+    "CVE": "CVE-2026-100382",
+    "PoC": "https://github.com/nth347/mediawiki-CVE-2026-100382"
+  },
+  {
+    "CVE": "CVE-2026-43805",
+    "PoC": "https://github.com/tls456/CVE-2026-43805-PoC"
+  },
+  {
+    "CVE": "CVE-2024-23897",
+    "PoC": "https://github.com/Alexandertanay/jenkins-cve-2024-23897-lab"
+  },
+  {
+    "CVE": "CVE-2026-63030",
+    "PoC": "https://github.com/jed-parsec/CVE-2026-63030-60137-wp2shell-lab"
+  },
+  {
+    "CVE": "CVE-2026-67279",
+    "PoC": "https://github.com/tc4dy/CVE-2026-67279-86060-Toolkit"
+  },
+  {
+    "CVE": "CVE-2026-87902",
+    "PoC": "https://github.com/langz337/CVE-2026-87902"
+  },
+  {
+    "CVE": "CVE-2026-48842",
+    "PoC": "https://github.com/4minx/CVE-2026-48842"
+  },
+  {
+    "CVE": "CVE-2026-100835",
+    "PoC": "https://github.com/murrez/CVE-2026-100835"
+  },
+  {
+    "CVE": "CVE-2026-34990",
+    "PoC": "https://github.com/gbuyssens/CVE-2026-34990"
+  },
+  {
+    "CVE": "CVE-2026-28695",
+    "PoC": "https://github.com/gbuyssens/CVE-2026-28695-craft-rce-bypass"
+  },
+  {
+    "CVE": "CVE-2026-34990",
+    "PoC": "https://github.com/0xc4rc3l/CVE-2026-34990-poc"
+  },
+  {
+    "CVE": "CVE-2025-32433",
+    "PoC": "https://github.com/X-Bulow/Reproduce-CVE-2025-32433"
+  },
+  {
+    "CVE": "CVE-2026-12227",
+    "PoC": "https://github.com/be-keb/CVE-2026-12227-Visual-Composer-Website-Builder-Unauthenticated-Local-File-Inclusion-LFI-"
+  },
+  {
+    "CVE": "CVE-2026-12227",
+    "PoC": "https://github.com/be-keb/CVE-2026-12227"
+  },
+  {
+    "CVE": "CVE-2026-45585",
+    "PoC": "https://github.com/v4naxx/YellowKey-BitLocker-CVE-2026-45585"
+  },
+  {
+    "CVE": "CVE-2026-45585",
+    "PoC": "https://github.com/YellowKeyBitLocker-CVE/YellowKey-BitLocker-CVE-2026-45585"
+  },
+  {
+    "CVE": "CVE-2020-14008",
+    "PoC": "https://github.com/raflesiait/CVE-2020-14008---ManageEngine"
+  },
+  {
+    "CVE": "CVE-2026-8452",
+    "PoC": "https://github.com/techupdate24/citrix-netscaler-cve-2026-8452-rce"
+  },
+  {
+    "CVE": "CVE-2026-44011",
+    "PoC": "https://github.com/4xura/CVE-2026-44011-craftcms-auth-rce"
+  },
+  {
+    "CVE": "CVE-2026-8712",
+    "PoC": "https://github.com/rahulreddykarne/CVE-2026-8712-Wyoming"
+  },
+  {
+    "CVE": "CVE-2026-34990",
+    "PoC": "https://github.com/bara-almustafa/CVE-2026-34990-POC"
+  },
+  {
+    "CVE": "CVE-2026-78006",
+    "PoC": "https://github.com/antid00t/CVE-2026-78006-CVE-2026-78159"
+  },
+  {
+    "CVE": "CVE-2026-88008",
+    "PoC": "https://github.com/Boreas37/CVE-2026-88008-PoC"
+  },
+  {
+    "CVE": "CVE-2025-56005",
+    "PoC": "https://github.com/gdfurr98/ply-cve-2025-56005-lab"
+  },
+  {
+    "CVE": "CVE-2026-71963",
+    "PoC": "https://github.com/Boreas37/CVE-2026-71963-PoC"
+  },
+  {
+    "CVE": "CVE-2026-44011",
+    "PoC": "https://github.com/khush-613/CVE-2026-44011-poc"
+  },
+  {
+    "CVE": "CVE-2026-600004",
+    "PoC": "https://github.com/ImperfectP/CVE-2026-600004"
+  },
+  {
+    "CVE": "CVE-2026-34990",
+    "PoC": "https://github.com/khush-613/CVE-2026-34990-poc"
+  },
+  {
+    "CVE": "CVE-2026-44011",
+    "PoC": "https://github.com/Cyberuser-hash/CVE-2026-44011-craft-rce-poc"
+  },
+  {
+    "CVE": "CVE-2026-88772",
+    "PoC": "https://github.com/murrez/CVE-2026-88772"
+  },
+  {
+    "CVE": "CVE-2026-87902",
+    "PoC": "https://github.com/Maalfer/CVE-2026-87902-exploit"
+  },
+  {
+    "CVE": "CVE-2026-34990",
+    "PoC": "https://github.com/predyy/CVE-2026-34990"
+  },
+  {
+    "CVE": "CVE-2026-44011",
+    "PoC": "https://github.com/DENNISDGR/CVE-2026-44011-poc"
+  },
+  {
+    "CVE": "CVE-2026-14281",
+    "PoC": "https://github.com/abatsakidis/CVE-2026-14281-check"
+  },
+  {
+    "CVE": "CVE-2026-34990",
+    "PoC": "https://github.com/DENNISDGR/CVE-2026-34990-poc"
+  },
+  {
+    "CVE": "CVE-2026-87902",
+    "PoC": "https://github.com/abatsakidis/wp-cve-2026-87902-checker"
+  },
+  {
+    "CVE": "CVE-2026-28695",
+    "PoC": "https://github.com/predyy/CVE-2026-28695"
+  },
+  {
+    "CVE": "CVE-2021-43798",
+    "PoC": "https://github.com/khanna419/cve-2021-43798-lab"
+  },
+  {
+    "CVE": "CVE-2026-76547",
+    "PoC": "https://github.com/H4zaz/CVE-2026-76547"
+  },
+  {
     "CVE": "CVE-2026-13249",
     "PoC": "https://github.com/murrez/CVE-2026-13249"
   },

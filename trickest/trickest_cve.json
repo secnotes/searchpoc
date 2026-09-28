@@ -21949,6 +21949,10 @@
   },
   {
     "CVE": "CVE-2006-4055",
+    "PoC": "http://sourceforge.net/forum/forum.php?thread_id=1546639&forum_id=369628"
+  },
+  {
+    "CVE": "CVE-2006-4055",
     "PoC": "https://www.exploit-db.com/exploits/2116"
   },
   {
@@ -94076,6 +94080,14 @@
     "PoC": "http://www.exploit-db.com/exploits/15402"
   },
   {
+    "CVE": "CVE-2010-4641",
+    "PoC": "http://www.xwiki.org/xwiki/bin/view/ReleaseNotes/ReleaseNotesXWikiEnterprise25"
+  },
+  {
+    "CVE": "CVE-2010-4642",
+    "PoC": "http://www.xwiki.org/xwiki/bin/view/ReleaseNotes/ReleaseNotesXWikiEnterprise25"
+  },
+  {
     "CVE": "CVE-2010-4643",
     "PoC": "http://www.oracle.com/technetwork/topics/security/cpuapr2011-301950.html"
   },
@@ -163148,6 +163160,10 @@
     "PoC": "https://www.exploit-db.com/exploits/36776/"
   },
   {
+    "CVE": "CVE-2015-1642",
+    "PoC": "https://docs.microsoft.com/en-us/security-updates/securitybulletins/2015/ms15-081"
+  },
+  {
     "CVE": "CVE-2015-1645",
     "PoC": "http://packetstormsecurity.com/files/131457/Microsoft-Windows-GDI-MRSETDIBITSTODEVICE-bPlay-EMF-Parsing-Memory-Corruption.html"
   },
@@ -164836,6 +164852,10 @@
     "PoC": "http://packetstormsecurity.com/files/163755/Microsoft-Windows-Malicious-Software-Removal-Tool-Privilege-Escalation.html"
   },
   {
+    "CVE": "CVE-2015-2423",
+    "PoC": "https://docs.microsoft.com/en-us/security-updates/securitybulletins/2015/ms15-081"
+  },
+  {
     "CVE": "CVE-2015-2426",
     "PoC": "http://blog.trendmicro.com/trendlabs-security-intelligence/a-look-at-the-open-type-font-manager-vulnerability-from-the-hacking-team-leak/"
   },
@@ -164896,8 +164916,20 @@
     "PoC": "https://www.exploit-db.com/exploits/37914/"
   },
   {
+    "CVE": "CVE-2015-2466",
+    "PoC": "https://docs.microsoft.com/en-us/security-updates/securitybulletins/2015/ms15-081"
+  },
+  {
+    "CVE": "CVE-2015-2467",
+    "PoC": "https://docs.microsoft.com/en-us/security-updates/securitybulletins/2015/ms15-081"
+  },
+  {
     "CVE": "CVE-2015-2467",
     "PoC": "https://www.exploit-db.com/exploits/37913/"
+  },
+  {
+    "CVE": "CVE-2015-2468",
+    "PoC": "https://docs.microsoft.com/en-us/security-updates/securitybulletins/2015/ms15-081"
   },
   {
     "CVE": "CVE-2015-2468",
@@ -164905,11 +164937,23 @@
   },
   {
     "CVE": "CVE-2015-2469",
+    "PoC": "https://docs.microsoft.com/en-us/security-updates/securitybulletins/2015/ms15-081"
+  },
+  {
+    "CVE": "CVE-2015-2469",
     "PoC": "https://www.exploit-db.com/exploits/37910/"
   },
   {
     "CVE": "CVE-2015-2470",
+    "PoC": "https://docs.microsoft.com/en-us/security-updates/securitybulletins/2015/ms15-081"
+  },
+  {
+    "CVE": "CVE-2015-2470",
     "PoC": "https://www.exploit-db.com/exploits/37924/"
+  },
+  {
+    "CVE": "CVE-2015-2477",
+    "PoC": "https://docs.microsoft.com/en-us/security-updates/securitybulletins/2015/ms15-081"
   },
   {
     "CVE": "CVE-2015-2482",
@@ -437432,6 +437476,10 @@
     "PoC": "https://www.weaver.com.cn/cs/ecology_full_log_en.html"
   },
   {
+    "CVE": "CVE-2022-4997",
+    "PoC": "https://wpscan.com/vulnerability/368c38af-66c3-4500-ad50-87ada3abecd1/"
+  },
+  {
     "CVE": "CVE-2022-50073",
     "PoC": "http://www.openwall.com/lists/oss-security/2026/08/12/20"
   },
@@ -497549,6 +497597,10 @@
   },
   {
     "CVE": "CVE-2024-3094",
+    "PoC": "https://www.theregister.com/2024/03/29/malicious_backdoor_xz/"
+  },
+  {
+    "CVE": "CVE-2024-3094",
     "PoC": "https://www.vicarius.io/vsociety/vulnerabilities/cve-2024-3094"
   },
   {
@@ -520722,6 +520774,10 @@
   {
     "CVE": "CVE-2024-6387",
     "PoC": "https://www.splunk.com/en_us/blog/security/cve-2024-6387-regresshion-vulnerability.html"
+  },
+  {
+    "CVE": "CVE-2024-6387",
+    "PoC": "https://www.theregister.com/2024/07/01/regresshion_openssh/"
   },
   {
     "CVE": "CVE-2024-6387",
@@ -582108,6 +582164,10 @@
     "PoC": "https://github.com/wudipjq/my_vuln/blob/main/TRENDnet/vuln_5/5.md"
   },
   {
+    "CVE": "CVE-2026-100676",
+    "PoC": "https://www.vulncheck.com/advisories/stoatchat-before-0.15.5-local-filesystem-read-via-svg"
+  },
+  {
     "CVE": "CVE-2026-1007",
     "PoC": "https://devolutions.net/security/advisories/DEVO-2026-0003/"
   },
@@ -635296,6 +635356,14 @@
     "PoC": "https://github.com/open5gs/open5gs/issues/4321"
   },
   {
+    "CVE": "CVE-2026-76014",
+    "PoC": "https://gist.github.com/wyxstarry/5c199ec824928c5ae5816aaecbc6df03"
+  },
+  {
+    "CVE": "CVE-2026-76014",
+    "PoC": "https://github.com/mirror/busybox/issues/124"
+  },
+  {
     "CVE": "CVE-2026-76017",
     "PoC": "https://issues.chromium.org/issues/522819252"
   },
@@ -635400,6 +635468,10 @@
     "PoC": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-237-02"
   },
   {
+    "CVE": "CVE-2026-76070",
+    "PoC": "https://github.com/ozcanpng/CVE-2026-76070"
+  },
+  {
     "CVE": "CVE-2026-76071",
     "PoC": "https://github.com/ozcanpng/CVE-2026-76071"
   },
@@ -635424,12 +635496,20 @@
     "PoC": "https://github.com/IOTRes/IOT_Firmware_Update/blob/main/Trendnet/TEW-821DAP_CI2.md"
   },
   {
+    "CVE": "CVE-2026-76098",
+    "PoC": "https://github.com/lepture/mistune/security/advisories/GHSA-6m44-fpc8-c3rq"
+  },
+  {
     "CVE": "CVE-2026-7612",
     "PoC": "https://github.com/ltranquility/submit/issues/12"
   },
   {
     "CVE": "CVE-2026-76166",
     "PoC": "https://bugzilla.redhat.com/show_bug.cgi?id=2510883"
+  },
+  {
+    "CVE": "CVE-2026-76208",
+    "PoC": "https://github.com/thorsten/phpMyFAQ/security/advisories/GHSA-8pr3-q3cw-q234"
   },
   {
     "CVE": "CVE-2026-76217",
@@ -635460,6 +635540,10 @@
     "PoC": "https://github.com/ArcadeData/arcadedb/security/advisories/GHSA-wcm5-4wjm-9wj3"
   },
   {
+    "CVE": "CVE-2026-76225",
+    "PoC": "https://github.com/ArcadeData/arcadedb/security/advisories/GHSA-mmww-w3w3-6r86"
+  },
+  {
     "CVE": "CVE-2026-76228",
     "PoC": "https://github.com/renovatebot/renovate/security/advisories/GHSA-pfq2-hh62-7m96"
   },
@@ -635468,8 +635552,16 @@
     "PoC": "https://github.com/renovatebot/renovate/security/advisories/GHSA-xv56-3wq5-9997"
   },
   {
+    "CVE": "CVE-2026-76230",
+    "PoC": "https://github.com/renovatebot/renovate/security/advisories/GHSA-fr4j-65pv-gjjj"
+  },
+  {
     "CVE": "CVE-2026-76231",
     "PoC": "https://github.com/renovatebot/renovate/security/advisories/GHSA-36j9-mx87-2cff"
+  },
+  {
+    "CVE": "CVE-2026-76232",
+    "PoC": "https://github.com/renovatebot/renovate/security/advisories/GHSA-3f44-xw83-3pmg"
   },
   {
     "CVE": "CVE-2026-76233",
@@ -635612,6 +635704,14 @@
     "PoC": "https://bugzilla.redhat.com/show_bug.cgi?id=2519522"
   },
   {
+    "CVE": "CVE-2026-76582",
+    "PoC": "https://github.com/meishigana/CVE/tree/main/team15_20260702/06_821dap-ssi-remote-cmdi"
+  },
+  {
+    "CVE": "CVE-2026-76583",
+    "PoC": "https://github.com/meishigana/CVE/blob/main/team15_20260702/07_751wic-apd-time-cmdi/poc/poc-time-injection.py"
+  },
+  {
     "CVE": "CVE-2026-76583",
     "PoC": "https://github.com/meishigana/CVE/tree/main/team15_20260702/07_751wic-apd-time-cmdi"
   },
@@ -635622,6 +635722,10 @@
   {
     "CVE": "CVE-2026-76583",
     "PoC": "https://vuldb.com/vuln/393042/cti"
+  },
+  {
+    "CVE": "CVE-2026-76584",
+    "PoC": "https://github.com/meishigana/CVE/blob/main/team15_20260702/07_751wic-apd-time-cmdi/poc/poc-time-injection.py"
   },
   {
     "CVE": "CVE-2026-76584",
@@ -635668,8 +635772,16 @@
     "PoC": "https://www.ibm.com/support/pages/node/7277570"
   },
   {
+    "CVE": "CVE-2026-76633",
+    "PoC": "https://github.com/LabRedesCefetRJ/WeGIA/security/advisories/GHSA-gfcx-7973-hjmp"
+  },
+  {
     "CVE": "CVE-2026-76634",
     "PoC": "https://github.com/LabRedesCefetRJ/WeGIA/security/advisories/GHSA-jqh5-66qr-85qv"
+  },
+  {
+    "CVE": "CVE-2026-76635",
+    "PoC": "https://github.com/baserproject/basercms/security/advisories/GHSA-cg65-f2m7-9fqj"
   },
   {
     "CVE": "CVE-2026-76639",
@@ -635724,6 +635836,10 @@
     "PoC": "https://github.com/chenhg5/cc-connect/issues/1489"
   },
   {
+    "CVE": "CVE-2026-76762",
+    "PoC": "https://github.com/niaoniaollll/cve/issues/8"
+  },
+  {
     "CVE": "CVE-2026-76764",
     "PoC": "https://github.com/niaoniaollll/cve/issues/10"
   },
@@ -635772,8 +635888,16 @@
     "PoC": "https://github.com/oauth2-proxy/oauth2-proxy/issues/3506"
   },
   {
+    "CVE": "CVE-2026-76836",
+    "PoC": "https://github.com/AzuraCast/AzuraCast/security/advisories/GHSA-q8wg-3qg7-8pc7"
+  },
+  {
     "CVE": "CVE-2026-76841",
     "PoC": "https://github.com/xorbitsai/inference/issues/5023"
+  },
+  {
+    "CVE": "CVE-2026-76844",
+    "PoC": "https://github.com/advisories/GHSA-wr3j-pwj9-hqq6"
   },
   {
     "CVE": "CVE-2026-76846",
@@ -635792,8 +635916,24 @@
     "PoC": "https://github.com/draw-ctf/netcore-router-public-refs/blob/main/2026.08.19-netcore-nr268-restore-bypass.md"
   },
   {
+    "CVE": "CVE-2026-76854",
+    "PoC": "https://github.com/draw-ctf/netcore-router-public-refs/blob/main/2026.08.19-netcore-nr255v-captive-portal-cred-disclosure.md"
+  },
+  {
+    "CVE": "CVE-2026-76855",
+    "PoC": "https://github.com/draw-ctf/netcore-router-public-refs/blob/main/2026.08.19-netcore-nr255v-audit-endpoint-disclosure.md"
+  },
+  {
+    "CVE": "CVE-2026-76856",
+    "PoC": "https://github.com/draw-ctf/netcore-router-public-refs/blob/main/2026.08.19-netcore-nr255v-csrf-wan-reconfig.md"
+  },
+  {
     "CVE": "CVE-2026-76857",
     "PoC": "https://github.com/draw-ctf/netcore-router-public-refs/blob/main/2026.08.19-netcore-nr255v-ddns-cred-disclosure.md"
+  },
+  {
+    "CVE": "CVE-2026-76858",
+    "PoC": "https://github.com/draw-ctf/netcore-router-public-refs/blob/main/2026.08.19-netcore-nr255v-ddns-stored-xss.md"
   },
   {
     "CVE": "CVE-2026-76859",
@@ -635802,6 +635942,14 @@
   {
     "CVE": "CVE-2026-7686",
     "PoC": "https://github.com/xryj920/CVE/blob/main/adblock_plus_CVE_report.md"
+  },
+  {
+    "CVE": "CVE-2026-76860",
+    "PoC": "https://github.com/draw-ctf/netcore-router-public-refs/blob/main/2026.08.19-netcore-nr255v-wake-up-set-overflow.md"
+  },
+  {
+    "CVE": "CVE-2026-76861",
+    "PoC": "https://github.com/draw-ctf/netcore-router-public-refs/blob/main/2026.08.19-netcore-nr255v-tcpdump-overflow.md"
   },
   {
     "CVE": "CVE-2026-76862",
@@ -635816,12 +635964,20 @@
     "PoC": "https://github.com/draw-ctf/netcore-router-public-refs/blob/main/2026.08.19-netcore-nr255v-qos-stored-xss.md"
   },
   {
+    "CVE": "CVE-2026-76865",
+    "PoC": "https://github.com/draw-ctf/netcore-router-public-refs/blob/main/2026.08.19-netcore-nr255v-null-deref-atoi.md"
+  },
+  {
     "CVE": "CVE-2026-76866",
     "PoC": "https://github.com/draw-ctf/netcore-router-public-refs/blob/main/2026.08.19-netcore-nr255v-ddns-argv-injection.md"
   },
   {
     "CVE": "CVE-2026-76867",
     "PoC": "https://github.com/draw-ctf/netcore-router-public-refs/blob/main/2026.08.19-netcore-nr255v-route-nat-stored-xss.md"
+  },
+  {
+    "CVE": "CVE-2026-76868",
+    "PoC": "https://github.com/draw-ctf/netcore-router-public-refs/blob/main/2026.08.19-netcore-nr255v-route-policy-null-deref.md"
   },
   {
     "CVE": "CVE-2026-76869",
@@ -635936,6 +636092,18 @@
     "PoC": "https://github.com/getkin/kin-openapi/security/advisories/GHSA-mmfr-pmjx-hw9w"
   },
   {
+    "CVE": "CVE-2026-76907",
+    "PoC": "https://github.com/suitenumerique/docs/security/advisories/GHSA-p8v2-wjj3-3j9w"
+  },
+  {
+    "CVE": "CVE-2026-76909",
+    "PoC": "https://github.com/Unleash/unleash/security/advisories/GHSA-7hvx-28gp-mf6j"
+  },
+  {
+    "CVE": "CVE-2026-76910",
+    "PoC": "https://github.com/Unleash/unleash/security/advisories/GHSA-8xcj-9hfr-fh9j"
+  },
+  {
     "CVE": "CVE-2026-76917",
     "PoC": "https://gitlab.com/wireshark/wireshark/-/work_items/21488"
   },
@@ -636022,6 +636190,10 @@
   {
     "CVE": "CVE-2026-76996",
     "PoC": "https://github.com/hubdk01/cve/issues/2"
+  },
+  {
+    "CVE": "CVE-2026-76997",
+    "PoC": "https://github.com/hubdk01/cve/issues/3"
   },
   {
     "CVE": "CVE-2026-76998",
@@ -639424,6 +639596,10 @@
     "PoC": "https://wpscan.com/vulnerability/bede7803-8ffd-4e17-852e-bce634466fcb/"
   },
   {
+    "CVE": "CVE-2026-81655",
+    "PoC": "https://wpscan.com/vulnerability/b189ce9a-a930-41e6-bdd1-fdcc3bfb66be/"
+  },
+  {
     "CVE": "CVE-2026-81660",
     "PoC": "https://wpscan.com/vulnerability/cfdb4107-6010-4c29-baf3-3111765f48c2/"
   },
@@ -640468,6 +640644,10 @@
     "PoC": "https://github.com/raind20001020/Poc/blob/main/flvmeta_heap_buffer_overflow"
   },
   {
+    "CVE": "CVE-2026-82841",
+    "PoC": "https://wpscan.com/vulnerability/52f39a82-89ee-43f1-ba9c-3ea646fb0a0e/"
+  },
+  {
     "CVE": "CVE-2026-82842",
     "PoC": "https://wpscan.com/vulnerability/4ae66b2c-a0de-405f-baca-127302257540/"
   },
@@ -640864,6 +641044,10 @@
     "PoC": "https://wpscan.com/vulnerability/527a59cf-c7a3-4cf0-85f2-378c62eb7fce/"
   },
   {
+    "CVE": "CVE-2026-84069",
+    "PoC": "https://wpscan.com/vulnerability/04965370-b4f4-4629-a9b1-7450fcf6aeee/"
+  },
+  {
     "CVE": "CVE-2026-8407",
     "PoC": "https://devolutions.net/security/advisories/DEVO-2026-0010/"
   },
@@ -641148,6 +641332,10 @@
     "PoC": "https://devolutions.net/security/advisories/DEVO-2026-0027/"
   },
   {
+    "CVE": "CVE-2026-85002",
+    "PoC": "https://wpscan.com/vulnerability/ad155ea2-c804-4906-956e-e2da8050d0de/"
+  },
+  {
     "CVE": "CVE-2026-85006",
     "PoC": "https://wpscan.com/vulnerability/50319e24-8ae8-40b8-9106-ed881359700e/"
   },
@@ -641164,8 +641352,16 @@
     "PoC": "https://bugzilla.redhat.com/show_bug.cgi?id=2465635"
   },
   {
+    "CVE": "CVE-2026-85013",
+    "PoC": "https://github.com/envmodules/modules/security/advisories/GHSA-8hrw-p88g-qhmg"
+  },
+  {
     "CVE": "CVE-2026-85017",
     "PoC": "https://wpscan.com/vulnerability/459a7479-ebd8-4e46-a709-cb86d0386f9b/"
+  },
+  {
+    "CVE": "CVE-2026-85021",
+    "PoC": "https://gist.github.com/TrebledJ/0e8466e5c39a6fb7dca8a3acdfbe2ddc#file-cvd_dify_vuln1_20260705-md"
   },
   {
     "CVE": "CVE-2026-85022",
@@ -641444,12 +641640,24 @@
     "PoC": "https://github.com/oppia/oppia/issues/26652"
   },
   {
+    "CVE": "CVE-2026-85211",
+    "PoC": "https://github.com/HumanSignal/label-studio/issues/9924"
+  },
+  {
     "CVE": "CVE-2026-85213",
     "PoC": "https://github.com/killbill/killbill/issues/2251"
   },
   {
+    "CVE": "CVE-2026-85214",
+    "PoC": "https://github.com/lenve/vhr/issues/349"
+  },
+  {
     "CVE": "CVE-2026-85222",
     "PoC": "https://github.com/dxz0069/WAVLINK-WN530H4-Command-Injection-in-set_add_routing/blob/main/DLINK-CMD-007-vulndb.md"
+  },
+  {
+    "CVE": "CVE-2026-85223",
+    "PoC": "https://github.com/dxz0069/WAVLINK-WN530H4-Command-Injection-in-set_add_routing/blob/main/DLINK-CMD-008-vulndb.md"
   },
   {
     "CVE": "CVE-2026-85224",
@@ -641480,12 +641688,20 @@
     "PoC": "https://issues.chromium.org/issues/487795397"
   },
   {
+    "CVE": "CVE-2026-85288",
+    "PoC": "https://github.com/notepad-plus-plus/notepad-plus-plus/security/advisories/GHSA-759j-g8j4-867p"
+  },
+  {
     "CVE": "CVE-2026-85289",
     "PoC": "https://github.com/InvoicePlane/InvoicePlane/security/advisories/GHSA-9372-vj68-hmc3"
   },
   {
     "CVE": "CVE-2026-8529",
     "PoC": "https://issues.chromium.org/issues/490222151"
+  },
+  {
+    "CVE": "CVE-2026-85290",
+    "PoC": "https://github.com/InvoicePlane/InvoicePlane/security/advisories/GHSA-g53q-v2pv-xr83"
   },
   {
     "CVE": "CVE-2026-85291",
@@ -641620,6 +641836,10 @@
     "PoC": "https://github.com/ahmadmarz10-hub/CVEsMarz/blob/main/SQL%20Injection%20Vulnerability%20in%20Vehicle%20Management%20System%20%60busid%60%20Parameter.md"
   },
   {
+    "CVE": "CVE-2026-85517",
+    "PoC": "https://github.com/ahmadmarz10-hub/CVEsMarz/blob/main/Vehicle%20Management%20System%20in%20PHP%20%E2%80%93%20Sensitive%20Information%20Disclosure%20via%20Exposed%20Database%20File.md"
+  },
+  {
     "CVE": "CVE-2026-8553",
     "PoC": "https://issues.chromium.org/issues/498715368"
   },
@@ -641752,6 +641972,10 @@
     "PoC": "https://github.com/getgrav/grav/security/advisories/GHSA-96xm-c5hr-59rx"
   },
   {
+    "CVE": "CVE-2026-85601",
+    "PoC": "https://github.com/getgrav/grav/security/advisories/GHSA-752r-88j4-vxm3"
+  },
+  {
     "CVE": "CVE-2026-85602",
     "PoC": "https://github.com/getgrav/grav/security/advisories/GHSA-89j6-8h38-2cc3"
   },
@@ -641762,6 +641986,10 @@
   {
     "CVE": "CVE-2026-85604",
     "PoC": "https://github.com/getgrav/grav/security/advisories/GHSA-p6qj-p5m7-f62h"
+  },
+  {
+    "CVE": "CVE-2026-85607",
+    "PoC": "https://github.com/blinkospace/blinko/issues/1218"
   },
   {
     "CVE": "CVE-2026-85608",
@@ -641818,6 +642046,10 @@
   {
     "CVE": "CVE-2026-85624",
     "PoC": "https://github.com/blinkospace/blinko/issues/1217"
+  },
+  {
+    "CVE": "CVE-2026-85626",
+    "PoC": "https://github.com/cyanheads/git-mcp-server/issues/53"
   },
   {
     "CVE": "CVE-2026-85638",
@@ -641988,6 +642220,10 @@
     "PoC": "https://github.com/mattiasw/ExifReader/security/advisories/GHSA-pj96-35fp-cfcc"
   },
   {
+    "CVE": "CVE-2026-85724",
+    "PoC": "https://github.com/moquette-io/moquette/security/advisories/GHSA-5f42-97gr-vfhq"
+  },
+  {
     "CVE": "CVE-2026-85725",
     "PoC": "https://github.com/HKUDS/LightRAG/security/advisories/GHSA-c759-cx9p-mrwq"
   },
@@ -642010,6 +642246,10 @@
   {
     "CVE": "CVE-2026-85738",
     "PoC": "https://github.com/liketrek/TREK/security/advisories/GHSA-9hpq-mrpx-mcxg"
+  },
+  {
+    "CVE": "CVE-2026-85740",
+    "PoC": "https://github.com/HKUDS/LightRAG/security/advisories/GHSA-vv3m-f8x4-7377"
   },
   {
     "CVE": "CVE-2026-8575",
@@ -642712,6 +642952,10 @@
     "PoC": "https://wpscan.com/vulnerability/d7f0f9dd-4180-4210-9c48-dae67e8f5d8e/"
   },
   {
+    "CVE": "CVE-2026-86609",
+    "PoC": "https://wpscan.com/vulnerability/85ebf2d8-af69-434c-b733-8156210d6d6a/"
+  },
+  {
     "CVE": "CVE-2026-86612",
     "PoC": "https://wpscan.com/vulnerability/4be7a5e0-9657-4692-904d-b696224e32ec/"
   },
@@ -642976,8 +643220,16 @@
     "PoC": "https://wpscan.com/vulnerability/5bfed7cf-5bf3-4a3b-a2b6-9f9d48f52fd5/"
   },
   {
+    "CVE": "CVE-2026-86839",
+    "PoC": "https://wpscan.com/vulnerability/3ab8b879-3ef7-4aa4-8620-1bde99697dcb/"
+  },
+  {
     "CVE": "CVE-2026-86840",
     "PoC": "https://gist.github.com/prasanna8585/ffd112b1a125ca4c5533fdce45ef57c1"
+  },
+  {
+    "CVE": "CVE-2026-86841",
+    "PoC": "https://wpscan.com/vulnerability/2150717e-7564-4b29-b2e7-362dd3b480c3/"
   },
   {
     "CVE": "CVE-2026-86842",
@@ -643908,8 +644160,20 @@
     "PoC": "https://wpscan.com/vulnerability/1699d3aa-29ca-4197-8e3b-0b03ecce751a/"
   },
   {
+    "CVE": "CVE-2026-89000",
+    "PoC": "https://wpscan.com/vulnerability/2622b685-d2a9-4bb5-aeef-3aa4ca7adcc4/"
+  },
+  {
+    "CVE": "CVE-2026-89001",
+    "PoC": "https://wpscan.com/vulnerability/829bfdc3-7a15-4d6a-9782-72d34fd114b7/"
+  },
+  {
     "CVE": "CVE-2026-89002",
     "PoC": "https://wpscan.com/vulnerability/6820fac6-3238-4470-a865-677c4442f658/"
+  },
+  {
+    "CVE": "CVE-2026-89003",
+    "PoC": "https://wpscan.com/vulnerability/9b891cf0-c663-48ae-adf4-4693b46d0529/"
   },
   {
     "CVE": "CVE-2026-89004",
@@ -643918,6 +644182,10 @@
   {
     "CVE": "CVE-2026-89005",
     "PoC": "https://wpscan.com/vulnerability/1c6f4da0-d7e8-4f50-851f-f794552db985/"
+  },
+  {
+    "CVE": "CVE-2026-89006",
+    "PoC": "https://wpscan.com/vulnerability/680091de-610a-4665-a028-515ca6c33055/"
   },
   {
     "CVE": "CVE-2026-89007",
@@ -643948,8 +644216,16 @@
     "PoC": "https://forum.mikrotik.com/t/7-24-2-stable-is-released/272800"
   },
   {
+    "CVE": "CVE-2026-89038",
+    "PoC": "https://github.com/actuator/com.vcast.mediamanager"
+  },
+  {
     "CVE": "CVE-2026-89042",
     "PoC": "https://github.com/krakenjs/passport-saml-encrypted/issues/29"
+  },
+  {
+    "CVE": "CVE-2026-89043",
+    "PoC": "https://github.com/krakenjs/passport-saml-encrypted/issues/30"
   },
   {
     "CVE": "CVE-2026-89046",
@@ -643982,6 +644258,10 @@
   {
     "CVE": "CVE-2026-89146",
     "PoC": "https://gist.github.com/thesmartshadow/25ef03f7ebbd12118a9d27695c885989"
+  },
+  {
+    "CVE": "CVE-2026-89147",
+    "PoC": "https://gist.github.com/thesmartshadow/001cea595e75fed6aaea7389666dc9eb"
   },
   {
     "CVE": "CVE-2026-89148",
@@ -644028,6 +644308,10 @@
     "PoC": "https://github.com/WWBN/AVideo/security/advisories/GHSA-qm3h-2jrx-xmg6"
   },
   {
+    "CVE": "CVE-2026-89244",
+    "PoC": "https://github.com/WWBN/AVideo/security/advisories/GHSA-j2r3-gr47-rgfm"
+  },
+  {
     "CVE": "CVE-2026-89245",
     "PoC": "https://github.com/WWBN/AVideo/security/advisories/GHSA-v7mf-qx22-m9x8"
   },
@@ -644048,8 +644332,16 @@
     "PoC": "https://github.com/WWBN/AVideo/security/advisories/GHSA-fvp5-q9jp-29mx"
   },
   {
+    "CVE": "CVE-2026-89250",
+    "PoC": "https://github.com/WWBN/AVideo/security/advisories/GHSA-crcx-7mx7-jqfr"
+  },
+  {
     "CVE": "CVE-2026-89251",
     "PoC": "https://github.com/WWBN/AVideo/security/advisories/GHSA-cwrf-q9jv-44px"
+  },
+  {
+    "CVE": "CVE-2026-89252",
+    "PoC": "https://github.com/WWBN/AVideo/security/advisories/GHSA-m2c6-f5ww-j26v"
   },
   {
     "CVE": "CVE-2026-89253",
@@ -644073,7 +644365,15 @@
   },
   {
     "CVE": "CVE-2026-89260",
+    "PoC": "https://github.com/LinYuanyi1/cve-request-poc/blob/master/mogublog-poc/C10_wechat_callback_unsigned.py"
+  },
+  {
+    "CVE": "CVE-2026-89260",
     "PoC": "https://www.vulncheck.com/advisories/mogublog-through-6.2-xml-external-entity-injection-in-the-unauthenticated-wechat-callback-endpoint"
+  },
+  {
+    "CVE": "CVE-2026-89261",
+    "PoC": "https://github.com/LinYuanyi1/cve-request-poc/blob/master/mogublog-poc/C05_search_initElasticSearchIndex.py"
   },
   {
     "CVE": "CVE-2026-89261",
@@ -644101,7 +644401,15 @@
   },
   {
     "CVE": "CVE-2026-89263",
+    "PoC": "https://github.com/LinYuanyi1/cve-request-poc/blob/master/mogublog-poc/C08_comment_closeEmailNotification.py"
+  },
+  {
+    "CVE": "CVE-2026-89263",
     "PoC": "https://www.vulncheck.com/advisories/mogublog-through-6.2-missing-authentication-on-the-comment-email-notification-endpoint"
+  },
+  {
+    "CVE": "CVE-2026-89264",
+    "PoC": "https://github.com/LinYuanyi1/cve-request-poc/blob/master/mogublog-poc/C12_comment_add_author_spoof.py"
   },
   {
     "CVE": "CVE-2026-89264",
@@ -644114,6 +644422,18 @@
   {
     "CVE": "CVE-2026-89265",
     "PoC": "https://www.vulncheck.com/advisories/mogublog-through-6.2-missing-authorization-on-the-admin-getpicturesortbyuid-endpoint"
+  },
+  {
+    "CVE": "CVE-2026-89266",
+    "PoC": "https://github.com/nothings/stb/issues/1928"
+  },
+  {
+    "CVE": "CVE-2026-89266",
+    "PoC": "https://github.com/nothings/stb/issues/1933"
+  },
+  {
+    "CVE": "CVE-2026-89266",
+    "PoC": "https://github.com/nothings/stb/issues/1947"
   },
   {
     "CVE": "CVE-2026-89307",
@@ -644142,6 +644462,14 @@
   {
     "CVE": "CVE-2026-8935",
     "PoC": "https://wpscan.com/vulnerability/9bad9fc1-5032-45dc-983f-ba2dd7092385/"
+  },
+  {
+    "CVE": "CVE-2026-89418",
+    "PoC": "https://github.com/protocolbuffers/protobuf-javascript/security/advisories/GHSA-5h29-r2cp-hfmr"
+  },
+  {
+    "CVE": "CVE-2026-89425",
+    "PoC": "https://github.com/FasterXML/jackson-core/security/advisories/GHSA-7hhh-6rmp-j9qf"
   },
   {
     "CVE": "CVE-2026-8949",
@@ -644472,6 +644800,10 @@
     "PoC": "https://mattermost.com/security-updates"
   },
   {
+    "CVE": "CVE-2026-91731",
+    "PoC": "https://issues.chromium.org/issues/523554372"
+  },
+  {
     "CVE": "CVE-2026-91732",
     "PoC": "https://issues.chromium.org/issues/511062248"
   },
@@ -644578,6 +644910,10 @@
   {
     "CVE": "CVE-2026-92435",
     "PoC": "https://wpscan.com/vulnerability/4b3f9c83-8986-40d9-ab1a-848550ea7882/"
+  },
+  {
+    "CVE": "CVE-2026-92436",
+    "PoC": "https://wpscan.com/vulnerability/f4d7b94a-7699-464c-a646-5946837b363a/"
   },
   {
     "CVE": "CVE-2026-92438",
@@ -644744,6 +645080,10 @@
     "PoC": "https://wpscan.com/vulnerability/e74a467a-9eb1-4da3-933a-879c9c026f4f/"
   },
   {
+    "CVE": "CVE-2026-92995",
+    "PoC": "https://wpscan.com/vulnerability/184e6a19-92d4-48f6-8e54-2511e0f3f316/"
+  },
+  {
     "CVE": "CVE-2026-93018",
     "PoC": "https://github.com/tonycoz/imager/security/advisories/GHSA-j7v7-cm4g-vrgf"
   },
@@ -644834,6 +645174,10 @@
   {
     "CVE": "CVE-2026-9342",
     "PoC": "https://github.com/july-skyload/exp/issues/1"
+  },
+  {
+    "CVE": "CVE-2026-93421",
+    "PoC": "https://github.com/mesop-dev/mesop/security/advisories/GHSA-g7f6-rxc4-qhph"
   },
   {
     "CVE": "CVE-2026-93425",
@@ -645076,6 +645420,10 @@
     "PoC": "https://github.com/ItzCrazyKns/Vane/issues/1124"
   },
   {
+    "CVE": "CVE-2026-93736",
+    "PoC": "https://github.com/mealie-recipes/mealie/issues/7909"
+  },
+  {
     "CVE": "CVE-2026-93737",
     "PoC": "https://github.com/azkaban/azkaban/issues/3348"
   },
@@ -645234,6 +645582,10 @@
   {
     "CVE": "CVE-2026-93993",
     "PoC": "https://github.com/mistralai/mistral-vibe/issues/996"
+  },
+  {
+    "CVE": "CVE-2026-93997",
+    "PoC": "https://github.com/KaranParelkar/Drug_recommendation_system/blob/main/sqli/edit_symptom_id_parameter/Readme.md"
   },
   {
     "CVE": "CVE-2026-94032",
@@ -645636,6 +645988,34 @@
     "PoC": "https://github.com/ltranquility/submit_repository/issues/16"
   },
   {
+    "CVE": "CVE-2026-95842",
+    "PoC": "https://github.com/moquette-io/moquette/security/advisories/GHSA-5f42-97gr-vfhq"
+  },
+  {
+    "CVE": "CVE-2026-95843",
+    "PoC": "https://github.com/moquette-io/moquette/security/advisories/GHSA-5f42-97gr-vfhq"
+  },
+  {
+    "CVE": "CVE-2026-95844",
+    "PoC": "https://github.com/moquette-io/moquette/security/advisories/GHSA-5f42-97gr-vfhq"
+  },
+  {
+    "CVE": "CVE-2026-95845",
+    "PoC": "https://github.com/moquette-io/moquette/security/advisories/GHSA-5f42-97gr-vfhq"
+  },
+  {
+    "CVE": "CVE-2026-95846",
+    "PoC": "https://github.com/moquette-io/moquette/security/advisories/GHSA-5f42-97gr-vfhq"
+  },
+  {
+    "CVE": "CVE-2026-95847",
+    "PoC": "https://github.com/moquette-io/moquette/security/advisories/GHSA-5f42-97gr-vfhq"
+  },
+  {
+    "CVE": "CVE-2026-95848",
+    "PoC": "https://github.com/moquette-io/moquette/security/advisories/GHSA-5f42-97gr-vfhq"
+  },
+  {
     "CVE": "CVE-2026-9585",
     "PoC": "https://sangomakb.atlassian.net/wiki/spaces/Switchvox/pages/1802371073/Switchvox+-+Release+Notes+Version+8.4.0.2+July+14+2026"
   },
@@ -645796,6 +646176,22 @@
     "PoC": "https://wpscan.com/vulnerability/c40298d0-42c2-406c-817a-9bbf246bbeea/"
   },
   {
+    "CVE": "CVE-2026-96895",
+    "PoC": "https://wpscan.com/vulnerability/15978f11-a7bd-41f0-94bf-069be4d03987/"
+  },
+  {
+    "CVE": "CVE-2026-96896",
+    "PoC": "https://wpscan.com/vulnerability/7ab467f9-4340-464c-a436-978a5acbad3a/"
+  },
+  {
+    "CVE": "CVE-2026-96897",
+    "PoC": "https://wpscan.com/vulnerability/f9fd04f4-282d-486f-8561-dbf02250282a/"
+  },
+  {
+    "CVE": "CVE-2026-96899",
+    "PoC": "https://wpscan.com/vulnerability/649584c7-0549-4080-92f0-bf4b9e8ee789/"
+  },
+  {
     "CVE": "CVE-2026-9693",
     "PoC": "https://mattermost.com/security-updates"
   },
@@ -645846,6 +646242,10 @@
   {
     "CVE": "CVE-2026-97222",
     "PoC": "https://bugzilla.redhat.com/show_bug.cgi?id=2541397"
+  },
+  {
+    "CVE": "CVE-2026-97227",
+    "PoC": "https://wpscan.com/vulnerability/df187bfb-47f1-4259-b955-3c676f3d8cc1/"
   },
   {
     "CVE": "CVE-2026-97231",
