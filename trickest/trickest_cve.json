@@ -112752,6 +112752,10 @@
     "PoC": "https://vulmon.com/exploitdetails?qidtp=EDB&qid=20759"
   },
   {
+    "CVE": "CVE-2012-4396",
+    "PoC": "https://github.com/owncloud/core/commit/e817504569dce49fd7a677fa510e500394af0c48"
+  },
+  {
     "CVE": "CVE-2012-4399",
     "PoC": "http://seclists.org/bugtraq/2012/Jul/101"
   },
@@ -300838,6 +300842,10 @@
   {
     "CVE": "CVE-2019-2577",
     "PoC": "http://www.oracle.com/technetwork/security-advisory/cpuapr2019-5072813.html"
+  },
+  {
+    "CVE": "CVE-2019-25776",
+    "PoC": "https://cn-sec.com/archives/135359.html"
   },
   {
     "CVE": "CVE-2019-25776",
@@ -520000,6 +520008,14 @@
     "PoC": "https://cn-sec.com/archives/2926383.html"
   },
   {
+    "CVE": "CVE-2024-58376",
+    "PoC": "https://github.com/renovatebot/renovate/security/advisories/GHSA-rqgv-292v-5qgr"
+  },
+  {
+    "CVE": "CVE-2024-58379",
+    "PoC": "https://github.com/nodemailer/nodemailer/security/advisories/GHSA-9h6g-pr28-7cqp"
+  },
+  {
     "CVE": "CVE-2024-5838",
     "PoC": "https://issues.chromium.org/issues/342522151"
   },
@@ -520098,6 +520114,10 @@
   {
     "CVE": "CVE-2024-5981",
     "PoC": "https://github.com/LiuYongXiang-git/cve/issues/1"
+  },
+  {
+    "CVE": "CVE-2024-5981",
+    "PoC": "https://vuldb.com/?id.268458"
   },
   {
     "CVE": "CVE-2024-5983",
@@ -582196,6 +582216,34 @@
     "PoC": "https://mattermost.com/security-updates"
   },
   {
+    "CVE": "CVE-2026-100888",
+    "PoC": "https://weitongli.com/share/opendkim-h-tag-oob-write.html"
+  },
+  {
+    "CVE": "CVE-2026-100889",
+    "PoC": "https://weitongli.com/share/opendkim-qp-off-by-one.html"
+  },
+  {
+    "CVE": "CVE-2026-100890",
+    "PoC": "https://weitongli.com/share/opendmarc-ip6-wild-pointer.html"
+  },
+  {
+    "CVE": "CVE-2026-100891",
+    "PoC": "https://weitongli.com/share/opendmarc-ulabel-not-converted.html"
+  },
+  {
+    "CVE": "CVE-2026-100893",
+    "PoC": "https://is.yuum.me/posts/2026-08-06-ssrf-vulnerability-in-vocechat-server-v0520/"
+  },
+  {
+    "CVE": "CVE-2026-100895",
+    "PoC": "https://weitongli.com/share/openarc-c-tag-null-deref.html"
+  },
+  {
+    "CVE": "CVE-2026-100903",
+    "PoC": "https://pastebin.com/3VsEG3Rg"
+  },
+  {
     "CVE": "CVE-2026-10097",
     "PoC": "https://github.com/wolfSSL/wolfssl/pull/10430"
   },
@@ -582210,6 +582258,14 @@
   {
     "CVE": "CVE-2026-10098",
     "PoC": "https://www.wolfssl.com/docs/security-vulnerabilities/"
+  },
+  {
+    "CVE": "CVE-2026-101014",
+    "PoC": "https://weitongli.com/share/opendmarc-cleanup-off-by-one.html"
+  },
+  {
+    "CVE": "CVE-2026-101015",
+    "PoC": "https://weitongli.com/share/opendmarc-unicode-dot-bypass.html"
   },
   {
     "CVE": "CVE-2026-10103",
@@ -602296,6 +602352,10 @@
     "PoC": "https://github.com/Named1ess/CVE-2026-30741"
   },
   {
+    "CVE": "CVE-2026-30754",
+    "PoC": "https://github.com/momo-trip/poc_ffmpeg"
+  },
+  {
     "CVE": "CVE-2026-30783",
     "PoC": "https://docs.google.com/document/d/e/2PACX-1vSds6jjpd38oO_yIAyd1HYtKNUuea-I-ozAPpGhYI7QgAU-QGJ7D8a4rOZVj1vmiUXV1EcdRHf9aZAW/pub"
   },
@@ -614878,6 +614938,10 @@
   {
     "CVE": "CVE-2026-4490",
     "PoC": "https://github.com/lilukun337/cve/issues/2"
+  },
+  {
+    "CVE": "CVE-2026-44901",
+    "PoC": "https://github.com/wazuh/wazuh/security/advisories/GHSA-8c6v-7g3w-prrq"
   },
   {
     "CVE": "CVE-2026-44902",
@@ -641144,6 +641208,10 @@
     "PoC": "https://issues.chromium.org/issues/533534913"
   },
   {
+    "CVE": "CVE-2026-84326",
+    "PoC": "https://issues.chromium.org/issues/547936520"
+  },
+  {
     "CVE": "CVE-2026-84328",
     "PoC": "https://issues.chromium.org/issues/498710886"
   },
@@ -641222,6 +641290,10 @@
   {
     "CVE": "CVE-2026-84743",
     "PoC": "https://wpscan.com/vulnerability/6c20337d-f485-491c-a380-38a3039af17d/"
+  },
+  {
+    "CVE": "CVE-2026-84744",
+    "PoC": "https://wpscan.com/vulnerability/99c4a9fc-114e-4d39-80aa-0e9544125794/"
   },
   {
     "CVE": "CVE-2026-84745",
@@ -641378,6 +641450,10 @@
   {
     "CVE": "CVE-2026-85038",
     "PoC": "https://wpscan.com/vulnerability/a397aeaf-7629-45dd-a2ee-3e904cc19550/"
+  },
+  {
+    "CVE": "CVE-2026-85043",
+    "PoC": "https://issues.chromium.org/issues/533502257"
   },
   {
     "CVE": "CVE-2026-85045",
@@ -643220,6 +643296,10 @@
     "PoC": "https://wpscan.com/vulnerability/5bfed7cf-5bf3-4a3b-a2b6-9f9d48f52fd5/"
   },
   {
+    "CVE": "CVE-2026-86838",
+    "PoC": "https://wpscan.com/vulnerability/1c8a53e7-5556-4dcb-a461-c6df253d0b7a/"
+  },
+  {
     "CVE": "CVE-2026-86839",
     "PoC": "https://wpscan.com/vulnerability/3ab8b879-3ef7-4aa4-8620-1bde99697dcb/"
   },
@@ -644020,6 +644100,10 @@
     "PoC": "https://wpscan.com/vulnerability/12337af6-e465-4010-a54d-be92a5dfa5d6/"
   },
   {
+    "CVE": "CVE-2026-88828",
+    "PoC": "https://wpscan.com/vulnerability/52804421-8988-4d8a-9143-04683d05873d/"
+  },
+  {
     "CVE": "CVE-2026-88843",
     "PoC": "https://wpscan.com/vulnerability/fffc0d8c-256e-417d-b76c-251948b9f1ed/"
   },
@@ -644228,6 +644312,10 @@
     "PoC": "https://github.com/krakenjs/passport-saml-encrypted/issues/30"
   },
   {
+    "CVE": "CVE-2026-89044",
+    "PoC": "https://github.com/netty/netty/security/advisories/GHSA-hcvj-94mj-jp5c"
+  },
+  {
     "CVE": "CVE-2026-89046",
     "PoC": "https://github.com/luben/zstd-jni/security/advisories/GHSA-rm53-6wf5-f34m"
   },
@@ -644266,6 +644354,10 @@
   {
     "CVE": "CVE-2026-89148",
     "PoC": "https://github.com/WWBN/AVideo/security/advisories/GHSA-jj4v-c999-cm2m"
+  },
+  {
+    "CVE": "CVE-2026-89156",
+    "PoC": "https://github.com/PCRE2Project/pcre2/security/advisories/GHSA-2p8c-ff85-vh9x"
   },
   {
     "CVE": "CVE-2026-89157",
@@ -644436,6 +644528,14 @@
     "PoC": "https://github.com/nothings/stb/issues/1947"
   },
   {
+    "CVE": "CVE-2026-89300",
+    "PoC": "https://wpscan.com/vulnerability/a5ad8171-83c1-4c2e-83ac-24f008fadb82/"
+  },
+  {
+    "CVE": "CVE-2026-89303",
+    "PoC": "https://wpscan.com/vulnerability/dbe62e96-6493-4385-92a2-6281c5428a9f/"
+  },
+  {
     "CVE": "CVE-2026-89307",
     "PoC": "https://www.acn.gov.it/portale/w/rilevate-vulnerabilita-nel-tema-wordpress-design-scuole-italia-"
   },
@@ -644462,6 +644562,14 @@
   {
     "CVE": "CVE-2026-8935",
     "PoC": "https://wpscan.com/vulnerability/9bad9fc1-5032-45dc-983f-ba2dd7092385/"
+  },
+  {
+    "CVE": "CVE-2026-89407",
+    "PoC": "https://github.com/FasterXML/jackson-core/security/advisories/GHSA-p6pp-m3f8-5c89"
+  },
+  {
+    "CVE": "CVE-2026-89411",
+    "PoC": "https://wpscan.com/vulnerability/240a0440-7892-4c03-b282-2fdb6f086bb6/"
   },
   {
     "CVE": "CVE-2026-89418",
@@ -645084,6 +645192,14 @@
     "PoC": "https://wpscan.com/vulnerability/184e6a19-92d4-48f6-8e54-2511e0f3f316/"
   },
   {
+    "CVE": "CVE-2026-92996",
+    "PoC": "https://wpscan.com/vulnerability/c97c7466-ea48-47d0-b562-c26127be3bcc/"
+  },
+  {
+    "CVE": "CVE-2026-93000",
+    "PoC": "https://wpscan.com/vulnerability/a6f90424-46df-4f44-9491-76c75b5ab5eb/"
+  },
+  {
     "CVE": "CVE-2026-93018",
     "PoC": "https://github.com/tonycoz/imager/security/advisories/GHSA-j7v7-cm4g-vrgf"
   },
@@ -645138,6 +645254,10 @@
   {
     "CVE": "CVE-2026-93308",
     "PoC": "https://lf-o-ran-sc.atlassian.net/browse/SMO-202"
+  },
+  {
+    "CVE": "CVE-2026-93309",
+    "PoC": "https://lf-o-ran-sc.atlassian.net/browse/SMO-203"
   },
   {
     "CVE": "CVE-2026-93310",
@@ -645404,6 +645524,10 @@
     "PoC": "https://gist.github.com/YLChen-007/43c72d19668421abe8ce10f299323a0a"
   },
   {
+    "CVE": "CVE-2026-93682",
+    "PoC": "https://github.com/php/php-src/security/advisories/GHSA-7875-c8px-7q5f"
+  },
+  {
     "CVE": "CVE-2026-9369",
     "PoC": "https://gist.github.com/YLChen-007/062b77ceac6aa9844842a616f5d2ef30"
   },
@@ -645498,6 +645622,10 @@
   {
     "CVE": "CVE-2026-9387",
     "PoC": "https://github.com/Litengzheng/vuldb_new2/blob/main/A8000RU/vul_334/README.md"
+  },
+  {
+    "CVE": "CVE-2026-93870",
+    "PoC": "https://github.com/Cotonti/Cotonti/issues/1892"
   },
   {
     "CVE": "CVE-2026-93873",
@@ -646258,6 +646386,10 @@
   {
     "CVE": "CVE-2026-97233",
     "PoC": "https://note-hxlab.wetolink.com/share/qA4ZLotZKWmj"
+  },
+  {
+    "CVE": "CVE-2026-97319",
+    "PoC": "https://wpscan.com/vulnerability/6ea7d2b5-8406-4efe-9b61-465af40d9a32/"
   },
   {
     "CVE": "CVE-2026-97368",
