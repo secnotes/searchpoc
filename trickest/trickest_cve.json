@@ -164020,6 +164020,14 @@
     "PoC": "https://www.exploit-db.com/exploits/38497"
   },
   {
+    "CVE": "CVE-2015-20122",
+    "PoC": "https://www.ddpoc.com/poc/DVB-2021-2211.html"
+  },
+  {
+    "CVE": "CVE-2015-20122",
+    "PoC": "https://www.vulncheck.com/advisories/seeyon-a6-oa-unauthenticated-sql-injection-via-downloadatt-jsp"
+  },
+  {
     "CVE": "CVE-2015-2023",
     "PoC": "https://www.exploit-db.com/exploits/38751/"
   },
@@ -191022,6 +191030,10 @@
   {
     "CVE": "CVE-2016-2183",
     "PoC": "https://cert-portal.siemens.com/productcert/pdf/ssa-412672.pdf"
+  },
+  {
+    "CVE": "CVE-2016-2183",
+    "PoC": "https://h20566.www2.hpe.com/hpsc/doc/public/display?docLocale=en_US&docId=emr_na-c05390849"
   },
   {
     "CVE": "CVE-2016-2183",
@@ -257882,6 +257894,10 @@
   {
     "CVE": "CVE-2018-20169",
     "PoC": "https://usn.ubuntu.com/4118-1/"
+  },
+  {
+    "CVE": "CVE-2018-20171",
+    "PoC": "https://www.seebug.org/vuldb/ssvid-97713"
   },
   {
     "CVE": "CVE-2018-20172",
@@ -476232,6 +476248,10 @@
     "PoC": "https://cn-sec.com/archives/1861976.html"
   },
   {
+    "CVE": "CVE-2023-54400",
+    "PoC": "https://www.vulncheck.com/advisories/fumeng-cloud-sql-injection-via-ajaxmethod-ashx-getempbyname"
+  },
+  {
     "CVE": "CVE-2023-5441",
     "PoC": "https://huntr.dev/bounties/b54cbdf5-3e85-458d-bb38-9ea2c0b669f2"
   },
@@ -497802,6 +497822,10 @@
   {
     "CVE": "CVE-2024-31010",
     "PoC": "https://github.com/ss122-0ss/semcms/blob/main/README.md"
+  },
+  {
+    "CVE": "CVE-2024-31026",
+    "PoC": "https://panagiotiscp.github.io/cve-2024-31026-html-injection/"
   },
   {
     "CVE": "CVE-2024-31047",
@@ -581540,6 +581564,14 @@
     "PoC": "http://www.openwall.com/lists/oss-security/2026/08/22/4"
   },
   {
+    "CVE": "CVE-2026-0018",
+    "PoC": "http://www.openwall.com/lists/oss-security/2026/09/29/9"
+  },
+  {
+    "CVE": "CVE-2026-0019",
+    "PoC": "http://www.openwall.com/lists/oss-security/2026/09/29/10"
+  },
+  {
     "CVE": "CVE-2026-0227",
     "PoC": "https://security.paloaltonetworks.com/CVE-2026-0227"
   },
@@ -582116,6 +582148,10 @@
     "PoC": "https://issues.chromium.org/issues/514063977"
   },
   {
+    "CVE": "CVE-2026-100143",
+    "PoC": "https://wpscan.com/vulnerability/86c69e28-bdd2-4027-a045-f8b2523f8d7f/"
+  },
+  {
     "CVE": "CVE-2026-10015",
     "PoC": "https://issues.chromium.org/issues/514746176"
   },
@@ -582146,6 +582182,22 @@
   {
     "CVE": "CVE-2026-10022",
     "PoC": "https://issues.chromium.org/issues/513289241"
+  },
+  {
+    "CVE": "CVE-2026-100286",
+    "PoC": "https://devolutions.net/security/advisories/DEVO-2026-0034/"
+  },
+  {
+    "CVE": "CVE-2026-100287",
+    "PoC": "https://devolutions.net/security/advisories/DEVO-2026-0034/"
+  },
+  {
+    "CVE": "CVE-2026-100288",
+    "PoC": "https://devolutions.net/security/advisories/DEVO-2026-0034/"
+  },
+  {
+    "CVE": "CVE-2026-100289",
+    "PoC": "https://devolutions.net/security/advisories/DEVO-2026-0034/"
   },
   {
     "CVE": "CVE-2026-100303",
@@ -582780,8 +582832,16 @@
     "PoC": "https://github.com/wsjjllk/cve/issues/1"
   },
   {
+    "CVE": "CVE-2026-102569",
+    "PoC": "https://hackmd.io/@leediay/two-blind-sqli-clickbucketv5-version_5_5_3_197"
+  },
+  {
     "CVE": "CVE-2026-10257",
     "PoC": "https://github.com/Zorinman/cve/issues/1"
+  },
+  {
+    "CVE": "CVE-2026-102570",
+    "PoC": "https://hackmd.io/@leediay/two-blind-sqli-clickbucketv5-version_5_5_3_197"
   },
   {
     "CVE": "CVE-2026-10258",
@@ -597201,6 +597261,10 @@
   },
   {
     "CVE": "CVE-2026-24061",
+    "PoC": "https://redteam.ae/blog/cve-2026-24061-inetutils-telnetd-root-bypass"
+  },
+  {
+    "CVE": "CVE-2026-24061",
     "PoC": "https://www.vicarius.io/vsociety/posts/cve-2026-24061-detection-script-remote-authentication-bypass-in-gnu-inetutils-package"
   },
   {
@@ -606180,6 +606244,10 @@
     "PoC": "https://github.com/openemr/openemr/security/advisories/GHSA-r6xq-mfwf-wgq8"
   },
   {
+    "CVE": "CVE-2026-3392",
+    "PoC": "https://vuldb.com/?id.348278"
+  },
+  {
     "CVE": "CVE-2026-33931",
     "PoC": "https://github.com/openemr/openemr/security/advisories/GHSA-hf37-5rp9-j27j"
   },
@@ -612834,6 +612902,10 @@
   {
     "CVE": "CVE-2026-4253",
     "PoC": "https://github.com/digitalandrew/tenda_ac8_v5/blob/main/poc_cmdi_config_upload.py"
+  },
+  {
+    "CVE": "CVE-2026-42536",
+    "PoC": "https://bugzilla.redhat.com/show_bug.cgi?id=2486411"
   },
   {
     "CVE": "CVE-2026-42538",
@@ -621524,8 +621596,16 @@
     "PoC": "https://cna.erlef.org/cves/CVE-2026-53428.html"
   },
   {
+    "CVE": "CVE-2026-53428",
+    "PoC": "https://github.com/leandrocp/mdex_native/security/advisories/GHSA-j93q-9cvj-rxfm"
+  },
+  {
     "CVE": "CVE-2026-53429",
     "PoC": "https://cna.erlef.org/cves/CVE-2026-53429.html"
+  },
+  {
+    "CVE": "CVE-2026-53429",
+    "PoC": "https://github.com/leandrocp/mdex_native/security/advisories/GHSA-cmvp-gp9f-23xw"
   },
   {
     "CVE": "CVE-2026-53430",
@@ -621568,12 +621648,24 @@
     "PoC": "https://github.com/panda666-888/vuls/blob/main/trendnet/tew-657brm/add_apcdb.md"
   },
   {
+    "CVE": "CVE-2026-53497",
+    "PoC": "https://github.com/cenodude/CrossWatch/security/advisories/GHSA-rv3j-r4h5-q3cj"
+  },
+  {
+    "CVE": "CVE-2026-53499",
+    "PoC": "https://github.com/NICMx/FORT-validator/security/advisories/GHSA-qfm3-577x-rh54"
+  },
+  {
     "CVE": "CVE-2026-5350",
     "PoC": "https://github.com/panda666-888/vuls/blob/main/trendnet/tew-657brm/update_pcdb.md"
   },
   {
     "CVE": "CVE-2026-53500",
     "PoC": "https://github.com/thumbor/thumbor/security/advisories/GHSA-6x26-6r6f-m537"
+  },
+  {
+    "CVE": "CVE-2026-53502",
+    "PoC": "https://github.com/thumbor/thumbor/security/advisories/GHSA-cj54-hpcc-gj6h"
   },
   {
     "CVE": "CVE-2026-53503",
@@ -621604,6 +621696,10 @@
     "PoC": "https://github.com/nezhahq/nezha/security/advisories/GHSA-x6fg-52vr-hj4w"
   },
   {
+    "CVE": "CVE-2026-53523",
+    "PoC": "https://github.com/nezhahq/nezha/security/advisories/GHSA-9rc6-8cjv-rcvx"
+  },
+  {
     "CVE": "CVE-2026-5353",
     "PoC": "https://github.com/panda666-888/vuls/blob/main/trendnet/tew-657brm/ping_test.md"
   },
@@ -621616,6 +621712,14 @@
     "PoC": "https://github.com/panda666-888/vuls/blob/main/trendnet/tew-657brm/vpn_connect.md"
   },
   {
+    "CVE": "CVE-2026-53541",
+    "PoC": "https://github.com/OliveTin/OliveTin/security/advisories/GHSA-prj9-97mp-mwh2"
+  },
+  {
+    "CVE": "CVE-2026-53547",
+    "PoC": "https://github.com/Termix-SSH/Termix/security/advisories/GHSA-6r97-7wp3-2g3x"
+  },
+  {
     "CVE": "CVE-2026-53548",
     "PoC": "https://github.com/Termix-SSH/Termix/security/advisories/GHSA-j6h8-mww6-pgw6"
   },
@@ -621624,8 +621728,28 @@
     "PoC": "https://github.com/panda666-888/vuls/blob/main/trendnet/tew-657brm/vpn_drop.md"
   },
   {
+    "CVE": "CVE-2026-53550",
+    "PoC": "https://github.com/nodeca/js-yaml/security/advisories/GHSA-h67p-54hq-rp68"
+  },
+  {
     "CVE": "CVE-2026-53551",
     "PoC": "https://github.com/free5gc/free5gc/security/advisories/GHSA-qj55-47fp-p62j"
+  },
+  {
+    "CVE": "CVE-2026-53552",
+    "PoC": "https://github.com/zhenorzz/goploy/security/advisories/GHSA-26rh-24rg-j3vv"
+  },
+  {
+    "CVE": "CVE-2026-53553",
+    "PoC": "https://github.com/zhenorzz/goploy/security/advisories/GHSA-4g5x-hcwm-82jw"
+  },
+  {
+    "CVE": "CVE-2026-53554",
+    "PoC": "https://github.com/dataease/SQLBot/security/advisories/GHSA-wxv4-pw5w-wx79"
+  },
+  {
+    "CVE": "CVE-2026-53579",
+    "PoC": "https://github.com/TriliumNext/Trilium/security/advisories/GHSA-h7w4-cjfg-cvj8"
   },
   {
     "CVE": "CVE-2026-53591",
@@ -621640,6 +621764,10 @@
     "PoC": "https://github.com/freescout-help-desk/freescout/security/advisories/GHSA-ph4f-2jhx-q76w"
   },
   {
+    "CVE": "CVE-2026-53607",
+    "PoC": "https://github.com/apostrophecms/apostrophe/security/advisories/GHSA-34pj-2622-jvxq"
+  },
+  {
     "CVE": "CVE-2026-53608",
     "PoC": "https://github.com/apostrophecms/apostrophe/security/advisories/GHSA-wf43-fpp3-cf65"
   },
@@ -621650,6 +621778,10 @@
   {
     "CVE": "CVE-2026-53632",
     "PoC": "https://github.com/vitejs/launch-editor/security/advisories/GHSA-v6wh-96g9-6wx3"
+  },
+  {
+    "CVE": "CVE-2026-53636",
+    "PoC": "https://github.com/openedx/openedx-platform/security/advisories/GHSA-6gm5-c49g-p3h9"
   },
   {
     "CVE": "CVE-2026-53654",
@@ -621676,8 +621808,28 @@
     "PoC": "https://access.redhat.com/security/cve/CVE-2026-53701"
   },
   {
+    "CVE": "CVE-2026-53706",
+    "PoC": "https://github.com/vbpf/prevail/security/advisories/GHSA-65fp-5qmq-gg2m"
+  },
+  {
+    "CVE": "CVE-2026-53708",
+    "PoC": "https://github.com/IBM/mcp-context-forge/security/advisories/GHSA-9hgc-g3w5-67cm"
+  },
+  {
     "CVE": "CVE-2026-53742",
     "PoC": "https://www.vulncheck.com/advisories/simple-link-directory-through-stored-xss-via-embed-shortcode-attributes"
+  },
+  {
+    "CVE": "CVE-2026-53759",
+    "PoC": "https://github.com/Linuxfabrik/monitoring-plugins/security/advisories/GHSA-r35r-fpx2-jgr4"
+  },
+  {
+    "CVE": "CVE-2026-53760",
+    "PoC": "https://github.com/Admidio/admidio/security/advisories/GHSA-hm42-q32m-vj4f"
+  },
+  {
+    "CVE": "CVE-2026-53779",
+    "PoC": "https://github.com/webp-sh/webp_server_go/commit/eb3b5f9289b331cb639cd610b0d1c532d2cc24e0"
   },
   {
     "CVE": "CVE-2026-5385",
@@ -621692,12 +621844,24 @@
     "PoC": "https://github.com/mmaitre314/picklescan/security/advisories/GHSA-7wx9-6375-f5wh"
   },
   {
+    "CVE": "CVE-2026-53925",
+    "PoC": "https://github.com/nicolargo/glances/security/advisories/GHSA-3vwc-qwhc-3mj7"
+  },
+  {
     "CVE": "CVE-2026-5393",
     "PoC": "https://github.com/wolfSSL/wolfssl/pull/10079"
   },
   {
     "CVE": "CVE-2026-5394",
     "PoC": "https://fluidattacks.com/es/advisories/dragons"
+  },
+  {
+    "CVE": "CVE-2026-53940",
+    "PoC": "https://github.com/conda/conda/security/advisories/GHSA-9m8m-c4j3-rj2c"
+  },
+  {
+    "CVE": "CVE-2026-53952",
+    "PoC": "https://github.com/GetSimpleCMS-CE/GetSimpleCMS-CE/security/advisories/GHSA-rw2c-w4mg-46g4"
   },
   {
     "CVE": "CVE-2026-53959",
@@ -622032,6 +622196,14 @@
     "PoC": "https://github.com/go-vikunja/vikunja/security/advisories/GHSA-gg93-x632-9ccv"
   },
   {
+    "CVE": "CVE-2026-55068",
+    "PoC": "https://github.com/free5gc/free5gc/issues/1056"
+  },
+  {
+    "CVE": "CVE-2026-55068",
+    "PoC": "https://github.com/free5gc/free5gc/security/advisories/GHSA-x8mj-6p3q-g5pp"
+  },
+  {
     "CVE": "CVE-2026-5507",
     "PoC": "https://github.com/wolfSSL/wolfssl/pull/10088"
   },
@@ -622272,6 +622444,10 @@
     "PoC": "https://github.com/openwrt/openwrt/security/advisories/GHSA-9558-77jp-g3fw"
   },
   {
+    "CVE": "CVE-2026-55497",
+    "PoC": "https://github.com/cloudreve/cloudreve/security/advisories/GHSA-g9j2-8w95-3vwv"
+  },
+  {
     "CVE": "CVE-2026-55501",
     "PoC": "https://github.com/decolua/9router/security/advisories/GHSA-7cfm-pqrj-xgq7"
   },
@@ -622368,8 +622544,16 @@
     "PoC": "https://github.com/pdovhomilja/nextcrm-app/security/advisories/GHSA-wv63-cq38-qg58"
   },
   {
+    "CVE": "CVE-2026-55556",
+    "PoC": "https://github.com/rsyslog/rsyslog/security/advisories/GHSA-947w-69ph-mc2r"
+  },
+  {
     "CVE": "CVE-2026-55559",
     "PoC": "https://github.com/yamcs/yamcs/security/advisories/GHSA-73mf-m39p-wpm9"
+  },
+  {
+    "CVE": "CVE-2026-55563",
+    "PoC": "https://github.com/feast-dev/feast/security/advisories/GHSA-2j2x-r73g-hrr5"
   },
   {
     "CVE": "CVE-2026-55564",
@@ -622461,7 +622645,19 @@
   },
   {
     "CVE": "CVE-2026-55609",
+    "PoC": "https://github.com/ruvnet/sublinear-time-solver/commit/ea9a212b69e4449ec443fe088a7aec7546f70b4a"
+  },
+  {
+    "CVE": "CVE-2026-55609",
     "PoC": "https://github.com/ruvnet/sublinear-time-solver/issues/19"
+  },
+  {
+    "CVE": "CVE-2026-55609",
+    "PoC": "https://github.com/ruvnet/sublinear-time-solver/pull/20"
+  },
+  {
+    "CVE": "CVE-2026-55609",
+    "PoC": "https://github.com/ruvnet/sublinear-time-solver/releases/tag/v1.6.0"
   },
   {
     "CVE": "CVE-2026-5561",
@@ -622488,6 +622684,10 @@
     "PoC": "https://github.com/GeiserX/genieacs-mcp/security/advisories/GHSA-cmwv-wf9p-p8wx"
   },
   {
+    "CVE": "CVE-2026-55638",
+    "PoC": "https://github.com/decolua/9router/security/advisories/GHSA-8gmq-j984-vp4r"
+  },
+  {
     "CVE": "CVE-2026-5564",
     "PoC": "https://github.com/Kazamikazu/Ksec/issues/2"
   },
@@ -622508,12 +622708,20 @@
     "PoC": "https://github.com/alextselegidis/easyappointments/security/advisories/GHSA-4vmm-5qvc-w5p7"
   },
   {
+    "CVE": "CVE-2026-55652",
+    "PoC": "https://github.com/wekan/wekan/security/advisories/GHSA-jggc-qvfc-jr6x"
+  },
+  {
     "CVE": "CVE-2026-55658",
     "PoC": "https://github.com/1Hive/gardens-v2/security/advisories/GHSA-jwvq-5xmf-f377"
   },
   {
     "CVE": "CVE-2026-5566",
     "PoC": "https://github.com/Moxxkidd/CVE/issues/1"
+  },
+  {
+    "CVE": "CVE-2026-55663",
+    "PoC": "https://github.com/versatica/mediasoup/security/advisories/GHSA-p7x2-g5cq-fhmq"
   },
   {
     "CVE": "CVE-2026-55667",
@@ -622530,6 +622738,14 @@
   {
     "CVE": "CVE-2026-5569",
     "PoC": "https://github.com/shiky8/my--cve-vulnerability-research/blob/main/my_VulnDB_cves/CVE-TECHNOSTROBE-01-BrokenAccessControl.md"
+  },
+  {
+    "CVE": "CVE-2026-55690",
+    "PoC": "https://github.com/StarCitizenWiki/mediawiki-extensions-EmbedVideo/security/advisories/GHSA-c29q-5xm7-5p62"
+  },
+  {
+    "CVE": "CVE-2026-55691",
+    "PoC": "https://github.com/StarCitizenWiki/mediawiki-extensions-EmbedVideo/security/advisories/GHSA-7h5p-637f-jfr7"
   },
   {
     "CVE": "CVE-2026-55698",
@@ -630668,6 +630884,10 @@
     "PoC": "https://www.oracle.com/security-alerts/cpujul2026.html"
   },
   {
+    "CVE": "CVE-2026-62597",
+    "PoC": "https://www.oracle.com/security-alerts/cspusep2026.html"
+  },
+  {
     "CVE": "CVE-2026-6265",
     "PoC": "https://labs.reversec.com/advisories/2026/04/cerberus-ftp-server-elevation-of-privileges"
   },
@@ -633592,6 +633812,22 @@
     "PoC": "https://github.com/Xmyronn/CodeAstro-Job-Portal-Unauthenticated-Resume-Exposure"
   },
   {
+    "CVE": "CVE-2026-70748",
+    "PoC": "https://www.oracle.com/security-alerts/cspusep2026.html"
+  },
+  {
+    "CVE": "CVE-2026-70755",
+    "PoC": "https://www.oracle.com/security-alerts/cspusep2026.html"
+  },
+  {
+    "CVE": "CVE-2026-70756",
+    "PoC": "https://www.oracle.com/security-alerts/cspusep2026.html"
+  },
+  {
+    "CVE": "CVE-2026-70757",
+    "PoC": "https://www.oracle.com/security-alerts/cspusep2026.html"
+  },
+  {
     "CVE": "CVE-2026-7076",
     "PoC": "https://vuldb.com/vuln/359651/cti"
   },
@@ -633630,6 +633866,14 @@
   {
     "CVE": "CVE-2026-7091",
     "PoC": "https://gist.github.com/higordiego/61e803a7a91df083665f2bcee9489c95"
+  },
+  {
+    "CVE": "CVE-2026-70913",
+    "PoC": "https://www.oracle.com/security-alerts/cspusep2026.html"
+  },
+  {
+    "CVE": "CVE-2026-70915",
+    "PoC": "https://www.oracle.com/security-alerts/cspusep2026.html"
   },
   {
     "CVE": "CVE-2026-7092",
@@ -633680,6 +633924,10 @@
     "PoC": "https://gist.github.com/higordiego/84ae7f08f5c23debebf309de3920bda2"
   },
   {
+    "CVE": "CVE-2026-71047",
+    "PoC": "https://www.oracle.com/security-alerts/cspusep2026.html"
+  },
+  {
     "CVE": "CVE-2026-7107",
     "PoC": "https://gist.github.com/higordiego/ea5944bd29cffee1162491d60ed5785a"
   },
@@ -633708,6 +633956,10 @@
     "PoC": "https://github.com/NousResearch/hermes-agent/pull/6445"
   },
   {
+    "CVE": "CVE-2026-71133",
+    "PoC": "https://www.oracle.com/security-alerts/cspusep2026.html"
+  },
+  {
     "CVE": "CVE-2026-7114",
     "PoC": "https://github.com/zzzxc643/CVE1/blob/main/EMPLOYEE_MANAGEMENT_SYSTEM/vul3.md"
   },
@@ -633718,6 +633970,10 @@
   {
     "CVE": "CVE-2026-7116",
     "PoC": "https://github.com/zzzxc643/CVE1/blob/main/EMPLOYEE_MANAGEMENT_SYSTEM/vul6.md"
+  },
+  {
+    "CVE": "CVE-2026-71163",
+    "PoC": "https://www.oracle.com/security-alerts/cspusep2026.html"
   },
   {
     "CVE": "CVE-2026-7117",
@@ -635156,12 +635412,120 @@
     "PoC": "https://github.com/microwaveabi/vul/issues/2"
   },
   {
+    "CVE": "CVE-2026-73926",
+    "PoC": "https://www.oracle.com/security-alerts/cspusep2026.html"
+  },
+  {
     "CVE": "CVE-2026-7393",
     "PoC": "https://github.com/Xmyronn/Unrestricted-File-Upload-leading-to-Remote-Code-Execution-in-Pizzafy-Ecommerce-System.git"
   },
   {
     "CVE": "CVE-2026-7394",
     "PoC": "https://github.com/Xmyronn/SQL-Injection-in-Pizzafy-Ecommerce-System-admin-view_order.php.git"
+  },
+  {
+    "CVE": "CVE-2026-73940",
+    "PoC": "https://www.oracle.com/security-alerts/cspusep2026.html"
+  },
+  {
+    "CVE": "CVE-2026-73941",
+    "PoC": "https://www.oracle.com/security-alerts/cspusep2026.html"
+  },
+  {
+    "CVE": "CVE-2026-73942",
+    "PoC": "https://www.oracle.com/security-alerts/cspusep2026.html"
+  },
+  {
+    "CVE": "CVE-2026-73943",
+    "PoC": "https://www.oracle.com/security-alerts/cspusep2026.html"
+  },
+  {
+    "CVE": "CVE-2026-73944",
+    "PoC": "https://www.oracle.com/security-alerts/cspusep2026.html"
+  },
+  {
+    "CVE": "CVE-2026-73945",
+    "PoC": "https://www.oracle.com/security-alerts/cspusep2026.html"
+  },
+  {
+    "CVE": "CVE-2026-73946",
+    "PoC": "https://www.oracle.com/security-alerts/cspusep2026.html"
+  },
+  {
+    "CVE": "CVE-2026-73947",
+    "PoC": "https://www.oracle.com/security-alerts/cspusep2026.html"
+  },
+  {
+    "CVE": "CVE-2026-73948",
+    "PoC": "https://www.oracle.com/security-alerts/cspusep2026.html"
+  },
+  {
+    "CVE": "CVE-2026-73949",
+    "PoC": "https://www.oracle.com/security-alerts/cspusep2026.html"
+  },
+  {
+    "CVE": "CVE-2026-73950",
+    "PoC": "https://www.oracle.com/security-alerts/cspusep2026.html"
+  },
+  {
+    "CVE": "CVE-2026-73951",
+    "PoC": "https://www.oracle.com/security-alerts/cspusep2026.html"
+  },
+  {
+    "CVE": "CVE-2026-73952",
+    "PoC": "https://www.oracle.com/security-alerts/cspusep2026.html"
+  },
+  {
+    "CVE": "CVE-2026-73953",
+    "PoC": "https://www.oracle.com/security-alerts/cspusep2026.html"
+  },
+  {
+    "CVE": "CVE-2026-73954",
+    "PoC": "https://www.oracle.com/security-alerts/cspusep2026.html"
+  },
+  {
+    "CVE": "CVE-2026-73955",
+    "PoC": "https://www.oracle.com/security-alerts/cspusep2026.html"
+  },
+  {
+    "CVE": "CVE-2026-73956",
+    "PoC": "https://www.oracle.com/security-alerts/cspusep2026.html"
+  },
+  {
+    "CVE": "CVE-2026-73957",
+    "PoC": "https://www.oracle.com/security-alerts/cspusep2026.html"
+  },
+  {
+    "CVE": "CVE-2026-73958",
+    "PoC": "https://www.oracle.com/security-alerts/cspusep2026.html"
+  },
+  {
+    "CVE": "CVE-2026-73959",
+    "PoC": "https://www.oracle.com/security-alerts/cspusep2026.html"
+  },
+  {
+    "CVE": "CVE-2026-73960",
+    "PoC": "https://www.oracle.com/security-alerts/cspusep2026.html"
+  },
+  {
+    "CVE": "CVE-2026-73961",
+    "PoC": "https://www.oracle.com/security-alerts/cspusep2026.html"
+  },
+  {
+    "CVE": "CVE-2026-73962",
+    "PoC": "https://www.oracle.com/security-alerts/cspusep2026.html"
+  },
+  {
+    "CVE": "CVE-2026-73963",
+    "PoC": "https://www.oracle.com/security-alerts/cspusep2026.html"
+  },
+  {
+    "CVE": "CVE-2026-73965",
+    "PoC": "https://www.oracle.com/security-alerts/cspusep2026.html"
+  },
+  {
+    "CVE": "CVE-2026-73966",
+    "PoC": "https://www.oracle.com/security-alerts/cspusep2026.html"
   },
   {
     "CVE": "CVE-2026-7397",
@@ -635780,6 +636144,14 @@
     "PoC": "https://github.com/biniamf/pocs/tree/main/oiio_ddsinput-readimg"
   },
   {
+    "CVE": "CVE-2026-75823",
+    "PoC": "https://wpscan.com/vulnerability/4a385690-3471-4604-aa2a-e120bb31ca53/"
+  },
+  {
+    "CVE": "CVE-2026-75824",
+    "PoC": "https://wpscan.com/vulnerability/61b04ece-5050-465e-aa11-de2ff79c6e8c/"
+  },
+  {
     "CVE": "CVE-2026-75831",
     "PoC": "https://github.com/getgrav/grav/security/advisories/GHSA-6qw9-4vv5-jr97"
   },
@@ -635826,6 +636198,10 @@
   {
     "CVE": "CVE-2026-75872",
     "PoC": "https://secur0.com/en/cna/cve-list/cve-2026-75872-html-injection-in-mailerup-double-optin-verification-email"
+  },
+  {
+    "CVE": "CVE-2026-75873",
+    "PoC": "https://wpscan.com/vulnerability/15b8a6cb-f89c-4d4d-9812-441e822c647f/"
   },
   {
     "CVE": "CVE-2026-7588",
@@ -638608,6 +638984,10 @@
     "PoC": "https://chromereleases.googleblog.com/2026/05/stable-channel-update-for-desktop.html"
   },
   {
+    "CVE": "CVE-2026-79417",
+    "PoC": "https://connorjaydunn.github.io/blog/posts/argus-monitor-ldos-cve-2026-79417/"
+  },
+  {
     "CVE": "CVE-2026-7942",
     "PoC": "https://chromereleases.googleblog.com/2026/05/stable-channel-update-for-desktop.html"
   },
@@ -639700,6 +640080,10 @@
     "PoC": "https://docs.google.com/document/d/1w1veNs8I3nxsVxbSiIgJmt-4S5a0rW0bvjDvEe7iDr0/edit?usp=sharing"
   },
   {
+    "CVE": "CVE-2026-80333",
+    "PoC": "https://wpscan.com/vulnerability/2baffcd4-686e-40db-96b3-5abc70a03a5f/"
+  },
+  {
     "CVE": "CVE-2026-80338",
     "PoC": "https://wpscan.com/vulnerability/7402e0b0-54de-42b3-9032-ae225fb4e76a/"
   },
@@ -640366,6 +640750,10 @@
   {
     "CVE": "CVE-2026-82126",
     "PoC": "https://wpscan.com/vulnerability/c6476bdd-1360-449f-b7be-6c532efe9de9/"
+  },
+  {
+    "CVE": "CVE-2026-82127",
+    "PoC": "https://wpscan.com/vulnerability/fa992935-6764-407e-a95f-31c55c33bf38/"
   },
   {
     "CVE": "CVE-2026-8213",
@@ -641356,8 +641744,1744 @@
     "PoC": "https://x.com/msnightmare2000/status/2094106041046765752"
   },
   {
+    "CVE": "CVE-2026-82992",
+    "PoC": "https://www.oracle.com/security-alerts/cspusep2026.html"
+  },
+  {
+    "CVE": "CVE-2026-82993",
+    "PoC": "https://www.oracle.com/security-alerts/cspusep2026.html"
+  },
+  {
+    "CVE": "CVE-2026-82994",
+    "PoC": "https://www.oracle.com/security-alerts/cspusep2026.html"
+  },
+  {
+    "CVE": "CVE-2026-82995",
+    "PoC": "https://www.oracle.com/security-alerts/cspusep2026.html"
+  },
+  {
+    "CVE": "CVE-2026-82996",
+    "PoC": "https://www.oracle.com/security-alerts/cspusep2026.html"
+  },
+  {
+    "CVE": "CVE-2026-82997",
+    "PoC": "https://www.oracle.com/security-alerts/cspusep2026.html"
+  },
+  {
+    "CVE": "CVE-2026-82998",
+    "PoC": "https://www.oracle.com/security-alerts/cspusep2026.html"
+  },
+  {
+    "CVE": "CVE-2026-82999",
+    "PoC": "https://www.oracle.com/security-alerts/cspusep2026.html"
+  },
+  {
+    "CVE": "CVE-2026-83000",
+    "PoC": "https://www.oracle.com/security-alerts/cspusep2026.html"
+  },
+  {
+    "CVE": "CVE-2026-83001",
+    "PoC": "https://www.oracle.com/security-alerts/cspusep2026.html"
+  },
+  {
+    "CVE": "CVE-2026-83002",
+    "PoC": "https://www.oracle.com/security-alerts/cspusep2026.html"
+  },
+  {
+    "CVE": "CVE-2026-83003",
+    "PoC": "https://www.oracle.com/security-alerts/cspusep2026.html"
+  },
+  {
+    "CVE": "CVE-2026-83004",
+    "PoC": "https://www.oracle.com/security-alerts/cspusep2026.html"
+  },
+  {
+    "CVE": "CVE-2026-83005",
+    "PoC": "https://www.oracle.com/security-alerts/cspusep2026.html"
+  },
+  {
+    "CVE": "CVE-2026-83006",
+    "PoC": "https://www.oracle.com/security-alerts/cspusep2026.html"
+  },
+  {
+    "CVE": "CVE-2026-83007",
+    "PoC": "https://www.oracle.com/security-alerts/cspusep2026.html"
+  },
+  {
+    "CVE": "CVE-2026-83008",
+    "PoC": "https://www.oracle.com/security-alerts/cspusep2026.html"
+  },
+  {
+    "CVE": "CVE-2026-83009",
+    "PoC": "https://www.oracle.com/security-alerts/cspusep2026.html"
+  },
+  {
+    "CVE": "CVE-2026-83010",
+    "PoC": "https://www.oracle.com/security-alerts/cspusep2026.html"
+  },
+  {
+    "CVE": "CVE-2026-83011",
+    "PoC": "https://www.oracle.com/security-alerts/cspusep2026.html"
+  },
+  {
+    "CVE": "CVE-2026-83012",
+    "PoC": "https://www.oracle.com/security-alerts/cspusep2026.html"
+  },
+  {
+    "CVE": "CVE-2026-83013",
+    "PoC": "https://www.oracle.com/security-alerts/cspusep2026.html"
+  },
+  {
+    "CVE": "CVE-2026-83014",
+    "PoC": "https://www.oracle.com/security-alerts/cspusep2026.html"
+  },
+  {
+    "CVE": "CVE-2026-83015",
+    "PoC": "https://www.oracle.com/security-alerts/cspusep2026.html"
+  },
+  {
+    "CVE": "CVE-2026-83016",
+    "PoC": "https://www.oracle.com/security-alerts/cspusep2026.html"
+  },
+  {
+    "CVE": "CVE-2026-83017",
+    "PoC": "https://www.oracle.com/security-alerts/cspusep2026.html"
+  },
+  {
+    "CVE": "CVE-2026-83018",
+    "PoC": "https://www.oracle.com/security-alerts/cspusep2026.html"
+  },
+  {
+    "CVE": "CVE-2026-83019",
+    "PoC": "https://www.oracle.com/security-alerts/cspusep2026.html"
+  },
+  {
+    "CVE": "CVE-2026-83020",
+    "PoC": "https://www.oracle.com/security-alerts/cspusep2026.html"
+  },
+  {
+    "CVE": "CVE-2026-83021",
+    "PoC": "https://www.oracle.com/security-alerts/cspusep2026.html"
+  },
+  {
+    "CVE": "CVE-2026-83022",
+    "PoC": "https://www.oracle.com/security-alerts/cspusep2026.html"
+  },
+  {
+    "CVE": "CVE-2026-83023",
+    "PoC": "https://www.oracle.com/security-alerts/cspusep2026.html"
+  },
+  {
+    "CVE": "CVE-2026-83024",
+    "PoC": "https://www.oracle.com/security-alerts/cspusep2026.html"
+  },
+  {
+    "CVE": "CVE-2026-83025",
+    "PoC": "https://www.oracle.com/security-alerts/cspusep2026.html"
+  },
+  {
+    "CVE": "CVE-2026-83026",
+    "PoC": "https://www.oracle.com/security-alerts/cspusep2026.html"
+  },
+  {
+    "CVE": "CVE-2026-83027",
+    "PoC": "https://www.oracle.com/security-alerts/cspusep2026.html"
+  },
+  {
+    "CVE": "CVE-2026-83028",
+    "PoC": "https://www.oracle.com/security-alerts/cspusep2026.html"
+  },
+  {
+    "CVE": "CVE-2026-83029",
+    "PoC": "https://www.oracle.com/security-alerts/cspusep2026.html"
+  },
+  {
+    "CVE": "CVE-2026-83030",
+    "PoC": "https://www.oracle.com/security-alerts/cspusep2026.html"
+  },
+  {
+    "CVE": "CVE-2026-83031",
+    "PoC": "https://www.oracle.com/security-alerts/cspusep2026.html"
+  },
+  {
+    "CVE": "CVE-2026-83032",
+    "PoC": "https://www.oracle.com/security-alerts/cspusep2026.html"
+  },
+  {
+    "CVE": "CVE-2026-83033",
+    "PoC": "https://www.oracle.com/security-alerts/cspusep2026.html"
+  },
+  {
+    "CVE": "CVE-2026-83034",
+    "PoC": "https://www.oracle.com/security-alerts/cspusep2026.html"
+  },
+  {
+    "CVE": "CVE-2026-83035",
+    "PoC": "https://www.oracle.com/security-alerts/cspusep2026.html"
+  },
+  {
+    "CVE": "CVE-2026-83036",
+    "PoC": "https://www.oracle.com/security-alerts/cspusep2026.html"
+  },
+  {
+    "CVE": "CVE-2026-83037",
+    "PoC": "https://www.oracle.com/security-alerts/cspusep2026.html"
+  },
+  {
+    "CVE": "CVE-2026-83038",
+    "PoC": "https://www.oracle.com/security-alerts/cspusep2026.html"
+  },
+  {
+    "CVE": "CVE-2026-83039",
+    "PoC": "https://www.oracle.com/security-alerts/cspusep2026.html"
+  },
+  {
+    "CVE": "CVE-2026-83040",
+    "PoC": "https://www.oracle.com/security-alerts/cspusep2026.html"
+  },
+  {
+    "CVE": "CVE-2026-83041",
+    "PoC": "https://www.oracle.com/security-alerts/cspusep2026.html"
+  },
+  {
+    "CVE": "CVE-2026-83042",
+    "PoC": "https://www.oracle.com/security-alerts/cspusep2026.html"
+  },
+  {
+    "CVE": "CVE-2026-83043",
+    "PoC": "https://www.oracle.com/security-alerts/cspusep2026.html"
+  },
+  {
+    "CVE": "CVE-2026-83044",
+    "PoC": "https://www.oracle.com/security-alerts/cspusep2026.html"
+  },
+  {
+    "CVE": "CVE-2026-83045",
+    "PoC": "https://www.oracle.com/security-alerts/cspusep2026.html"
+  },
+  {
+    "CVE": "CVE-2026-83046",
+    "PoC": "https://www.oracle.com/security-alerts/cspusep2026.html"
+  },
+  {
+    "CVE": "CVE-2026-83047",
+    "PoC": "https://www.oracle.com/security-alerts/cspusep2026.html"
+  },
+  {
+    "CVE": "CVE-2026-83048",
+    "PoC": "https://www.oracle.com/security-alerts/cspusep2026.html"
+  },
+  {
+    "CVE": "CVE-2026-83049",
+    "PoC": "https://www.oracle.com/security-alerts/cspusep2026.html"
+  },
+  {
+    "CVE": "CVE-2026-83050",
+    "PoC": "https://www.oracle.com/security-alerts/cspusep2026.html"
+  },
+  {
+    "CVE": "CVE-2026-83051",
+    "PoC": "https://www.oracle.com/security-alerts/cspusep2026.html"
+  },
+  {
+    "CVE": "CVE-2026-83052",
+    "PoC": "https://www.oracle.com/security-alerts/cspusep2026.html"
+  },
+  {
+    "CVE": "CVE-2026-83053",
+    "PoC": "https://www.oracle.com/security-alerts/cspusep2026.html"
+  },
+  {
+    "CVE": "CVE-2026-83054",
+    "PoC": "https://www.oracle.com/security-alerts/cspusep2026.html"
+  },
+  {
+    "CVE": "CVE-2026-83055",
+    "PoC": "https://www.oracle.com/security-alerts/cspusep2026.html"
+  },
+  {
+    "CVE": "CVE-2026-83056",
+    "PoC": "https://www.oracle.com/security-alerts/cspusep2026.html"
+  },
+  {
+    "CVE": "CVE-2026-83057",
+    "PoC": "https://www.oracle.com/security-alerts/cspusep2026.html"
+  },
+  {
+    "CVE": "CVE-2026-83058",
+    "PoC": "https://www.oracle.com/security-alerts/cspusep2026.html"
+  },
+  {
+    "CVE": "CVE-2026-83059",
+    "PoC": "https://www.oracle.com/security-alerts/cspusep2026.html"
+  },
+  {
+    "CVE": "CVE-2026-83060",
+    "PoC": "https://www.oracle.com/security-alerts/cspusep2026.html"
+  },
+  {
+    "CVE": "CVE-2026-83061",
+    "PoC": "https://www.oracle.com/security-alerts/cspusep2026.html"
+  },
+  {
+    "CVE": "CVE-2026-83062",
+    "PoC": "https://www.oracle.com/security-alerts/cspusep2026.html"
+  },
+  {
+    "CVE": "CVE-2026-83063",
+    "PoC": "https://www.oracle.com/security-alerts/cspusep2026.html"
+  },
+  {
+    "CVE": "CVE-2026-83064",
+    "PoC": "https://www.oracle.com/security-alerts/cspusep2026.html"
+  },
+  {
+    "CVE": "CVE-2026-83065",
+    "PoC": "https://www.oracle.com/security-alerts/cspusep2026.html"
+  },
+  {
+    "CVE": "CVE-2026-83066",
+    "PoC": "https://www.oracle.com/security-alerts/cspusep2026.html"
+  },
+  {
+    "CVE": "CVE-2026-83067",
+    "PoC": "https://www.oracle.com/security-alerts/cspusep2026.html"
+  },
+  {
+    "CVE": "CVE-2026-83068",
+    "PoC": "https://www.oracle.com/security-alerts/cspusep2026.html"
+  },
+  {
+    "CVE": "CVE-2026-83069",
+    "PoC": "https://www.oracle.com/security-alerts/cspusep2026.html"
+  },
+  {
+    "CVE": "CVE-2026-83070",
+    "PoC": "https://www.oracle.com/security-alerts/cspusep2026.html"
+  },
+  {
+    "CVE": "CVE-2026-83071",
+    "PoC": "https://www.oracle.com/security-alerts/cspusep2026.html"
+  },
+  {
+    "CVE": "CVE-2026-83072",
+    "PoC": "https://www.oracle.com/security-alerts/cspusep2026.html"
+  },
+  {
+    "CVE": "CVE-2026-83073",
+    "PoC": "https://www.oracle.com/security-alerts/cspusep2026.html"
+  },
+  {
+    "CVE": "CVE-2026-83074",
+    "PoC": "https://www.oracle.com/security-alerts/cspusep2026.html"
+  },
+  {
+    "CVE": "CVE-2026-83075",
+    "PoC": "https://www.oracle.com/security-alerts/cspusep2026.html"
+  },
+  {
+    "CVE": "CVE-2026-83076",
+    "PoC": "https://www.oracle.com/security-alerts/cspusep2026.html"
+  },
+  {
+    "CVE": "CVE-2026-83077",
+    "PoC": "https://www.oracle.com/security-alerts/cspusep2026.html"
+  },
+  {
+    "CVE": "CVE-2026-83078",
+    "PoC": "https://www.oracle.com/security-alerts/cspusep2026.html"
+  },
+  {
+    "CVE": "CVE-2026-83079",
+    "PoC": "https://www.oracle.com/security-alerts/cspusep2026.html"
+  },
+  {
+    "CVE": "CVE-2026-83080",
+    "PoC": "https://www.oracle.com/security-alerts/cspusep2026.html"
+  },
+  {
+    "CVE": "CVE-2026-83081",
+    "PoC": "https://www.oracle.com/security-alerts/cspusep2026.html"
+  },
+  {
+    "CVE": "CVE-2026-83082",
+    "PoC": "https://www.oracle.com/security-alerts/cspusep2026.html"
+  },
+  {
+    "CVE": "CVE-2026-83083",
+    "PoC": "https://www.oracle.com/security-alerts/cspusep2026.html"
+  },
+  {
+    "CVE": "CVE-2026-83084",
+    "PoC": "https://www.oracle.com/security-alerts/cspusep2026.html"
+  },
+  {
+    "CVE": "CVE-2026-83085",
+    "PoC": "https://www.oracle.com/security-alerts/cspusep2026.html"
+  },
+  {
+    "CVE": "CVE-2026-83086",
+    "PoC": "https://www.oracle.com/security-alerts/cspusep2026.html"
+  },
+  {
+    "CVE": "CVE-2026-83087",
+    "PoC": "https://www.oracle.com/security-alerts/cspusep2026.html"
+  },
+  {
+    "CVE": "CVE-2026-83088",
+    "PoC": "https://www.oracle.com/security-alerts/cspusep2026.html"
+  },
+  {
+    "CVE": "CVE-2026-83089",
+    "PoC": "https://www.oracle.com/security-alerts/cspusep2026.html"
+  },
+  {
+    "CVE": "CVE-2026-83090",
+    "PoC": "https://www.oracle.com/security-alerts/cspusep2026.html"
+  },
+  {
+    "CVE": "CVE-2026-83091",
+    "PoC": "https://www.oracle.com/security-alerts/cspusep2026.html"
+  },
+  {
+    "CVE": "CVE-2026-83092",
+    "PoC": "https://www.oracle.com/security-alerts/cspusep2026.html"
+  },
+  {
+    "CVE": "CVE-2026-83093",
+    "PoC": "https://www.oracle.com/security-alerts/cspusep2026.html"
+  },
+  {
+    "CVE": "CVE-2026-83094",
+    "PoC": "https://www.oracle.com/security-alerts/cspusep2026.html"
+  },
+  {
+    "CVE": "CVE-2026-83095",
+    "PoC": "https://www.oracle.com/security-alerts/cspusep2026.html"
+  },
+  {
+    "CVE": "CVE-2026-83096",
+    "PoC": "https://www.oracle.com/security-alerts/cspusep2026.html"
+  },
+  {
+    "CVE": "CVE-2026-83097",
+    "PoC": "https://www.oracle.com/security-alerts/cspusep2026.html"
+  },
+  {
+    "CVE": "CVE-2026-83098",
+    "PoC": "https://www.oracle.com/security-alerts/cspusep2026.html"
+  },
+  {
+    "CVE": "CVE-2026-83099",
+    "PoC": "https://www.oracle.com/security-alerts/cspusep2026.html"
+  },
+  {
+    "CVE": "CVE-2026-83100",
+    "PoC": "https://www.oracle.com/security-alerts/cspusep2026.html"
+  },
+  {
+    "CVE": "CVE-2026-83101",
+    "PoC": "https://www.oracle.com/security-alerts/cspusep2026.html"
+  },
+  {
+    "CVE": "CVE-2026-83102",
+    "PoC": "https://www.oracle.com/security-alerts/cspusep2026.html"
+  },
+  {
+    "CVE": "CVE-2026-83103",
+    "PoC": "https://www.oracle.com/security-alerts/cspusep2026.html"
+  },
+  {
+    "CVE": "CVE-2026-83104",
+    "PoC": "https://www.oracle.com/security-alerts/cspusep2026.html"
+  },
+  {
+    "CVE": "CVE-2026-83105",
+    "PoC": "https://www.oracle.com/security-alerts/cspusep2026.html"
+  },
+  {
+    "CVE": "CVE-2026-83106",
+    "PoC": "https://www.oracle.com/security-alerts/cspusep2026.html"
+  },
+  {
+    "CVE": "CVE-2026-83107",
+    "PoC": "https://www.oracle.com/security-alerts/cspusep2026.html"
+  },
+  {
+    "CVE": "CVE-2026-83108",
+    "PoC": "https://www.oracle.com/security-alerts/cspusep2026.html"
+  },
+  {
+    "CVE": "CVE-2026-83109",
+    "PoC": "https://www.oracle.com/security-alerts/cspusep2026.html"
+  },
+  {
+    "CVE": "CVE-2026-83110",
+    "PoC": "https://www.oracle.com/security-alerts/cspusep2026.html"
+  },
+  {
+    "CVE": "CVE-2026-83111",
+    "PoC": "https://www.oracle.com/security-alerts/cspusep2026.html"
+  },
+  {
+    "CVE": "CVE-2026-83112",
+    "PoC": "https://www.oracle.com/security-alerts/cspusep2026.html"
+  },
+  {
+    "CVE": "CVE-2026-83113",
+    "PoC": "https://www.oracle.com/security-alerts/cspusep2026.html"
+  },
+  {
+    "CVE": "CVE-2026-83114",
+    "PoC": "https://www.oracle.com/security-alerts/cspusep2026.html"
+  },
+  {
+    "CVE": "CVE-2026-83115",
+    "PoC": "https://www.oracle.com/security-alerts/cspusep2026.html"
+  },
+  {
+    "CVE": "CVE-2026-83116",
+    "PoC": "https://www.oracle.com/security-alerts/cspusep2026.html"
+  },
+  {
+    "CVE": "CVE-2026-83117",
+    "PoC": "https://www.oracle.com/security-alerts/cspusep2026.html"
+  },
+  {
+    "CVE": "CVE-2026-83118",
+    "PoC": "https://www.oracle.com/security-alerts/cspusep2026.html"
+  },
+  {
+    "CVE": "CVE-2026-83119",
+    "PoC": "https://www.oracle.com/security-alerts/cspusep2026.html"
+  },
+  {
+    "CVE": "CVE-2026-83120",
+    "PoC": "https://www.oracle.com/security-alerts/cspusep2026.html"
+  },
+  {
+    "CVE": "CVE-2026-83121",
+    "PoC": "https://www.oracle.com/security-alerts/cspusep2026.html"
+  },
+  {
+    "CVE": "CVE-2026-83122",
+    "PoC": "https://www.oracle.com/security-alerts/cspusep2026.html"
+  },
+  {
+    "CVE": "CVE-2026-83123",
+    "PoC": "https://www.oracle.com/security-alerts/cspusep2026.html"
+  },
+  {
+    "CVE": "CVE-2026-83124",
+    "PoC": "https://www.oracle.com/security-alerts/cspusep2026.html"
+  },
+  {
+    "CVE": "CVE-2026-83125",
+    "PoC": "https://www.oracle.com/security-alerts/cspusep2026.html"
+  },
+  {
+    "CVE": "CVE-2026-83126",
+    "PoC": "https://www.oracle.com/security-alerts/cspusep2026.html"
+  },
+  {
+    "CVE": "CVE-2026-83127",
+    "PoC": "https://www.oracle.com/security-alerts/cspusep2026.html"
+  },
+  {
+    "CVE": "CVE-2026-83128",
+    "PoC": "https://www.oracle.com/security-alerts/cspusep2026.html"
+  },
+  {
+    "CVE": "CVE-2026-83129",
+    "PoC": "https://www.oracle.com/security-alerts/cspusep2026.html"
+  },
+  {
+    "CVE": "CVE-2026-83130",
+    "PoC": "https://www.oracle.com/security-alerts/cspusep2026.html"
+  },
+  {
+    "CVE": "CVE-2026-83131",
+    "PoC": "https://www.oracle.com/security-alerts/cspusep2026.html"
+  },
+  {
+    "CVE": "CVE-2026-83132",
+    "PoC": "https://www.oracle.com/security-alerts/cspusep2026.html"
+  },
+  {
+    "CVE": "CVE-2026-83133",
+    "PoC": "https://www.oracle.com/security-alerts/cspusep2026.html"
+  },
+  {
+    "CVE": "CVE-2026-83134",
+    "PoC": "https://www.oracle.com/security-alerts/cspusep2026.html"
+  },
+  {
+    "CVE": "CVE-2026-83135",
+    "PoC": "https://www.oracle.com/security-alerts/cspusep2026.html"
+  },
+  {
+    "CVE": "CVE-2026-83136",
+    "PoC": "https://www.oracle.com/security-alerts/cspusep2026.html"
+  },
+  {
+    "CVE": "CVE-2026-83137",
+    "PoC": "https://www.oracle.com/security-alerts/cspusep2026.html"
+  },
+  {
+    "CVE": "CVE-2026-83138",
+    "PoC": "https://www.oracle.com/security-alerts/cspusep2026.html"
+  },
+  {
+    "CVE": "CVE-2026-83140",
+    "PoC": "https://www.oracle.com/security-alerts/cspusep2026.html"
+  },
+  {
+    "CVE": "CVE-2026-83141",
+    "PoC": "https://www.oracle.com/security-alerts/cspusep2026.html"
+  },
+  {
+    "CVE": "CVE-2026-83142",
+    "PoC": "https://www.oracle.com/security-alerts/cspusep2026.html"
+  },
+  {
+    "CVE": "CVE-2026-83143",
+    "PoC": "https://www.oracle.com/security-alerts/cspusep2026.html"
+  },
+  {
+    "CVE": "CVE-2026-83144",
+    "PoC": "https://www.oracle.com/security-alerts/cspusep2026.html"
+  },
+  {
+    "CVE": "CVE-2026-83145",
+    "PoC": "https://www.oracle.com/security-alerts/cspusep2026.html"
+  },
+  {
+    "CVE": "CVE-2026-83146",
+    "PoC": "https://www.oracle.com/security-alerts/cspusep2026.html"
+  },
+  {
+    "CVE": "CVE-2026-83147",
+    "PoC": "https://www.oracle.com/security-alerts/cspusep2026.html"
+  },
+  {
+    "CVE": "CVE-2026-83148",
+    "PoC": "https://www.oracle.com/security-alerts/cspusep2026.html"
+  },
+  {
+    "CVE": "CVE-2026-83149",
+    "PoC": "https://www.oracle.com/security-alerts/cspusep2026.html"
+  },
+  {
+    "CVE": "CVE-2026-83150",
+    "PoC": "https://www.oracle.com/security-alerts/cspusep2026.html"
+  },
+  {
+    "CVE": "CVE-2026-83151",
+    "PoC": "https://www.oracle.com/security-alerts/cspusep2026.html"
+  },
+  {
+    "CVE": "CVE-2026-83152",
+    "PoC": "https://www.oracle.com/security-alerts/cspusep2026.html"
+  },
+  {
+    "CVE": "CVE-2026-83153",
+    "PoC": "https://www.oracle.com/security-alerts/cspusep2026.html"
+  },
+  {
+    "CVE": "CVE-2026-83154",
+    "PoC": "https://www.oracle.com/security-alerts/cspusep2026.html"
+  },
+  {
+    "CVE": "CVE-2026-83155",
+    "PoC": "https://www.oracle.com/security-alerts/cspusep2026.html"
+  },
+  {
+    "CVE": "CVE-2026-83156",
+    "PoC": "https://www.oracle.com/security-alerts/cspusep2026.html"
+  },
+  {
+    "CVE": "CVE-2026-83157",
+    "PoC": "https://www.oracle.com/security-alerts/cspusep2026.html"
+  },
+  {
+    "CVE": "CVE-2026-83158",
+    "PoC": "https://www.oracle.com/security-alerts/cspusep2026.html"
+  },
+  {
+    "CVE": "CVE-2026-83159",
+    "PoC": "https://www.oracle.com/security-alerts/cspusep2026.html"
+  },
+  {
+    "CVE": "CVE-2026-83160",
+    "PoC": "https://www.oracle.com/security-alerts/cspusep2026.html"
+  },
+  {
+    "CVE": "CVE-2026-83161",
+    "PoC": "https://www.oracle.com/security-alerts/cspusep2026.html"
+  },
+  {
+    "CVE": "CVE-2026-83162",
+    "PoC": "https://www.oracle.com/security-alerts/cspusep2026.html"
+  },
+  {
+    "CVE": "CVE-2026-83163",
+    "PoC": "https://www.oracle.com/security-alerts/cspusep2026.html"
+  },
+  {
+    "CVE": "CVE-2026-83164",
+    "PoC": "https://www.oracle.com/security-alerts/cspusep2026.html"
+  },
+  {
+    "CVE": "CVE-2026-83165",
+    "PoC": "https://www.oracle.com/security-alerts/cspusep2026.html"
+  },
+  {
+    "CVE": "CVE-2026-83166",
+    "PoC": "https://www.oracle.com/security-alerts/cspusep2026.html"
+  },
+  {
+    "CVE": "CVE-2026-83167",
+    "PoC": "https://www.oracle.com/security-alerts/cspusep2026.html"
+  },
+  {
+    "CVE": "CVE-2026-83168",
+    "PoC": "https://www.oracle.com/security-alerts/cspusep2026.html"
+  },
+  {
+    "CVE": "CVE-2026-83169",
+    "PoC": "https://www.oracle.com/security-alerts/cspusep2026.html"
+  },
+  {
+    "CVE": "CVE-2026-83170",
+    "PoC": "https://www.oracle.com/security-alerts/cspusep2026.html"
+  },
+  {
+    "CVE": "CVE-2026-83171",
+    "PoC": "https://www.oracle.com/security-alerts/cspusep2026.html"
+  },
+  {
+    "CVE": "CVE-2026-83172",
+    "PoC": "https://www.oracle.com/security-alerts/cspusep2026.html"
+  },
+  {
+    "CVE": "CVE-2026-83173",
+    "PoC": "https://www.oracle.com/security-alerts/cspusep2026.html"
+  },
+  {
+    "CVE": "CVE-2026-83174",
+    "PoC": "https://www.oracle.com/security-alerts/cspusep2026.html"
+  },
+  {
+    "CVE": "CVE-2026-83175",
+    "PoC": "https://www.oracle.com/security-alerts/cspusep2026.html"
+  },
+  {
+    "CVE": "CVE-2026-83176",
+    "PoC": "https://www.oracle.com/security-alerts/cspusep2026.html"
+  },
+  {
+    "CVE": "CVE-2026-83177",
+    "PoC": "https://www.oracle.com/security-alerts/cspusep2026.html"
+  },
+  {
+    "CVE": "CVE-2026-83178",
+    "PoC": "https://www.oracle.com/security-alerts/cspusep2026.html"
+  },
+  {
+    "CVE": "CVE-2026-83179",
+    "PoC": "https://www.oracle.com/security-alerts/cspusep2026.html"
+  },
+  {
     "CVE": "CVE-2026-8318",
     "PoC": "https://github.com/VectifyAI/PageIndex/issues/174"
+  },
+  {
+    "CVE": "CVE-2026-83180",
+    "PoC": "https://www.oracle.com/security-alerts/cspusep2026.html"
+  },
+  {
+    "CVE": "CVE-2026-83181",
+    "PoC": "https://www.oracle.com/security-alerts/cspusep2026.html"
+  },
+  {
+    "CVE": "CVE-2026-83182",
+    "PoC": "https://www.oracle.com/security-alerts/cspusep2026.html"
+  },
+  {
+    "CVE": "CVE-2026-83183",
+    "PoC": "https://www.oracle.com/security-alerts/cspusep2026.html"
+  },
+  {
+    "CVE": "CVE-2026-83184",
+    "PoC": "https://www.oracle.com/security-alerts/cspusep2026.html"
+  },
+  {
+    "CVE": "CVE-2026-83185",
+    "PoC": "https://www.oracle.com/security-alerts/cspusep2026.html"
+  },
+  {
+    "CVE": "CVE-2026-83186",
+    "PoC": "https://www.oracle.com/security-alerts/cspusep2026.html"
+  },
+  {
+    "CVE": "CVE-2026-83187",
+    "PoC": "https://www.oracle.com/security-alerts/cspusep2026.html"
+  },
+  {
+    "CVE": "CVE-2026-83188",
+    "PoC": "https://www.oracle.com/security-alerts/cspusep2026.html"
+  },
+  {
+    "CVE": "CVE-2026-83189",
+    "PoC": "https://www.oracle.com/security-alerts/cspusep2026.html"
+  },
+  {
+    "CVE": "CVE-2026-83190",
+    "PoC": "https://www.oracle.com/security-alerts/cspusep2026.html"
+  },
+  {
+    "CVE": "CVE-2026-83191",
+    "PoC": "https://www.oracle.com/security-alerts/cspusep2026.html"
+  },
+  {
+    "CVE": "CVE-2026-83192",
+    "PoC": "https://www.oracle.com/security-alerts/cspusep2026.html"
+  },
+  {
+    "CVE": "CVE-2026-83193",
+    "PoC": "https://www.oracle.com/security-alerts/cspusep2026.html"
+  },
+  {
+    "CVE": "CVE-2026-83194",
+    "PoC": "https://www.oracle.com/security-alerts/cspusep2026.html"
+  },
+  {
+    "CVE": "CVE-2026-83195",
+    "PoC": "https://www.oracle.com/security-alerts/cspusep2026.html"
+  },
+  {
+    "CVE": "CVE-2026-83196",
+    "PoC": "https://www.oracle.com/security-alerts/cspusep2026.html"
+  },
+  {
+    "CVE": "CVE-2026-83197",
+    "PoC": "https://www.oracle.com/security-alerts/cspusep2026.html"
+  },
+  {
+    "CVE": "CVE-2026-83198",
+    "PoC": "https://www.oracle.com/security-alerts/cspusep2026.html"
+  },
+  {
+    "CVE": "CVE-2026-83199",
+    "PoC": "https://www.oracle.com/security-alerts/cspusep2026.html"
+  },
+  {
+    "CVE": "CVE-2026-83200",
+    "PoC": "https://www.oracle.com/security-alerts/cspusep2026.html"
+  },
+  {
+    "CVE": "CVE-2026-83201",
+    "PoC": "https://www.oracle.com/security-alerts/cspusep2026.html"
+  },
+  {
+    "CVE": "CVE-2026-83202",
+    "PoC": "https://www.oracle.com/security-alerts/cspusep2026.html"
+  },
+  {
+    "CVE": "CVE-2026-83203",
+    "PoC": "https://www.oracle.com/security-alerts/cspusep2026.html"
+  },
+  {
+    "CVE": "CVE-2026-83204",
+    "PoC": "https://www.oracle.com/security-alerts/cspusep2026.html"
+  },
+  {
+    "CVE": "CVE-2026-83205",
+    "PoC": "https://www.oracle.com/security-alerts/cspusep2026.html"
+  },
+  {
+    "CVE": "CVE-2026-83206",
+    "PoC": "https://www.oracle.com/security-alerts/cspusep2026.html"
+  },
+  {
+    "CVE": "CVE-2026-83207",
+    "PoC": "https://www.oracle.com/security-alerts/cspusep2026.html"
+  },
+  {
+    "CVE": "CVE-2026-83208",
+    "PoC": "https://www.oracle.com/security-alerts/cspusep2026.html"
+  },
+  {
+    "CVE": "CVE-2026-83209",
+    "PoC": "https://www.oracle.com/security-alerts/cspusep2026.html"
+  },
+  {
+    "CVE": "CVE-2026-83210",
+    "PoC": "https://www.oracle.com/security-alerts/cspusep2026.html"
+  },
+  {
+    "CVE": "CVE-2026-83211",
+    "PoC": "https://www.oracle.com/security-alerts/cspusep2026.html"
+  },
+  {
+    "CVE": "CVE-2026-83212",
+    "PoC": "https://www.oracle.com/security-alerts/cspusep2026.html"
+  },
+  {
+    "CVE": "CVE-2026-83213",
+    "PoC": "https://www.oracle.com/security-alerts/cspusep2026.html"
+  },
+  {
+    "CVE": "CVE-2026-83214",
+    "PoC": "https://www.oracle.com/security-alerts/cspusep2026.html"
+  },
+  {
+    "CVE": "CVE-2026-83215",
+    "PoC": "https://www.oracle.com/security-alerts/cspusep2026.html"
+  },
+  {
+    "CVE": "CVE-2026-83216",
+    "PoC": "https://www.oracle.com/security-alerts/cspusep2026.html"
+  },
+  {
+    "CVE": "CVE-2026-83217",
+    "PoC": "https://www.oracle.com/security-alerts/cspusep2026.html"
+  },
+  {
+    "CVE": "CVE-2026-83218",
+    "PoC": "https://www.oracle.com/security-alerts/cspusep2026.html"
+  },
+  {
+    "CVE": "CVE-2026-83219",
+    "PoC": "https://www.oracle.com/security-alerts/cspusep2026.html"
+  },
+  {
+    "CVE": "CVE-2026-83220",
+    "PoC": "https://www.oracle.com/security-alerts/cspusep2026.html"
+  },
+  {
+    "CVE": "CVE-2026-83221",
+    "PoC": "https://www.oracle.com/security-alerts/cspusep2026.html"
+  },
+  {
+    "CVE": "CVE-2026-83222",
+    "PoC": "https://www.oracle.com/security-alerts/cspusep2026.html"
+  },
+  {
+    "CVE": "CVE-2026-83223",
+    "PoC": "https://www.oracle.com/security-alerts/cspusep2026.html"
+  },
+  {
+    "CVE": "CVE-2026-83224",
+    "PoC": "https://www.oracle.com/security-alerts/cspusep2026.html"
+  },
+  {
+    "CVE": "CVE-2026-83225",
+    "PoC": "https://www.oracle.com/security-alerts/cspusep2026.html"
+  },
+  {
+    "CVE": "CVE-2026-83226",
+    "PoC": "https://www.oracle.com/security-alerts/cspusep2026.html"
+  },
+  {
+    "CVE": "CVE-2026-83227",
+    "PoC": "https://www.oracle.com/security-alerts/cspusep2026.html"
+  },
+  {
+    "CVE": "CVE-2026-83228",
+    "PoC": "https://www.oracle.com/security-alerts/cspusep2026.html"
+  },
+  {
+    "CVE": "CVE-2026-83229",
+    "PoC": "https://www.oracle.com/security-alerts/cspusep2026.html"
+  },
+  {
+    "CVE": "CVE-2026-83230",
+    "PoC": "https://www.oracle.com/security-alerts/cspusep2026.html"
+  },
+  {
+    "CVE": "CVE-2026-83231",
+    "PoC": "https://www.oracle.com/security-alerts/cspusep2026.html"
+  },
+  {
+    "CVE": "CVE-2026-83232",
+    "PoC": "https://www.oracle.com/security-alerts/cspusep2026.html"
+  },
+  {
+    "CVE": "CVE-2026-83233",
+    "PoC": "https://www.oracle.com/security-alerts/cspusep2026.html"
+  },
+  {
+    "CVE": "CVE-2026-83234",
+    "PoC": "https://www.oracle.com/security-alerts/cspusep2026.html"
+  },
+  {
+    "CVE": "CVE-2026-83235",
+    "PoC": "https://www.oracle.com/security-alerts/cspusep2026.html"
+  },
+  {
+    "CVE": "CVE-2026-83236",
+    "PoC": "https://www.oracle.com/security-alerts/cspusep2026.html"
+  },
+  {
+    "CVE": "CVE-2026-83237",
+    "PoC": "https://www.oracle.com/security-alerts/cspusep2026.html"
+  },
+  {
+    "CVE": "CVE-2026-83238",
+    "PoC": "https://www.oracle.com/security-alerts/cspusep2026.html"
+  },
+  {
+    "CVE": "CVE-2026-83239",
+    "PoC": "https://www.oracle.com/security-alerts/cspusep2026.html"
+  },
+  {
+    "CVE": "CVE-2026-83240",
+    "PoC": "https://www.oracle.com/security-alerts/cspusep2026.html"
+  },
+  {
+    "CVE": "CVE-2026-83241",
+    "PoC": "https://www.oracle.com/security-alerts/cspusep2026.html"
+  },
+  {
+    "CVE": "CVE-2026-83242",
+    "PoC": "https://www.oracle.com/security-alerts/cspusep2026.html"
+  },
+  {
+    "CVE": "CVE-2026-83243",
+    "PoC": "https://www.oracle.com/security-alerts/cspusep2026.html"
+  },
+  {
+    "CVE": "CVE-2026-83244",
+    "PoC": "https://www.oracle.com/security-alerts/cspusep2026.html"
+  },
+  {
+    "CVE": "CVE-2026-83245",
+    "PoC": "https://www.oracle.com/security-alerts/cspusep2026.html"
+  },
+  {
+    "CVE": "CVE-2026-83246",
+    "PoC": "https://www.oracle.com/security-alerts/cspusep2026.html"
+  },
+  {
+    "CVE": "CVE-2026-83247",
+    "PoC": "https://www.oracle.com/security-alerts/cspusep2026.html"
+  },
+  {
+    "CVE": "CVE-2026-83248",
+    "PoC": "https://www.oracle.com/security-alerts/cspusep2026.html"
+  },
+  {
+    "CVE": "CVE-2026-83249",
+    "PoC": "https://www.oracle.com/security-alerts/cspusep2026.html"
+  },
+  {
+    "CVE": "CVE-2026-83250",
+    "PoC": "https://www.oracle.com/security-alerts/cspusep2026.html"
+  },
+  {
+    "CVE": "CVE-2026-83251",
+    "PoC": "https://www.oracle.com/security-alerts/cspusep2026.html"
+  },
+  {
+    "CVE": "CVE-2026-83252",
+    "PoC": "https://www.oracle.com/security-alerts/cspusep2026.html"
+  },
+  {
+    "CVE": "CVE-2026-83253",
+    "PoC": "https://www.oracle.com/security-alerts/cspusep2026.html"
+  },
+  {
+    "CVE": "CVE-2026-83254",
+    "PoC": "https://www.oracle.com/security-alerts/cspusep2026.html"
+  },
+  {
+    "CVE": "CVE-2026-83255",
+    "PoC": "https://www.oracle.com/security-alerts/cspusep2026.html"
+  },
+  {
+    "CVE": "CVE-2026-83256",
+    "PoC": "https://www.oracle.com/security-alerts/cspusep2026.html"
+  },
+  {
+    "CVE": "CVE-2026-83257",
+    "PoC": "https://www.oracle.com/security-alerts/cspusep2026.html"
+  },
+  {
+    "CVE": "CVE-2026-83258",
+    "PoC": "https://www.oracle.com/security-alerts/cspusep2026.html"
+  },
+  {
+    "CVE": "CVE-2026-83259",
+    "PoC": "https://www.oracle.com/security-alerts/cspusep2026.html"
+  },
+  {
+    "CVE": "CVE-2026-83260",
+    "PoC": "https://www.oracle.com/security-alerts/cspusep2026.html"
+  },
+  {
+    "CVE": "CVE-2026-83261",
+    "PoC": "https://www.oracle.com/security-alerts/cspusep2026.html"
+  },
+  {
+    "CVE": "CVE-2026-83262",
+    "PoC": "https://www.oracle.com/security-alerts/cspusep2026.html"
+  },
+  {
+    "CVE": "CVE-2026-83263",
+    "PoC": "https://www.oracle.com/security-alerts/cspusep2026.html"
+  },
+  {
+    "CVE": "CVE-2026-83264",
+    "PoC": "https://www.oracle.com/security-alerts/cspusep2026.html"
+  },
+  {
+    "CVE": "CVE-2026-83265",
+    "PoC": "https://www.oracle.com/security-alerts/cspusep2026.html"
+  },
+  {
+    "CVE": "CVE-2026-83266",
+    "PoC": "https://www.oracle.com/security-alerts/cspusep2026.html"
+  },
+  {
+    "CVE": "CVE-2026-83267",
+    "PoC": "https://www.oracle.com/security-alerts/cspusep2026.html"
+  },
+  {
+    "CVE": "CVE-2026-83268",
+    "PoC": "https://www.oracle.com/security-alerts/cspusep2026.html"
+  },
+  {
+    "CVE": "CVE-2026-83269",
+    "PoC": "https://www.oracle.com/security-alerts/cspusep2026.html"
+  },
+  {
+    "CVE": "CVE-2026-83270",
+    "PoC": "https://www.oracle.com/security-alerts/cspusep2026.html"
+  },
+  {
+    "CVE": "CVE-2026-83271",
+    "PoC": "https://www.oracle.com/security-alerts/cspusep2026.html"
+  },
+  {
+    "CVE": "CVE-2026-83272",
+    "PoC": "https://www.oracle.com/security-alerts/cspusep2026.html"
+  },
+  {
+    "CVE": "CVE-2026-83273",
+    "PoC": "https://www.oracle.com/security-alerts/cspusep2026.html"
+  },
+  {
+    "CVE": "CVE-2026-83274",
+    "PoC": "https://www.oracle.com/security-alerts/cspusep2026.html"
+  },
+  {
+    "CVE": "CVE-2026-83276",
+    "PoC": "https://www.oracle.com/security-alerts/cspusep2026.html"
+  },
+  {
+    "CVE": "CVE-2026-83277",
+    "PoC": "https://www.oracle.com/security-alerts/cspusep2026.html"
+  },
+  {
+    "CVE": "CVE-2026-83278",
+    "PoC": "https://www.oracle.com/security-alerts/cspusep2026.html"
+  },
+  {
+    "CVE": "CVE-2026-83279",
+    "PoC": "https://www.oracle.com/security-alerts/cspusep2026.html"
+  },
+  {
+    "CVE": "CVE-2026-83280",
+    "PoC": "https://www.oracle.com/security-alerts/cspusep2026.html"
+  },
+  {
+    "CVE": "CVE-2026-83281",
+    "PoC": "https://www.oracle.com/security-alerts/cspusep2026.html"
+  },
+  {
+    "CVE": "CVE-2026-83282",
+    "PoC": "https://www.oracle.com/security-alerts/cspusep2026.html"
+  },
+  {
+    "CVE": "CVE-2026-83283",
+    "PoC": "https://www.oracle.com/security-alerts/cspusep2026.html"
+  },
+  {
+    "CVE": "CVE-2026-83284",
+    "PoC": "https://www.oracle.com/security-alerts/cspusep2026.html"
+  },
+  {
+    "CVE": "CVE-2026-83285",
+    "PoC": "https://www.oracle.com/security-alerts/cspusep2026.html"
+  },
+  {
+    "CVE": "CVE-2026-83286",
+    "PoC": "https://www.oracle.com/security-alerts/cspusep2026.html"
+  },
+  {
+    "CVE": "CVE-2026-83287",
+    "PoC": "https://www.oracle.com/security-alerts/cspusep2026.html"
+  },
+  {
+    "CVE": "CVE-2026-83288",
+    "PoC": "https://www.oracle.com/security-alerts/cspusep2026.html"
+  },
+  {
+    "CVE": "CVE-2026-83289",
+    "PoC": "https://www.oracle.com/security-alerts/cspusep2026.html"
+  },
+  {
+    "CVE": "CVE-2026-83290",
+    "PoC": "https://www.oracle.com/security-alerts/cspusep2026.html"
+  },
+  {
+    "CVE": "CVE-2026-83291",
+    "PoC": "https://www.oracle.com/security-alerts/cspusep2026.html"
+  },
+  {
+    "CVE": "CVE-2026-83292",
+    "PoC": "https://www.oracle.com/security-alerts/cspusep2026.html"
+  },
+  {
+    "CVE": "CVE-2026-83293",
+    "PoC": "https://www.oracle.com/security-alerts/cspusep2026.html"
+  },
+  {
+    "CVE": "CVE-2026-83294",
+    "PoC": "https://www.oracle.com/security-alerts/cspusep2026.html"
+  },
+  {
+    "CVE": "CVE-2026-83295",
+    "PoC": "https://www.oracle.com/security-alerts/cspusep2026.html"
+  },
+  {
+    "CVE": "CVE-2026-83296",
+    "PoC": "https://www.oracle.com/security-alerts/cspusep2026.html"
+  },
+  {
+    "CVE": "CVE-2026-83297",
+    "PoC": "https://www.oracle.com/security-alerts/cspusep2026.html"
+  },
+  {
+    "CVE": "CVE-2026-83298",
+    "PoC": "https://www.oracle.com/security-alerts/cspusep2026.html"
+  },
+  {
+    "CVE": "CVE-2026-83299",
+    "PoC": "https://www.oracle.com/security-alerts/cspusep2026.html"
+  },
+  {
+    "CVE": "CVE-2026-83300",
+    "PoC": "https://www.oracle.com/security-alerts/cspusep2026.html"
+  },
+  {
+    "CVE": "CVE-2026-83301",
+    "PoC": "https://www.oracle.com/security-alerts/cspusep2026.html"
+  },
+  {
+    "CVE": "CVE-2026-83302",
+    "PoC": "https://www.oracle.com/security-alerts/cspusep2026.html"
+  },
+  {
+    "CVE": "CVE-2026-83303",
+    "PoC": "https://www.oracle.com/security-alerts/cspusep2026.html"
+  },
+  {
+    "CVE": "CVE-2026-83304",
+    "PoC": "https://www.oracle.com/security-alerts/cspusep2026.html"
+  },
+  {
+    "CVE": "CVE-2026-83305",
+    "PoC": "https://www.oracle.com/security-alerts/cspusep2026.html"
+  },
+  {
+    "CVE": "CVE-2026-83306",
+    "PoC": "https://www.oracle.com/security-alerts/cspusep2026.html"
+  },
+  {
+    "CVE": "CVE-2026-83307",
+    "PoC": "https://www.oracle.com/security-alerts/cspusep2026.html"
+  },
+  {
+    "CVE": "CVE-2026-83308",
+    "PoC": "https://www.oracle.com/security-alerts/cspusep2026.html"
+  },
+  {
+    "CVE": "CVE-2026-83309",
+    "PoC": "https://www.oracle.com/security-alerts/cspusep2026.html"
+  },
+  {
+    "CVE": "CVE-2026-83310",
+    "PoC": "https://www.oracle.com/security-alerts/cspusep2026.html"
+  },
+  {
+    "CVE": "CVE-2026-83311",
+    "PoC": "https://www.oracle.com/security-alerts/cspusep2026.html"
+  },
+  {
+    "CVE": "CVE-2026-83312",
+    "PoC": "https://www.oracle.com/security-alerts/cspusep2026.html"
+  },
+  {
+    "CVE": "CVE-2026-83313",
+    "PoC": "https://www.oracle.com/security-alerts/cspusep2026.html"
+  },
+  {
+    "CVE": "CVE-2026-83314",
+    "PoC": "https://www.oracle.com/security-alerts/cspusep2026.html"
+  },
+  {
+    "CVE": "CVE-2026-83315",
+    "PoC": "https://www.oracle.com/security-alerts/cspusep2026.html"
+  },
+  {
+    "CVE": "CVE-2026-83316",
+    "PoC": "https://www.oracle.com/security-alerts/cspusep2026.html"
+  },
+  {
+    "CVE": "CVE-2026-83317",
+    "PoC": "https://www.oracle.com/security-alerts/cspusep2026.html"
+  },
+  {
+    "CVE": "CVE-2026-83318",
+    "PoC": "https://www.oracle.com/security-alerts/cspusep2026.html"
+  },
+  {
+    "CVE": "CVE-2026-83319",
+    "PoC": "https://www.oracle.com/security-alerts/cspusep2026.html"
+  },
+  {
+    "CVE": "CVE-2026-83320",
+    "PoC": "https://www.oracle.com/security-alerts/cspusep2026.html"
+  },
+  {
+    "CVE": "CVE-2026-83321",
+    "PoC": "https://www.oracle.com/security-alerts/cspusep2026.html"
+  },
+  {
+    "CVE": "CVE-2026-83322",
+    "PoC": "https://www.oracle.com/security-alerts/cspusep2026.html"
+  },
+  {
+    "CVE": "CVE-2026-83323",
+    "PoC": "https://www.oracle.com/security-alerts/cspusep2026.html"
+  },
+  {
+    "CVE": "CVE-2026-83324",
+    "PoC": "https://www.oracle.com/security-alerts/cspusep2026.html"
+  },
+  {
+    "CVE": "CVE-2026-83325",
+    "PoC": "https://www.oracle.com/security-alerts/cspusep2026.html"
+  },
+  {
+    "CVE": "CVE-2026-83326",
+    "PoC": "https://www.oracle.com/security-alerts/cspusep2026.html"
+  },
+  {
+    "CVE": "CVE-2026-83327",
+    "PoC": "https://www.oracle.com/security-alerts/cspusep2026.html"
+  },
+  {
+    "CVE": "CVE-2026-83328",
+    "PoC": "https://www.oracle.com/security-alerts/cspusep2026.html"
+  },
+  {
+    "CVE": "CVE-2026-83329",
+    "PoC": "https://www.oracle.com/security-alerts/cspusep2026.html"
+  },
+  {
+    "CVE": "CVE-2026-83330",
+    "PoC": "https://www.oracle.com/security-alerts/cspusep2026.html"
+  },
+  {
+    "CVE": "CVE-2026-83331",
+    "PoC": "https://www.oracle.com/security-alerts/cspusep2026.html"
+  },
+  {
+    "CVE": "CVE-2026-83332",
+    "PoC": "https://www.oracle.com/security-alerts/cspusep2026.html"
+  },
+  {
+    "CVE": "CVE-2026-83333",
+    "PoC": "https://www.oracle.com/security-alerts/cspusep2026.html"
+  },
+  {
+    "CVE": "CVE-2026-83334",
+    "PoC": "https://www.oracle.com/security-alerts/cspusep2026.html"
+  },
+  {
+    "CVE": "CVE-2026-83335",
+    "PoC": "https://www.oracle.com/security-alerts/cspusep2026.html"
+  },
+  {
+    "CVE": "CVE-2026-83336",
+    "PoC": "https://www.oracle.com/security-alerts/cspusep2026.html"
+  },
+  {
+    "CVE": "CVE-2026-83337",
+    "PoC": "https://www.oracle.com/security-alerts/cspusep2026.html"
+  },
+  {
+    "CVE": "CVE-2026-83338",
+    "PoC": "https://www.oracle.com/security-alerts/cspusep2026.html"
+  },
+  {
+    "CVE": "CVE-2026-83339",
+    "PoC": "https://www.oracle.com/security-alerts/cspusep2026.html"
+  },
+  {
+    "CVE": "CVE-2026-83340",
+    "PoC": "https://www.oracle.com/security-alerts/cspusep2026.html"
+  },
+  {
+    "CVE": "CVE-2026-83341",
+    "PoC": "https://www.oracle.com/security-alerts/cspusep2026.html"
+  },
+  {
+    "CVE": "CVE-2026-83342",
+    "PoC": "https://www.oracle.com/security-alerts/cspusep2026.html"
+  },
+  {
+    "CVE": "CVE-2026-83343",
+    "PoC": "https://www.oracle.com/security-alerts/cspusep2026.html"
+  },
+  {
+    "CVE": "CVE-2026-83344",
+    "PoC": "https://www.oracle.com/security-alerts/cspusep2026.html"
+  },
+  {
+    "CVE": "CVE-2026-83345",
+    "PoC": "https://www.oracle.com/security-alerts/cspusep2026.html"
+  },
+  {
+    "CVE": "CVE-2026-83346",
+    "PoC": "https://www.oracle.com/security-alerts/cspusep2026.html"
+  },
+  {
+    "CVE": "CVE-2026-83347",
+    "PoC": "https://www.oracle.com/security-alerts/cspusep2026.html"
+  },
+  {
+    "CVE": "CVE-2026-83348",
+    "PoC": "https://www.oracle.com/security-alerts/cspusep2026.html"
+  },
+  {
+    "CVE": "CVE-2026-83349",
+    "PoC": "https://www.oracle.com/security-alerts/cspusep2026.html"
+  },
+  {
+    "CVE": "CVE-2026-83350",
+    "PoC": "https://www.oracle.com/security-alerts/cspusep2026.html"
+  },
+  {
+    "CVE": "CVE-2026-83351",
+    "PoC": "https://www.oracle.com/security-alerts/cspusep2026.html"
+  },
+  {
+    "CVE": "CVE-2026-83352",
+    "PoC": "https://www.oracle.com/security-alerts/cspusep2026.html"
+  },
+  {
+    "CVE": "CVE-2026-83353",
+    "PoC": "https://www.oracle.com/security-alerts/cspusep2026.html"
+  },
+  {
+    "CVE": "CVE-2026-83354",
+    "PoC": "https://www.oracle.com/security-alerts/cspusep2026.html"
+  },
+  {
+    "CVE": "CVE-2026-83355",
+    "PoC": "https://www.oracle.com/security-alerts/cspusep2026.html"
+  },
+  {
+    "CVE": "CVE-2026-83356",
+    "PoC": "https://www.oracle.com/security-alerts/cspusep2026.html"
+  },
+  {
+    "CVE": "CVE-2026-83357",
+    "PoC": "https://www.oracle.com/security-alerts/cspusep2026.html"
+  },
+  {
+    "CVE": "CVE-2026-83368",
+    "PoC": "https://www.oracle.com/security-alerts/cspusep2026.html"
+  },
+  {
+    "CVE": "CVE-2026-83369",
+    "PoC": "https://www.oracle.com/security-alerts/cspusep2026.html"
+  },
+  {
+    "CVE": "CVE-2026-83408",
+    "PoC": "https://www.oracle.com/security-alerts/cspusep2026.html"
+  },
+  {
+    "CVE": "CVE-2026-83410",
+    "PoC": "https://www.oracle.com/security-alerts/cspusep2026.html"
+  },
+  {
+    "CVE": "CVE-2026-83411",
+    "PoC": "https://www.oracle.com/security-alerts/cspusep2026.html"
+  },
+  {
+    "CVE": "CVE-2026-83412",
+    "PoC": "https://www.oracle.com/security-alerts/cspusep2026.html"
+  },
+  {
+    "CVE": "CVE-2026-83413",
+    "PoC": "https://www.oracle.com/security-alerts/cspusep2026.html"
+  },
+  {
+    "CVE": "CVE-2026-83414",
+    "PoC": "https://www.oracle.com/security-alerts/cspusep2026.html"
+  },
+  {
+    "CVE": "CVE-2026-83415",
+    "PoC": "https://www.oracle.com/security-alerts/cspusep2026.html"
+  },
+  {
+    "CVE": "CVE-2026-83416",
+    "PoC": "https://www.oracle.com/security-alerts/cspusep2026.html"
+  },
+  {
+    "CVE": "CVE-2026-83417",
+    "PoC": "https://www.oracle.com/security-alerts/cspusep2026.html"
+  },
+  {
+    "CVE": "CVE-2026-83418",
+    "PoC": "https://www.oracle.com/security-alerts/cspusep2026.html"
+  },
+  {
+    "CVE": "CVE-2026-83419",
+    "PoC": "https://www.oracle.com/security-alerts/cspusep2026.html"
+  },
+  {
+    "CVE": "CVE-2026-83420",
+    "PoC": "https://www.oracle.com/security-alerts/cspusep2026.html"
+  },
+  {
+    "CVE": "CVE-2026-83422",
+    "PoC": "https://www.oracle.com/security-alerts/cspusep2026.html"
+  },
+  {
+    "CVE": "CVE-2026-83423",
+    "PoC": "https://www.oracle.com/security-alerts/cspusep2026.html"
+  },
+  {
+    "CVE": "CVE-2026-83424",
+    "PoC": "https://www.oracle.com/security-alerts/cspusep2026.html"
+  },
+  {
+    "CVE": "CVE-2026-83425",
+    "PoC": "https://www.oracle.com/security-alerts/cspusep2026.html"
+  },
+  {
+    "CVE": "CVE-2026-83428",
+    "PoC": "https://www.oracle.com/security-alerts/cspusep2026.html"
+  },
+  {
+    "CVE": "CVE-2026-83429",
+    "PoC": "https://www.oracle.com/security-alerts/cspusep2026.html"
+  },
+  {
+    "CVE": "CVE-2026-83430",
+    "PoC": "https://www.oracle.com/security-alerts/cspusep2026.html"
+  },
+  {
+    "CVE": "CVE-2026-83431",
+    "PoC": "https://www.oracle.com/security-alerts/cspusep2026.html"
+  },
+  {
+    "CVE": "CVE-2026-83432",
+    "PoC": "https://www.oracle.com/security-alerts/cspusep2026.html"
+  },
+  {
+    "CVE": "CVE-2026-83433",
+    "PoC": "https://www.oracle.com/security-alerts/cspusep2026.html"
+  },
+  {
+    "CVE": "CVE-2026-83434",
+    "PoC": "https://www.oracle.com/security-alerts/cspusep2026.html"
+  },
+  {
+    "CVE": "CVE-2026-83435",
+    "PoC": "https://www.oracle.com/security-alerts/cspusep2026.html"
+  },
+  {
+    "CVE": "CVE-2026-83436",
+    "PoC": "https://www.oracle.com/security-alerts/cspusep2026.html"
+  },
+  {
+    "CVE": "CVE-2026-83437",
+    "PoC": "https://www.oracle.com/security-alerts/cspusep2026.html"
+  },
+  {
+    "CVE": "CVE-2026-83438",
+    "PoC": "https://www.oracle.com/security-alerts/cspusep2026.html"
+  },
+  {
+    "CVE": "CVE-2026-83439",
+    "PoC": "https://www.oracle.com/security-alerts/cspusep2026.html"
+  },
+  {
+    "CVE": "CVE-2026-83440",
+    "PoC": "https://www.oracle.com/security-alerts/cspusep2026.html"
+  },
+  {
+    "CVE": "CVE-2026-83441",
+    "PoC": "https://www.oracle.com/security-alerts/cspusep2026.html"
+  },
+  {
+    "CVE": "CVE-2026-83442",
+    "PoC": "https://www.oracle.com/security-alerts/cspusep2026.html"
+  },
+  {
+    "CVE": "CVE-2026-83443",
+    "PoC": "https://www.oracle.com/security-alerts/cspusep2026.html"
+  },
+  {
+    "CVE": "CVE-2026-83444",
+    "PoC": "https://www.oracle.com/security-alerts/cspusep2026.html"
+  },
+  {
+    "CVE": "CVE-2026-83445",
+    "PoC": "https://www.oracle.com/security-alerts/cspusep2026.html"
+  },
+  {
+    "CVE": "CVE-2026-83446",
+    "PoC": "https://www.oracle.com/security-alerts/cspusep2026.html"
+  },
+  {
+    "CVE": "CVE-2026-83447",
+    "PoC": "https://www.oracle.com/security-alerts/cspusep2026.html"
+  },
+  {
+    "CVE": "CVE-2026-83448",
+    "PoC": "https://www.oracle.com/security-alerts/cspusep2026.html"
+  },
+  {
+    "CVE": "CVE-2026-83449",
+    "PoC": "https://www.oracle.com/security-alerts/cspusep2026.html"
+  },
+  {
+    "CVE": "CVE-2026-83450",
+    "PoC": "https://www.oracle.com/security-alerts/cspusep2026.html"
+  },
+  {
+    "CVE": "CVE-2026-83451",
+    "PoC": "https://www.oracle.com/security-alerts/cspusep2026.html"
+  },
+  {
+    "CVE": "CVE-2026-83452",
+    "PoC": "https://www.oracle.com/security-alerts/cspusep2026.html"
+  },
+  {
+    "CVE": "CVE-2026-83453",
+    "PoC": "https://www.oracle.com/security-alerts/cspusep2026.html"
+  },
+  {
+    "CVE": "CVE-2026-83454",
+    "PoC": "https://www.oracle.com/security-alerts/cspusep2026.html"
+  },
+  {
+    "CVE": "CVE-2026-83455",
+    "PoC": "https://www.oracle.com/security-alerts/cspusep2026.html"
+  },
+  {
+    "CVE": "CVE-2026-83456",
+    "PoC": "https://www.oracle.com/security-alerts/cspusep2026.html"
+  },
+  {
+    "CVE": "CVE-2026-83457",
+    "PoC": "https://www.oracle.com/security-alerts/cspusep2026.html"
+  },
+  {
+    "CVE": "CVE-2026-83458",
+    "PoC": "https://www.oracle.com/security-alerts/cspusep2026.html"
+  },
+  {
+    "CVE": "CVE-2026-83459",
+    "PoC": "https://www.oracle.com/security-alerts/cspusep2026.html"
+  },
+  {
+    "CVE": "CVE-2026-83460",
+    "PoC": "https://www.oracle.com/security-alerts/cspusep2026.html"
+  },
+  {
+    "CVE": "CVE-2026-83461",
+    "PoC": "https://www.oracle.com/security-alerts/cspusep2026.html"
+  },
+  {
+    "CVE": "CVE-2026-83462",
+    "PoC": "https://www.oracle.com/security-alerts/cspusep2026.html"
+  },
+  {
+    "CVE": "CVE-2026-83463",
+    "PoC": "https://www.oracle.com/security-alerts/cspusep2026.html"
+  },
+  {
+    "CVE": "CVE-2026-83464",
+    "PoC": "https://www.oracle.com/security-alerts/cspusep2026.html"
+  },
+  {
+    "CVE": "CVE-2026-83465",
+    "PoC": "https://www.oracle.com/security-alerts/cspusep2026.html"
+  },
+  {
+    "CVE": "CVE-2026-83477",
+    "PoC": "https://www.oracle.com/security-alerts/cspusep2026.html"
+  },
+  {
+    "CVE": "CVE-2026-83479",
+    "PoC": "https://www.oracle.com/security-alerts/cspusep2026.html"
+  },
+  {
+    "CVE": "CVE-2026-83480",
+    "PoC": "https://www.oracle.com/security-alerts/cspusep2026.html"
+  },
+  {
+    "CVE": "CVE-2026-83481",
+    "PoC": "https://www.oracle.com/security-alerts/cspusep2026.html"
+  },
+  {
+    "CVE": "CVE-2026-83482",
+    "PoC": "https://www.oracle.com/security-alerts/cspusep2026.html"
+  },
+  {
+    "CVE": "CVE-2026-83483",
+    "PoC": "https://www.oracle.com/security-alerts/cspusep2026.html"
+  },
+  {
+    "CVE": "CVE-2026-83484",
+    "PoC": "https://www.oracle.com/security-alerts/cspusep2026.html"
+  },
+  {
+    "CVE": "CVE-2026-83485",
+    "PoC": "https://www.oracle.com/security-alerts/cspusep2026.html"
+  },
+  {
+    "CVE": "CVE-2026-83486",
+    "PoC": "https://www.oracle.com/security-alerts/cspusep2026.html"
+  },
+  {
+    "CVE": "CVE-2026-83487",
+    "PoC": "https://www.oracle.com/security-alerts/cspusep2026.html"
+  },
+  {
+    "CVE": "CVE-2026-83488",
+    "PoC": "https://www.oracle.com/security-alerts/cspusep2026.html"
+  },
+  {
+    "CVE": "CVE-2026-83489",
+    "PoC": "https://www.oracle.com/security-alerts/cspusep2026.html"
+  },
+  {
+    "CVE": "CVE-2026-83490",
+    "PoC": "https://www.oracle.com/security-alerts/cspusep2026.html"
+  },
+  {
+    "CVE": "CVE-2026-83491",
+    "PoC": "https://www.oracle.com/security-alerts/cspusep2026.html"
   },
   {
     "CVE": "CVE-2026-83530",
@@ -641410,6 +643534,10 @@
   {
     "CVE": "CVE-2026-83557",
     "PoC": "https://github.com/FasterXML/jackson-databind/security/advisories/GHSA-gx83-3vf8-gh7j"
+  },
+  {
+    "CVE": "CVE-2026-83560",
+    "PoC": "https://wpscan.com/vulnerability/dc48141c-c7d3-485e-9470-88f5e24a701f/"
   },
   {
     "CVE": "CVE-2026-8359",
@@ -641904,6 +644032,10 @@
     "PoC": "https://devolutions.net/security/advisories/DEVO-2026-0027/"
   },
   {
+    "CVE": "CVE-2026-85001",
+    "PoC": "https://wpscan.com/vulnerability/889be882-342b-4331-89c5-9eebe90d3704/"
+  },
+  {
     "CVE": "CVE-2026-85002",
     "PoC": "https://wpscan.com/vulnerability/ad155ea2-c804-4906-956e-e2da8050d0de/"
   },
@@ -642018,6 +644150,10 @@
   {
     "CVE": "CVE-2026-85100",
     "PoC": "https://github.com/2FastLabs/agent-squad/issues/661"
+  },
+  {
+    "CVE": "CVE-2026-85100",
+    "PoC": "https://github.com/hackerguopeng/cve/tree/main/Agent_Squad_Streaming_Background_DoS_Report"
   },
   {
     "CVE": "CVE-2026-85109",
@@ -642176,6 +644312,10 @@
     "PoC": "https://github.com/Avaiga/taipy/issues/2890"
   },
   {
+    "CVE": "CVE-2026-85185",
+    "PoC": "https://github.com/canonical/lxd/security/advisories/GHSA-27q7-qwhm-c34p"
+  },
+  {
     "CVE": "CVE-2026-85186",
     "PoC": "https://github.com/boyslikesports/202607_vul_dir/blob/main/C-11-FileUpload-RCE-Customer_en.md"
   },
@@ -642240,6 +644380,10 @@
     "PoC": "https://github.com/dxz0069/WAVLINK-WN530H4-Command-Injection-in-set_add_routing/blob/main/DLINK-CMD-010-vulndb.md"
   },
   {
+    "CVE": "CVE-2026-85225",
+    "PoC": "https://github.com/ahmadmarz10-hub/CVEsMarz/blob/main/Time-Based%20Blind%20SQL%20Injection%20in%20Doctor%20Appointment%20System%20email%20Parameter.md"
+  },
+  {
     "CVE": "CVE-2026-8523",
     "PoC": "https://issues.chromium.org/issues/483956252"
   },
@@ -642254,6 +644398,10 @@
   {
     "CVE": "CVE-2026-85272",
     "PoC": "https://github.com/openedx/openedx-platform/security/advisories/GHSA-6cmm-8875-5pcw"
+  },
+  {
+    "CVE": "CVE-2026-85274",
+    "PoC": "https://github.com/InvoicePlane/InvoicePlane/security/advisories/GHSA-qf9q-2hxm-4wh9"
   },
   {
     "CVE": "CVE-2026-85279",
@@ -642376,6 +644524,10 @@
     "PoC": "https://issues.chromium.org/issues/496645393"
   },
   {
+    "CVE": "CVE-2026-85415",
+    "PoC": "https://wpscan.com/vulnerability/3ca9c087-311b-4c55-8871-fba318f654b3/"
+  },
+  {
     "CVE": "CVE-2026-85418",
     "PoC": "https://wpscan.com/vulnerability/8f9ba009-324f-46ef-853f-9f2e706c401e/"
   },
@@ -642416,6 +644568,10 @@
     "PoC": "https://github.com/ahmadmarz10-hub/CVEsMarz/blob/main/Vehicle%20Management%20System%20in%20PHP%20%E2%80%93%20Sensitive%20Information%20Disclosure%20via%20Exposed%20Database%20File.md"
   },
   {
+    "CVE": "CVE-2026-85526",
+    "PoC": "https://github.com/canonical/lxd/security/advisories/GHSA-h85r-gjgx-g2rv"
+  },
+  {
     "CVE": "CVE-2026-8553",
     "PoC": "https://issues.chromium.org/issues/498715368"
   },
@@ -642448,8 +644604,16 @@
     "PoC": "https://wpscan.com/vulnerability/a02f2c69-69cf-46fa-b4cf-0cf990d71e57/"
   },
   {
+    "CVE": "CVE-2026-85573",
+    "PoC": "https://wpscan.com/vulnerability/0f7f1f25-02e2-49b5-9690-31857e9e6bda/"
+  },
+  {
     "CVE": "CVE-2026-85574",
     "PoC": "https://wpscan.com/vulnerability/f13143dc-5674-4e9f-8aa0-8d22df7a7379/"
+  },
+  {
+    "CVE": "CVE-2026-85576",
+    "PoC": "https://wpscan.com/vulnerability/5c4546f4-fa6f-47a5-9d2b-9493d34dc13d/"
   },
   {
     "CVE": "CVE-2026-85577",
@@ -642790,6 +644954,10 @@
   {
     "CVE": "CVE-2026-85700",
     "PoC": "https://github.com/onyx-dot-app/onyx/issues/13165"
+  },
+  {
+    "CVE": "CVE-2026-85709",
+    "PoC": "https://github.com/HKUDS/LightRAG/security/advisories/GHSA-hrmj-7rvj-4hg8"
   },
   {
     "CVE": "CVE-2026-8571",
@@ -643728,6 +645896,10 @@
     "PoC": "https://wpscan.com/vulnerability/20cad1a6-944e-40f8-8fbc-d97cd1e5bb4b/"
   },
   {
+    "CVE": "CVE-2026-86789",
+    "PoC": "https://wpscan.com/vulnerability/3514e2f9-4dda-45ae-80c0-c7caafcb7d8a/"
+  },
+  {
     "CVE": "CVE-2026-86790",
     "PoC": "https://wpscan.com/vulnerability/b48571ae-368e-4193-977a-f22fb09db4d4/"
   },
@@ -643848,8 +646020,312 @@
     "PoC": "https://wpscan.com/vulnerability/74ca7b28-25b7-4d68-ad4b-4785b1d2c666/"
   },
   {
+    "CVE": "CVE-2026-87124",
+    "PoC": "https://www.oracle.com/security-alerts/cspusep2026.html"
+  },
+  {
+    "CVE": "CVE-2026-87125",
+    "PoC": "https://www.oracle.com/security-alerts/cspusep2026.html"
+  },
+  {
+    "CVE": "CVE-2026-87126",
+    "PoC": "https://www.oracle.com/security-alerts/cspusep2026.html"
+  },
+  {
+    "CVE": "CVE-2026-87127",
+    "PoC": "https://www.oracle.com/security-alerts/cspusep2026.html"
+  },
+  {
+    "CVE": "CVE-2026-87128",
+    "PoC": "https://www.oracle.com/security-alerts/cspusep2026.html"
+  },
+  {
+    "CVE": "CVE-2026-87129",
+    "PoC": "https://www.oracle.com/security-alerts/cspusep2026.html"
+  },
+  {
+    "CVE": "CVE-2026-87130",
+    "PoC": "https://www.oracle.com/security-alerts/cspusep2026.html"
+  },
+  {
+    "CVE": "CVE-2026-87131",
+    "PoC": "https://www.oracle.com/security-alerts/cspusep2026.html"
+  },
+  {
+    "CVE": "CVE-2026-87132",
+    "PoC": "https://www.oracle.com/security-alerts/cspusep2026.html"
+  },
+  {
+    "CVE": "CVE-2026-87133",
+    "PoC": "https://www.oracle.com/security-alerts/cspusep2026.html"
+  },
+  {
+    "CVE": "CVE-2026-87134",
+    "PoC": "https://www.oracle.com/security-alerts/cspusep2026.html"
+  },
+  {
+    "CVE": "CVE-2026-87135",
+    "PoC": "https://www.oracle.com/security-alerts/cspusep2026.html"
+  },
+  {
+    "CVE": "CVE-2026-87136",
+    "PoC": "https://www.oracle.com/security-alerts/cspusep2026.html"
+  },
+  {
+    "CVE": "CVE-2026-87137",
+    "PoC": "https://www.oracle.com/security-alerts/cspusep2026.html"
+  },
+  {
+    "CVE": "CVE-2026-87138",
+    "PoC": "https://www.oracle.com/security-alerts/cspusep2026.html"
+  },
+  {
+    "CVE": "CVE-2026-87139",
+    "PoC": "https://www.oracle.com/security-alerts/cspusep2026.html"
+  },
+  {
+    "CVE": "CVE-2026-87140",
+    "PoC": "https://www.oracle.com/security-alerts/cspusep2026.html"
+  },
+  {
+    "CVE": "CVE-2026-87141",
+    "PoC": "https://www.oracle.com/security-alerts/cspusep2026.html"
+  },
+  {
+    "CVE": "CVE-2026-87142",
+    "PoC": "https://www.oracle.com/security-alerts/cspusep2026.html"
+  },
+  {
+    "CVE": "CVE-2026-87143",
+    "PoC": "https://www.oracle.com/security-alerts/cspusep2026.html"
+  },
+  {
+    "CVE": "CVE-2026-87144",
+    "PoC": "https://www.oracle.com/security-alerts/cspusep2026.html"
+  },
+  {
+    "CVE": "CVE-2026-87145",
+    "PoC": "https://www.oracle.com/security-alerts/cspusep2026.html"
+  },
+  {
+    "CVE": "CVE-2026-87146",
+    "PoC": "https://www.oracle.com/security-alerts/cspusep2026.html"
+  },
+  {
+    "CVE": "CVE-2026-87147",
+    "PoC": "https://www.oracle.com/security-alerts/cspusep2026.html"
+  },
+  {
+    "CVE": "CVE-2026-87148",
+    "PoC": "https://www.oracle.com/security-alerts/cspusep2026.html"
+  },
+  {
+    "CVE": "CVE-2026-87149",
+    "PoC": "https://www.oracle.com/security-alerts/cspusep2026.html"
+  },
+  {
     "CVE": "CVE-2026-8715",
     "PoC": "http://www.openwall.com/lists/oss-security/2026/08/28/3"
+  },
+  {
+    "CVE": "CVE-2026-87150",
+    "PoC": "https://www.oracle.com/security-alerts/cspusep2026.html"
+  },
+  {
+    "CVE": "CVE-2026-87151",
+    "PoC": "https://www.oracle.com/security-alerts/cspusep2026.html"
+  },
+  {
+    "CVE": "CVE-2026-87152",
+    "PoC": "https://www.oracle.com/security-alerts/cspusep2026.html"
+  },
+  {
+    "CVE": "CVE-2026-87153",
+    "PoC": "https://www.oracle.com/security-alerts/cspusep2026.html"
+  },
+  {
+    "CVE": "CVE-2026-87154",
+    "PoC": "https://www.oracle.com/security-alerts/cspusep2026.html"
+  },
+  {
+    "CVE": "CVE-2026-87155",
+    "PoC": "https://www.oracle.com/security-alerts/cspusep2026.html"
+  },
+  {
+    "CVE": "CVE-2026-87156",
+    "PoC": "https://www.oracle.com/security-alerts/cspusep2026.html"
+  },
+  {
+    "CVE": "CVE-2026-87157",
+    "PoC": "https://www.oracle.com/security-alerts/cspusep2026.html"
+  },
+  {
+    "CVE": "CVE-2026-87158",
+    "PoC": "https://www.oracle.com/security-alerts/cspusep2026.html"
+  },
+  {
+    "CVE": "CVE-2026-87159",
+    "PoC": "https://www.oracle.com/security-alerts/cspusep2026.html"
+  },
+  {
+    "CVE": "CVE-2026-87160",
+    "PoC": "https://www.oracle.com/security-alerts/cspusep2026.html"
+  },
+  {
+    "CVE": "CVE-2026-87161",
+    "PoC": "https://www.oracle.com/security-alerts/cspusep2026.html"
+  },
+  {
+    "CVE": "CVE-2026-87162",
+    "PoC": "https://www.oracle.com/security-alerts/cspusep2026.html"
+  },
+  {
+    "CVE": "CVE-2026-87163",
+    "PoC": "https://www.oracle.com/security-alerts/cspusep2026.html"
+  },
+  {
+    "CVE": "CVE-2026-87164",
+    "PoC": "https://www.oracle.com/security-alerts/cspusep2026.html"
+  },
+  {
+    "CVE": "CVE-2026-87165",
+    "PoC": "https://www.oracle.com/security-alerts/cspusep2026.html"
+  },
+  {
+    "CVE": "CVE-2026-87166",
+    "PoC": "https://www.oracle.com/security-alerts/cspusep2026.html"
+  },
+  {
+    "CVE": "CVE-2026-87167",
+    "PoC": "https://www.oracle.com/security-alerts/cspusep2026.html"
+  },
+  {
+    "CVE": "CVE-2026-87168",
+    "PoC": "https://www.oracle.com/security-alerts/cspusep2026.html"
+  },
+  {
+    "CVE": "CVE-2026-87169",
+    "PoC": "https://www.oracle.com/security-alerts/cspusep2026.html"
+  },
+  {
+    "CVE": "CVE-2026-87170",
+    "PoC": "https://www.oracle.com/security-alerts/cspusep2026.html"
+  },
+  {
+    "CVE": "CVE-2026-87171",
+    "PoC": "https://www.oracle.com/security-alerts/cspusep2026.html"
+  },
+  {
+    "CVE": "CVE-2026-87172",
+    "PoC": "https://www.oracle.com/security-alerts/cspusep2026.html"
+  },
+  {
+    "CVE": "CVE-2026-87173",
+    "PoC": "https://www.oracle.com/security-alerts/cspusep2026.html"
+  },
+  {
+    "CVE": "CVE-2026-87174",
+    "PoC": "https://www.oracle.com/security-alerts/cspusep2026.html"
+  },
+  {
+    "CVE": "CVE-2026-87175",
+    "PoC": "https://www.oracle.com/security-alerts/cspusep2026.html"
+  },
+  {
+    "CVE": "CVE-2026-87176",
+    "PoC": "https://www.oracle.com/security-alerts/cspusep2026.html"
+  },
+  {
+    "CVE": "CVE-2026-87177",
+    "PoC": "https://www.oracle.com/security-alerts/cspusep2026.html"
+  },
+  {
+    "CVE": "CVE-2026-87178",
+    "PoC": "https://www.oracle.com/security-alerts/cspusep2026.html"
+  },
+  {
+    "CVE": "CVE-2026-87179",
+    "PoC": "https://www.oracle.com/security-alerts/cspusep2026.html"
+  },
+  {
+    "CVE": "CVE-2026-87180",
+    "PoC": "https://www.oracle.com/security-alerts/cspusep2026.html"
+  },
+  {
+    "CVE": "CVE-2026-87181",
+    "PoC": "https://www.oracle.com/security-alerts/cspusep2026.html"
+  },
+  {
+    "CVE": "CVE-2026-87182",
+    "PoC": "https://www.oracle.com/security-alerts/cspusep2026.html"
+  },
+  {
+    "CVE": "CVE-2026-87183",
+    "PoC": "https://www.oracle.com/security-alerts/cspusep2026.html"
+  },
+  {
+    "CVE": "CVE-2026-87184",
+    "PoC": "https://www.oracle.com/security-alerts/cspusep2026.html"
+  },
+  {
+    "CVE": "CVE-2026-87185",
+    "PoC": "https://www.oracle.com/security-alerts/cspusep2026.html"
+  },
+  {
+    "CVE": "CVE-2026-87186",
+    "PoC": "https://www.oracle.com/security-alerts/cspusep2026.html"
+  },
+  {
+    "CVE": "CVE-2026-87187",
+    "PoC": "https://www.oracle.com/security-alerts/cspusep2026.html"
+  },
+  {
+    "CVE": "CVE-2026-87188",
+    "PoC": "https://www.oracle.com/security-alerts/cspusep2026.html"
+  },
+  {
+    "CVE": "CVE-2026-87189",
+    "PoC": "https://www.oracle.com/security-alerts/cspusep2026.html"
+  },
+  {
+    "CVE": "CVE-2026-87190",
+    "PoC": "https://www.oracle.com/security-alerts/cspusep2026.html"
+  },
+  {
+    "CVE": "CVE-2026-87191",
+    "PoC": "https://www.oracle.com/security-alerts/cspusep2026.html"
+  },
+  {
+    "CVE": "CVE-2026-87192",
+    "PoC": "https://www.oracle.com/security-alerts/cspusep2026.html"
+  },
+  {
+    "CVE": "CVE-2026-87193",
+    "PoC": "https://www.oracle.com/security-alerts/cspusep2026.html"
+  },
+  {
+    "CVE": "CVE-2026-87194",
+    "PoC": "https://www.oracle.com/security-alerts/cspusep2026.html"
+  },
+  {
+    "CVE": "CVE-2026-87195",
+    "PoC": "https://www.oracle.com/security-alerts/cspusep2026.html"
+  },
+  {
+    "CVE": "CVE-2026-87196",
+    "PoC": "https://www.oracle.com/security-alerts/cspusep2026.html"
+  },
+  {
+    "CVE": "CVE-2026-87197",
+    "PoC": "https://www.oracle.com/security-alerts/cspusep2026.html"
+  },
+  {
+    "CVE": "CVE-2026-87198",
+    "PoC": "https://www.oracle.com/security-alerts/cspusep2026.html"
+  },
+  {
+    "CVE": "CVE-2026-87199",
+    "PoC": "https://www.oracle.com/security-alerts/cspusep2026.html"
   },
   {
     "CVE": "CVE-2026-8720",
@@ -643858,6 +646334,342 @@
   {
     "CVE": "CVE-2026-8720",
     "PoC": "https://www.wolfssl.com/docs/security-vulnerabilities/"
+  },
+  {
+    "CVE": "CVE-2026-87200",
+    "PoC": "https://www.oracle.com/security-alerts/cspusep2026.html"
+  },
+  {
+    "CVE": "CVE-2026-87201",
+    "PoC": "https://www.oracle.com/security-alerts/cspusep2026.html"
+  },
+  {
+    "CVE": "CVE-2026-87202",
+    "PoC": "https://www.oracle.com/security-alerts/cspusep2026.html"
+  },
+  {
+    "CVE": "CVE-2026-87203",
+    "PoC": "https://www.oracle.com/security-alerts/cspusep2026.html"
+  },
+  {
+    "CVE": "CVE-2026-87204",
+    "PoC": "https://www.oracle.com/security-alerts/cspusep2026.html"
+  },
+  {
+    "CVE": "CVE-2026-87205",
+    "PoC": "https://www.oracle.com/security-alerts/cspusep2026.html"
+  },
+  {
+    "CVE": "CVE-2026-87206",
+    "PoC": "https://www.oracle.com/security-alerts/cspusep2026.html"
+  },
+  {
+    "CVE": "CVE-2026-87207",
+    "PoC": "https://www.oracle.com/security-alerts/cspusep2026.html"
+  },
+  {
+    "CVE": "CVE-2026-87208",
+    "PoC": "https://www.oracle.com/security-alerts/cspusep2026.html"
+  },
+  {
+    "CVE": "CVE-2026-87209",
+    "PoC": "https://www.oracle.com/security-alerts/cspusep2026.html"
+  },
+  {
+    "CVE": "CVE-2026-87210",
+    "PoC": "https://www.oracle.com/security-alerts/cspusep2026.html"
+  },
+  {
+    "CVE": "CVE-2026-87211",
+    "PoC": "https://www.oracle.com/security-alerts/cspusep2026.html"
+  },
+  {
+    "CVE": "CVE-2026-87212",
+    "PoC": "https://www.oracle.com/security-alerts/cspusep2026.html"
+  },
+  {
+    "CVE": "CVE-2026-87213",
+    "PoC": "https://www.oracle.com/security-alerts/cspusep2026.html"
+  },
+  {
+    "CVE": "CVE-2026-87214",
+    "PoC": "https://www.oracle.com/security-alerts/cspusep2026.html"
+  },
+  {
+    "CVE": "CVE-2026-87215",
+    "PoC": "https://www.oracle.com/security-alerts/cspusep2026.html"
+  },
+  {
+    "CVE": "CVE-2026-87216",
+    "PoC": "https://www.oracle.com/security-alerts/cspusep2026.html"
+  },
+  {
+    "CVE": "CVE-2026-87217",
+    "PoC": "https://www.oracle.com/security-alerts/cspusep2026.html"
+  },
+  {
+    "CVE": "CVE-2026-87218",
+    "PoC": "https://www.oracle.com/security-alerts/cspusep2026.html"
+  },
+  {
+    "CVE": "CVE-2026-87219",
+    "PoC": "https://www.oracle.com/security-alerts/cspusep2026.html"
+  },
+  {
+    "CVE": "CVE-2026-87220",
+    "PoC": "https://www.oracle.com/security-alerts/cspusep2026.html"
+  },
+  {
+    "CVE": "CVE-2026-87221",
+    "PoC": "https://www.oracle.com/security-alerts/cspusep2026.html"
+  },
+  {
+    "CVE": "CVE-2026-87222",
+    "PoC": "https://www.oracle.com/security-alerts/cspusep2026.html"
+  },
+  {
+    "CVE": "CVE-2026-87223",
+    "PoC": "https://www.oracle.com/security-alerts/cspusep2026.html"
+  },
+  {
+    "CVE": "CVE-2026-87224",
+    "PoC": "https://www.oracle.com/security-alerts/cspusep2026.html"
+  },
+  {
+    "CVE": "CVE-2026-87225",
+    "PoC": "https://www.oracle.com/security-alerts/cspusep2026.html"
+  },
+  {
+    "CVE": "CVE-2026-87226",
+    "PoC": "https://www.oracle.com/security-alerts/cspusep2026.html"
+  },
+  {
+    "CVE": "CVE-2026-87227",
+    "PoC": "https://www.oracle.com/security-alerts/cspusep2026.html"
+  },
+  {
+    "CVE": "CVE-2026-87228",
+    "PoC": "https://www.oracle.com/security-alerts/cspusep2026.html"
+  },
+  {
+    "CVE": "CVE-2026-87229",
+    "PoC": "https://www.oracle.com/security-alerts/cspusep2026.html"
+  },
+  {
+    "CVE": "CVE-2026-87230",
+    "PoC": "https://www.oracle.com/security-alerts/cspusep2026.html"
+  },
+  {
+    "CVE": "CVE-2026-87231",
+    "PoC": "https://www.oracle.com/security-alerts/cspusep2026.html"
+  },
+  {
+    "CVE": "CVE-2026-87232",
+    "PoC": "https://www.oracle.com/security-alerts/cspusep2026.html"
+  },
+  {
+    "CVE": "CVE-2026-87233",
+    "PoC": "https://www.oracle.com/security-alerts/cspusep2026.html"
+  },
+  {
+    "CVE": "CVE-2026-87234",
+    "PoC": "https://www.oracle.com/security-alerts/cspusep2026.html"
+  },
+  {
+    "CVE": "CVE-2026-87235",
+    "PoC": "https://www.oracle.com/security-alerts/cspusep2026.html"
+  },
+  {
+    "CVE": "CVE-2026-87236",
+    "PoC": "https://www.oracle.com/security-alerts/cspusep2026.html"
+  },
+  {
+    "CVE": "CVE-2026-87237",
+    "PoC": "https://www.oracle.com/security-alerts/cspusep2026.html"
+  },
+  {
+    "CVE": "CVE-2026-87238",
+    "PoC": "https://www.oracle.com/security-alerts/cspusep2026.html"
+  },
+  {
+    "CVE": "CVE-2026-87239",
+    "PoC": "https://www.oracle.com/security-alerts/cspusep2026.html"
+  },
+  {
+    "CVE": "CVE-2026-87240",
+    "PoC": "https://www.oracle.com/security-alerts/cspusep2026.html"
+  },
+  {
+    "CVE": "CVE-2026-87241",
+    "PoC": "https://www.oracle.com/security-alerts/cspusep2026.html"
+  },
+  {
+    "CVE": "CVE-2026-87242",
+    "PoC": "https://www.oracle.com/security-alerts/cspusep2026.html"
+  },
+  {
+    "CVE": "CVE-2026-87243",
+    "PoC": "https://www.oracle.com/security-alerts/cspusep2026.html"
+  },
+  {
+    "CVE": "CVE-2026-87244",
+    "PoC": "https://www.oracle.com/security-alerts/cspusep2026.html"
+  },
+  {
+    "CVE": "CVE-2026-87245",
+    "PoC": "https://www.oracle.com/security-alerts/cspusep2026.html"
+  },
+  {
+    "CVE": "CVE-2026-87246",
+    "PoC": "https://www.oracle.com/security-alerts/cspusep2026.html"
+  },
+  {
+    "CVE": "CVE-2026-87247",
+    "PoC": "https://www.oracle.com/security-alerts/cspusep2026.html"
+  },
+  {
+    "CVE": "CVE-2026-87248",
+    "PoC": "https://www.oracle.com/security-alerts/cspusep2026.html"
+  },
+  {
+    "CVE": "CVE-2026-87249",
+    "PoC": "https://www.oracle.com/security-alerts/cspusep2026.html"
+  },
+  {
+    "CVE": "CVE-2026-87250",
+    "PoC": "https://www.oracle.com/security-alerts/cspusep2026.html"
+  },
+  {
+    "CVE": "CVE-2026-87252",
+    "PoC": "https://www.oracle.com/security-alerts/cspusep2026.html"
+  },
+  {
+    "CVE": "CVE-2026-87253",
+    "PoC": "https://www.oracle.com/security-alerts/cspusep2026.html"
+  },
+  {
+    "CVE": "CVE-2026-87254",
+    "PoC": "https://www.oracle.com/security-alerts/cspusep2026.html"
+  },
+  {
+    "CVE": "CVE-2026-87256",
+    "PoC": "https://www.oracle.com/security-alerts/cspusep2026.html"
+  },
+  {
+    "CVE": "CVE-2026-87257",
+    "PoC": "https://www.oracle.com/security-alerts/cspusep2026.html"
+  },
+  {
+    "CVE": "CVE-2026-87258",
+    "PoC": "https://www.oracle.com/security-alerts/cspusep2026.html"
+  },
+  {
+    "CVE": "CVE-2026-87259",
+    "PoC": "https://www.oracle.com/security-alerts/cspusep2026.html"
+  },
+  {
+    "CVE": "CVE-2026-87260",
+    "PoC": "https://www.oracle.com/security-alerts/cspusep2026.html"
+  },
+  {
+    "CVE": "CVE-2026-87261",
+    "PoC": "https://www.oracle.com/security-alerts/cspusep2026.html"
+  },
+  {
+    "CVE": "CVE-2026-87262",
+    "PoC": "https://www.oracle.com/security-alerts/cspusep2026.html"
+  },
+  {
+    "CVE": "CVE-2026-87264",
+    "PoC": "https://www.oracle.com/security-alerts/cspusep2026.html"
+  },
+  {
+    "CVE": "CVE-2026-87265",
+    "PoC": "https://www.oracle.com/security-alerts/cspusep2026.html"
+  },
+  {
+    "CVE": "CVE-2026-87266",
+    "PoC": "https://www.oracle.com/security-alerts/cspusep2026.html"
+  },
+  {
+    "CVE": "CVE-2026-87267",
+    "PoC": "https://www.oracle.com/security-alerts/cspusep2026.html"
+  },
+  {
+    "CVE": "CVE-2026-87268",
+    "PoC": "https://www.oracle.com/security-alerts/cspusep2026.html"
+  },
+  {
+    "CVE": "CVE-2026-87269",
+    "PoC": "https://www.oracle.com/security-alerts/cspusep2026.html"
+  },
+  {
+    "CVE": "CVE-2026-87270",
+    "PoC": "https://www.oracle.com/security-alerts/cspusep2026.html"
+  },
+  {
+    "CVE": "CVE-2026-87271",
+    "PoC": "https://www.oracle.com/security-alerts/cspusep2026.html"
+  },
+  {
+    "CVE": "CVE-2026-87272",
+    "PoC": "https://www.oracle.com/security-alerts/cspusep2026.html"
+  },
+  {
+    "CVE": "CVE-2026-87273",
+    "PoC": "https://www.oracle.com/security-alerts/cspusep2026.html"
+  },
+  {
+    "CVE": "CVE-2026-87274",
+    "PoC": "https://www.oracle.com/security-alerts/cspusep2026.html"
+  },
+  {
+    "CVE": "CVE-2026-87275",
+    "PoC": "https://www.oracle.com/security-alerts/cspusep2026.html"
+  },
+  {
+    "CVE": "CVE-2026-87276",
+    "PoC": "https://www.oracle.com/security-alerts/cspusep2026.html"
+  },
+  {
+    "CVE": "CVE-2026-87277",
+    "PoC": "https://www.oracle.com/security-alerts/cspusep2026.html"
+  },
+  {
+    "CVE": "CVE-2026-87278",
+    "PoC": "https://www.oracle.com/security-alerts/cspusep2026.html"
+  },
+  {
+    "CVE": "CVE-2026-87279",
+    "PoC": "https://www.oracle.com/security-alerts/cspusep2026.html"
+  },
+  {
+    "CVE": "CVE-2026-87280",
+    "PoC": "https://www.oracle.com/security-alerts/cspusep2026.html"
+  },
+  {
+    "CVE": "CVE-2026-87281",
+    "PoC": "https://www.oracle.com/security-alerts/cspusep2026.html"
+  },
+  {
+    "CVE": "CVE-2026-87282",
+    "PoC": "https://www.oracle.com/security-alerts/cspusep2026.html"
+  },
+  {
+    "CVE": "CVE-2026-87283",
+    "PoC": "https://www.oracle.com/security-alerts/cspusep2026.html"
+  },
+  {
+    "CVE": "CVE-2026-87284",
+    "PoC": "https://www.oracle.com/security-alerts/cspusep2026.html"
+  },
+  {
+    "CVE": "CVE-2026-87285",
+    "PoC": "https://www.oracle.com/security-alerts/cspusep2026.html"
+  },
+  {
+    "CVE": "CVE-2026-87289",
+    "PoC": "https://www.oracle.com/security-alerts/cspusep2026.html"
   },
   {
     "CVE": "CVE-2026-8734",
@@ -644244,6 +647056,10 @@
     "PoC": "https://wpscan.com/vulnerability/5a2ed5cd-1a05-4b54-b604-f596d8a8b76b/"
   },
   {
+    "CVE": "CVE-2026-87777",
+    "PoC": "https://wpscan.com/vulnerability/4a1f5c2b-a6e5-4e6f-afa3-79726d0eb1e3/"
+  },
+  {
     "CVE": "CVE-2026-87786",
     "PoC": "https://wpscan.com/vulnerability/bb94cded-6ec1-488e-8682-555d276d2979/"
   },
@@ -644576,6 +647392,10 @@
     "PoC": "https://wpscan.com/vulnerability/6175fc16-960b-4dbe-bda2-21b4ce7de54b/"
   },
   {
+    "CVE": "CVE-2026-88791",
+    "PoC": "https://wpscan.com/vulnerability/a8aa5685-e36e-4e1f-a259-fab3910ee550/"
+  },
+  {
     "CVE": "CVE-2026-88792",
     "PoC": "https://wpscan.com/vulnerability/49671af2-af51-44e6-8c0a-3039c50d04e5/"
   },
@@ -644586,6 +647406,10 @@
   {
     "CVE": "CVE-2026-88795",
     "PoC": "https://wpscan.com/vulnerability/575afdc7-83ca-41dc-b4a0-2f8daa09ce15/"
+  },
+  {
+    "CVE": "CVE-2026-88797",
+    "PoC": "https://wpscan.com/vulnerability/250a7d7c-9c9b-4619-a6f4-533d29a30e23/"
   },
   {
     "CVE": "CVE-2026-88798",
@@ -644886,6 +647710,14 @@
   {
     "CVE": "CVE-2026-89162",
     "PoC": "https://github.com/PCRE2Project/pcre2/security/advisories/GHSA-q7rw-r7qq-2hx6"
+  },
+  {
+    "CVE": "CVE-2026-89190",
+    "PoC": "https://wpscan.com/vulnerability/570e6bfb-cfe9-4a6f-8759-c6e99e19e272/"
+  },
+  {
+    "CVE": "CVE-2026-89193",
+    "PoC": "https://wpscan.com/vulnerability/3c90d1c5-fd45-4a82-9357-504d7a0e5adc/"
   },
   {
     "CVE": "CVE-2026-89212",
@@ -645272,6 +648104,10 @@
     "PoC": "https://wpscan.com/vulnerability/bf740af6-3674-461e-83f0-22bd5c5b3378/"
   },
   {
+    "CVE": "CVE-2026-90953",
+    "PoC": "https://wpscan.com/vulnerability/38412622-513f-41ea-9968-192f357d360e/"
+  },
+  {
     "CVE": "CVE-2026-90969",
     "PoC": "https://devolutions.net/security/advisories/DEVO-2026-0030/"
   },
@@ -645354,6 +648190,14 @@
   {
     "CVE": "CVE-2026-91043",
     "PoC": "https://osv.dev/vulnerability/EEF-CVE-2026-91043"
+  },
+  {
+    "CVE": "CVE-2026-91051",
+    "PoC": "https://wpscan.com/vulnerability/e24a9497-8fb4-4067-8421-194725455d55/"
+  },
+  {
+    "CVE": "CVE-2026-91072",
+    "PoC": "https://wpscan.com/vulnerability/c77770c5-d1af-47f6-9aee-a50d4a919732/"
   },
   {
     "CVE": "CVE-2026-91073",
@@ -645576,6 +648420,10 @@
     "PoC": "https://wpscan.com/vulnerability/7b279db2-92e0-4122-b5c6-aa12b7b01858/"
   },
   {
+    "CVE": "CVE-2026-91832",
+    "PoC": "https://wpscan.com/vulnerability/9f1448d5-6dc9-47dd-8675-2fbf5f36393b/"
+  },
+  {
     "CVE": "CVE-2026-91847",
     "PoC": "https://wpscan.com/vulnerability/9eef3086-3a67-4ee2-bd78-e346e7b05d62/"
   },
@@ -645662,6 +648510,10 @@
   {
     "CVE": "CVE-2026-92423",
     "PoC": "https://wpscan.com/vulnerability/03bd9795-8036-4ec9-ab11-8dc2059d4245/"
+  },
+  {
+    "CVE": "CVE-2026-92424",
+    "PoC": "https://wpscan.com/vulnerability/917b8042-b38c-4b6a-9237-1dd08ada157d/"
   },
   {
     "CVE": "CVE-2026-92425",
@@ -645844,6 +648696,10 @@
     "PoC": "https://wpscan.com/vulnerability/e74a467a-9eb1-4da3-933a-879c9c026f4f/"
   },
   {
+    "CVE": "CVE-2026-92994",
+    "PoC": "https://wpscan.com/vulnerability/48356bf5-634f-4008-8904-10ab35007e21/"
+  },
+  {
     "CVE": "CVE-2026-92995",
     "PoC": "https://wpscan.com/vulnerability/184e6a19-92d4-48f6-8e54-2511e0f3f316/"
   },
@@ -645936,6 +648792,14 @@
     "PoC": "https://github.com/r1ck9-2q/cve_summit/blob/main/Signed-integer-overflow-in-FoFiTrueType-mapCodeToGID-FoFiTrueType.cc-608.md"
   },
   {
+    "CVE": "CVE-2026-93330",
+    "PoC": "https://devolutions.net/security/advisories/DEVO-2026-0034/"
+  },
+  {
+    "CVE": "CVE-2026-93332",
+    "PoC": "https://devolutions.net/security/advisories/DEVO-2026-0034/"
+  },
+  {
     "CVE": "CVE-2026-93337",
     "PoC": "https://github.com/nm-l2tp/NetworkManager-l2tp/security/advisories/GHSA-rp84-8h2r-5xc3"
   },
@@ -645962,6 +648826,10 @@
   {
     "CVE": "CVE-2026-93426",
     "PoC": "https://github.com/SigNoz/signoz/security/advisories/GHSA-q3h7-gpc9-2rxc"
+  },
+  {
+    "CVE": "CVE-2026-93435",
+    "PoC": "https://github.com/NodeRedis/node-redis-parser/issues/66"
   },
   {
     "CVE": "CVE-2026-9344",
@@ -646098,6 +648966,10 @@
   {
     "CVE": "CVE-2026-93578",
     "PoC": "https://bugzilla.redhat.com/show_bug.cgi?id=2536969"
+  },
+  {
+    "CVE": "CVE-2026-93580",
+    "PoC": "https://wpscan.com/vulnerability/083dab74-cffe-4532-8fc3-939a015c83d4/"
   },
   {
     "CVE": "CVE-2026-93591",
@@ -646428,8 +649300,16 @@
     "PoC": "https://github.com/wudipjq/my_vuln/blob/main/Edimax/vuln_10/10.md"
   },
   {
+    "CVE": "CVE-2026-94274",
+    "PoC": "https://wpscan.com/vulnerability/23965307-678d-4f59-beae-5a8b33af9a75/"
+  },
+  {
     "CVE": "CVE-2026-9429",
     "PoC": "https://github.com/Litengzheng/vuldb_new2/blob/main/F1202/vul_31/README.md"
+  },
+  {
+    "CVE": "CVE-2026-94297",
+    "PoC": "https://wpscan.com/vulnerability/c9cecfb4-d554-4d64-8d87-9678363d8b8d/"
   },
   {
     "CVE": "CVE-2026-9435",
@@ -646652,20 +649532,108 @@
     "PoC": "https://github.com/herantong/cve/blob/main/changedetection.io_path-traversal-visual-selector_CWE-22"
   },
   {
+    "CVE": "CVE-2026-95275",
+    "PoC": "https://issues.chromium.org/issues/542926849"
+  },
+  {
+    "CVE": "CVE-2026-95287",
+    "PoC": "https://issues.chromium.org/issues/495529018"
+  },
+  {
+    "CVE": "CVE-2026-95289",
+    "PoC": "https://issues.chromium.org/issues/549911100"
+  },
+  {
     "CVE": "CVE-2026-9529",
     "PoC": "https://github.com/LibreDWG/libredwg/issues/1247"
+  },
+  {
+    "CVE": "CVE-2026-95290",
+    "PoC": "https://issues.chromium.org/issues/536161355"
+  },
+  {
+    "CVE": "CVE-2026-95291",
+    "PoC": "https://issues.chromium.org/issues/543471693"
+  },
+  {
+    "CVE": "CVE-2026-95295",
+    "PoC": "https://issues.chromium.org/issues/517596255"
+  },
+  {
+    "CVE": "CVE-2026-95298",
+    "PoC": "https://issues.chromium.org/issues/520516206"
   },
   {
     "CVE": "CVE-2026-9530",
     "PoC": "https://github.com/LibreDWG/libredwg/issues/1248"
   },
   {
+    "CVE": "CVE-2026-95315",
+    "PoC": "https://issues.chromium.org/issues/517661385"
+  },
+  {
+    "CVE": "CVE-2026-95325",
+    "PoC": "https://issues.chromium.org/issues/536648933"
+  },
+  {
     "CVE": "CVE-2026-9533",
     "PoC": "https://github.com/wudipjq/my_vuln/blob/main/totolink4/vuln_56/56.md"
   },
   {
+    "CVE": "CVE-2026-95330",
+    "PoC": "https://issues.chromium.org/issues/517163294"
+  },
+  {
+    "CVE": "CVE-2026-95337",
+    "PoC": "https://issues.chromium.org/issues/514019137"
+  },
+  {
     "CVE": "CVE-2026-9534",
     "PoC": "https://github.com/wudipjq/my_vuln/blob/main/totolink4/vuln_57/57.md"
+  },
+  {
+    "CVE": "CVE-2026-95342",
+    "PoC": "https://issues.chromium.org/issues/547027738"
+  },
+  {
+    "CVE": "CVE-2026-95344",
+    "PoC": "https://issues.chromium.org/issues/548611433"
+  },
+  {
+    "CVE": "CVE-2026-95347",
+    "PoC": "https://issues.chromium.org/issues/550181232"
+  },
+  {
+    "CVE": "CVE-2026-95350",
+    "PoC": "https://issues.chromium.org/issues/551573368"
+  },
+  {
+    "CVE": "CVE-2026-95353",
+    "PoC": "https://issues.chromium.org/issues/522061704"
+  },
+  {
+    "CVE": "CVE-2026-95354",
+    "PoC": "https://issues.chromium.org/issues/524582798"
+  },
+  {
+    "CVE": "CVE-2026-95362",
+    "PoC": "https://issues.chromium.org/issues/511791538"
+  },
+  {
+    "CVE": "CVE-2026-95371",
+    "PoC": "https://issues.chromium.org/issues/520504291"
+  },
+  {
+    "CVE": "CVE-2026-95373",
+    "PoC": "https://issues.chromium.org/issues/553130481"
+  },
+  {
+    "CVE": "CVE-2026-95374",
+    "PoC": "https://issues.chromium.org/issues/543464436"
+  },
+  {
+    "CVE": "CVE-2026-95392",
+    "PoC": "https://gitlab.com/wireshark/wireshark/-/work_items/21549"
   },
   {
     "CVE": "CVE-2026-9541",
@@ -646916,6 +649884,30 @@
     "PoC": "https://github.com/canonical/lxd/security/advisories/GHSA-ppq7-4492-5552"
   },
   {
+    "CVE": "CVE-2026-96416",
+    "PoC": "https://gitlab.com/wireshark/wireshark/-/work_items/21564"
+  },
+  {
+    "CVE": "CVE-2026-96418",
+    "PoC": "https://gitlab.com/wireshark/wireshark/-/work_items/21565"
+  },
+  {
+    "CVE": "CVE-2026-96419",
+    "PoC": "https://gitlab.com/wireshark/wireshark/-/work_items/21553"
+  },
+  {
+    "CVE": "CVE-2026-96421",
+    "PoC": "https://gitlab.com/wireshark/wireshark/-/work_items/21566"
+  },
+  {
+    "CVE": "CVE-2026-96422",
+    "PoC": "https://gitlab.com/wireshark/wireshark/-/work_items/21525"
+  },
+  {
+    "CVE": "CVE-2026-96423",
+    "PoC": "https://gitlab.com/wireshark/wireshark/-/work_items/21563"
+  },
+  {
     "CVE": "CVE-2026-96512",
     "PoC": "https://bugzilla.redhat.com/show_bug.cgi?id=2539327"
   },
@@ -647004,6 +649996,14 @@
     "PoC": "https://github.com/hhhh333/CVE/blob/main/Lin-CMS-%E6%9C%AA%E6%8E%88%E6%9D%832.md"
   },
   {
+    "CVE": "CVE-2026-96886",
+    "PoC": "https://wpscan.com/vulnerability/bdf459bb-7835-43d3-8ef8-83b3b099677a/"
+  },
+  {
+    "CVE": "CVE-2026-96889",
+    "PoC": "https://bugzilla.redhat.com/show_bug.cgi?id=2539279"
+  },
+  {
     "CVE": "CVE-2026-96895",
     "PoC": "https://wpscan.com/vulnerability/15978f11-a7bd-41f0-94bf-069be4d03987/"
   },
@@ -647086,6 +650086,10 @@
   {
     "CVE": "CVE-2026-97233",
     "PoC": "https://note-hxlab.wetolink.com/share/qA4ZLotZKWmj"
+  },
+  {
+    "CVE": "CVE-2026-97316",
+    "PoC": "https://wpscan.com/vulnerability/d9497ddd-c39c-4928-8660-f1c94ef2c3a0/"
   },
   {
     "CVE": "CVE-2026-97319",
