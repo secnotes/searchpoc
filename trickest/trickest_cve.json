@@ -324556,6 +324556,10 @@
     "PoC": "https://bugzilla.redhat.com/show_bug.cgi?id=1777579"
   },
   {
+    "CVE": "CVE-2020-1725",
+    "PoC": "https://issues.redhat.com/browse/KEYCLOAK-16550"
+  },
+  {
     "CVE": "CVE-2020-1730",
     "PoC": "https://www.oracle.com/security-alerts/cpuoct2020.html"
   },
@@ -330050,6 +330054,10 @@
   {
     "CVE": "CVE-2020-25015",
     "PoC": "http://packetstormsecurity.com/files/159936/Genexis-Platinum-4410-P4410-V2-1.28-Missing-Access-Control-CSRF.html"
+  },
+  {
+    "CVE": "CVE-2020-25015",
+    "PoC": "https://www.getastra.com/blog/911/csrf-broken-access-control-in-genexis-platinum-4410/"
   },
   {
     "CVE": "CVE-2020-25019",
@@ -347104,6 +347112,10 @@
     "PoC": "https://wpvulndb.com/vulnerabilities/10026"
   },
   {
+    "CVE": "CVE-2020-7108",
+    "PoC": "https://www.getastra.com/blog/911/plugin-exploit/reflected-xss-vulnerability-found-in-learndash-lms-plugin/"
+  },
+  {
     "CVE": "CVE-2020-7115",
     "PoC": "http://packetstormsecurity.com/files/158368/ClearPass-Policy-Manager-Unauthenticated-Remote-Command-Execution.html"
   },
@@ -349960,6 +349972,10 @@
     "PoC": "https://wpvulndb.com/vulnerabilities/10056"
   },
   {
+    "CVE": "CVE-2020-8549",
+    "PoC": "https://www.getastra.com/blog/911/plugin-exploit/stored-xss-vulnerability-found-in-strong-testimonials-plugin/"
+  },
+  {
     "CVE": "CVE-2020-8551",
     "PoC": "https://hackerone.com/reports/774896"
   },
@@ -350078,6 +350094,10 @@
   {
     "CVE": "CVE-2020-8615",
     "PoC": "https://wpvulndb.com/vulnerabilities/10058"
+  },
+  {
+    "CVE": "CVE-2020-8615",
+    "PoC": "https://www.getastra.com/blog/911/plugin-exploit/cross-site-request-forgery-in-tutor-lms-plugin/"
   },
   {
     "CVE": "CVE-2020-8617",
@@ -411926,6 +411946,10 @@
   {
     "CVE": "CVE-2022-28796",
     "PoC": "https://cdn.kernel.org/pub/linux/kernel/v5.x/ChangeLog-5.17.1"
+  },
+  {
+    "CVE": "CVE-2022-28802",
+    "PoC": "https://www.zenity.io/blog/zapescape-organization-wide-control-over-code-by-zapier/"
   },
   {
     "CVE": "CVE-2022-28802",
@@ -556960,6 +556984,10 @@
     "PoC": "https://www.vicarius.io/vsociety/posts/cve-2025-50154-detection-script-zero-click-windows-file-explorer-spoofing-vulnerability"
   },
   {
+    "CVE": "CVE-2025-50154",
+    "PoC": "https://www.vicarius.io/vsociety/posts/cve-2025-50154-mitigation-script-zero-click-windows-file-explorer-spoofing-vulnerability"
+  },
+  {
     "CVE": "CVE-2025-50180",
     "PoC": "https://github.com/esm-dev/esm.sh/security/advisories/GHSA-3c9r-837r-qqm4"
   },
@@ -581564,8 +581592,24 @@
     "PoC": "http://www.openwall.com/lists/oss-security/2026/08/22/4"
   },
   {
+    "CVE": "CVE-2026-0016",
+    "PoC": "http://seclists.org/fulldisclosure/2026/Sep/92"
+  },
+  {
+    "CVE": "CVE-2026-0017",
+    "PoC": "http://seclists.org/fulldisclosure/2026/Sep/93"
+  },
+  {
+    "CVE": "CVE-2026-0018",
+    "PoC": "http://seclists.org/fulldisclosure/2026/Sep/94"
+  },
+  {
     "CVE": "CVE-2026-0018",
     "PoC": "http://www.openwall.com/lists/oss-security/2026/09/29/9"
+  },
+  {
+    "CVE": "CVE-2026-0019",
+    "PoC": "http://seclists.org/fulldisclosure/2026/Sep/95"
   },
   {
     "CVE": "CVE-2026-0019",
@@ -582232,6 +582276,14 @@
     "PoC": "https://github.com/Haitam-lazaar/libextractor-privesc"
   },
   {
+    "CVE": "CVE-2026-100372",
+    "PoC": "https://hackmd.io/@leediay/S1AIRjzqfx"
+  },
+  {
+    "CVE": "CVE-2026-100389",
+    "PoC": "https://blog.spiizn.xyz/articles/remote-code-execution-turning-a-ticket-into-a-new-issue/"
+  },
+  {
     "CVE": "CVE-2026-100419",
     "PoC": "https://github.com/GitoxideLabs/gitoxide/security/advisories/GHSA-f89h-2fjh-2r9q"
   },
@@ -582434,6 +582486,14 @@
   {
     "CVE": "CVE-2026-101146",
     "PoC": "https://drive.google.com/file/d/18fGYUBefbMreujzivIfFpPE8kWDLQCCU/view?usp=sharing"
+  },
+  {
+    "CVE": "CVE-2026-101147",
+    "PoC": "https://wpscan.com/vulnerability/45ac761c-5736-4bd3-a3c1-892e703f5da6/"
+  },
+  {
+    "CVE": "CVE-2026-101148",
+    "PoC": "https://wpscan.com/vulnerability/5d6fce13-34e3-4ec6-9b47-a78dd7c94fed/"
   },
   {
     "CVE": "CVE-2026-10115",
@@ -582768,6 +582828,18 @@
     "PoC": "https://www.vulncheck.com/advisories/mall4j-through-4.0-insufficient-session-expiration-via-token-refresh"
   },
   {
+    "CVE": "CVE-2026-102372",
+    "PoC": "https://blog.spiizn.xyz/articles/remote-code-execution-turning-a-ticket-into-a-new-issue/"
+  },
+  {
+    "CVE": "CVE-2026-102373",
+    "PoC": "https://blog.spiizn.xyz/articles/remote-code-execution-turning-a-ticket-into-a-new-issue/"
+  },
+  {
+    "CVE": "CVE-2026-102374",
+    "PoC": "https://blog.spiizn.xyz/articles/remote-code-execution-turning-a-ticket-into-a-new-issue/"
+  },
+  {
     "CVE": "CVE-2026-10240",
     "PoC": "https://github.com/jeecgboot/JeecgBoot/issues/9609"
   },
@@ -582994,6 +583066,26 @@
   {
     "CVE": "CVE-2026-10303",
     "PoC": "https://remyhax.xyz/posts/reproducing-lawful-tls-wiretapping/"
+  },
+  {
+    "CVE": "CVE-2026-103242",
+    "PoC": "https://access.redhat.com/security/cve/CVE-2026-103242"
+  },
+  {
+    "CVE": "CVE-2026-103587",
+    "PoC": "https://hackmd.io/@leediay/four-reflected-xss-qloapps"
+  },
+  {
+    "CVE": "CVE-2026-103588",
+    "PoC": "https://hackmd.io/@leediay/four-reflected-xss-qloapps"
+  },
+  {
+    "CVE": "CVE-2026-103589",
+    "PoC": "https://hackmd.io/@leediay/four-reflected-xss-qloapps"
+  },
+  {
+    "CVE": "CVE-2026-103590",
+    "PoC": "https://hackmd.io/@leediay/four-reflected-xss-qloapps"
   },
   {
     "CVE": "CVE-2026-1046",
@@ -591520,6 +591612,10 @@
     "PoC": "https://github.com/bolo-blog/bolo-solo/issues/325#issue-3828755519"
   },
   {
+    "CVE": "CVE-2026-16929",
+    "PoC": "https://www.ibm.com/support/pages/node/7283578"
+  },
+  {
     "CVE": "CVE-2026-16940",
     "PoC": "https://wpscan.com/vulnerability/a315a6ac-3ffb-4735-92ca-6e85338f8807/"
   },
@@ -591612,6 +591708,10 @@
     "PoC": "https://wpscan.com/vulnerability/61b3228d-50a0-4928-977a-23448939dff9/"
   },
   {
+    "CVE": "CVE-2026-16982",
+    "PoC": "https://www.ibm.com/support/pages/node/7283578"
+  },
+  {
     "CVE": "CVE-2026-16983",
     "PoC": "https://wpscan.com/vulnerability/30862f10-a2e6-4536-9a96-bbd8789b954f/"
   },
@@ -591650,6 +591750,10 @@
   {
     "CVE": "CVE-2026-1700",
     "PoC": "https://github.com/jiahao412/CVE/issues/3"
+  },
+  {
+    "CVE": "CVE-2026-17004",
+    "PoC": "https://www.ibm.com/support/pages/node/7283578"
   },
   {
     "CVE": "CVE-2026-17008",
@@ -591726,6 +591830,30 @@
   {
     "CVE": "CVE-2026-17106",
     "PoC": "https://github.com/masasron/CopyEscape-CVE-2026-17106"
+  },
+  {
+    "CVE": "CVE-2026-17197",
+    "PoC": "https://www.ibm.com/support/pages/node/7283578"
+  },
+  {
+    "CVE": "CVE-2026-17199",
+    "PoC": "https://www.ibm.com/support/pages/node/7283578"
+  },
+  {
+    "CVE": "CVE-2026-17206",
+    "PoC": "https://www.ibm.com/support/pages/node/7283578"
+  },
+  {
+    "CVE": "CVE-2026-17220",
+    "PoC": "https://www.ibm.com/support/pages/node/7283578"
+  },
+  {
+    "CVE": "CVE-2026-17223",
+    "PoC": "https://www.ibm.com/support/pages/node/7283578"
+  },
+  {
+    "CVE": "CVE-2026-17229",
+    "PoC": "https://www.ibm.com/support/pages/node/7283578"
   },
   {
     "CVE": "CVE-2026-1729",
@@ -592936,6 +593064,10 @@
     "PoC": "https://vuldb.com/?id.344264"
   },
   {
+    "CVE": "CVE-2026-18846",
+    "PoC": "https://www.ibm.com/support/pages/node/7283578"
+  },
+  {
     "CVE": "CVE-2026-18852",
     "PoC": "https://github.com/fa1c4/security-advisories/tree/main/VectorDB"
   },
@@ -593438,6 +593570,10 @@
   {
     "CVE": "CVE-2026-19251",
     "PoC": "https://wpscan.com/vulnerability/c840b8fc-3185-4eb9-a33c-1be4b0d2a6b5/"
+  },
+  {
+    "CVE": "CVE-2026-19253",
+    "PoC": "https://wpscan.com/vulnerability/49ecffb5-26ae-43e5-9942-e2d63970b39d/"
   },
   {
     "CVE": "CVE-2026-19268",
@@ -608232,6 +608368,10 @@
     "PoC": "https://github.com/JXBbozaihuang/vuln-research/issues/2"
   },
   {
+    "CVE": "CVE-2026-3696",
+    "PoC": "https://vuldb.com/?id.349642"
+  },
+  {
     "CVE": "CVE-2026-36962",
     "PoC": "https://thinhneee.github.io/posts/muucmf-sqli/"
   },
@@ -608346,6 +608486,10 @@
   {
     "CVE": "CVE-2026-3723",
     "PoC": "https://github.com/Owen-YuanW/CVE/issues/6"
+  },
+  {
+    "CVE": "CVE-2026-3723",
+    "PoC": "https://vuldb.com/?submit.766311"
   },
   {
     "CVE": "CVE-2026-3724",
@@ -615300,6 +615444,14 @@
     "PoC": "https://github.com/apostrophecms/apostrophe/security/advisories/GHSA-pr28-mf3q-qpg6"
   },
   {
+    "CVE": "CVE-2026-45018",
+    "PoC": "https://github.com/Chainlit/chainlit/commit/0565fd0eccb915fce159929598b053ed79f6e0c9"
+  },
+  {
+    "CVE": "CVE-2026-45019",
+    "PoC": "https://github.com/Chainlit/chainlit/commit/0565fd0eccb915fce159929598b053ed79f6e0c9"
+  },
+  {
     "CVE": "CVE-2026-45023",
     "PoC": "https://github.com/Significant-Gravitas/AutoGPT/security/advisories/GHSA-8pjg-mfqm-vrhr"
   },
@@ -616110,6 +616262,10 @@
   {
     "CVE": "CVE-2026-4572",
     "PoC": "https://github.com/meifukun/Web-Security-PoCs/blob/main/Inventory-System/SQLi-ViewProduct-searchtxt.md"
+  },
+  {
+    "CVE": "CVE-2026-45721",
+    "PoC": "https://github.com/xyproto/algernon/security/advisories/GHSA-xwcr-wm99-g9jc"
   },
   {
     "CVE": "CVE-2026-45728",
@@ -636248,6 +636404,10 @@
     "PoC": "https://github.com/nextlevelbuilder/ui-ux-pro-max-skill/pull/274"
   },
   {
+    "CVE": "CVE-2026-75969",
+    "PoC": "https://psirt.havsys.com/"
+  },
+  {
     "CVE": "CVE-2026-7597",
     "PoC": "https://github.com/mem0ai/mem0/issues/3778"
   },
@@ -640128,6 +640288,14 @@
     "PoC": "https://github.com/nfriedly/node-bestzip/security/advisories/GHSA-p87m-9567-rgcc"
   },
   {
+    "CVE": "CVE-2026-80428",
+    "PoC": "https://schweigertit.de/en/advisories/SIT-2026-002.html"
+  },
+  {
+    "CVE": "CVE-2026-80428",
+    "PoC": "https://schweigertit.de/en/writeups/php-object-injection-shibboleth-logout.html"
+  },
+  {
     "CVE": "CVE-2026-80431",
     "PoC": "https://secur0.com/en/cna/cve-list/cve-2026-80431-kitty-text-sizing-out-of-bounds-write"
   },
@@ -640608,6 +640776,10 @@
     "PoC": "https://wpscan.com/vulnerability/b8a97781-5c3b-4a89-845e-ee4eb60ea29c/"
   },
   {
+    "CVE": "CVE-2026-81739",
+    "PoC": "https://wpscan.com/vulnerability/f77f3f04-cb98-4687-9080-dd0c99a7e926/"
+  },
+  {
     "CVE": "CVE-2026-81741",
     "PoC": "https://wpscan.com/vulnerability/4bfdee51-f2d0-4549-a9b4-5f4e11f2de4c/"
   },
@@ -640622,6 +640794,10 @@
   {
     "CVE": "CVE-2026-81807",
     "PoC": "https://wpscan.com/vulnerability/7aceefd5-aa09-4828-b375-6a62997fa0c2/"
+  },
+  {
+    "CVE": "CVE-2026-81809",
+    "PoC": "https://wpscan.com/vulnerability/10f2d49e-94e4-4e49-b32f-c1c75c2c6364/"
   },
   {
     "CVE": "CVE-2026-81810",
@@ -641160,6 +641336,10 @@
     "PoC": "https://github.com/7rah/oss-cve/blob/main/roocode-group04-pipe-both-operator.md"
   },
   {
+    "CVE": "CVE-2026-82538",
+    "PoC": "https://schweigertit.de/en/advisories/SIT-2026-001.html"
+  },
+  {
     "CVE": "CVE-2026-82540",
     "PoC": "https://github.com/niadwj221/cve/issues/2"
   },
@@ -641690,6 +641870,10 @@
   {
     "CVE": "CVE-2026-82875",
     "PoC": "https://github.com/ToolJet/ToolJet/security/advisories/GHSA-cx42-x23w-vhvf"
+  },
+  {
+    "CVE": "CVE-2026-82877",
+    "PoC": "https://schweigertit.de/en/advisories/SIT-2026-003.html"
   },
   {
     "CVE": "CVE-2026-82879",
@@ -644100,6 +644284,10 @@
     "PoC": "https://issues.chromium.org/issues/502304489"
   },
   {
+    "CVE": "CVE-2026-85053",
+    "PoC": "https://issues.chromium.org/issues/552689418"
+  },
+  {
     "CVE": "CVE-2026-85058",
     "PoC": "https://github.com/moquette-io/moquette/security/advisories/GHSA-9jjc-fw8x-fmwx"
   },
@@ -645704,6 +645892,10 @@
     "PoC": "https://wpscan.com/vulnerability/85ebf2d8-af69-434c-b733-8156210d6d6a/"
   },
   {
+    "CVE": "CVE-2026-86610",
+    "PoC": "https://wpscan.com/vulnerability/eba10cea-445e-4707-ba99-4da194b94597/"
+  },
+  {
     "CVE": "CVE-2026-86612",
     "PoC": "https://wpscan.com/vulnerability/4be7a5e0-9657-4692-904d-b696224e32ec/"
   },
@@ -645994,6 +646186,14 @@
   {
     "CVE": "CVE-2026-8694",
     "PoC": "https://devolutions.net/security/advisories/DEVO-2026-0016/"
+  },
+  {
+    "CVE": "CVE-2026-86950",
+    "PoC": "http://seclists.org/fulldisclosure/2026/Sep/90"
+  },
+  {
+    "CVE": "CVE-2026-86950",
+    "PoC": "http://seclists.org/fulldisclosure/2026/Sep/91"
   },
   {
     "CVE": "CVE-2026-87067",
@@ -647200,6 +647400,14 @@
     "PoC": "https://wpscan.com/vulnerability/e2e625f4-c146-4622-b439-3179c4484613/"
   },
   {
+    "CVE": "CVE-2026-87970",
+    "PoC": "https://wpscan.com/vulnerability/a0ae7165-0d5b-4f81-b35b-2d9076573530/"
+  },
+  {
+    "CVE": "CVE-2026-87973",
+    "PoC": "https://wpscan.com/vulnerability/7a141824-aabf-40a1-8021-ffd1dc4a2f7d/"
+  },
+  {
     "CVE": "CVE-2026-87978",
     "PoC": "https://wpscan.com/vulnerability/7eecf65a-3b85-405e-bbe2-893960c82ba7/"
   },
@@ -647876,6 +648084,10 @@
     "PoC": "https://github.com/nothings/stb/issues/1947"
   },
   {
+    "CVE": "CVE-2026-89296",
+    "PoC": "https://wpscan.com/vulnerability/351a9bf8-03d4-416b-8f30-a2a87e7c4cb2/"
+  },
+  {
     "CVE": "CVE-2026-89300",
     "PoC": "https://wpscan.com/vulnerability/a5ad8171-83c1-4c2e-83ac-24f008fadb82/"
   },
@@ -648012,8 +648224,72 @@
     "PoC": "https://devolutions.net/security/advisories/DEVO-2026-0013/"
   },
   {
+    "CVE": "CVE-2026-90487",
+    "PoC": "https://github.com/zhaizejiang/xxl-job-vuln-poc/edit/main/xxl-job3.4.2_loadById%20Endpoint%20Missing%20Authentication.md"
+  },
+  {
+    "CVE": "CVE-2026-90488",
+    "PoC": "https://github.com/zhaizejiang/xxl-job-vuln-poc/blob/main/xxl-job%20v3.4.2%20Remote%20Code%20Execution%20via%20Groovy%20Code%20Execution.md"
+  },
+  {
+    "CVE": "CVE-2026-90490",
+    "PoC": "https://github.com/ArrestX/vhr-advisories/blob/main/poc/VHR-VULN-006/YAKIT-PoC.md"
+  },
+  {
+    "CVE": "CVE-2026-90491",
+    "PoC": "https://github.com/LeoWSY-hashblue/cve-electron-2/blob/master/gsubs/cve.md"
+  },
+  {
+    "CVE": "CVE-2026-90491",
+    "PoC": "https://github.com/LeoWSY-hashblue/cve-electron-2/tree/master/gsubs/poc"
+  },
+  {
+    "CVE": "CVE-2026-90493",
+    "PoC": "https://github.com/KnCRJVirX/IDM_LPE_PoC/blob/main/report_en.md"
+  },
+  {
+    "CVE": "CVE-2026-90493",
+    "PoC": "https://github.com/KnCRJVirX/IDM_LPE_PoC/tree/main/poc"
+  },
+  {
     "CVE": "CVE-2026-90495",
     "PoC": "https://drive.google.com/file/d/1Pc3Xn0funYMa-N-1ihZjSWrpS-zhqbna/view?usp=sharing"
+  },
+  {
+    "CVE": "CVE-2026-90498",
+    "PoC": "https://github.com/ArrestX/vhr-advisories/blob/main/advisories/VHR-VULN-008-default-credentials.md"
+  },
+  {
+    "CVE": "CVE-2026-90499",
+    "PoC": "https://github.com/ArrestX/vhr-advisories/blob/main/advisories/VHR-VULN-009-password-change-idor.md"
+  },
+  {
+    "CVE": "CVE-2026-90500",
+    "PoC": "https://github.com/ArrestX/vhr-advisories/blob/main/advisories/VHR-VULN-005-unrestricted-upload.md"
+  },
+  {
+    "CVE": "CVE-2026-90508",
+    "PoC": "https://gist.github.com/lzty/fc5f336dca4c287ab4c22168b6dc8ec2"
+  },
+  {
+    "CVE": "CVE-2026-90509",
+    "PoC": "https://github.com/sumo166/CVE-apply/blob/main/dromara-orion-visor/ExposeApi%20Hardcoded%20Default%20Token%20Authentication%20Bypass%20(CWE-798)_en.md"
+  },
+  {
+    "CVE": "CVE-2026-90510",
+    "PoC": "https://github.com/sumo166/CVE-apply/blob/main/dromara-orion-visor/Hardcoded%20AES%20Encryption%20Key%20Enables%20Decryption%20of%20SSH%20Private%20Keys%20and%20Host%20Passwords%20(CWE-321)_en.md"
+  },
+  {
+    "CVE": "CVE-2026-90517",
+    "PoC": "https://github.com/wakakakaaaaha/vuln/issues/2"
+  },
+  {
+    "CVE": "CVE-2026-90518",
+    "PoC": "https://github.com/wakakakaaaaha/vuln/issues/3"
+  },
+  {
+    "CVE": "CVE-2026-90519",
+    "PoC": "https://github.com/wakakakaaaaha/vuln/issues/5"
   },
   {
     "CVE": "CVE-2026-90522",
@@ -648024,20 +648300,232 @@
     "PoC": "https://vuldb.com/vuln/403112/cti"
   },
   {
+    "CVE": "CVE-2026-90525",
+    "PoC": "https://github.com/abigmalon/submit_cve/issues/1"
+  },
+  {
+    "CVE": "CVE-2026-90533",
+    "PoC": "https://github.com/FlowiseAI/Flowise/security/advisories/GHSA-fhxm-xxcx-g6x3"
+  },
+  {
+    "CVE": "CVE-2026-90534",
+    "PoC": "https://github.com/FlowiseAI/Flowise/security/advisories/GHSA-hqvm-7539-v83j"
+  },
+  {
+    "CVE": "CVE-2026-90536",
+    "PoC": "https://github.com/WWBN/AVideo/security/advisories/GHSA-989c-frwf-gprj"
+  },
+  {
+    "CVE": "CVE-2026-90538",
+    "PoC": "https://github.com/WWBN/AVideo/security/advisories/GHSA-6382-hm4f-hxqg"
+  },
+  {
+    "CVE": "CVE-2026-90540",
+    "PoC": "https://github.com/WWBN/AVideo/security/advisories/GHSA-xhg9-rc5h-rp65"
+  },
+  {
+    "CVE": "CVE-2026-90542",
+    "PoC": "https://github.com/WWBN/AVideo/security/advisories/GHSA-qf26-4xp7-q5h9"
+  },
+  {
+    "CVE": "CVE-2026-90543",
+    "PoC": "https://github.com/WWBN/AVideo/security/advisories/GHSA-vr35-39vf-9qp9"
+  },
+  {
+    "CVE": "CVE-2026-90543",
+    "PoC": "https://github.com/WWBN/AVideo/security/advisories/GHSA-wcg2-x62c-m28x"
+  },
+  {
+    "CVE": "CVE-2026-90544",
+    "PoC": "https://github.com/WWBN/AVideo/security/advisories/GHSA-2fgr-549m-8g5w"
+  },
+  {
+    "CVE": "CVE-2026-90545",
+    "PoC": "https://github.com/WWBN/AVideo/security/advisories/GHSA-v3p2-4x76-7p8v"
+  },
+  {
+    "CVE": "CVE-2026-90546",
+    "PoC": "https://github.com/WWBN/AVideo/security/advisories/GHSA-5jgf-mc35-5wg5"
+  },
+  {
+    "CVE": "CVE-2026-90547",
+    "PoC": "https://github.com/WWBN/AVideo/security/advisories/GHSA-xv29-q875-59jq"
+  },
+  {
+    "CVE": "CVE-2026-90548",
+    "PoC": "https://github.com/WWBN/AVideo/security/advisories/GHSA-vr35-39vf-9qp9"
+  },
+  {
+    "CVE": "CVE-2026-90549",
+    "PoC": "https://github.com/WWBN/AVideo/security/advisories/GHSA-frrh-5hwx-jggr"
+  },
+  {
+    "CVE": "CVE-2026-90551",
+    "PoC": "https://github.com/WWBN/AVideo/security/advisories/GHSA-7h47-x3h5-c8xq"
+  },
+  {
+    "CVE": "CVE-2026-90560",
+    "PoC": "https://github.com/luben/zstd-jni/issues/405"
+  },
+  {
+    "CVE": "CVE-2026-90561",
+    "PoC": "https://github.com/strapi/strapi/issues/26857"
+  },
+  {
+    "CVE": "CVE-2026-90562",
+    "PoC": "https://github.com/langbot-app/LangBot/issues/2392"
+  },
+  {
+    "CVE": "CVE-2026-90573",
+    "PoC": "https://github.com/gpac/gpac/issues/3814"
+  },
+  {
+    "CVE": "CVE-2026-90573",
+    "PoC": "https://github.com/r1ck9-2q/cve_summit/blob/main/Vuln-GPAC-MP4Box-gf_sg_mfurl_del-NULL-Pointer-Dereference.md"
+  },
+  {
     "CVE": "CVE-2026-90574",
     "PoC": "https://github.com/ltranquility/submit_repository/issues/13"
+  },
+  {
+    "CVE": "CVE-2026-90575",
+    "PoC": "https://github.com/JdExploit/small-crm-login-unserialize"
+  },
+  {
+    "CVE": "CVE-2026-90576",
+    "PoC": "https://github.com/gpac/gpac/issues/3815"
+  },
+  {
+    "CVE": "CVE-2026-90576",
+    "PoC": "https://github.com/r1ck9-2q/cve_summit/blob/main/Vuln-GPAC-MP4Box-gf_node_list_add_child-SEGV.md"
+  },
+  {
+    "CVE": "CVE-2026-90577",
+    "PoC": "https://github.com/gpac/gpac/issues/3816"
+  },
+  {
+    "CVE": "CVE-2026-90577",
+    "PoC": "https://github.com/r1ck9-2q/cve_summit/blob/main/Vuln-GPAC-MP4Box-Heap-Buffer-Overflow-in-gf_node_get_field.md"
+  },
+  {
+    "CVE": "CVE-2026-90578",
+    "PoC": "https://github.com/gpac/gpac/issues/3817"
+  },
+  {
+    "CVE": "CVE-2026-90578",
+    "PoC": "https://github.com/r1ck9-2q/cve_summit/blob/main/Vuln-GPAC-MP4Box-SEGV-in-gf_list_count-(Use-After-Free).md"
+  },
+  {
+    "CVE": "CVE-2026-90579",
+    "PoC": "https://github.com/cheshire-cat-ai/core/issues/1137"
+  },
+  {
+    "CVE": "CVE-2026-90580",
+    "PoC": "https://github.com/FlowiseAI/Flowise/issues/6687"
+  },
+  {
+    "CVE": "CVE-2026-90581",
+    "PoC": "https://github.com/cym1102/nginxWebUI/issues/213"
+  },
+  {
+    "CVE": "CVE-2026-90584",
+    "PoC": "https://github.com/TooTallNate/Java-WebSocket/issues/1508"
+  },
+  {
+    "CVE": "CVE-2026-90594",
+    "PoC": "https://github.com/user-attachments/files/30627348/poc_vuln1_failopen_authz.zip"
+  },
+  {
+    "CVE": "CVE-2026-90594",
+    "PoC": "https://github.com/wxiaoqi/Spring-Cloud-Platform/issues/64"
+  },
+  {
+    "CVE": "CVE-2026-90595",
+    "PoC": "https://github.com/user-attachments/files/30627379/poc_vuln2_session_exposure.zip"
+  },
+  {
+    "CVE": "CVE-2026-90595",
+    "PoC": "https://github.com/wxiaoqi/Spring-Cloud-Platform/issues/65"
+  },
+  {
+    "CVE": "CVE-2026-90598",
+    "PoC": "https://github.com/jaygajera17/E-commerce-project-springBoot/issues/172"
+  },
+  {
+    "CVE": "CVE-2026-90598",
+    "PoC": "https://github.com/user-attachments/files/30648539/poc_idor_updateuser.py"
+  },
+  {
+    "CVE": "CVE-2026-90599",
+    "PoC": "https://github.com/user-attachments/files/30648539/poc_idor_updateuser.py"
   },
   {
     "CVE": "CVE-2026-9060",
     "PoC": "https://wpscan.com/vulnerability/1ed01413-09a2-4a2e-be5b-375f2a327d0d/"
   },
   {
+    "CVE": "CVE-2026-90605",
+    "PoC": "https://github.com/SunnyYANGyaya/cuicuishark-sheep-fishIOT/blob/main/ToTolink/A3002MU/bof-formFilter.md"
+  },
+  {
+    "CVE": "CVE-2026-90606",
+    "PoC": "https://github.com/SunnyYANGyaya/cuicuishark-sheep-fishIOT/blob/main/ToTolink/A3002MU/bof-formIpv6Setup.md"
+  },
+  {
+    "CVE": "CVE-2026-90608",
+    "PoC": "https://github.com/SunnyYANGyaya/cuicuishark-sheep-fishIOT/blob/main/ToTolink/A3002MU/bof-formPortFw.md"
+  },
+  {
+    "CVE": "CVE-2026-90609",
+    "PoC": "https://github.com/gpac/gpac/issues/3818"
+  },
+  {
     "CVE": "CVE-2026-9061",
     "PoC": "https://wpscan.com/vulnerability/a9f8656a-548a-4353-b157-d07f23c3bc26/"
   },
   {
+    "CVE": "CVE-2026-90610",
+    "PoC": "https://github.com/gpac/gpac/issues/3819"
+  },
+  {
+    "CVE": "CVE-2026-90610",
+    "PoC": "https://github.com/r1ck9-2q/cve_summit/blob/main/Vuln%20GPAC%20MP4Box%20Heap-Buffer-Overflow%20READ%20size%2020%20in%20gf_svg_attributes_copy.md"
+  },
+  {
+    "CVE": "CVE-2026-90611",
+    "PoC": "https://github.com/gpac/gpac/issues/3820"
+  },
+  {
+    "CVE": "CVE-2026-90615",
+    "PoC": "https://github.com/endingstory/e/issues/2"
+  },
+  {
+    "CVE": "CVE-2026-90617",
+    "PoC": "https://github.com/GH05TCREW/pentestagent/issues/90"
+  },
+  {
     "CVE": "CVE-2026-9062",
     "PoC": "https://wpscan.com/vulnerability/14014b6b-ce49-4778-822c-026ecafa1772/"
+  },
+  {
+    "CVE": "CVE-2026-90621",
+    "PoC": "https://github.com/ipa-lab/hackingBuddyGPT/issues/150"
+  },
+  {
+    "CVE": "CVE-2026-90622",
+    "PoC": "https://github.com/LibreDWG/libredwg/issues/1269"
+  },
+  {
+    "CVE": "CVE-2026-90622",
+    "PoC": "https://github.com/user-attachments/files/28549357/repro.zip"
+  },
+  {
+    "CVE": "CVE-2026-90623",
+    "PoC": "https://github.com/andreashappe/cochise/issues/13"
+  },
+  {
+    "CVE": "CVE-2026-90648",
+    "PoC": "https://github.com/trustsig-eu/wasm2c-tableflip"
   },
   {
     "CVE": "CVE-2026-9066",
@@ -648048,8 +648536,164 @@
     "PoC": "https://wpscan.com/vulnerability/7fac98eb-f82c-4705-a956-aba650945826/"
   },
   {
+    "CVE": "CVE-2026-90682",
+    "PoC": "https://github.com/Matthias-Wandel/jhead/issues/99"
+  },
+  {
+    "CVE": "CVE-2026-90682",
+    "PoC": "https://github.com/user-attachments/files/30397094/poc.zip"
+  },
+  {
+    "CVE": "CVE-2026-90683",
+    "PoC": "https://github.com/gpac/gpac/issues/3823"
+  },
+  {
+    "CVE": "CVE-2026-90684",
+    "PoC": "https://github.com/r1ck9-2q/cve_summit/blob/main/Vuln%20GPAC%20MP4Box%20Assertion%20Failure%20assert(node).md"
+  },
+  {
+    "CVE": "CVE-2026-90686",
+    "PoC": "https://github.com/Ech06/CVE_submit/blob/main/gpac_3798.md"
+  },
+  {
+    "CVE": "CVE-2026-90686",
+    "PoC": "https://github.com/gpac/gpac/issues/3798"
+  },
+  {
+    "CVE": "CVE-2026-90687",
+    "PoC": "https://github.com/gpac/gpac/issues/3800"
+  },
+  {
+    "CVE": "CVE-2026-90690",
+    "PoC": "https://github.com/0x4m4/hexstrike-ai/issues/224"
+  },
+  {
+    "CVE": "CVE-2026-90690",
+    "PoC": "https://github.com/0x4m4/hexstrike-ai/pull/266"
+  },
+  {
+    "CVE": "CVE-2026-90691",
+    "PoC": "https://github.com/0x4m4/hexstrike-ai/issues/225"
+  },
+  {
+    "CVE": "CVE-2026-90694",
+    "PoC": "https://gist.github.com/fhewm98/46580c8919d2144e2e5e7598e54df868"
+  },
+  {
+    "CVE": "CVE-2026-90695",
+    "PoC": "https://gist.github.com/fhewm98/5eaa9df770357351917f4538a3032eb7"
+  },
+  {
+    "CVE": "CVE-2026-90697",
+    "PoC": "https://gist.github.com/fhewm98/079112d415afa63ed1368a798a352665"
+  },
+  {
     "CVE": "CVE-2026-90698",
     "PoC": "https://protectiv.ph/research/memcached-asciiauth-empty-line-dos"
+  },
+  {
+    "CVE": "CVE-2026-90699",
+    "PoC": "https://github.com/H3rmesk1t/vulnerability-paper/issues/9"
+  },
+  {
+    "CVE": "CVE-2026-90702",
+    "PoC": "https://gist.github.com/H3rmesk1t/1f7efbf4584ce13222e8b0c669e7784a"
+  },
+  {
+    "CVE": "CVE-2026-90705",
+    "PoC": "https://gist.github.com/H3rmesk1t/42bca7c81530b8419811ddcbd39b3b56"
+  },
+  {
+    "CVE": "CVE-2026-90709",
+    "PoC": "https://github.com/dddwmr/CVE/blob/main/YOT%20III%20modsys%3Aconsole%20admin%20eval%20of%20POST%20text%20leads%20to%20remote%20code%20execution.md"
+  },
+  {
+    "CVE": "CVE-2026-90714",
+    "PoC": "https://github.com/marcobambini/gravity/issues/448"
+  },
+  {
+    "CVE": "CVE-2026-90767",
+    "PoC": "https://github.com/froxlor/Froxlor/security/advisories/GHSA-p3v3-74gc-jh5f"
+  },
+  {
+    "CVE": "CVE-2026-90768",
+    "PoC": "https://github.com/kevoreilly/CAPEv2"
+  },
+  {
+    "CVE": "CVE-2026-90768",
+    "PoC": "https://github.com/kevoreilly/CAPEv2/blob/1255b18/web/apiv2/views.py"
+  },
+  {
+    "CVE": "CVE-2026-90768",
+    "PoC": "https://github.com/kevoreilly/CAPEv2/issues/3162"
+  },
+  {
+    "CVE": "CVE-2026-90769",
+    "PoC": "https://github.com/lfnovo/open-notebook/issues/1284"
+  },
+  {
+    "CVE": "CVE-2026-90770",
+    "PoC": "https://github.com/openspug/spug/issues/741"
+  },
+  {
+    "CVE": "CVE-2026-90776",
+    "PoC": "https://github.com/nodemailer/nodemailer/security/advisories/GHSA-prgh-xp8r-p3m5"
+  },
+  {
+    "CVE": "CVE-2026-90777",
+    "PoC": "https://github.com/espnet/espnet/security/advisories/GHSA-64f6-3gqc-r926"
+  },
+  {
+    "CVE": "CVE-2026-90785",
+    "PoC": "https://github.com/dvidelabs/flatcc/issues/388"
+  },
+  {
+    "CVE": "CVE-2026-90786",
+    "PoC": "https://github.com/dvidelabs/flatcc/issues/387"
+  },
+  {
+    "CVE": "CVE-2026-90789",
+    "PoC": "https://github.com/Relax-1626/submit/issues/1"
+  },
+  {
+    "CVE": "CVE-2026-90792",
+    "PoC": "https://github.com/Ech06/CVE_submit/blob/main/gpac_3802.md"
+  },
+  {
+    "CVE": "CVE-2026-90792",
+    "PoC": "https://github.com/gpac/gpac/issues/3802"
+  },
+  {
+    "CVE": "CVE-2026-90793",
+    "PoC": "https://github.com/gpac/gpac/issues/3803"
+  },
+  {
+    "CVE": "CVE-2026-90794",
+    "PoC": "https://github.com/Ech06/CVE_submit/blob/main/gpac_3799.md"
+  },
+  {
+    "CVE": "CVE-2026-90794",
+    "PoC": "https://github.com/gpac/gpac/issues/3799"
+  },
+  {
+    "CVE": "CVE-2026-90796",
+    "PoC": "https://github.com/lincenjun/submit/issues/1"
+  },
+  {
+    "CVE": "CVE-2026-90808",
+    "PoC": "https://github.com/HKUDS/nanobot/issues/5305"
+  },
+  {
+    "CVE": "CVE-2026-90811",
+    "PoC": "https://github.com/cosmicstack-labs/mercury-agent/issues/102"
+  },
+  {
+    "CVE": "CVE-2026-90812",
+    "PoC": "https://github.com/cosmicstack-labs/mercury-agent/issues/80"
+  },
+  {
+    "CVE": "CVE-2026-90814",
+    "PoC": "https://github.com/cosmicstack-labs/mercury-agent/issues/81"
   },
   {
     "CVE": "CVE-2026-90815",
@@ -648064,6 +648708,14 @@
     "PoC": "https://www.securifera.com/advisories/"
   },
   {
+    "CVE": "CVE-2026-90818",
+    "PoC": "https://gist.github.com/YLChen-007/e5f88777e7c50549fd98b23b2988f78d"
+  },
+  {
+    "CVE": "CVE-2026-90818",
+    "PoC": "https://github.com/netease-youdao/LobsterAI/issues/2181"
+  },
+  {
     "CVE": "CVE-2026-90822",
     "PoC": "https://www.securifera.com/advisories/"
   },
@@ -648072,8 +648724,80 @@
     "PoC": "https://www.securifera.com/advisories/"
   },
   {
+    "CVE": "CVE-2026-90826",
+    "PoC": "https://github.com/gpac/gpac/issues/3812"
+  },
+  {
+    "CVE": "CVE-2026-90826",
+    "PoC": "https://github.com/user-attachments/files/30400210/poc_19_nstatx.zip"
+  },
+  {
+    "CVE": "CVE-2026-90827",
+    "PoC": "https://github.com/gpac/gpac/issues/3813"
+  },
+  {
+    "CVE": "CVE-2026-90827",
+    "PoC": "https://github.com/user-attachments/files/30400423/poc_20_nstatx.zip"
+  },
+  {
+    "CVE": "CVE-2026-90840",
+    "PoC": "https://github.com/usernamevnq/CVEs/issues/1"
+  },
+  {
+    "CVE": "CVE-2026-90841",
+    "PoC": "https://github.com/usernamevnq/CVEs/issues/2"
+  },
+  {
+    "CVE": "CVE-2026-90842",
+    "PoC": "https://github.com/usernamevnq/CVEs/issues/3"
+  },
+  {
     "CVE": "CVE-2026-90843",
     "PoC": "https://calledstriker.gitbook.io/blog/security-research/webmap"
+  },
+  {
+    "CVE": "CVE-2026-90845",
+    "PoC": "https://github.com/usernamevnq/CVEs/issues/6"
+  },
+  {
+    "CVE": "CVE-2026-90846",
+    "PoC": "https://github.com/usernamevnq/CVEs/issues/8"
+  },
+  {
+    "CVE": "CVE-2026-90850",
+    "PoC": "https://github.com/usernamevnq/CVEs/issues/9"
+  },
+  {
+    "CVE": "CVE-2026-90851",
+    "PoC": "https://github.com/usernamevnq/CVEs/issues/10"
+  },
+  {
+    "CVE": "CVE-2026-90852",
+    "PoC": "https://github.com/luben/zstd-jni/issues/404"
+  },
+  {
+    "CVE": "CVE-2026-90857",
+    "PoC": "https://github.com/OnlyCMJB/cve/issues/1"
+  },
+  {
+    "CVE": "CVE-2026-90876",
+    "PoC": "https://github.com/OnlyCMJB/cve/issues/2"
+  },
+  {
+    "CVE": "CVE-2026-90877",
+    "PoC": "https://github.com/OnlyCMJB/cve/issues/3"
+  },
+  {
+    "CVE": "CVE-2026-90878",
+    "PoC": "https://github.com/vllm-project/vllm/issues/52025"
+  },
+  {
+    "CVE": "CVE-2026-90880",
+    "PoC": "https://github.com/MeetFireAgain/cve/tree/main/dlink-dsl3782"
+  },
+  {
+    "CVE": "CVE-2026-90919",
+    "PoC": "https://github.com/ModelTC/LightLLM/issues/1563"
   },
   {
     "CVE": "CVE-2026-90922",
@@ -648082,6 +648806,42 @@
   {
     "CVE": "CVE-2026-90923",
     "PoC": "https://wpscan.com/vulnerability/29133c48-ff5c-4295-bd18-7014d7650298/"
+  },
+  {
+    "CVE": "CVE-2026-90927",
+    "PoC": "https://github.com/filebrowser/filebrowser/security/advisories/GHSA-39cx-23x9-5c8p"
+  },
+  {
+    "CVE": "CVE-2026-90929",
+    "PoC": "https://github.com/filebrowser/filebrowser/security/advisories/GHSA-c4fr-5f24-4wrj"
+  },
+  {
+    "CVE": "CVE-2026-90930",
+    "PoC": "https://github.com/filebrowser/filebrowser/security/advisories/GHSA-7w29-q235-57m9"
+  },
+  {
+    "CVE": "CVE-2026-90932",
+    "PoC": "https://github.com/laradashboard/laradashboard/security/advisories/GHSA-g48h-h5pc-396j"
+  },
+  {
+    "CVE": "CVE-2026-90933",
+    "PoC": "https://github.com/laradashboard/laradashboard/security/advisories/GHSA-j4m5-rrc4-5qv6"
+  },
+  {
+    "CVE": "CVE-2026-90935",
+    "PoC": "https://github.com/froxlor/froxlor/security/advisories/GHSA-q4rm-m6xh-5pv7"
+  },
+  {
+    "CVE": "CVE-2026-90936",
+    "PoC": "https://github.com/froxlor/froxlor/security/advisories/GHSA-mr9h-45p9-fg8h"
+  },
+  {
+    "CVE": "CVE-2026-90938",
+    "PoC": "https://github.com/langbot-app/LangBot/security/advisories/GHSA-m7qm-2mjr-2h4q"
+  },
+  {
+    "CVE": "CVE-2026-90939",
+    "PoC": "https://github.com/LinYuanyi1/cve-request-poc/blob/master/novel-plus/poc-03-user-list-password-hash-disclosure.py"
   },
   {
     "CVE": "CVE-2026-90939",
@@ -648094,6 +648854,14 @@
   {
     "CVE": "CVE-2026-90941",
     "PoC": "https://www.vulncheck.com/advisories/novel-plus-through-5.3.3-missing-authorization-on-the-admin-book-download-endpoint"
+  },
+  {
+    "CVE": "CVE-2026-90944",
+    "PoC": "https://github.com/krayin/laravel-crm/issues/2560"
+  },
+  {
+    "CVE": "CVE-2026-90946",
+    "PoC": "https://github.com/AsyncFuncAI/deepwiki-open/issues/536"
   },
   {
     "CVE": "CVE-2026-90950",
@@ -648114,6 +648882,14 @@
   {
     "CVE": "CVE-2026-90971",
     "PoC": "https://devolutions.net/security/advisories/DEVO-2026-0030/"
+  },
+  {
+    "CVE": "CVE-2026-90972",
+    "PoC": "https://wpscan.com/vulnerability/04d14406-c460-407c-836f-a9b5ed12be95/"
+  },
+  {
+    "CVE": "CVE-2026-90974",
+    "PoC": "https://wpscan.com/vulnerability/e57b41b3-3243-4ce1-98a6-40726ab138f3/"
   },
   {
     "CVE": "CVE-2026-90976",
@@ -648282,6 +649058,10 @@
   {
     "CVE": "CVE-2026-91732",
     "PoC": "https://issues.chromium.org/issues/511062248"
+  },
+  {
+    "CVE": "CVE-2026-91735",
+    "PoC": "https://issues.chromium.org/issues/552416113"
   },
   {
     "CVE": "CVE-2026-91752",
@@ -648494,6 +649274,10 @@
   {
     "CVE": "CVE-2026-92411",
     "PoC": "https://wpscan.com/vulnerability/f76a4694-8073-41fe-bb49-4073e6e95ac3/"
+  },
+  {
+    "CVE": "CVE-2026-92412",
+    "PoC": "https://wpscan.com/vulnerability/90713b84-9c19-46fe-a4ef-89cb9f66ce68/"
   },
   {
     "CVE": "CVE-2026-92420",
@@ -649592,6 +650376,10 @@
     "PoC": "https://github.com/wudipjq/my_vuln/blob/main/totolink4/vuln_57/57.md"
   },
   {
+    "CVE": "CVE-2026-95341",
+    "PoC": "https://issues.chromium.org/issues/523719002"
+  },
+  {
     "CVE": "CVE-2026-95342",
     "PoC": "https://issues.chromium.org/issues/547027738"
   },
@@ -649620,6 +650408,10 @@
     "PoC": "https://issues.chromium.org/issues/511791538"
   },
   {
+    "CVE": "CVE-2026-95363",
+    "PoC": "https://issues.chromium.org/issues/522344883"
+  },
+  {
     "CVE": "CVE-2026-95371",
     "PoC": "https://issues.chromium.org/issues/520504291"
   },
@@ -649632,8 +650424,36 @@
     "PoC": "https://issues.chromium.org/issues/543464436"
   },
   {
+    "CVE": "CVE-2026-95387",
+    "PoC": "https://gitlab.com/wireshark/wireshark/-/work_items/21487"
+  },
+  {
+    "CVE": "CVE-2026-95388",
+    "PoC": "https://gitlab.com/wireshark/wireshark/-/work_items/21545"
+  },
+  {
+    "CVE": "CVE-2026-95389",
+    "PoC": "https://gitlab.com/wireshark/wireshark/-/work_items/21481"
+  },
+  {
     "CVE": "CVE-2026-95392",
     "PoC": "https://gitlab.com/wireshark/wireshark/-/work_items/21549"
+  },
+  {
+    "CVE": "CVE-2026-95392",
+    "PoC": "https://gitlab.com/wireshark/wireshark/-/work_items/21550"
+  },
+  {
+    "CVE": "CVE-2026-95393",
+    "PoC": "https://gitlab.com/wireshark/wireshark/-/work_items/21510"
+  },
+  {
+    "CVE": "CVE-2026-95394",
+    "PoC": "https://gitlab.com/wireshark/wireshark/-/work_items/21523"
+  },
+  {
+    "CVE": "CVE-2026-95395",
+    "PoC": "https://gitlab.com/wireshark/wireshark/-/work_items/21492"
   },
   {
     "CVE": "CVE-2026-9541",
@@ -649854,6 +650674,18 @@
   {
     "CVE": "CVE-2026-9608",
     "PoC": "https://github.com/QianFox/FoxCMS/issues/2"
+  },
+  {
+    "CVE": "CVE-2026-96173",
+    "PoC": "https://wpscan.com/vulnerability/fcaa1526-0cf4-4356-9cf8-bc2dc3ed33b8/"
+  },
+  {
+    "CVE": "CVE-2026-96200",
+    "PoC": "https://wpscan.com/vulnerability/c3ccbe90-6942-46d6-b79b-f3223121eec6/"
+  },
+  {
+    "CVE": "CVE-2026-96255",
+    "PoC": "https://wpscan.com/vulnerability/726daec6-5e18-4ee1-9b97-3931f7f81c3c/"
   },
   {
     "CVE": "CVE-2026-96257",
