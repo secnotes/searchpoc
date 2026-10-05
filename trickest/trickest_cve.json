@@ -35029,7 +35029,15 @@
   },
   {
     "CVE": "CVE-2007-2430",
+    "PoC": "http://sourceforge.net/forum/forum.php?forum_id=690912"
+  },
+  {
+    "CVE": "CVE-2007-2430",
     "PoC": "https://www.exploit-db.com/exploits/3816"
+  },
+  {
+    "CVE": "CVE-2007-2431",
+    "PoC": "http://sourceforge.net/forum/forum.php?forum_id=690912"
   },
   {
     "CVE": "CVE-2007-2431",
@@ -40114,6 +40122,10 @@
   {
     "CVE": "CVE-2007-4630",
     "PoC": "http://securityreason.com/securityalert/3080"
+  },
+  {
+    "CVE": "CVE-2007-4631",
+    "PoC": "http://sourceforge.net/project/shownotes.php?release_id=538002&group_id=139897"
   },
   {
     "CVE": "CVE-2007-4636",
@@ -166368,6 +166380,10 @@
     "PoC": "http://www.exploit-db.com/exploits/36335"
   },
   {
+    "CVE": "CVE-2015-2790",
+    "PoC": "http://www.foxitsoftware.com/support/security_bulletins.php#FRD-23"
+  },
+  {
     "CVE": "CVE-2015-2791",
     "PoC": "http://klikki.fi/adv/wpml.html"
   },
@@ -168254,6 +168270,10 @@
   {
     "CVE": "CVE-2015-3632",
     "PoC": "http://packetstormsecurity.com/files/131685/Foxit-Reader-7.1.3.320-Memory-Corruption.html"
+  },
+  {
+    "CVE": "CVE-2015-3632",
+    "PoC": "http://www.foxitsoftware.com/support/security_bulletins.php#FRD-27"
   },
   {
     "CVE": "CVE-2015-3632",
@@ -354388,6 +354408,10 @@
     "PoC": "http://seclists.org/fulldisclosure/2022/May/42"
   },
   {
+    "CVE": "CVE-2021-21473",
+    "PoC": "https://wiki.scn.sap.com/wiki/pages/viewpage.action?pageId=578125999"
+  },
+  {
     "CVE": "CVE-2021-21480",
     "PoC": "http://packetstormsecurity.com/files/163164/SAP-XMII-Remote-Code-Execution.html"
   },
@@ -354402,6 +354426,10 @@
   {
     "CVE": "CVE-2021-2149",
     "PoC": "https://www.oracle.com/security-alerts/cpuapr2021.html"
+  },
+  {
+    "CVE": "CVE-2021-21490",
+    "PoC": "https://wiki.scn.sap.com/wiki/pages/viewpage.action?pageId=578125999"
   },
   {
     "CVE": "CVE-2021-21495",
@@ -367224,58 +367252,130 @@
     "PoC": "https://launchpad.support.sap.com/#/notes/3020209"
   },
   {
+    "CVE": "CVE-2021-27597",
+    "PoC": "https://wiki.scn.sap.com/wiki/pages/viewpage.action?pageId=578125999"
+  },
+  {
     "CVE": "CVE-2021-27606",
     "PoC": "http://packetstormsecurity.com/files/164595/SAP-NetWeaver-ABAP-Enqueue-Memory-Corruption.html"
+  },
+  {
+    "CVE": "CVE-2021-27606",
+    "PoC": "https://wiki.scn.sap.com/wiki/pages/viewpage.action?pageId=578125999"
   },
   {
     "CVE": "CVE-2021-27607",
     "PoC": "http://packetstormsecurity.com/files/164591/SAP-NetWeaver-ABAP-Dispatcher-Service-Memory-Corruption.html"
   },
   {
+    "CVE": "CVE-2021-27607",
+    "PoC": "https://wiki.scn.sap.com/wiki/pages/viewpage.action?pageId=578125999"
+  },
+  {
+    "CVE": "CVE-2021-27610",
+    "PoC": "https://wiki.scn.sap.com/wiki/pages/viewpage.action?pageId=578125999"
+  },
+  {
+    "CVE": "CVE-2021-27615",
+    "PoC": "https://wiki.scn.sap.com/wiki/pages/viewpage.action?pageId=578125999"
+  },
+  {
     "CVE": "CVE-2021-27620",
     "PoC": "http://packetstormsecurity.com/files/164598/SAP-NetWeaver-ABAP-IGS-Memory-Corruption.html"
+  },
+  {
+    "CVE": "CVE-2021-27620",
+    "PoC": "https://wiki.scn.sap.com/wiki/pages/viewpage.action?pageId=578125999"
+  },
+  {
+    "CVE": "CVE-2021-27621",
+    "PoC": "https://wiki.scn.sap.com/wiki/pages/viewpage.action?pageId=578125999"
   },
   {
     "CVE": "CVE-2021-27622",
     "PoC": "http://packetstormsecurity.com/files/164598/SAP-NetWeaver-ABAP-IGS-Memory-Corruption.html"
   },
   {
+    "CVE": "CVE-2021-27622",
+    "PoC": "https://wiki.scn.sap.com/wiki/pages/viewpage.action?pageId=578125999"
+  },
+  {
+    "CVE": "CVE-2021-27623",
+    "PoC": "https://wiki.scn.sap.com/wiki/pages/viewpage.action?pageId=578125999"
+  },
+  {
     "CVE": "CVE-2021-27624",
     "PoC": "http://packetstormsecurity.com/files/164598/SAP-NetWeaver-ABAP-IGS-Memory-Corruption.html"
+  },
+  {
+    "CVE": "CVE-2021-27624",
+    "PoC": "https://wiki.scn.sap.com/wiki/pages/viewpage.action?pageId=578125999"
   },
   {
     "CVE": "CVE-2021-27625",
     "PoC": "http://packetstormsecurity.com/files/164598/SAP-NetWeaver-ABAP-IGS-Memory-Corruption.html"
   },
   {
+    "CVE": "CVE-2021-27625",
+    "PoC": "https://wiki.scn.sap.com/wiki/pages/viewpage.action?pageId=578125999"
+  },
+  {
     "CVE": "CVE-2021-27626",
     "PoC": "http://packetstormsecurity.com/files/164598/SAP-NetWeaver-ABAP-IGS-Memory-Corruption.html"
+  },
+  {
+    "CVE": "CVE-2021-27626",
+    "PoC": "https://wiki.scn.sap.com/wiki/pages/viewpage.action?pageId=578125999"
   },
   {
     "CVE": "CVE-2021-27627",
     "PoC": "http://packetstormsecurity.com/files/164598/SAP-NetWeaver-ABAP-IGS-Memory-Corruption.html"
   },
   {
+    "CVE": "CVE-2021-27627",
+    "PoC": "https://wiki.scn.sap.com/wiki/pages/viewpage.action?pageId=578125999"
+  },
+  {
     "CVE": "CVE-2021-27628",
     "PoC": "http://packetstormsecurity.com/files/164591/SAP-NetWeaver-ABAP-Dispatcher-Service-Memory-Corruption.html"
+  },
+  {
+    "CVE": "CVE-2021-27628",
+    "PoC": "https://wiki.scn.sap.com/wiki/pages/viewpage.action?pageId=578125999"
   },
   {
     "CVE": "CVE-2021-27629",
     "PoC": "http://packetstormsecurity.com/files/164595/SAP-NetWeaver-ABAP-Enqueue-Memory-Corruption.html"
   },
   {
+    "CVE": "CVE-2021-27629",
+    "PoC": "https://wiki.scn.sap.com/wiki/pages/viewpage.action?pageId=578125999"
+  },
+  {
     "CVE": "CVE-2021-27630",
     "PoC": "http://packetstormsecurity.com/files/164595/SAP-NetWeaver-ABAP-Enqueue-Memory-Corruption.html"
+  },
+  {
+    "CVE": "CVE-2021-27630",
+    "PoC": "https://wiki.scn.sap.com/wiki/pages/viewpage.action?pageId=578125999"
   },
   {
     "CVE": "CVE-2021-27631",
     "PoC": "http://packetstormsecurity.com/files/164595/SAP-NetWeaver-ABAP-Enqueue-Memory-Corruption.html"
   },
   {
+    "CVE": "CVE-2021-27631",
+    "PoC": "https://wiki.scn.sap.com/wiki/pages/viewpage.action?pageId=578125999"
+  },
+  {
     "CVE": "CVE-2021-27632",
     "PoC": "http://packetstormsecurity.com/files/164595/SAP-NetWeaver-ABAP-Enqueue-Memory-Corruption.html"
   },
   {
+    "CVE": "CVE-2021-27632",
+    "PoC": "https://wiki.scn.sap.com/wiki/pages/viewpage.action?pageId=578125999"
+  },
+  {
     "CVE": "CVE-2021-27633",
     "PoC": "http://packetstormsecurity.com/files/164596/SAP-NetWeaver-ABAP-Gateway-Memory-Corruption.html"
   },
@@ -367284,16 +367384,56 @@
     "PoC": "https://launchpad.support.sap.com/#/notes/3020209"
   },
   {
+    "CVE": "CVE-2021-27633",
+    "PoC": "https://wiki.scn.sap.com/wiki/pages/viewpage.action?pageId=578125999"
+  },
+  {
     "CVE": "CVE-2021-27634",
     "PoC": "http://packetstormsecurity.com/files/164596/SAP-NetWeaver-ABAP-Gateway-Memory-Corruption.html"
   },
   {
     "CVE": "CVE-2021-27634",
     "PoC": "https://launchpad.support.sap.com/#/notes/3020209"
+  },
+  {
+    "CVE": "CVE-2021-27634",
+    "PoC": "https://wiki.scn.sap.com/wiki/pages/viewpage.action?pageId=578125999"
   },
   {
     "CVE": "CVE-2021-27635",
     "PoC": "http://packetstormsecurity.com/files/164592/SAP-JAVA-NetWeaver-System-Connections-XML-Injection.html"
+  },
+  {
+    "CVE": "CVE-2021-27635",
+    "PoC": "https://wiki.scn.sap.com/wiki/pages/viewpage.action?pageId=578125999"
+  },
+  {
+    "CVE": "CVE-2021-27637",
+    "PoC": "https://wiki.scn.sap.com/wiki/pages/viewpage.action?pageId=578125999"
+  },
+  {
+    "CVE": "CVE-2021-27638",
+    "PoC": "https://wiki.scn.sap.com/wiki/pages/viewpage.action?pageId=578125999"
+  },
+  {
+    "CVE": "CVE-2021-27639",
+    "PoC": "https://wiki.scn.sap.com/wiki/pages/viewpage.action?pageId=578125999"
+  },
+  {
+    "CVE": "CVE-2021-27640",
+    "PoC": "https://wiki.scn.sap.com/wiki/pages/viewpage.action?pageId=578125999"
+  },
+  {
+    "CVE": "CVE-2021-27641",
+    "PoC": "https://wiki.scn.sap.com/wiki/pages/viewpage.action?pageId=578125999"
+  },
+  {
+    "CVE": "CVE-2021-27642",
+    "PoC": "https://wiki.scn.sap.com/wiki/pages/viewpage.action?pageId=578125999"
+  },
+  {
+    "CVE": "CVE-2021-27643",
+    "PoC": "https://wiki.scn.sap.com/wiki/pages/viewpage.action?pageId=578125999"
   },
   {
     "CVE": "CVE-2021-27656",
@@ -374346,6 +374486,38 @@
   {
     "CVE": "CVE-2021-33655",
     "PoC": "https://git.kernel.org/pub/scm/linux/kernel/git/torvalds/linux.git/commit/?id=086ff84617185393a0bbf25830c4f36412a7d3f4"
+  },
+  {
+    "CVE": "CVE-2021-33659",
+    "PoC": "https://wiki.scn.sap.com/wiki/pages/viewpage.action?pageId=578125999"
+  },
+  {
+    "CVE": "CVE-2021-33660",
+    "PoC": "https://wiki.scn.sap.com/wiki/pages/viewpage.action?pageId=578125999"
+  },
+  {
+    "CVE": "CVE-2021-33661",
+    "PoC": "https://wiki.scn.sap.com/wiki/pages/viewpage.action?pageId=578125999"
+  },
+  {
+    "CVE": "CVE-2021-33662",
+    "PoC": "https://wiki.scn.sap.com/wiki/pages/viewpage.action?pageId=578125999"
+  },
+  {
+    "CVE": "CVE-2021-33663",
+    "PoC": "https://wiki.scn.sap.com/wiki/pages/viewpage.action?pageId=578125999"
+  },
+  {
+    "CVE": "CVE-2021-33664",
+    "PoC": "https://wiki.scn.sap.com/wiki/pages/viewpage.action?pageId=578125999"
+  },
+  {
+    "CVE": "CVE-2021-33665",
+    "PoC": "https://wiki.scn.sap.com/wiki/pages/viewpage.action?pageId=578125999"
+  },
+  {
+    "CVE": "CVE-2021-33666",
+    "PoC": "https://wiki.scn.sap.com/wiki/pages/viewpage.action?pageId=578125999"
   },
   {
     "CVE": "CVE-2021-33670",
@@ -463248,6 +463420,10 @@
     "PoC": "https://github.com/brendan-duncan/archive/issues/266"
   },
   {
+    "CVE": "CVE-2023-39137",
+    "PoC": "https://ostorlab.co/vulndb/advisory/OVE-2023-3"
+  },
+  {
     "CVE": "CVE-2023-39138",
     "PoC": "https://blog.ostorlab.co/zip-packages-exploitation.html"
   },
@@ -481146,6 +481322,10 @@
   {
     "CVE": "CVE-2024-10009",
     "PoC": "https://wpscan.com/vulnerability/c2b1f9f4-d5f3-4975-afd1-50eaf193e2ab/"
+  },
+  {
+    "CVE": "CVE-2024-1001",
+    "PoC": "https://vuldb.com/?ctiid.252270"
   },
   {
     "CVE": "CVE-2024-1001",
@@ -554060,6 +554240,10 @@
     "PoC": "https://github.com/jhs1121/cve/issues/1"
   },
   {
+    "CVE": "CVE-2025-45480",
+    "PoC": "https://github.com/floodlight/floodlight/issues/873"
+  },
+  {
     "CVE": "CVE-2025-4549",
     "PoC": "https://github.com/jhs1121/cve/issues/3"
   },
@@ -558922,6 +559106,22 @@
   {
     "CVE": "CVE-2025-52586",
     "PoC": "https://eg4electronics.com/contact/"
+  },
+  {
+    "CVE": "CVE-2025-52598",
+    "PoC": "https://www.hanwhavision.com/wp-content/uploads/2025/12/Camera-Vulnerability-ReportCVE-2025-5259852601-8075.pdf"
+  },
+  {
+    "CVE": "CVE-2025-52599",
+    "PoC": "https://www.hanwhavision.com/wp-content/uploads/2025/12/Camera-Vulnerability-ReportCVE-2025-5259852601-8075.pdf"
+  },
+  {
+    "CVE": "CVE-2025-52600",
+    "PoC": "https://www.hanwhavision.com/wp-content/uploads/2025/12/Camera-Vulnerability-ReportCVE-2025-5259852601-8075.pdf"
+  },
+  {
+    "CVE": "CVE-2025-52601",
+    "PoC": "https://www.hanwhavision.com/wp-content/uploads/2025/12/Camera-Vulnerability-ReportCVE-2025-5259852601-8075.pdf"
   },
   {
     "CVE": "CVE-2025-5264",
@@ -576504,6 +576704,10 @@
     "PoC": "http://www.openwall.com/lists/oss-security/2025/08/28/1"
   },
   {
+    "CVE": "CVE-2025-8075",
+    "PoC": "https://www.hanwhavision.com/wp-content/uploads/2025/12/Camera-Vulnerability-ReportCVE-2025-5259852601-8075.pdf"
+  },
+  {
     "CVE": "CVE-2025-8082",
     "PoC": "https://www.herodevs.com/vulnerability-directory/cve-2025-8082"
   },
@@ -583280,6 +583484,10 @@
     "PoC": "https://github.com/ModelTC/LightLLM/issues/1597"
   },
   {
+    "CVE": "CVE-2026-103041",
+    "PoC": "https://github.com/ModelTC/LightLLM/issues/1596"
+  },
+  {
     "CVE": "CVE-2026-103042",
     "PoC": "https://github.com/ModelTC/LightLLM/issues/1595"
   },
@@ -583348,6 +583556,14 @@
     "PoC": "https://github.com/Blosc/c-blosc2/commit/fe2964d114d97847f56570a0ab2be2c57ccbeedc"
   },
   {
+    "CVE": "CVE-2026-103227",
+    "PoC": "https://github.com/gpac/gpac/issues/3876"
+  },
+  {
+    "CVE": "CVE-2026-103227",
+    "PoC": "https://github.com/gpac/gpac/pull/3879"
+  },
+  {
     "CVE": "CVE-2026-103241",
     "PoC": "https://gist.github.com/Yunzez/8e98d656aa667095b513161eb056d28e"
   },
@@ -583366,6 +583582,10 @@
   {
     "CVE": "CVE-2026-103263",
     "PoC": "https://github.com/tornadoweb/tornado/security/advisories/GHSA-c2m8-h5v5-343r"
+  },
+  {
+    "CVE": "CVE-2026-103270",
+    "PoC": "https://github.com/ModelTC/LightLLM/issues/1609"
   },
   {
     "CVE": "CVE-2026-103293",
@@ -583488,6 +583708,10 @@
     "PoC": "https://github.com/Budibase/budibase/security/advisories/GHSA-3c52-v5v2-3r56"
   },
   {
+    "CVE": "CVE-2026-103760",
+    "PoC": "https://github.com/kvcache-ai/Mooncake/issues/4443"
+  },
+  {
     "CVE": "CVE-2026-103761",
     "PoC": "https://github.com/kvcache-ai/Mooncake/issues/4445"
   },
@@ -583510,6 +583734,14 @@
   {
     "CVE": "CVE-2026-103766",
     "PoC": "https://hackmd.io/@leediay/sqli-via-delete-ads-clipbucketv5"
+  },
+  {
+    "CVE": "CVE-2026-104118",
+    "PoC": "https://wpscan.com/vulnerability/d94ebc87-c404-4b30-8291-26c4bc2eb63b/"
+  },
+  {
+    "CVE": "CVE-2026-104119",
+    "PoC": "https://wpscan.com/vulnerability/d6ee7720-9c2d-48b3-b238-0da4fed398a3/"
   },
   {
     "CVE": "CVE-2026-1046",
@@ -591516,6 +591748,10 @@
     "PoC": "https://github.com/LX-LX88/cve/issues/26"
   },
   {
+    "CVE": "CVE-2026-16389",
+    "PoC": "https://bugzilla.mozilla.org/show_bug.cgi?id=2043887"
+  },
+  {
     "CVE": "CVE-2026-16394",
     "PoC": "https://bugzilla.mozilla.org/show_bug.cgi?id=2046748"
   },
@@ -592206,6 +592442,10 @@
   {
     "CVE": "CVE-2026-17004",
     "PoC": "https://www.ibm.com/support/pages/node/7283578"
+  },
+  {
+    "CVE": "CVE-2026-17005",
+    "PoC": "https://wpscan.com/vulnerability/e3973475-18c4-46a0-b0ca-24e4d2cd58ca/"
   },
   {
     "CVE": "CVE-2026-17008",
@@ -623912,6 +624152,10 @@
     "PoC": "https://github.com/Cap-go/capgo/security/advisories/GHSA-hwc7-j2p6-43xp"
   },
   {
+    "CVE": "CVE-2026-56226",
+    "PoC": "https://github.com/Cap-go/capgo/security/advisories/GHSA-m7mm-35v3-82f4"
+  },
+  {
     "CVE": "CVE-2026-56227",
     "PoC": "https://github.com/Cap-go/capgo/security/advisories/GHSA-48hc-53hv-6x3f"
   },
@@ -623970,6 +624214,10 @@
   {
     "CVE": "CVE-2026-56244",
     "PoC": "https://github.com/Cap-go/capgo/security/advisories/GHSA-qrrx-x3qf-x87v"
+  },
+  {
+    "CVE": "CVE-2026-56245",
+    "PoC": "https://github.com/Cap-go/capgo/security/advisories/GHSA-42f8-v563-5763"
   },
   {
     "CVE": "CVE-2026-56247",
@@ -624104,6 +624352,10 @@
     "PoC": "https://github.com/Cap-go/capgo/security/advisories/GHSA-7r6g-whg3-5mm4"
   },
   {
+    "CVE": "CVE-2026-56302",
+    "PoC": "https://github.com/Cap-go/capgo/security/advisories/GHSA-8hq3-gg3m-vwvr"
+  },
+  {
     "CVE": "CVE-2026-56303",
     "PoC": "https://github.com/Cap-go/capgo/security/advisories/GHSA-2xjq-h43m-592f"
   },
@@ -624118,6 +624370,10 @@
   {
     "CVE": "CVE-2026-56307",
     "PoC": "https://github.com/Cap-go/capgo/security/advisories/GHSA-8p6w-x7jg-v4xq"
+  },
+  {
+    "CVE": "CVE-2026-56309",
+    "PoC": "https://github.com/Cap-go/capgo/security/advisories/GHSA-q52j-ggvx-cr4v"
   },
   {
     "CVE": "CVE-2026-5631",
@@ -624176,6 +624432,10 @@
     "PoC": "https://github.com/Cap-go/capgo/security/advisories/GHSA-469v-6vw5-hxpq"
   },
   {
+    "CVE": "CVE-2026-56325",
+    "PoC": "https://github.com/Cap-go/capgo/security/advisories/GHSA-cw88-ch2j-8vqj"
+  },
+  {
     "CVE": "CVE-2026-56327",
     "PoC": "https://github.com/Cap-go/capgo/security/advisories/GHSA-35q8-ghfg-vp6m"
   },
@@ -624188,8 +624448,16 @@
     "PoC": "https://github.com/Cap-go/capgo/security/advisories/GHSA-76qq-gg2p-pwwj"
   },
   {
+    "CVE": "CVE-2026-56330",
+    "PoC": "https://github.com/Cap-go/capgo/security/advisories/GHSA-grc7-98pf-h8hq"
+  },
+  {
     "CVE": "CVE-2026-56331",
     "PoC": "https://github.com/Cap-go/capgo/security/advisories/GHSA-34p8-fh3m-376x"
+  },
+  {
+    "CVE": "CVE-2026-56333",
+    "PoC": "https://github.com/Cap-go/capgo/security/advisories/GHSA-964v-j58v-2q3h"
   },
   {
     "CVE": "CVE-2026-56334",
@@ -624266,6 +624534,10 @@
   {
     "CVE": "CVE-2026-5638",
     "PoC": "https://github.com/HerikLyma/CPPWebFramework/issues/40#issue-4118436068"
+  },
+  {
+    "CVE": "CVE-2026-56380",
+    "PoC": "https://github.com/WWBN/AVideo/security/advisories/GHSA-w44x-v4c8-86f6"
   },
   {
     "CVE": "CVE-2026-56381",
@@ -624392,12 +624664,20 @@
     "PoC": "https://github.com/ahmadmarz10-hub/CVEsMarz/blob/main/SQL%20Injection%20in%20Online%20FIR%20System%20PHP%20email%20Parameter.md"
   },
   {
+    "CVE": "CVE-2026-56654",
+    "PoC": "https://github.com/go-gitea/gitea/security/advisories/GHSA-683j-3ff6-hh2x"
+  },
+  {
     "CVE": "CVE-2026-56657",
     "PoC": "https://github.com/go-gitea/gitea/security/advisories/GHSA-4xjf-493q-98p3"
   },
   {
     "CVE": "CVE-2026-5666",
     "PoC": "https://github.com/ahmadmarz10-hub/CVEsMarz/blob/main/Sensitive%20Information%20Disclosure%20in%20Online%20FIR%20System%20PHP%20Exposed%20Database%20Backup.md"
+  },
+  {
+    "CVE": "CVE-2026-56662",
+    "PoC": "https://github.com/GetSimpleCMS-CE/GetSimpleCMS-CE/security/advisories/GHSA-2rxv-4g4m-573w"
   },
   {
     "CVE": "CVE-2026-56669",
@@ -624416,8 +624696,16 @@
     "PoC": "https://github.com/decolua/9router/security/advisories/GHSA-cmhj-wh2f-9cgx"
   },
   {
+    "CVE": "CVE-2026-56677",
+    "PoC": "https://github.com/decolua/9router/security/advisories/GHSA-8g4w-4ffg-8vgx"
+  },
+  {
     "CVE": "CVE-2026-56678",
     "PoC": "https://github.com/decolua/9router/security/advisories/GHSA-6mwv-4mrm-5p3m"
+  },
+  {
+    "CVE": "CVE-2026-56679",
+    "PoC": "https://github.com/decolua/9router/security/advisories/GHSA-vmjq-hvgq-2wv4"
   },
   {
     "CVE": "CVE-2026-5668",
@@ -624460,6 +624748,14 @@
     "PoC": "https://github.com/vrana/adminer/security/advisories/GHSA-r4x9-5m63-3vxw"
   },
   {
+    "CVE": "CVE-2026-56706",
+    "PoC": "https://github.com/vrana/adminer/security/advisories/GHSA-33j4-hc95-pggg"
+  },
+  {
+    "CVE": "CVE-2026-56709",
+    "PoC": "https://github.com/getgrav/grav/security/advisories/GHSA-69vf-mjxw-x79j"
+  },
+  {
     "CVE": "CVE-2026-5671",
     "PoC": "https://github.com/Cyber-III/Student-Management-System/issues/242"
   },
@@ -624478,6 +624774,14 @@
   {
     "CVE": "CVE-2026-5673",
     "PoC": "https://github.com/xiph/theora/issues/24"
+  },
+  {
+    "CVE": "CVE-2026-56736",
+    "PoC": "https://github.com/thorsten/phpMyFAQ/security/advisories/GHSA-pgwp-vc7q-cvj3"
+  },
+  {
+    "CVE": "CVE-2026-56737",
+    "PoC": "https://github.com/thorsten/phpMyFAQ/security/advisories/GHSA-8gpw-xvpf-hvx5"
   },
   {
     "CVE": "CVE-2026-56738",
@@ -624514,6 +624818,10 @@
   {
     "CVE": "CVE-2026-5677",
     "PoC": "https://github.com/Litengzheng/vuldb_new/blob/main/A7100RU/vul_184/README.md"
+  },
+  {
+    "CVE": "CVE-2026-56770",
+    "PoC": "https://github.com/schwehr/libais/issues/263"
   },
   {
     "CVE": "CVE-2026-56779",
@@ -624588,6 +624896,10 @@
     "PoC": "https://cna.erlef.org/cves/CVE-2026-56810.html"
   },
   {
+    "CVE": "CVE-2026-56810",
+    "PoC": "https://github.com/elixir-mint/mint/security/advisories/GHSA-c59h-fq4p-r36r"
+  },
+  {
     "CVE": "CVE-2026-56811",
     "PoC": "https://cna.erlef.org/cves/CVE-2026-56811.html"
   },
@@ -624640,8 +624952,16 @@
     "PoC": "https://github.com/Significant-Gravitas/AutoGPT/security/advisories/GHSA-rq9m-xvc7-v9h6"
   },
   {
+    "CVE": "CVE-2026-56825",
+    "PoC": "https://github.com/shopperlabs/shopper/security/advisories/GHSA-2cg9-97gq-9mqp"
+  },
+  {
     "CVE": "CVE-2026-56827",
     "PoC": "https://github.com/shopperlabs/shopper/security/advisories/GHSA-243p-f3cv-c5wh"
+  },
+  {
+    "CVE": "CVE-2026-56829",
+    "PoC": "https://github.com/shopperlabs/shopper/security/advisories/GHSA-g3f9-g5vj-p62f"
   },
   {
     "CVE": "CVE-2026-5683",
@@ -634510,6 +634830,10 @@
   {
     "CVE": "CVE-2026-70637",
     "PoC": "https://github.com/hfiref0x/LightFTP/issues/75"
+  },
+  {
+    "CVE": "CVE-2026-7064",
+    "PoC": "https://github.com/AgentDeskAI/browser-tools-mcp/issues/224"
   },
   {
     "CVE": "CVE-2026-7064",
@@ -646972,6 +647296,10 @@
     "PoC": "https://wpscan.com/vulnerability/fa66c458-f14f-47bc-87e6-b603200ef8e9/"
   },
   {
+    "CVE": "CVE-2026-86817",
+    "PoC": "https://wpscan.com/vulnerability/2a400958-7ed8-4358-a46a-2b8e0716a771/"
+  },
+  {
     "CVE": "CVE-2026-86823",
     "PoC": "https://wpscan.com/vulnerability/2db98679-24ca-494e-a8fd-f6417a0f1ea8/"
   },
@@ -647866,6 +648194,10 @@
   {
     "CVE": "CVE-2026-87534",
     "PoC": "https://issues.chromium.org/issues/513134173"
+  },
+  {
+    "CVE": "CVE-2026-87536",
+    "PoC": "https://issues.chromium.org/issues/554421904"
   },
   {
     "CVE": "CVE-2026-87540",
@@ -649948,12 +650280,24 @@
     "PoC": "https://mattermost.com/security-updates"
   },
   {
+    "CVE": "CVE-2026-91722",
+    "PoC": "https://issues.chromium.org/issues/554953456"
+  },
+  {
+    "CVE": "CVE-2026-91724",
+    "PoC": "https://issues.chromium.org/issues/552283275"
+  },
+  {
     "CVE": "CVE-2026-91731",
     "PoC": "https://issues.chromium.org/issues/523554372"
   },
   {
     "CVE": "CVE-2026-91732",
     "PoC": "https://issues.chromium.org/issues/511062248"
+  },
+  {
+    "CVE": "CVE-2026-91734",
+    "PoC": "https://issues.chromium.org/issues/516780835"
   },
   {
     "CVE": "CVE-2026-91735",
@@ -650616,6 +650960,10 @@
     "PoC": "https://gist.github.com/YLChen-007/e90fb38ac03284176bae49898a3a46a4"
   },
   {
+    "CVE": "CVE-2026-93549",
+    "PoC": "https://wpscan.com/vulnerability/77f413f6-8753-4c83-8623-00ad7a1dcaff/"
+  },
+  {
     "CVE": "CVE-2026-9355",
     "PoC": "https://github.com/yan-124/yan/issues/3"
   },
@@ -651264,6 +651612,10 @@
     "PoC": "https://issues.chromium.org/issues/543471693"
   },
   {
+    "CVE": "CVE-2026-95293",
+    "PoC": "https://issues.chromium.org/issues/550953039"
+  },
+  {
     "CVE": "CVE-2026-95295",
     "PoC": "https://issues.chromium.org/issues/517596255"
   },
@@ -651870,6 +652222,10 @@
   {
     "CVE": "CVE-2026-97319",
     "PoC": "https://wpscan.com/vulnerability/6ea7d2b5-8406-4efe-9b61-465af40d9a32/"
+  },
+  {
+    "CVE": "CVE-2026-97332",
+    "PoC": "https://wpscan.com/vulnerability/d6a144b3-84e3-43eb-92d3-fd4505dd0e1c/"
   },
   {
     "CVE": "CVE-2026-97368",
