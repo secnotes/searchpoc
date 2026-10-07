@@ -159417,11 +159417,23 @@
   },
   {
     "CVE": "CVE-2015-0197",
+    "PoC": "http://www-01.ibm.com/support/docview.wss?uid=isg3T1022062"
+  },
+  {
+    "CVE": "CVE-2015-0197",
     "PoC": "http://www-304.ibm.com/support/docview.wss?uid=swg21902662"
   },
   {
     "CVE": "CVE-2015-0198",
+    "PoC": "http://www-01.ibm.com/support/docview.wss?uid=isg3T1022062"
+  },
+  {
+    "CVE": "CVE-2015-0198",
     "PoC": "http://www-304.ibm.com/support/docview.wss?uid=swg21902662"
+  },
+  {
+    "CVE": "CVE-2015-0199",
+    "PoC": "http://www-01.ibm.com/support/docview.wss?uid=isg3T1022062"
   },
   {
     "CVE": "CVE-2015-0199",
@@ -188448,6 +188460,10 @@
     "PoC": "http://www.talosintelligence.com/reports/TALOS-2016-0083/"
   },
   {
+    "CVE": "CVE-2016-1549",
+    "PoC": "https://support.hpe.com/hpsc/doc/public/display?docLocale=en_US&docId=emr_na-hpesbux03962en_us"
+  },
+  {
     "CVE": "CVE-2016-1550",
     "PoC": "http://packetstormsecurity.com/files/136864/Slackware-Security-Advisory-ntp-Updates.html"
   },
@@ -203998,6 +204014,10 @@
   {
     "CVE": "CVE-2016-9042",
     "PoC": "https://kc.mcafee.com/corporate/index?page=content&id=SB10201"
+  },
+  {
+    "CVE": "CVE-2016-9042",
+    "PoC": "https://support.hpe.com/hpsc/doc/public/display?docLocale=en_US&docId=emr_na-hpesbux03962en_us"
   },
   {
     "CVE": "CVE-2016-9044",
@@ -230040,12 +230060,36 @@
     "PoC": "https://www.exploit-db.com/exploits/41601/"
   },
   {
+    "CVE": "CVE-2017-6451",
+    "PoC": "https://support.hpe.com/hpsc/doc/public/display?docLocale=en_US&docId=emr_na-hpesbux03962en_us"
+  },
+  {
     "CVE": "CVE-2017-6458",
     "PoC": "http://packetstormsecurity.com/files/142284/Slackware-Security-Advisory-ntp-Updates.html"
   },
   {
     "CVE": "CVE-2017-6458",
     "PoC": "http://www.ubuntu.com/usn/USN-3349-1"
+  },
+  {
+    "CVE": "CVE-2017-6458",
+    "PoC": "https://support.hpe.com/hpsc/doc/public/display?docLocale=en_US&docId=emr_na-hpesbux03962en_us"
+  },
+  {
+    "CVE": "CVE-2017-6460",
+    "PoC": "https://support.hpe.com/hpsc/doc/public/display?docLocale=en_US&docId=emr_na-hpesbux03962en_us"
+  },
+  {
+    "CVE": "CVE-2017-6462",
+    "PoC": "https://support.hpe.com/hpsc/doc/public/display?docLocale=en_US&docId=emr_na-hpesbux03962en_us"
+  },
+  {
+    "CVE": "CVE-2017-6463",
+    "PoC": "https://support.hpe.com/hpsc/doc/public/display?docLocale=en_US&docId=emr_na-hpesbux03962en_us"
+  },
+  {
+    "CVE": "CVE-2017-6464",
+    "PoC": "https://support.hpe.com/hpsc/doc/public/display?docLocale=en_US&docId=emr_na-hpesbux03962en_us"
   },
   {
     "CVE": "CVE-2017-6465",
@@ -243070,6 +243114,10 @@
   {
     "CVE": "CVE-2018-12326",
     "PoC": "https://www.exploit-db.com/exploits/44904/"
+  },
+  {
+    "CVE": "CVE-2018-12327",
+    "PoC": "https://support.hpe.com/hpsc/doc/public/display?docLocale=en_US&docId=emr_na-hpesbux03962en_us"
   },
   {
     "CVE": "CVE-2018-12327",
@@ -270968,6 +271016,10 @@
     "PoC": "http://packetstormsecurity.com/files/146631/Slackware-Security-Advisory-ntp-Updates.html"
   },
   {
+    "CVE": "CVE-2018-7170",
+    "PoC": "https://support.hpe.com/hpsc/doc/public/display?docLocale=en_US&docId=emr_na-hpesbux03962en_us"
+  },
+  {
     "CVE": "CVE-2018-7171",
     "PoC": "http://packetstormsecurity.com/files/146938/TwonkyMedia-Server-7.0.11-8.5-Directory-Traversal.html"
   },
@@ -271009,7 +271061,15 @@
   },
   {
     "CVE": "CVE-2018-7182",
+    "PoC": "https://support.hpe.com/hpsc/doc/public/display?docLocale=en_US&docId=emr_na-hpesbux03962en_us"
+  },
+  {
+    "CVE": "CVE-2018-7182",
     "PoC": "https://www.exploit-db.com/exploits/45846/"
+  },
+  {
+    "CVE": "CVE-2018-7183",
+    "PoC": "https://support.hpe.com/hpsc/doc/public/display?docLocale=en_US&docId=emr_na-hpesbux03962en_us"
   },
   {
     "CVE": "CVE-2018-7183",
@@ -271020,8 +271080,16 @@
     "PoC": "http://packetstormsecurity.com/files/146631/Slackware-Security-Advisory-ntp-Updates.html"
   },
   {
+    "CVE": "CVE-2018-7184",
+    "PoC": "https://support.hpe.com/hpsc/doc/public/display?docLocale=en_US&docId=emr_na-hpesbux03962en_us"
+  },
+  {
     "CVE": "CVE-2018-7185",
     "PoC": "http://packetstormsecurity.com/files/146631/Slackware-Security-Advisory-ntp-Updates.html"
+  },
+  {
+    "CVE": "CVE-2018-7185",
+    "PoC": "https://support.hpe.com/hpsc/doc/public/display?docLocale=en_US&docId=emr_na-hpesbux03962en_us"
   },
   {
     "CVE": "CVE-2018-7185",
@@ -296892,6 +296960,10 @@
     "PoC": "https://kb.netgear.com/000061202/Security-Advisory-for-Post-Authentication-Command-on-Some-Routers-and-Gateways-PSV-2018-0141"
   },
   {
+    "CVE": "CVE-2019-20729",
+    "PoC": "https://kb.netgear.com/000061198/Security-Advisory-for-Security-Misconfiguration-on-Some-Routers-PSV-2017-3120"
+  },
+  {
     "CVE": "CVE-2019-20731",
     "PoC": "https://kb.netgear.com/000061196/Security-Advisory-for-Post-Authentication-Buffer-Overflow-on-Some-Routers-Gateways-and-Extenders-PSV-2017-2254"
   },
@@ -309294,6 +309366,10 @@
   {
     "CVE": "CVE-2019-8936",
     "PoC": "http://packetstormsecurity.com/files/152915/FreeBSD-Security-Advisory-FreeBSD-SA-19-04.ntp.html"
+  },
+  {
+    "CVE": "CVE-2019-8936",
+    "PoC": "https://support.hpe.com/hpsc/doc/public/display?docLocale=en_US&docId=emr_na-hpesbux03962en_us"
   },
   {
     "CVE": "CVE-2019-8937",
@@ -323118,6 +323194,10 @@
   {
     "CVE": "CVE-2020-15473",
     "PoC": "https://github.com/fuzzing2026/CVE-PoCs/tree/main/ndpi-CVE-2020-15473"
+  },
+  {
+    "CVE": "CVE-2020-15478",
+    "PoC": "https://www.getastra.com/blog/911/plugin-exploit/sql-errors-data-exposure-in-journal-opencart-theme/"
   },
   {
     "CVE": "CVE-2020-15487",
@@ -583860,6 +583940,10 @@
     "PoC": "https://wpscan.com/vulnerability/ebc956c2-42f4-495f-a37e-f83ed156af08/"
   },
   {
+    "CVE": "CVE-2026-105326",
+    "PoC": "https://access.redhat.com/security/cve/CVE-2026-105326"
+  },
+  {
     "CVE": "CVE-2026-10544",
     "PoC": "https://devolutions.net/security/advisories/DEVO-2026-0015/"
   },
@@ -609432,6 +609516,10 @@
     "PoC": "https://cybermapgroup.com/en/blog/admin-brute-force-protection-bypass-chain-in-ph7builder"
   },
   {
+    "CVE": "CVE-2026-37604",
+    "PoC": "https://cybermapgroup.com/en/blog/admin-brute-force-protection-bypass-chain-in-ph7builder#112-step-by-step-verification"
+  },
+  {
     "CVE": "CVE-2026-3761",
     "PoC": "https://gist.github.com/Adarshh-A/dd8884d768d9dde9072fe5efce453824"
   },
@@ -609490,6 +609578,10 @@
   {
     "CVE": "CVE-2026-37713",
     "PoC": "https://bryamzxz.github.io/2026/05/25/dol_eval-five-years/"
+  },
+  {
+    "CVE": "CVE-2026-37719",
+    "PoC": "https://assets.ctfassets.net/y0dk4vkszqeh/7nkbvO1MxCI5nOhzwDMCF9/173fdc4ceb38e4b9b853f79df6ad44d0/DKSA-26-31-031_evolo_Service_1.pdf"
   },
   {
     "CVE": "CVE-2026-3774",
@@ -624372,6 +624464,10 @@
     "PoC": "https://github.com/Litengzheng/vuldb_new/blob/main/Belkin%20F9K1015/vul_3/README.md"
   },
   {
+    "CVE": "CVE-2026-56100",
+    "PoC": "https://gist.github.com/sud0why/e73405057dd7414a8c221ef17e0d0059#file-cve-2026-56100-springblade-authbypass-en-md"
+  },
+  {
     "CVE": "CVE-2026-5611",
     "PoC": "https://github.com/Litengzheng/vuldb_new/blob/main/Belkin%20F9K1015/vul_5/README.md"
   },
@@ -638860,6 +638956,10 @@
     "PoC": "https://gist.github.com/nedlir/f576abbb0e491dc9bb7e106c140dda04"
   },
   {
+    "CVE": "CVE-2026-77226",
+    "PoC": "https://codeant.ai/security-research/camunda-empty-admin-group-cve-2026-77226"
+  },
+  {
     "CVE": "CVE-2026-7723",
     "PoC": "https://gist.github.com/nedlir/f1ab8aa038aafbcc6beeef21fab1d74f"
   },
@@ -639970,6 +640070,18 @@
   {
     "CVE": "CVE-2026-78849",
     "PoC": "https://redmine.pfsense.org/issues/16773"
+  },
+  {
+    "CVE": "CVE-2026-78860",
+    "PoC": "https://threadpoolx.gitbook.io/docs/cve/mercusys-ac12-v2-security-advisory/missing-firmware-encryption-and-secure-boot-mechanisms"
+  },
+  {
+    "CVE": "CVE-2026-78861",
+    "PoC": "https://threadpoolx.gitbook.io/docs/cve/mercusys-ac12-v2-security-advisory/hardcoded-private-key"
+  },
+  {
+    "CVE": "CVE-2026-78862",
+    "PoC": "https://threadpoolx.gitbook.io/docs/cve/mercusys-ac12-v2-security-advisory/unprotected-physical-debug-interface-uart"
   },
   {
     "CVE": "CVE-2026-78892",
@@ -647704,6 +647816,10 @@
     "PoC": "https://gist.github.com/saDL0w/36a72a076e9ab24408a3d27582e778b2"
   },
   {
+    "CVE": "CVE-2026-86671",
+    "PoC": "https://redhat.atlassian.net/browse/CRW-11956"
+  },
+  {
     "CVE": "CVE-2026-86675",
     "PoC": "https://github.com/ltranquility/submit_repository/issues/12"
   },
@@ -647884,6 +648000,10 @@
     "PoC": "https://wpscan.com/vulnerability/9a4c36bd-c7f7-4068-ac73-b29ee66def96/"
   },
   {
+    "CVE": "CVE-2026-86786",
+    "PoC": "https://wpscan.com/vulnerability/0645bcad-740e-452e-9d73-3e47ddd83f8b/"
+  },
+  {
     "CVE": "CVE-2026-86788",
     "PoC": "https://wpscan.com/vulnerability/20cad1a6-944e-40f8-8fbc-d97cd1e5bb4b/"
   },
@@ -647926,6 +648046,14 @@
   {
     "CVE": "CVE-2026-86806",
     "PoC": "https://vuldb.com/submit/911055"
+  },
+  {
+    "CVE": "CVE-2026-86806",
+    "PoC": "https://vuldb.com/vuln/399812"
+  },
+  {
+    "CVE": "CVE-2026-86806",
+    "PoC": "https://vuldb.com/vuln/399812/cti"
   },
   {
     "CVE": "CVE-2026-86809",
@@ -648754,6 +648882,10 @@
   {
     "CVE": "CVE-2026-87470",
     "PoC": "https://issues.chromium.org/issues/536446354"
+  },
+  {
+    "CVE": "CVE-2026-87471",
+    "PoC": "https://issues.chromium.org/issues/498869663"
   },
   {
     "CVE": "CVE-2026-87472",
@@ -649936,6 +650068,10 @@
     "PoC": "https://github.com/nothings/stb/issues/1947"
   },
   {
+    "CVE": "CVE-2026-89289",
+    "PoC": "https://wpscan.com/vulnerability/716b6d58-a816-43f2-8a1a-b9fe4f2f9d1d/"
+  },
+  {
     "CVE": "CVE-2026-89296",
     "PoC": "https://wpscan.com/vulnerability/351a9bf8-03d4-416b-8f30-a2a87e7c4cb2/"
   },
@@ -650866,6 +651002,10 @@
   {
     "CVE": "CVE-2026-9110",
     "PoC": "https://issues.chromium.org/issues/503551154"
+  },
+  {
+    "CVE": "CVE-2026-91107",
+    "PoC": "https://fluidattacks.com/advisories/hearts"
   },
   {
     "CVE": "CVE-2026-9111",
@@ -651820,6 +651960,10 @@
     "PoC": "https://github.com/TehShrike/deepmerge/issues/273"
   },
   {
+    "CVE": "CVE-2026-93769",
+    "PoC": "https://fluidattacks.com/advisories/cali"
+  },
+  {
     "CVE": "CVE-2026-9377",
     "PoC": "https://github.com/redshadowword-cell/CVE/issues/13"
   },
@@ -652012,6 +652156,14 @@
     "PoC": "https://osv.dev/vulnerability/EEF-CVE-2026-94194"
   },
   {
+    "CVE": "CVE-2026-94206",
+    "PoC": "https://cna.erlef.org/cves/CVE-2026-94206.html"
+  },
+  {
+    "CVE": "CVE-2026-94206",
+    "PoC": "https://osv.dev/vulnerability/EEF-CVE-2026-94206"
+  },
+  {
     "CVE": "CVE-2026-94238",
     "PoC": "https://wpscan.com/vulnerability/76d339bf-094c-459d-9f6c-caeda5e97892/"
   },
@@ -652024,8 +652176,20 @@
     "PoC": "https://github.com/wudipjq/my_vuln/blob/main/Edimax/vuln_10/10.md"
   },
   {
+    "CVE": "CVE-2026-94270",
+    "PoC": "https://wpscan.com/vulnerability/9db2eff1-d605-44c3-aa3e-f65410f8e87b/"
+  },
+  {
+    "CVE": "CVE-2026-94271",
+    "PoC": "https://wpscan.com/vulnerability/9455978a-b406-4456-9054-a516c117bdbf/"
+  },
+  {
     "CVE": "CVE-2026-94274",
     "PoC": "https://wpscan.com/vulnerability/23965307-678d-4f59-beae-5a8b33af9a75/"
+  },
+  {
+    "CVE": "CVE-2026-94278",
+    "PoC": "https://wpscan.com/vulnerability/4967e8c2-ee27-4d26-955c-f7dfb6cd6942/"
   },
   {
     "CVE": "CVE-2026-9429",
@@ -652038,6 +652202,10 @@
   {
     "CVE": "CVE-2026-94298",
     "PoC": "https://wpscan.com/vulnerability/6f6c8718-7e7e-4700-a4c2-ee177c44b7ea/"
+  },
+  {
+    "CVE": "CVE-2026-94299",
+    "PoC": "https://wpscan.com/vulnerability/7eb85c65-8dab-46e1-b1df-e5d966029b18/"
   },
   {
     "CVE": "CVE-2026-9435",
@@ -652220,12 +652388,28 @@
     "PoC": "https://github.com/LibreDWG/libredwg/issues/1243"
   },
   {
+    "CVE": "CVE-2026-95105",
+    "PoC": "https://cna.erlef.org/cves/CVE-2026-95105.html"
+  },
+  {
+    "CVE": "CVE-2026-95105",
+    "PoC": "https://osv.dev/vulnerability/EEF-CVE-2026-95105"
+  },
+  {
     "CVE": "CVE-2026-9513",
     "PoC": "https://github.com/wudipjq/my_vuln/blob/main/totolink4/vuln_51/51.md"
   },
   {
     "CVE": "CVE-2026-9515",
     "PoC": "https://github.com/wudipjq/my_vuln/blob/main/totolink4/vuln_53/53.md"
+  },
+  {
+    "CVE": "CVE-2026-95165",
+    "PoC": "https://hekk.one/posts/research/cve-2026-95165/"
+  },
+  {
+    "CVE": "CVE-2026-95166",
+    "PoC": "https://hekk.one/posts/research/cve-2026-95166/"
   },
   {
     "CVE": "CVE-2026-9517",
