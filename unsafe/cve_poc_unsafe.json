@@ -1,5 +1,397 @@
 [
   {
+    "CVE": "CVE-2023-54391",
+    "PoC": "https://github.com/alexandrov666/CVE-2023-54391-RCE"
+  },
+  {
+    "CVE": "CVE-2021-44228",
+    "PoC": "https://github.com/CyberCTF/vulhub-log4j-cve-2021-44228"
+  },
+  {
+    "CVE": "CVE-2026-42945",
+    "PoC": "https://github.com/porcumarcooo/THM-CVE-2026-42945-Nginx-Rift-Exploit"
+  },
+  {
+    "CVE": "CVE-2026-46300",
+    "PoC": "https://github.com/porcumarcooo/THM-CVE-2026-46300-Fragnesia-Exploit"
+  },
+  {
+    "CVE": "CVE-2026-46242",
+    "PoC": "https://github.com/villager1314/CVE-2026-46242-Analysis"
+  },
+  {
+    "CVE": "CVE-2025-62215",
+    "PoC": "https://github.com/Hu2ie/CVE-2025-62215-Windows-Kernel---Elevation-of-Privilege"
+  },
+  {
+    "CVE": "CVE-2026-48908",
+    "PoC": "https://github.com/theendofabbys/CVE-2026-48908"
+  },
+  {
+    "CVE": "CVE-2026-5430",
+    "PoC": "https://github.com/getdrive/wso2_cve-2026-5430_lab"
+  },
+  {
+    "CVE": "CVE-2026-18963",
+    "PoC": "https://github.com/hardeep-sudo/Keycloak-CVE-2026-18963-Exploit"
+  },
+  {
+    "CVE": "CVE-2026-18963",
+    "PoC": "https://github.com/SonOfABot/-CVE-2026-18963-POC"
+  },
+  {
+    "CVE": "CVE-2026-31857",
+    "PoC": "https://github.com/kaizoku73/CVE-2026-31857-PoC"
+  },
+  {
+    "CVE": "CVE-2026-21589",
+    "PoC": "https://github.com/murrez/CVE-2026-21589"
+  },
+  {
+    "CVE": "CVE-2018-1000861",
+    "PoC": "https://github.com/CyberCTF/vulhub-jenkins-cve-2018-1000861"
+  },
+  {
+    "CVE": "CVE-2017-10271",
+    "PoC": "https://github.com/CyberCTF/vulhub-weblogic-cve-2017-10271"
+  },
+  {
+    "CVE": "CVE-2014-0160",
+    "PoC": "https://github.com/CyberCTF/vulhub-openssl-cve-2014-0160"
+  },
+  {
+    "CVE": "CVE-2014-6271",
+    "PoC": "https://github.com/CyberCTF/vulhub-bash-cve-2014-6271"
+  },
+  {
+    "CVE": "CVE-2021-41773",
+    "PoC": "https://github.com/CyberCTF/vulhub-httpd-cve-2021-41773"
+  },
+  {
+    "CVE": "CVE-2026-21589",
+    "PoC": "https://github.com/rxsklife/CVE-2026-21589"
+  },
+  {
+    "CVE": "CVE-2026-105192",
+    "PoC": "https://github.com/rxsklife/CVE-2026-105192"
+  },
+  {
+    "CVE": "CVE-2022-22965",
+    "PoC": "https://github.com/CyberCTF/vulhub-spring-cve-2022-22965"
+  },
+  {
+    "CVE": "CVE-2018-7490",
+    "PoC": "https://github.com/CyberCTF/vulhub-uwsgi-cve-2018-7490"
+  },
+  {
+    "CVE": "CVE-2020-1938",
+    "PoC": "https://github.com/CyberCTF/vulhub-tomcat-cve-2020-1938"
+  },
+  {
+    "CVE": "CVE-2017-11610",
+    "PoC": "https://github.com/CyberCTF/vulhub-supervisor-cve-2017-11610"
+  },
+  {
+    "CVE": "CVE-2018-1273",
+    "PoC": "https://github.com/CyberCTF/vulhub-spring-cve-2018-1273"
+  },
+  {
+    "CVE": "CVE-2022-22963",
+    "PoC": "https://github.com/CyberCTF/vulhub-spring-cve-2022-22963"
+  },
+  {
+    "CVE": "CVE-2020-35476",
+    "PoC": "https://github.com/CyberCTF/vulhub-opentsdb-cve-2020-35476"
+  },
+  {
+    "CVE": "CVE-2023-32315",
+    "PoC": "https://github.com/CyberCTF/vulhub-openfire-cve-2023-32315"
+  },
+  {
+    "CVE": "CVE-2021-3129",
+    "PoC": "https://github.com/CyberCTF/vulhub-laravel-cve-2021-3129"
+  },
+  {
+    "CVE": "CVE-2010-2861",
+    "PoC": "https://github.com/CyberCTF/vulhub-coldfusion-cve-2010-2861"
+  },
+  {
+    "CVE": "CVE-2024-28752",
+    "PoC": "https://github.com/CyberCTF/vulhub-apache-cxf-cve-2024-28752"
+  },
+  {
+    "CVE": "CVE-2023-27524",
+    "PoC": "https://github.com/CyberCTF/vulhub-superset-cve-2023-27524"
+  },
+  {
+    "CVE": "CVE-2023-51467",
+    "PoC": "https://github.com/CyberCTF/vulhub-ofbiz-cve-2023-51467"
+  },
+  {
+    "CVE": "CVE-2017-12629",
+    "PoC": "https://github.com/CyberCTF/vulhub-solr-cve-2017-12629-rce"
+  },
+  {
+    "CVE": "CVE-2019-17558",
+    "PoC": "https://github.com/CyberCTF/vulhub-solr-cve-2019-17558"
+  },
+  {
+    "CVE": "CVE-2021-25646",
+    "PoC": "https://github.com/CyberCTF/vulhub-apache-druid-cve-2021-25646"
+  },
+  {
+    "CVE": "CVE-2024-23897",
+    "PoC": "https://github.com/CyberCTF/vulhub-jenkins-cve-2024-23897"
+  },
+  {
+    "CVE": "CVE-2026-92555",
+    "PoC": "https://github.com/Enay-Project/CVE-2026-92555"
+  },
+  {
+    "CVE": "CVE-2026-106610",
+    "PoC": "https://github.com/KevineCharles/CVE-2026-106610-miniorange-otp-ato"
+  },
+  {
+    "CVE": "CVE-2026-21589",
+    "PoC": "https://github.com/renzi25031469/CVE-2026-21589"
+  },
+  {
+    "CVE": "CVE-2016-10134",
+    "PoC": "https://github.com/CyberCTF/vulhub-zabbix-cve-2016-10134"
+  },
+  {
+    "CVE": "CVE-2021-22205",
+    "PoC": "https://github.com/CyberCTF/vulhub-gitlab-cve-2021-22205"
+  },
+  {
+    "CVE": "CVE-2026-67279",
+    "PoC": "https://github.com/shmaki4/CVE-2026-67279-Mikrotik-6.42-POC"
+  },
+  {
+    "CVE": "CVE-2019-10758",
+    "PoC": "https://github.com/CyberCTF/vulhub-mongo-express-cve-2019-10758"
+  },
+  {
+    "CVE": "CVE-2022-34265",
+    "PoC": "https://github.com/CyberCTF/vulhub-django-cve-2022-34265"
+  },
+  {
+    "CVE": "CVE-2017-14849",
+    "PoC": "https://github.com/CyberCTF/vulhub-node-cve-2017-14849"
+  },
+  {
+    "CVE": "CVE-2023-46604",
+    "PoC": "https://github.com/CyberCTF/vulhub-activemq-cve-2023-46604"
+  },
+  {
+    "CVE": "CVE-2016-4437",
+    "PoC": "https://github.com/CyberCTF/vulhub-shiro-cve-2016-4437"
+  },
+  {
+    "CVE": "CVE-2019-11043",
+    "PoC": "https://github.com/CyberCTF/vulhub-php-cve-2019-11043"
+  },
+  {
+    "CVE": "CVE-2019-5418",
+    "PoC": "https://github.com/CyberCTF/vulhub-rails-cve-2019-5418"
+  },
+  {
+    "CVE": "CVE-2017-7494",
+    "PoC": "https://github.com/CyberCTF/vulhub-samba-cve-2017-7494"
+  },
+  {
+    "CVE": "CVE-2018-16509",
+    "PoC": "https://github.com/CyberCTF/vulhub-ghostscript-cve-2018-16509"
+  },
+  {
+    "CVE": "CVE-2016-3714",
+    "PoC": "https://github.com/CyberCTF/vulhub-imagemagick-cve-2016-3714"
+  },
+  {
+    "CVE": "CVE-2019-20933",
+    "PoC": "https://github.com/CyberCTF/vulhub-influxdb-cve-2019-20933"
+  },
+  {
+    "CVE": "CVE-2019-9193",
+    "PoC": "https://github.com/CyberCTF/vulhub-postgres-cve-2019-9193"
+  },
+  {
+    "CVE": "CVE-2017-12149",
+    "PoC": "https://github.com/CyberCTF/vulhub-jboss-cve-2017-12149"
+  },
+  {
+    "CVE": "CVE-2015-1427",
+    "PoC": "https://github.com/CyberCTF/vulhub-elasticsearch-cve-2015-1427"
+  },
+  {
+    "CVE": "CVE-2018-12613",
+    "PoC": "https://github.com/CyberCTF/vulhub-phpmyadmin-cve-2018-12613"
+  },
+  {
+    "CVE": "CVE-2018-7600",
+    "PoC": "https://github.com/CyberCTF/vulhub-drupal-cve-2018-7600"
+  },
+  {
+    "CVE": "CVE-2017-12615",
+    "PoC": "https://github.com/CyberCTF/vulhub-tomcat-cve-2017-12615"
+  },
+  {
+    "CVE": "CVE-2017-7529",
+    "PoC": "https://github.com/CyberCTF/vulhub-nginx-cve-2017-7529"
+  },
+  {
+    "CVE": "CVE-2013-4547",
+    "PoC": "https://github.com/CyberCTF/vulhub-nginx-cve-2013-4547"
+  },
+  {
+    "CVE": "CVE-2021-28164",
+    "PoC": "https://github.com/CyberCTF/vulhub-jetty-cve-2021-28164"
+  },
+  {
+    "CVE": "CVE-2022-44268",
+    "PoC": "https://github.com/CyberCTF/vulhub-imagemagick-cve-2022-44268"
+  },
+  {
+    "CVE": "CVE-2014-3704",
+    "PoC": "https://github.com/CyberCTF/vulhub-drupal-cve-2014-3704"
+  },
+  {
+    "CVE": "CVE-2023-23752",
+    "PoC": "https://github.com/CyberCTF/vulhub-joomla-cve-2023-23752"
+  },
+  {
+    "CVE": "CVE-2017-15715",
+    "PoC": "https://github.com/CyberCTF/vulhub-httpd-cve-2017-15715"
+  },
+  {
+    "CVE": "CVE-2021-42013",
+    "PoC": "https://github.com/CyberCTF/vulhub-httpd-cve-2021-42013"
+  },
+  {
+    "CVE": "CVE-2017-12635",
+    "PoC": "https://github.com/CyberCTF/vulhub-couchdb-cve-2017-12635"
+  },
+  {
+    "CVE": "CVE-2026-91940",
+    "PoC": "https://github.com/BiiTts/CVE-2026-91940-crawl4ai-Arbitrary-File-Write"
+  },
+  {
+    "CVE": "CVE-2012-2122",
+    "PoC": "https://github.com/CyberCTF/vulhub-mysql-cve-2012-2122"
+  },
+  {
+    "CVE": "CVE-2020-11651",
+    "PoC": "https://github.com/CyberCTF/vulhub-saltstack-cve-2020-11651"
+  },
+  {
+    "CVE": "CVE-2019-15107",
+    "PoC": "https://github.com/CyberCTF/vulhub-webmin-cve-2019-15107"
+  },
+  {
+    "CVE": "CVE-2017-9841",
+    "PoC": "https://github.com/CyberCTF/vulhub-phpunit-cve-2017-9841"
+  },
+  {
+    "CVE": "CVE-2021-29441",
+    "PoC": "https://github.com/CyberCTF/vulhub-nacos-cve-2021-29441"
+  },
+  {
+    "CVE": "CVE-2021-43798",
+    "PoC": "https://github.com/CyberCTF/vulhub-grafana-cve-2021-43798"
+  },
+  {
+    "CVE": "CVE-2020-14882",
+    "PoC": "https://github.com/CyberCTF/vulhub-weblogic-cve-2020-14882"
+  },
+  {
+    "CVE": "CVE-2019-7238",
+    "PoC": "https://github.com/CyberCTF/vulhub-nexus-cve-2019-7238"
+  },
+  {
+    "CVE": "CVE-2019-7609",
+    "PoC": "https://github.com/CyberCTF/vulhub-kibana-cve-2019-7609"
+  },
+  {
+    "CVE": "CVE-2026-55450",
+    "PoC": "https://github.com/0xBlackash/CVE-2026-55450"
+  },
+  {
+    "CVE": "CVE-2012-1823",
+    "PoC": "https://github.com/CyberCTF/vulhub-php-cve-2012-1823"
+  },
+  {
+    "CVE": "CVE-2020-13942",
+    "PoC": "https://github.com/CyberCTF/vulhub-unomi-cve-2020-13942"
+  },
+  {
+    "CVE": "CVE-2018-10933",
+    "PoC": "https://github.com/CyberCTF/vulhub-libssh-cve-2018-10933"
+  },
+  {
+    "CVE": "CVE-2016-4977",
+    "PoC": "https://github.com/CyberCTF/vulhub-spring-cve-2016-4977"
+  },
+  {
+    "CVE": "CVE-2018-3760",
+    "PoC": "https://github.com/CyberCTF/vulhub-rails-cve-2018-3760"
+  },
+  {
+    "CVE": "CVE-2022-23221",
+    "PoC": "https://github.com/CyberCTF/vulhub-h2database-cve-2022-23221"
+  },
+  {
+    "CVE": "CVE-2020-17519",
+    "PoC": "https://github.com/CyberCTF/vulhub-flink-cve-2020-17519"
+  },
+  {
+    "CVE": "CVE-2014-3120",
+    "PoC": "https://github.com/CyberCTF/vulhub-elasticsearch-cve-2014-3120"
+  },
+  {
+    "CVE": "CVE-2019-17564",
+    "PoC": "https://github.com/CyberCTF/vulhub-dubbo-cve-2019-17564"
+  },
+  {
+    "CVE": "CVE-2022-46169",
+    "PoC": "https://github.com/CyberCTF/vulhub-cacti-cve-2022-46169"
+  },
+  {
+    "CVE": "CVE-2020-13945",
+    "PoC": "https://github.com/CyberCTF/vulhub-apisix-cve-2020-13945"
+  },
+  {
+    "CVE": "CVE-2022-22947",
+    "PoC": "https://github.com/CyberCTF/vulhub-spring-cve-2022-22947"
+  },
+  {
+    "CVE": "CVE-2022-0543",
+    "PoC": "https://github.com/CyberCTF/vulhub-redis-cve-2022-0543"
+  },
+  {
+    "CVE": "CVE-2018-1297",
+    "PoC": "https://github.com/CyberCTF/vulhub-jmeter-cve-2018-1297"
+  },
+  {
+    "CVE": "CVE-2016-3088",
+    "PoC": "https://github.com/CyberCTF/vulhub-activemq-cve-2016-3088"
+  },
+  {
+    "CVE": "CVE-2017-1000028",
+    "PoC": "https://github.com/CyberCTF/vulhub-glassfish-cve-2017-1000028"
+  },
+  {
+    "CVE": "CVE-2018-8715",
+    "PoC": "https://github.com/CyberCTF/vulhub-appweb-cve-2018-8715"
+  },
+  {
+    "CVE": "CVE-2018-15473",
+    "PoC": "https://github.com/CyberCTF/vulhub-openssh-cve-2018-15473"
+  },
+  {
+    "CVE": "CVE-2020-7247",
+    "PoC": "https://github.com/CyberCTF/vulhub-opensmtpd-cve-2020-7247"
+  },
+  {
     "CVE": "CVE-2026-102489",
     "PoC": "https://github.com/horizon3ai/CVE-2026-102489"
   },
