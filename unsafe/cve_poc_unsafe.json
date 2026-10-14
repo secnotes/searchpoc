@@ -1,5 +1,161 @@
 [
   {
+    "CVE": "CVE-2026-85097",
+    "PoC": "https://github.com/Masriyan/CVE-2026-85097"
+  },
+  {
+    "CVE": "CVE-2026-41992",
+    "PoC": "https://github.com/uday952/CVE-2026-41992-poc"
+  },
+  {
+    "CVE": "CVE-2026-102827",
+    "PoC": "https://github.com/D7EAD/CVE-2026-102827"
+  },
+  {
+    "CVE": "CVE-2026-105950",
+    "PoC": "https://github.com/capivara-research/CVE-2026-105950"
+  },
+  {
+    "CVE": "CVE-2026-104711",
+    "PoC": "https://github.com/pochunter/POC-EXPLOIT-CVE-2026-104711"
+  },
+  {
+    "CVE": "CVE-2026-68582",
+    "PoC": "https://github.com/comradezephyr/CVE-2026-68582-PoC"
+  },
+  {
+    "CVE": "CVE-2025-8110",
+    "PoC": "https://github.com/eds1268/cve-2025-8110-ctf"
+  },
+  {
+    "CVE": "CVE-2020-0041",
+    "PoC": "https://github.com/hiratazx/CVE-2020-0041"
+  },
+  {
+    "CVE": "CVE-2026-97229",
+    "PoC": "https://github.com/jburgess-r7/CVE-2026-97229-PoC"
+  },
+  {
+    "CVE": "CVE-2026-72898",
+    "PoC": "https://github.com/gagaltotal/CVE-2026-72898-metabase"
+  },
+  {
+    "CVE": "CVE-2026-107159",
+    "PoC": "https://github.com/azuk4r/CVE-2026-107159"
+  },
+  {
+    "CVE": "CVE-2026-97229",
+    "PoC": "https://github.com/AmpedWasTaken/CVE-2026-97229-GitLab-Research"
+  },
+  {
+    "CVE": "CVE-2026-97229",
+    "PoC": "https://github.com/AmpedWasTaken/CVE-2026-97229-GitLab-CI-CD-Regex-Compiler-RCE"
+  },
+  {
+    "CVE": "CVE-2026-104711",
+    "PoC": "https://github.com/uday952/CVE-2026-104711-Advanced-Variant"
+  },
+  {
+    "CVE": "CVE-2026-104711",
+    "PoC": "https://github.com/uday952/CVE-2026-104711-exploit-payload-4"
+  },
+  {
+    "CVE": "CVE-2024-53677",
+    "PoC": "https://github.com/choyj358/cve-2024-53677"
+  },
+  {
+    "CVE": "CVE-2026-104711",
+    "PoC": "https://github.com/uday952/CVE-2026-104711-POC-Variant3"
+  },
+  {
+    "CVE": "CVE-2026-1357",
+    "PoC": "https://github.com/stj8703-web/CVE-2026-1357"
+  },
+  {
+    "CVE": "CVE-2026-104711",
+    "PoC": "https://github.com/uday952/CVE-2026-104711"
+  },
+  {
+    "CVE": "CVE-2026-5118",
+    "PoC": "https://github.com/antid00t/CVE-2026-5118-CVE-2026-5524"
+  },
+  {
+    "CVE": "CVE-2026-85097",
+    "PoC": "https://github.com/RootMantap/CVE-2026-85097"
+  },
+  {
+    "CVE": "CVE-2021-21413",
+    "PoC": "https://github.com/sm1ee/CVE-2021-21413"
+  },
+  {
+    "CVE": "CVE-2026-109721",
+    "PoC": "https://github.com/Scyrix-LLC/CVE-2026-109721"
+  },
+  {
+    "CVE": "CVE-2026-110025",
+    "PoC": "https://github.com/capivara-research/CVE-2026-110025"
+  },
+  {
+    "CVE": "CVE-2026-108924",
+    "PoC": "https://github.com/capivara-research/CVE-2026-108924"
+  },
+  {
+    "CVE": "CVE-2026-41456",
+    "PoC": "https://github.com/lowlevelsec/Reflected-XSS-Bludit-CVE-2026-41456"
+  },
+  {
+    "CVE": "CVE-2026-84411",
+    "PoC": "https://github.com/MikroTikDojo/CVE-2026-84411"
+  },
+  {
+    "CVE": "CVE-2026-83792",
+    "PoC": "https://github.com/unkn0w1ngNightmare/CVE-2026-83792"
+  },
+  {
+    "CVE": "CVE-2026-85884",
+    "PoC": "https://github.com/Beardhammer/CVE-2026-85884"
+  },
+  {
+    "CVE": "CVE-2026-104935",
+    "PoC": "https://github.com/ApexBreach/CVE-2026-104935-Proof-of-concept"
+  },
+  {
+    "CVE": "CVE-2026-104945",
+    "PoC": "https://github.com/anaskalt/CVE-2026-104945"
+  },
+  {
+    "CVE": "CVE-2026-104944",
+    "PoC": "https://github.com/anaskalt/CVE-2026-104944"
+  },
+  {
+    "CVE": "CVE-2026-82957",
+    "PoC": "https://github.com/hakaioffsec/CVE-2026-82957"
+  },
+  {
+    "CVE": "CVE-2026-76268",
+    "PoC": "https://github.com/murrez/CVE-2026-76268"
+  },
+  {
+    "CVE": "CVE-2026-86086",
+    "PoC": "https://github.com/D7EAD/CVE-2026-86086"
+  },
+  {
+    "CVE": "CVE-2026-104711",
+    "PoC": "https://github.com/pochunter/POC-for-CVE-2026-104711---New"
+  },
+  {
+    "CVE": "CVE-2025-41450",
+    "PoC": "https://github.com/Nero22k/CVE-2025-41450_poc"
+  },
+  {
+    "CVE": "CVE-2026-102718",
+    "PoC": "https://github.com/D7EAD/CVE-2026-102718"
+  },
+  {
+    "CVE": "CVE-2026-104711",
+    "PoC": "https://github.com/uday952/CVE-2026-104711-RestPlugin-PoC"
+  },
+  {
     "CVE": "CVE-2026-44825",
     "PoC": "https://github.com/q0524/CVE-2026-44825_test"
   },
