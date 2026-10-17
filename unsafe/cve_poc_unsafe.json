@@ -1,5 +1,161 @@
 [
   {
+    "CVE": "CVE-2026-111444",
+    "PoC": "https://github.com/Syscallh00k/CVE-2026-111444"
+  },
+  {
+    "CVE": "CVE-2026-111389",
+    "PoC": "https://github.com/Syscallh00k/CVE-2026-111389"
+  },
+  {
+    "CVE": "CVE-2026-108097",
+    "PoC": "https://github.com/FurkanKAYAPINAR/CVE-2026-108097"
+  },
+  {
+    "CVE": "CVE-2026-79985",
+    "PoC": "https://github.com/oscerd/CVE-2026-79985"
+  },
+  {
+    "CVE": "CVE-2026-79984",
+    "PoC": "https://github.com/oscerd/CVE-2026-79984"
+  },
+  {
+    "CVE": "CVE-2021-22204",
+    "PoC": "https://github.com/cyfrowesny/exiftool-7.44-12.23-exploit-CVE-2021-22204-"
+  },
+  {
+    "CVE": "CVE-2021-22204",
+    "PoC": "https://github.com/cyfrowesny/exiftool-7.44-12.23-exploit-CVE-2021-22204"
+  },
+  {
+    "CVE": "CVE-2026-89079",
+    "PoC": "https://github.com/murrez/CVE-2026-89079"
+  },
+  {
+    "CVE": "CVE-2026-79983",
+    "PoC": "https://github.com/oscerd/CVE-2026-79983"
+  },
+  {
+    "CVE": "CVE-2026-78165",
+    "PoC": "https://github.com/oscerd/CVE-2026-78165"
+  },
+  {
+    "CVE": "CVE-2026-97229",
+    "PoC": "https://github.com/OppositDeer/Gitlab-RCE-CVE-2026-97229"
+  },
+  {
+    "CVE": "CVE-2026-78164",
+    "PoC": "https://github.com/oscerd/CVE-2026-78164"
+  },
+  {
+    "CVE": "CVE-2024-3094",
+    "PoC": "https://github.com/Subzero710/CVE-2024-3094-demo"
+  },
+  {
+    "CVE": "CVE-2026-51367",
+    "PoC": "https://github.com/StefanoAndreatta/CVE-2026-51367-Insecure-Direct-Object-Reference-IDOR-"
+  },
+  {
+    "CVE": "CVE-2026-51367",
+    "PoC": "https://github.com/StefanoAndreatta/CVE-2026-51367-Insecure-Direct-Object-Reference-IDOR"
+  },
+  {
+    "CVE": "CVE-2026-51366",
+    "PoC": "https://github.com/StefanoAndreatta/CVE-2026-51366-SQL-Injection-leading-to-Remote-Code-Execution"
+  },
+  {
+    "CVE": "CVE-2026-78163",
+    "PoC": "https://github.com/oscerd/CVE-2026-78163"
+  },
+  {
+    "CVE": "CVE-2026-78162",
+    "PoC": "https://github.com/oscerd/CVE-2026-78162"
+  },
+  {
+    "CVE": "CVE-2026-96889",
+    "PoC": "https://github.com/lion9453/CVE-2026-96889-nextjs-rce"
+  },
+  {
+    "CVE": "CVE-2026-96889",
+    "PoC": "https://github.com/lion9453/CVE-2026-96889"
+  },
+  {
+    "CVE": "CVE-2026-104745",
+    "PoC": "https://github.com/rxsklife/CVE-2026-104745"
+  },
+  {
+    "CVE": "CVE-2026-107084",
+    "PoC": "https://github.com/Primandito/CVE-2026-107084"
+  },
+  {
+    "CVE": "CVE-2026-107083",
+    "PoC": "https://github.com/Primandito/CVE-2026-107083"
+  },
+  {
+    "CVE": "CVE-2026-8933",
+    "PoC": "https://github.com/songzzzz/CVE-2026-8933"
+  },
+  {
+    "CVE": "CVE-2026-107082",
+    "PoC": "https://github.com/Primandito/CVE-2026-107082"
+  },
+  {
+    "CVE": "CVE-2024-54772",
+    "PoC": "https://github.com/deauther890/CVE-2024-54772_Patch_Bypass"
+  },
+  {
+    "CVE": "CVE-2026-111283",
+    "PoC": "https://github.com/cybliminal/cve-2026-111283-bmc-helix-network-management-local-administrator-any-password"
+  },
+  {
+    "CVE": "CVE-2026-59970",
+    "PoC": "https://github.com/asvorg/CVE-2026-59970-poc"
+  },
+  {
+    "CVE": "CVE-2026-38526",
+    "PoC": "https://github.com/Industri4l-H3ll-Xpl0it3rs/CVE-2026-38526-KrayinCRM-RCE"
+  },
+  {
+    "CVE": "CVE-2026-61979",
+    "PoC": "https://github.com/BIBILZERODAY/CVE-2026-61979-miniOrange-SAML-Auth-Bypass-Exploit"
+  },
+  {
+    "CVE": "CVE-2026-60137",
+    "PoC": "https://github.com/BIBILZERODAY/CVE-2026-60137---WordPress-Core-Critical-SQL-Injection-SQLi-PoC"
+  },
+  {
+    "CVE": "CVE-2026-104736",
+    "PoC": "https://github.com/BIBILZERODAY/CVE-2026-104736---Proof-of-Concept-PoC-Exploit-Details"
+  },
+  {
+    "CVE": "CVE-2026-53264",
+    "PoC": "https://github.com/b1nhack/CVE-2026-53264"
+  },
+  {
+    "CVE": "CVE-2026-102764",
+    "PoC": "https://github.com/Worthes/CVE-2026-102764-Proof-of-concept"
+  },
+  {
+    "CVE": "CVE-2026-92209",
+    "PoC": "https://github.com/do4choo/CVE-2026-92209_NoMachine_LPE"
+  },
+  {
+    "CVE": "CVE-2026-92208",
+    "PoC": "https://github.com/do4choo/CVE-2026-92208_remote_mDNS_overflow"
+  },
+  {
+    "CVE": "CVE-2026-94134",
+    "PoC": "https://github.com/MosesOX/POC-CVE-2026-94134"
+  },
+  {
+    "CVE": "CVE-2026-79986",
+    "PoC": "https://github.com/oscerd/CVE-2026-79986"
+  },
+  {
+    "CVE": "CVE-2026-110896",
+    "PoC": "https://github.com/azqzazq1/CVE-2026-110896"
+  },
+  {
     "CVE": "CVE-2025-68613",
     "PoC": "https://github.com/bijoumj/cve-2025-68613-ctf"
   },
