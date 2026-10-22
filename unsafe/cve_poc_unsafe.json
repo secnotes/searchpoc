@@ -1,5 +1,597 @@
 [
   {
+    "CVE": "CVE-2026-10961",
+    "PoC": "https://github.com/dinosn/php-cve-2026-10961x-lab-poc"
+  },
+  {
+    "CVE": "CVE-2026-109618",
+    "PoC": "https://github.com/m2sousa/CVE-2026-109618-CVE-2026-109619"
+  },
+  {
+    "CVE": "CVE-2026-109618",
+    "PoC": "https://github.com/0x4148/CVE-2026-109618-php2shell-lab"
+  },
+  {
+    "CVE": "CVE-2026-109618",
+    "PoC": "https://github.com/WoYinDao/CVE-2026-109618-CVSS-9.2-Critical"
+  },
+  {
+    "CVE": "CVE-2026-109618",
+    "PoC": "https://github.com/AmpedWasTaken/PHP2Shell-CVE-2026-109618-CVE-2026-109619"
+  },
+  {
+    "CVE": "CVE-2026-51954",
+    "PoC": "https://github.com/Envincion/CVE-2026-51954"
+  },
+  {
+    "CVE": "CVE-2026-77680",
+    "PoC": "https://github.com/OJ01-creates/CVE-2026-77680-Security-Analysis"
+  },
+  {
+    "CVE": "CVE-2026-110372",
+    "PoC": "https://github.com/BIBILZERODAY/CVE-2026-110372-MASS-EXPLOIT-WEBSHELL.STORE"
+  },
+  {
+    "CVE": "CVE-2026-104736",
+    "PoC": "https://github.com/BIBILZERODAY/CVE-2026-104736-Mass-Webshell-CVE"
+  },
+  {
+    "CVE": "CVE-2026-109618",
+    "PoC": "https://github.com/xuehuolll/CVE-2026-109618-109619-audit"
+  },
+  {
+    "CVE": "CVE-2026-109618",
+    "PoC": "https://github.com/xuehuolll/php2shell-CVE-2026-109618-109619"
+  },
+  {
+    "CVE": "CVE-2023-47250",
+    "PoC": "https://github.com/christinasm1th/CVE-2023-47250-break-fix"
+  },
+  {
+    "CVE": "CVE-2026-109618",
+    "PoC": "https://github.com/19h/CVE-2026-109618"
+  },
+  {
+    "CVE": "CVE-2026-109618",
+    "PoC": "https://github.com/Zer061/CVE-2026-109618"
+  },
+  {
+    "CVE": "CVE-2026-109618",
+    "PoC": "https://github.com/SeanDishman/php2shell-CVE-2026-109618-CVE-2026-109619"
+  },
+  {
+    "CVE": "CVE-2026-59774",
+    "PoC": "https://github.com/asvorg/CVE-2026-59774-poc"
+  },
+  {
+    "CVE": "CVE-2025-27509",
+    "PoC": "https://github.com/Chillov3k/poc-cve-2025-27509"
+  },
+  {
+    "CVE": "CVE-2026-11645",
+    "PoC": "https://github.com/emlinhax/CVE-2026-11645-poc"
+  },
+  {
+    "CVE": "CVE-2026-23744",
+    "PoC": "https://github.com/wvverez/CVE-2026-23744-PoC"
+  },
+  {
+    "CVE": "CVE-2026-110899",
+    "PoC": "https://github.com/synapes620/CVE-2026-110899"
+  },
+  {
+    "CVE": "CVE-2026-88900",
+    "PoC": "https://github.com/oscerd/CVE-2026-88900"
+  },
+  {
+    "CVE": "CVE-2026-109618",
+    "PoC": "https://github.com/daffa001/php-CVE-2026-109618-CVE-2026-109619"
+  },
+  {
+    "CVE": "CVE-2026-91858",
+    "PoC": "https://github.com/oscerd/CVE-2026-91858"
+  },
+  {
+    "CVE": "CVE-2026-109618",
+    "PoC": "https://github.com/slabbdev/php2shell-cve-2026-109618-109619"
+  },
+  {
+    "CVE": "CVE-2026-109618",
+    "PoC": "https://github.com/zenzue/PoC-CVE-2026-109618_19"
+  },
+  {
+    "CVE": "CVE-2026-88901",
+    "PoC": "https://github.com/oscerd/CVE-2026-88901"
+  },
+  {
+    "CVE": "CVE-2026-109618",
+    "PoC": "https://github.com/sxyrxyy/php2shell-cve-2026-109618-check"
+  },
+  {
+    "CVE": "CVE-2026-85317",
+    "PoC": "https://github.com/oscerd/CVE-2026-85317"
+  },
+  {
+    "CVE": "CVE-2026-85316",
+    "PoC": "https://github.com/oscerd/CVE-2026-85316"
+  },
+  {
+    "CVE": "CVE-2026-109618",
+    "PoC": "https://github.com/eness/PHP2Shell-CVE-2026-109618-CVE-2026-109619-PoC"
+  },
+  {
+    "CVE": "CVE-2026-109618",
+    "PoC": "https://github.com/cloudducoeur/CVE-2026-109618"
+  },
+  {
+    "CVE": "CVE-2026-109618",
+    "PoC": "https://github.com/cloudducoeur/ansible-playbook-CVE-2026-109618"
+  },
+  {
+    "CVE": "CVE-2026-102764",
+    "PoC": "https://github.com/maxprog-svg/CVE-2026-102764"
+  },
+  {
+    "CVE": "CVE-2026-85315",
+    "PoC": "https://github.com/oscerd/CVE-2026-85315"
+  },
+  {
+    "CVE": "CVE-2026-72867",
+    "PoC": "https://github.com/WoYinDao/CVE-2026-72867-CVSS-9.9-Critical"
+  },
+  {
+    "CVE": "CVE-2026-109618",
+    "PoC": "https://github.com/m2sousa/CVE-2026-109618"
+  },
+  {
+    "CVE": "CVE-2026-109618",
+    "PoC": "https://github.com/JungleCache/PHP2Shell-CVE-2026-109618"
+  },
+  {
+    "CVE": "CVE-2026-109618",
+    "PoC": "https://github.com/debugactiveprocess/CVE-2026-109618"
+  },
+  {
+    "CVE": "CVE-2026-109618",
+    "PoC": "https://github.com/Nayrae/CVE-2026-109618"
+  },
+  {
+    "CVE": "CVE-2026-109618",
+    "PoC": "https://github.com/ruddem/php-cve-2026-109618-109619"
+  },
+  {
+    "CVE": "CVE-2023-46604",
+    "PoC": "https://github.com/Theocyg/CVE-2023-46604"
+  },
+  {
+    "CVE": "CVE-2026-109618",
+    "PoC": "https://github.com/LeonelArrua/CVE-2026-109618_CVE-2026-109619_Mitigate"
+  },
+  {
+    "CVE": "CVE-2026-109618",
+    "PoC": "https://github.com/pruiz/php-CVE-2026-109618"
+  },
+  {
+    "CVE": "CVE-2026-109619",
+    "PoC": "https://github.com/xvanpan/CVE-2026-109619"
+  },
+  {
+    "CVE": "CVE-2026-109618",
+    "PoC": "https://github.com/xvanpan/CVE-2026-109618"
+  },
+  {
+    "CVE": "CVE-2026-109618",
+    "PoC": "https://github.com/junaire/CVE-2026-109618-exploit"
+  },
+  {
+    "CVE": "CVE-2026-109618",
+    "PoC": "https://github.com/CYB3RW07F/PHP2Shell-CVE-2026-109618-CVE-2026-109619"
+  },
+  {
+    "CVE": "CVE-2026-109618",
+    "PoC": "https://github.com/sorenjohanson/crowdsec-cve-2026-109618-rule"
+  },
+  {
+    "CVE": "CVE-2026-63030",
+    "PoC": "https://github.com/Githu836/PoC-for-CVE-2026-63030"
+  },
+  {
+    "CVE": "CVE-2026-109618",
+    "PoC": "https://github.com/richardmongler/php2shell-CVE-2026-109618"
+  },
+  {
+    "CVE": "CVE-2026-109618",
+    "PoC": "https://github.com/BIBILZERODAY/PHP2Shell-CVE-2026-109618-CVE-2026-109619-Mass-Exploit"
+  },
+  {
+    "CVE": "CVE-2026-109618",
+    "PoC": "https://github.com/Stensel8/check-for-CVE-2026-109618-CVE-2026-109619"
+  },
+  {
+    "CVE": "CVE-2026-109618",
+    "PoC": "https://github.com/HackSpeak/CVE-2026-109618"
+  },
+  {
+    "CVE": "CVE-2026-109618",
+    "PoC": "https://github.com/xvanpan/CVE-2026-109618-CVE-2026-109619php-upload-progress-bg-uaf"
+  },
+  {
+    "CVE": "CVE-2026-109618",
+    "PoC": "https://github.com/0xBlackash/CVE-2026-109618"
+  },
+  {
+    "CVE": "CVE-2022-22965",
+    "PoC": "https://github.com/beulahhh-coder/-CVE-2022-22965-Spring4Shell"
+  },
+  {
+    "CVE": "CVE-2026-109618",
+    "PoC": "https://github.com/jayy-hub1490/php2shell-CVE-2026-109618-CVE-2026-109619-recon-exploitation-toolkit"
+  },
+  {
+    "CVE": "CVE-2026-109618",
+    "PoC": "https://github.com/wind884/CVE-2026-109618-109619-PHP2Shell"
+  },
+  {
+    "CVE": "CVE-2026-10961",
+    "PoC": "https://github.com/goodcoddeo/pterodactyl_PHP-CVE-2026-10961x"
+  },
+  {
+    "CVE": "CVE-2026-109618",
+    "PoC": "https://github.com/rdwr-namikb/php2shell-cve-2026-109618-109619-lab"
+  },
+  {
+    "CVE": "CVE-2026-109618",
+    "PoC": "https://github.com/fmdiscioglu/php-cve-2026-109618-checker"
+  },
+  {
+    "CVE": "CVE-2026-109618",
+    "PoC": "https://github.com/vperetti/php-cve-2026-109618-109619-backports"
+  },
+  {
+    "CVE": "CVE-2025-69413",
+    "PoC": "https://github.com/fuad00/CVE-2025-69413-PoC"
+  },
+  {
+    "CVE": "CVE-2026-109618",
+    "PoC": "https://github.com/enactive-systems/CVE-2026-109618-poc"
+  },
+  {
+    "CVE": "CVE-2026-109618",
+    "PoC": "https://github.com/adriyansyah-mf/CVE-2026-109618-109619-PHP-session.upload_progress-Exploit-"
+  },
+  {
+    "CVE": "CVE-2026-109619",
+    "PoC": "https://github.com/fmdiscioglu/php-cve-2026-109619-checker"
+  },
+  {
+    "CVE": "CVE-2026-109618",
+    "PoC": "https://github.com/nirzadokox/php2shell-PoC-for-CVE-2026-109618-CVE-2026-109619"
+  },
+  {
+    "CVE": "CVE-2026-109618",
+    "PoC": "https://github.com/zerbaliy3v/php2shell-CVE-2026-109618-CVE-2026-109619-Dorks"
+  },
+  {
+    "CVE": "CVE-2026-109619",
+    "PoC": "https://github.com/santihabib/CVE-2026-109619"
+  },
+  {
+    "CVE": "CVE-2026-109618",
+    "PoC": "https://github.com/charindithjaindu/CVE-2026-109618"
+  },
+  {
+    "CVE": "CVE-2026-109618",
+    "PoC": "https://github.com/nirzadokox/php2shell---PoC-for-CVE-2026-109618-CVE-2026-109619"
+  },
+  {
+    "CVE": "CVE-2026-109618",
+    "PoC": "https://github.com/1o-ya/php-cve-2026-109618-hotfix-guide"
+  },
+  {
+    "CVE": "CVE-2026-109618",
+    "PoC": "https://github.com/Okymi-X/CVE-2026-109618"
+  },
+  {
+    "CVE": "CVE-2026-109618",
+    "PoC": "https://github.com/nsrg-fmlorg/php-cve-2026-109618"
+  },
+  {
+    "CVE": "CVE-2026-109618",
+    "PoC": "https://github.com/EkaterinaMarchetti/Non-intrusive-PHP2Shell-assessment-for-CVE-2026-109618-and-CVE-2026-109619"
+  },
+  {
+    "CVE": "CVE-2026-109618",
+    "PoC": "https://github.com/EngOREOO/php2shell-CVE-2026-109618-CVE-2026-109619-PoC"
+  },
+  {
+    "CVE": "CVE-2026-109619",
+    "PoC": "https://github.com/unlimit0118/CVE-2026-109619-php2shell-poc"
+  },
+  {
+    "CVE": "CVE-2026-109618",
+    "PoC": "https://github.com/haobachang-1/php2shell-CVE-2026-109618-CVE-2026-109619"
+  },
+  {
+    "CVE": "CVE-2026-109618",
+    "PoC": "https://github.com/nirzadokox/php2shell-vulnerability-check-for-CVE-2026-109618-CVE-2026-109619"
+  },
+  {
+    "CVE": "CVE-2026-52887",
+    "PoC": "https://github.com/pentrestion/nocobase-cve-2026-52887"
+  },
+  {
+    "CVE": "CVE-2026-111497",
+    "PoC": "https://github.com/CaterMaoZi/CVE-2026-111497-POC"
+  },
+  {
+    "CVE": "CVE-2026-109618",
+    "PoC": "https://github.com/jsrobinson3/php74-focal-cve-2026-109618"
+  },
+  {
+    "CVE": "CVE-2026-105482",
+    "PoC": "https://github.com/CaterMaoZi/CVE-2026-105482-POC"
+  },
+  {
+    "CVE": "CVE-2026-109618",
+    "PoC": "https://github.com/lzz0403/CVE-2026-109618-PHP2Shell-poc"
+  },
+  {
+    "CVE": "CVE-2026-109618",
+    "PoC": "https://github.com/goodcoddeo/pterodactyl_PHP-CVE-2026-109618-CVE-2026-109619"
+  },
+  {
+    "CVE": "CVE-2026-56190",
+    "PoC": "https://github.com/danarhirany300-ctrl/CVE-2026-56190-RDP-Analysis"
+  },
+  {
+    "CVE": "CVE-2026-109618",
+    "PoC": "https://github.com/alvaroguzmancode/CVE-2026-109618"
+  },
+  {
+    "CVE": "CVE-2026-109618",
+    "PoC": "https://github.com/alvaroguzmancode/-CVE-2026-109618-19"
+  },
+  {
+    "CVE": "CVE-2026-109618",
+    "PoC": "https://github.com/DandanLLab/PHP-5.6-CVE-2026-109618-109619"
+  },
+  {
+    "CVE": "CVE-2026-109618",
+    "PoC": "https://github.com/DandanLLab/PHP-5.6.40-CVE-2026-109618-109619"
+  },
+  {
+    "CVE": "CVE-2026-109618",
+    "PoC": "https://github.com/gumerzzzindo/php2shell-CVE-2026-109618-109619"
+  },
+  {
+    "CVE": "CVE-2026-109618",
+    "PoC": "https://github.com/AvaterXXX/CVE-2026-109618-CVE-2026-109619-"
+  },
+  {
+    "CVE": "CVE-2026-109618",
+    "PoC": "https://github.com/mpyw/php-php-eol-CVE-2026-109618-109619"
+  },
+  {
+    "CVE": "CVE-2026-109618",
+    "PoC": "https://github.com/mpyw/php-eol-CVE-2026-109618-109619"
+  },
+  {
+    "CVE": "CVE-2026-97859",
+    "PoC": "https://github.com/ahiamaduuche-sys/CVE-2026-97859-Analysis"
+  },
+  {
+    "CVE": "CVE-2025-48561",
+    "PoC": "https://github.com/Ife-cyb/CYB-401-Pixnapping-CVE-2025-48561"
+  },
+  {
+    "CVE": "CVE-2026-109619",
+    "PoC": "https://github.com/1Nightlovel/CVE-2026-109619"
+  },
+  {
+    "CVE": "CVE-2026-109619",
+    "PoC": "https://github.com/cozybear-dev/cve-2026-109619"
+  },
+  {
+    "CVE": "CVE-2026-109618",
+    "PoC": "https://github.com/cozybear-dev/cve-2026-109618"
+  },
+  {
+    "CVE": "CVE-2026-109618",
+    "PoC": "https://github.com/1Nightlovel/CVE-2026-109618"
+  },
+  {
+    "CVE": "CVE-2026-109618",
+    "PoC": "https://github.com/ivanscm/php80-cve-2026-109618"
+  },
+  {
+    "CVE": "CVE-2018-10933",
+    "PoC": "https://github.com/AVA-CEO/CVE-2018-10933-Assessment-"
+  },
+  {
+    "CVE": "CVE-2026-109618",
+    "PoC": "https://github.com/cyberkiddle/CVE-2026-109618"
+  },
+  {
+    "CVE": "CVE-2026-109618",
+    "PoC": "https://github.com/Fazmin/PHP2Shell-CVE-2026-109618-CVE-2026-109619-Mitigation-Info-PoC"
+  },
+  {
+    "CVE": "CVE-2026-109618",
+    "PoC": "https://github.com/mefulton/CVE-2026-109618-analysis"
+  },
+  {
+    "CVE": "CVE-2026-109618",
+    "PoC": "https://github.com/OmerAti/php-5.6.40-CVE-2026-109618-109619.patch"
+  },
+  {
+    "CVE": "CVE-2026-109618",
+    "PoC": "https://github.com/squiblyza/CVE-2026-109618-CVE-2026-109619"
+  },
+  {
+    "CVE": "CVE-2026-109618",
+    "PoC": "https://github.com/SamJUK/php2shell-check-cve-2026-109618"
+  },
+  {
+    "CVE": "CVE-2026-109618",
+    "PoC": "https://github.com/Whackermelon/php2shell-CVE-2026-109618-CVE-2026-109619"
+  },
+  {
+    "CVE": "CVE-2026-109618",
+    "PoC": "https://github.com/Whackermelon/Php2Shell-POC-CVE-2026-109618-CVE-2026-109619-"
+  },
+  {
+    "CVE": "CVE-2026-109618",
+    "PoC": "https://github.com/lushinshang/php2shell-cve-2026-109618"
+  },
+  {
+    "CVE": "CVE-2026-109618",
+    "PoC": "https://github.com/mejustbox-byte/CVE-2026-109618-CVE-2026-109619"
+  },
+  {
+    "CVE": "CVE-2026-109618",
+    "PoC": "https://github.com/kamalmjt/PHP2SHELL-CVE-2026-109618-CVE-2026-109619-Remediation-Patch"
+  },
+  {
+    "CVE": "CVE-2023-0482",
+    "PoC": "https://github.com/Bethel904/CVE-2023-0482-Analysis"
+  },
+  {
+    "CVE": "CVE-2021-34527",
+    "PoC": "https://github.com/honouroladosu7-cpu/CVE-2021-34527_PrintNightmare.md"
+  },
+  {
+    "CVE": "CVE-2026-109618",
+    "PoC": "https://github.com/euriconicacio/php2shell-CVE-2026-109618-CVE-2026-109619-defense-toolkit"
+  },
+  {
+    "CVE": "CVE-2021-26855",
+    "PoC": "https://github.com/ifeoluwaayodeji/CVE-2021-26855-Analysis"
+  },
+  {
+    "CVE": "CVE-2026-63030",
+    "PoC": "https://github.com/Tersurrr/Orga-Tersur-Daniel-CVE-2026-63030"
+  },
+  {
+    "CVE": "CVE-2026-97629",
+    "PoC": "https://github.com/PhiNode-Labs/nginx-cve-2026-97629"
+  },
+  {
+    "CVE": "CVE-2026-109618",
+    "PoC": "https://github.com/waksboy/fixed-fpm-cve-2026-109618-and-109619-images"
+  },
+  {
+    "CVE": "CVE-2026-109618",
+    "PoC": "https://github.com/cj667113/OCI-Ansible-Fix-CVE-2026-109618_CVE-2026-109619"
+  },
+  {
+    "CVE": "CVE-2026-97859",
+    "PoC": "https://github.com/ahiamaduuche-sys/CVE-2026-97859-CYB-Analysis"
+  },
+  {
+    "CVE": "CVE-2023-34362",
+    "PoC": "https://github.com/k9yk5zkn76-op/-CVE-2023-34362-Analysis"
+  },
+  {
+    "CVE": "CVE-2024-32868",
+    "PoC": "https://github.com/taiwoonileowo16-creator/CVE-2024-32868-Assignment-1"
+  },
+  {
+    "CVE": "CVE-2026-109618",
+    "PoC": "https://github.com/godylockz/cve-2026-109618-php2shell"
+  },
+  {
+    "CVE": "CVE-2021-44228",
+    "PoC": "https://github.com/dave-ojumoola/CYB-401-CVE-2021-44228-Log4Shell"
+  },
+  {
+    "CVE": "CVE-2026-97859",
+    "PoC": "https://github.com/ahiamaduuche-sys/CVE-2026-97859-Cybersecurity-Analysis"
+  },
+  {
+    "CVE": "CVE-2026-97859",
+    "PoC": "https://github.com/ahiamaduuche-sys/CVE-2026-97859-AnalysisS"
+  },
+  {
+    "CVE": "CVE-2026-2031226",
+    "PoC": "https://github.com/syrex1013/CVE-2026-2031226"
+  },
+  {
+    "CVE": "CVE-2026-109619",
+    "PoC": "https://github.com/syrex1013/CVE-2026-109619"
+  },
+  {
+    "CVE": "CVE-2022-30190",
+    "PoC": "https://github.com/jamespelumi79-ctrl/CVE-2022-30190-Follina-Research"
+  },
+  {
+    "CVE": "CVE-2026-109618",
+    "PoC": "https://github.com/syrex1013/CVE-2026-109618"
+  },
+  {
+    "CVE": "CVE-2025-14847",
+    "PoC": "https://github.com/SAIM28826/CVE-2025-14847-poc"
+  },
+  {
+    "CVE": "CVE-2026-109618",
+    "PoC": "https://github.com/absholi7ly/Deep-Technical-Report-CVE-2026-109618-CVE-2026-109619-PHP2Shell"
+  },
+  {
+    "CVE": "CVE-2026-109618",
+    "PoC": "https://github.com/HORKimhab/CVE-2026-109618-619"
+  },
+  {
+    "CVE": "CVE-2026-109618",
+    "PoC": "https://github.com/0k1dok1/CVE-2026-109618-CHECK"
+  },
+  {
+    "CVE": "CVE-2026-111943",
+    "PoC": "https://github.com/phpc0de/CVE-2026-111943-Remediator"
+  },
+  {
+    "CVE": "CVE-2026-109618",
+    "PoC": "https://github.com/nukIeer/CVE-2026-109618-109619-checker"
+  },
+  {
+    "CVE": "CVE-2026-86478",
+    "PoC": "https://github.com/LHeiakim/CVE-2026-86478"
+  },
+  {
+    "CVE": "CVE-2026-110936",
+    "PoC": "https://github.com/DAS-Bodhi/CVE-2026-110936-Siemens-Attack"
+  },
+  {
+    "CVE": "CVE-2026-109619",
+    "PoC": "https://github.com/basesixtythree/B63-POC-CVE-2026-109619"
+  },
+  {
+    "CVE": "CVE-2026-109618",
+    "PoC": "https://github.com/basesixtythree/B63-POC-CVE-2026-109618"
+  },
+  {
+    "CVE": "CVE-2026-109618",
+    "PoC": "https://github.com/01xor/CVE-2026-109618"
+  },
+  {
+    "CVE": "CVE-2020-1472",
+    "PoC": "https://github.com/Divineokoduwa/CVE-2020-1472-Zerologon-Vulnerability-Assessment"
+  },
+  {
+    "CVE": "CVE-2020-4949",
+    "PoC": "https://github.com/Anuhimen/CVE-2020-4949-Analysis"
+  },
+  {
+    "CVE": "CVE-2026-109618",
+    "PoC": "https://github.com/skwirrel/php-cve-2026-109618-check"
+  },
+  {
+    "CVE": "CVE-2026-109618",
+    "PoC": "https://github.com/hoehyeonlab/php-cve-2026-109618-check"
+  },
+  {
+    "CVE": "CVE-2026-109618",
+    "PoC": "https://github.com/1amrahul/php2shell-cve-2026-109618-cve-2026-109619"
+  },
+  {
     "CVE": "CVE-2025-8110",
     "PoC": "https://github.com/kur0bai/CVE-2025-8110"
   },
