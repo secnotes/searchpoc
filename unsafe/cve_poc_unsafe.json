@@ -1,5 +1,333 @@
 [
   {
+    "CVE": "CVE-2026-109618",
+    "PoC": "https://github.com/isaca0315/cve-2026-109618-109619-session-upload-progress-trigger"
+  },
+  {
+    "CVE": "CVE-2026-88774",
+    "PoC": "https://github.com/completetech-security/netscaler-cve-2026-88774-check"
+  },
+  {
+    "CVE": "CVE-2026-88773",
+    "PoC": "https://github.com/completetech-security/netscaler-cve-2026-88773-check"
+  },
+  {
+    "CVE": "CVE-2026-69254",
+    "PoC": "https://github.com/completetech-security/flowise-cve-2026-69254-check"
+  },
+  {
+    "CVE": "CVE-2026-88772",
+    "PoC": "https://github.com/completetech-security/netscaler-cve-2026-88772-check"
+  },
+  {
+    "CVE": "CVE-2026-88771",
+    "PoC": "https://github.com/completetech-security/netscaler-cve-2026-88771-check"
+  },
+  {
+    "CVE": "CVE-2026-102258",
+    "PoC": "https://github.com/completetech-security/sonicwall-sma1000-cve-2026-102258-check"
+  },
+  {
+    "CVE": "CVE-2026-102257",
+    "PoC": "https://github.com/completetech-security/sonicwall-sma1000-cve-2026-102257-check"
+  },
+  {
+    "CVE": "CVE-2026-102256",
+    "PoC": "https://github.com/completetech-security/sonicwall-sma1000-cve-2026-102256-check"
+  },
+  {
+    "CVE": "CVE-2026-102255",
+    "PoC": "https://github.com/completetech-security/sonicwall-sma1000-cve-2026-102255-check"
+  },
+  {
+    "CVE": "CVE-2026-19490",
+    "PoC": "https://github.com/completetech-security/netscaler-cve-2026-19490-check"
+  },
+  {
+    "CVE": "CVE-2026-19489",
+    "PoC": "https://github.com/completetech-security/netscaler-cve-2026-19489-check"
+  },
+  {
+    "CVE": "CVE-2026-88778",
+    "PoC": "https://github.com/completetech-security/netscaler-cve-2026-88778-check"
+  },
+  {
+    "CVE": "CVE-2026-88777",
+    "PoC": "https://github.com/completetech-security/netscaler-cve-2026-88777-check"
+  },
+  {
+    "CVE": "CVE-2026-88776",
+    "PoC": "https://github.com/completetech-security/netscaler-cve-2026-88776-check"
+  },
+  {
+    "CVE": "CVE-2026-88775",
+    "PoC": "https://github.com/completetech-security/netscaler-cve-2026-88775-check"
+  },
+  {
+    "CVE": "CVE-2026-58041",
+    "PoC": "https://github.com/completetech-security/node-cve-2026-58041-check"
+  },
+  {
+    "CVE": "CVE-2026-58040",
+    "PoC": "https://github.com/completetech-security/node-cve-2026-58040-check"
+  },
+  {
+    "CVE": "CVE-2026-56850",
+    "PoC": "https://github.com/completetech-security/node-cve-2026-56850-check"
+  },
+  {
+    "CVE": "CVE-2026-58043",
+    "PoC": "https://github.com/completetech-security/node-cve-2026-58043-check"
+  },
+  {
+    "CVE": "CVE-2026-56848",
+    "PoC": "https://github.com/completetech-security/node-cve-2026-56848-check"
+  },
+  {
+    "CVE": "CVE-2026-56846",
+    "PoC": "https://github.com/completetech-security/node-cve-2026-56846-check"
+  },
+  {
+    "CVE": "CVE-2026-104286",
+    "PoC": "https://github.com/completetech-security/fortimail-cve-2026-104286-check"
+  },
+  {
+    "CVE": "CVE-2026-21589",
+    "PoC": "https://github.com/completetech-security/atlassian-cve-2026-21589-check"
+  },
+  {
+    "CVE": "CVE-2026-102764",
+    "PoC": "https://github.com/completetech-security/beyondtrust-remote-support-cve-2026-102764-check"
+  },
+  {
+    "CVE": "CVE-2026-104935",
+    "PoC": "https://github.com/completetech-security/ivanti-connect-secure-cve-2026-104935-check"
+  },
+  {
+    "CVE": "CVE-2026-106072",
+    "PoC": "https://github.com/completetech-security/node-cve-2026-106072-check"
+  },
+  {
+    "CVE": "CVE-2026-105481",
+    "PoC": "https://github.com/completetech-security/node-cve-2026-105481-check"
+  },
+  {
+    "CVE": "CVE-2026-106069",
+    "PoC": "https://github.com/completetech-security/node-cve-2026-106069-check"
+  },
+  {
+    "CVE": "CVE-2026-105483",
+    "PoC": "https://github.com/completetech-security/node-cve-2026-105483-check"
+  },
+  {
+    "CVE": "CVE-2026-105482",
+    "PoC": "https://github.com/completetech-security/node-cve-2026-105482-check"
+  },
+  {
+    "CVE": "CVE-2026-58044",
+    "PoC": "https://github.com/completetech-security/node-cve-2026-58044-check"
+  },
+  {
+    "CVE": "CVE-2026-58039",
+    "PoC": "https://github.com/completetech-security/node-cve-2026-58039-check"
+  },
+  {
+    "CVE": "CVE-2026-56847",
+    "PoC": "https://github.com/completetech-security/node-cve-2026-56847-check"
+  },
+  {
+    "CVE": "CVE-2026-58045",
+    "PoC": "https://github.com/completetech-security/node-cve-2026-58045-check"
+  },
+  {
+    "CVE": "CVE-2026-58042",
+    "PoC": "https://github.com/completetech-security/node-cve-2026-58042-check"
+  },
+  {
+    "CVE": "CVE-2026-109618",
+    "PoC": "https://github.com/vintage-alt/CVE-2026-109618-and-CVE-2026-109619-php2shell-burpproxy"
+  },
+  {
+    "CVE": "CVE-2026-39987",
+    "PoC": "https://github.com/lunacysoft/CVE-2026-39987-POC-Marimo"
+  },
+  {
+    "CVE": "CVE-2026-111497",
+    "PoC": "https://github.com/lmoyacarias/nodejs-cve-2026-111497-checker"
+  },
+  {
+    "CVE": "CVE-2026-115560",
+    "PoC": "https://github.com/longltse/php-cve-2026-115560-poc"
+  },
+  {
+    "CVE": "CVE-2026-111497",
+    "PoC": "https://github.com/mahumadad/CVE-2026-111497-assessment"
+  },
+  {
+    "CVE": "CVE-2026-109619",
+    "PoC": "https://github.com/Taz1920/cve-2026-109619"
+  },
+  {
+    "CVE": "CVE-2026-106073",
+    "PoC": "https://github.com/completetech-security/node-cve-2026-106073-check"
+  },
+  {
+    "CVE": "CVE-2026-106071",
+    "PoC": "https://github.com/completetech-security/node-cve-2026-106071-check"
+  },
+  {
+    "CVE": "CVE-2026-106070",
+    "PoC": "https://github.com/completetech-security/node-cve-2026-106070-check"
+  },
+  {
+    "CVE": "CVE-2026-106074",
+    "PoC": "https://github.com/completetech-security/node-cve-2026-106074-check"
+  },
+  {
+    "CVE": "CVE-2026-116011",
+    "PoC": "https://github.com/D7EAD/CVE-2026-116011"
+  },
+  {
+    "CVE": "CVE-2026-110264",
+    "PoC": "https://github.com/emirwtz/CVE-2026-110264"
+  },
+  {
+    "CVE": "CVE-2026-109618",
+    "PoC": "https://github.com/devzyai/CVE-2026-109618-POC"
+  },
+  {
+    "CVE": "CVE-2026-98260",
+    "PoC": "https://github.com/sganggs/CVE-2026-98260-BRM-AN00"
+  },
+  {
+    "CVE": "CVE-2026-110152",
+    "PoC": "https://github.com/utkarsssh17/cve-2026-110152-chrome-ngle-rce-poc"
+  },
+  {
+    "CVE": "CVE-2025-5548",
+    "PoC": "https://github.com/pedrose-99/CVE-2025-5548"
+  },
+  {
+    "CVE": "CVE-2026-114612",
+    "PoC": "https://github.com/Hunt-Benito/one-salt-to-forge-them-all-cve-2026-114612-forged-admin-session-in-litellm"
+  },
+  {
+    "CVE": "CVE-2026-111497",
+    "PoC": "https://github.com/tc4dy/CVE-2026-111497-Toolkit"
+  },
+  {
+    "CVE": "CVE-2026-1096",
+    "PoC": "https://github.com/benzeng/php-cve-2026-1096-research"
+  },
+  {
+    "CVE": "CVE-2024-45490",
+    "PoC": "https://github.com/jstjep00/CVE-2024-45490-libexpat-poc"
+  },
+  {
+    "CVE": "CVE-2026-110264",
+    "PoC": "https://github.com/Masriyan/Exploit---CVE-2026-110264---GitLab-CE-EE-RCE-"
+  },
+  {
+    "CVE": "CVE-2026-110264",
+    "PoC": "https://github.com/Masriyan/Exploit-CVE-2026-110264-GitLab-CE-EE-RCE"
+  },
+  {
+    "CVE": "CVE-2026-111497",
+    "PoC": "https://github.com/s1ko/poc-cve-2026-111497"
+  },
+  {
+    "CVE": "CVE-2026-114509",
+    "PoC": "https://github.com/ArioVeisa/cve-2026-114509-laravel-tokenguard"
+  },
+  {
+    "CVE": "CVE-2026-111497",
+    "PoC": "https://github.com/pt-act/node2shell-cve-2026-111497"
+  },
+  {
+    "CVE": "CVE-2026-59774",
+    "PoC": "https://github.com/Ly0kha/CVE-2026-59774"
+  },
+  {
+    "CVE": "CVE-2026-111497",
+    "PoC": "https://github.com/googlesky/CVE-2026-111497"
+  },
+  {
+    "CVE": "CVE-2026-110264",
+    "PoC": "https://github.com/googlesky/CVE-2026-110264"
+  },
+  {
+    "CVE": "CVE-2026-115560",
+    "PoC": "https://github.com/googlesky/CVE-2026-115560"
+  },
+  {
+    "CVE": "CVE-2024-10441",
+    "PoC": "https://github.com/Ntn10/cve-2024-10441-synology-rce"
+  },
+  {
+    "CVE": "CVE-2026-112900",
+    "PoC": "https://github.com/moprius/CVE-2026-112900-Pillow-PoC"
+  },
+  {
+    "CVE": "CVE-2026-85168",
+    "PoC": "https://github.com/Boreas37/CVE-2026-85168-PoC"
+  },
+  {
+    "CVE": "CVE-2026-86076",
+    "PoC": "https://github.com/Boreas37/CVE-2026-86076-PoC"
+  },
+  {
+    "CVE": "CVE-2026-88009",
+    "PoC": "https://github.com/Boreas37/CVE-2026-88009-PoC"
+  },
+  {
+    "CVE": "CVE-2026-85595",
+    "PoC": "https://github.com/Boreas37/CVE-2026-85595-PoC"
+  },
+  {
+    "CVE": "CVE-2026-109618",
+    "PoC": "https://github.com/mostofajr7-sudo/CVE-2026-109618-CVE-2026-109619-php2shell-"
+  },
+  {
+    "CVE": "CVE-2026-111497",
+    "PoC": "https://github.com/syrex1013/CVE-2026-111497-node2shell"
+  },
+  {
+    "CVE": "CVE-2026-56190",
+    "PoC": "https://github.com/danarhirany300-ctrl/CVE-2026-56190-Windows-Server-2022-RDP"
+  },
+  {
+    "CVE": "CVE-2026-111497",
+    "PoC": "https://github.com/mnk-works/cve-2026-111497-rce-checker"
+  },
+  {
+    "CVE": "CVE-2026-44848",
+    "PoC": "https://github.com/mnk-works/portainer-cve-2026-44848-checker"
+  },
+  {
+    "CVE": "CVE-2019-9053",
+    "PoC": "https://github.com/RAMI-WB/CVE-2019-9053"
+  },
+  {
+    "CVE": "CVE-2021-31166",
+    "PoC": "https://github.com/testerxma/cve-2021-31166-poc"
+  },
+  {
+    "CVE": "CVE-2026-38526",
+    "PoC": "https://github.com/sh3llc0d3-0x15/CVE-2026-38526-Exploit"
+  },
+  {
+    "CVE": "CVE-2026-114820",
+    "PoC": "https://github.com/joedayz/cve-2026-114820-java-scan"
+  },
+  {
+    "CVE": "CVE-2026-116012",
+    "PoC": "https://github.com/D7EAD/CVE-2026-116012"
+  },
+  {
+    "CVE": "CVE-2026-114509",
+    "PoC": "https://github.com/emirwtz/cve-2026-114509"
+  },
+  {
     "CVE": "CVE-2026-86478",
     "PoC": "https://github.com/LHeiakim/CVE-2026-86478-PoC"
   },
