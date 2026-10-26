@@ -135,33 +135,35 @@
         .stats {
             display: flex;
             justify-content: center;
-            gap: 30px;
-            margin-top: 20px;
+            align-items: baseline;
+            flex-wrap: wrap;
+            gap: 10px;
+            margin-top: 18px;
         }
 
-        .stat-item {
-            text-align: center;
-            padding: 15px 25px;
-            background: var(--bg-stat);
-            border-radius: 12px;
-            border: 1px solid var(--border-stat);
+        .stat {
+            display: flex;
+            align-items: baseline;
+            gap: 6px;
         }
 
         .stat-number {
-            font-size: 1.8rem;
-            font-weight: bold;
+            font-size: 1.15rem;
+            font-weight: 600;
             color: var(--color-highlight);
+            font-variant-numeric: tabular-nums;
         }
 
         .stat-label {
             font-size: 0.9rem;
             color: var(--text-muted);
-            margin-top: 5px;
+        }
+
+        .stat-sep {
+            color: var(--text-faint);
         }
 
         .search-container {
-            display: flex;
-            gap: 10px;
             margin-bottom: 30px;
         }
 
@@ -170,16 +172,22 @@
             flex: 1;
         }
 
+        /* Google-style capsule search bar: full-radius pill, hairline border,
+           soft elevation on hover, glow on focus. */
         .search-box {
             width: 100%;
-            padding: 18px 20px 18px 50px;
+            padding: 18px 24px 18px 56px;
             font-size: 1.1rem;
-            border: 2px solid var(--border-input);
-            border-radius: 16px;
+            border: 1px solid var(--border-input);
+            border-radius: 999px;
             background: var(--bg-input);
             color: var(--color-input);
             outline: none;
             transition: all 0.3s ease;
+        }
+
+        .search-box:hover {
+            box-shadow: 0 2px 12px rgba(0, 0, 0, 0.18);
         }
 
         .search-box:focus {
@@ -192,37 +200,37 @@
             color: var(--placeholder);
         }
 
-        .search-icon {
+        /* The magnifier doubles as the search button: a real <button> so it is
+           focusable and keyboard-operable, with hover/focus affordances. */
+        .search-icon-btn {
             position: absolute;
             left: 18px;
             top: 50%;
             transform: translateY(-50%);
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            padding: 4px;
+            background: none;
+            border: none;
+            border-radius: 999px;
+            color: var(--text-muted);
+            cursor: pointer;
+            transition: color 0.2s ease;
+        }
+
+        .search-icon-btn:hover {
+            color: var(--color-highlight);
+        }
+
+        .search-icon-btn:focus-visible {
+            outline: 2px solid var(--color-highlight);
+            outline-offset: 2px;
+        }
+
+        .search-icon {
             width: 20px;
             height: 20px;
-            opacity: 0.5;
-            pointer-events: none;
-        }
-
-        .search-btn {
-            padding: 18px 30px;
-            font-size: 1.1rem;
-            font-weight: 600;
-            border: none;
-            border-radius: 16px;
-            background: linear-gradient(135deg, #00d4ff, #7c3aed);
-            color: #fff;
-            cursor: pointer;
-            transition: all 0.3s ease;
-            white-space: nowrap;
-        }
-
-        .search-btn:hover {
-            transform: translateY(-2px);
-            box-shadow: 0 5px 20px rgba(0, 212, 255, 0.3);
-        }
-
-        .search-btn:active {
-            transform: translateY(0);
         }
 
         .results-info {
@@ -524,21 +532,8 @@
                 font-size: 1.8rem;
             }
 
-            .stats {
-                flex-direction: column;
-                gap: 15px;
-            }
-
-            .search-container {
-                flex-direction: column;
-            }
-
             .search-box {
                 font-size: 1rem;
-            }
-
-            .search-btn {
-                padding: 15px 20px;
             }
 
             .theme-toggle {
@@ -572,26 +567,28 @@
             <h1>CVE PoC Search Engine</h1>
             <p>Almost every publicly available CVE PoC is included</p>
             <div class="stats">
-                <div class="stat-item">
-                    <div class="stat-number">143,298</div>
-                    <div class="stat-label">CVE Entries</div>
+                <div class="stat">
+                    <span class="stat-number">143,298</span>
+                    <span class="stat-label">CVE Entries</span>
                 </div>
-                <div class="stat-item">
-                    <div class="stat-number">210,918</div>
-                    <div class="stat-label">PoC Links</div>
+                <span class="stat-sep">·</span>
+                <div class="stat">
+                    <span class="stat-number">210,918</span>
+                    <span class="stat-label">PoC Links</span>
                 </div>
             </div>
         </div>
 
         <div class="search-container">
             <div class="search-wrapper">
-                <svg class="search-icon" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
-                    <circle cx="11" cy="11" r="8"></circle>
-                    <path d="m21 21-4.35-4.35"></path>
-                </svg>
-                <input type="text" class="search-box" id="searchInput" placeholder="Enter CVE ID (e.g., CVE-2024-1234)" autocomplete="off">
+                <button class="search-icon-btn" id="searchBtn" type="button" aria-label="Search" title="Search">
+                    <svg class="search-icon" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+                        <circle cx="11" cy="11" r="8"></circle>
+                        <path d="m21 21-4.35-4.35"></path>
+                    </svg>
+                </button>
+                <input type="text" class="search-box" id="searchInput" placeholder="Enter CVE ID (e.g., CVE-2024-1234)" autocomplete="off" enterkeyhint="search">
             </div>
-            <button class="search-btn" id="searchBtn">Search</button>
         </div>
 
         <div class="results-info" id="resultsInfo"></div>
@@ -611,7 +608,7 @@
                     Star on GitHub
                 </a>
             </p>
-            <p>Generated on 2026-10-26 07:23:44</p>
+            <p>Generated on 2026-10-26 07:54:55</p>
         </div>
     </div>
 
