@@ -23,7 +23,6 @@ except ImportError:
 
 
 DEFAULT_URL = "https://raw.githubusercontent.com/trickest/cve/main/references.txt"
-DEFAULT_PROXY = "192.168.17.1:10808"
 
 
 def download_references(url=DEFAULT_URL, proxy=None):
@@ -130,7 +129,7 @@ def main():
     parser.add_argument(
         '--proxy',
         default=None,
-        help=f'HTTP/HTTPS proxy (e.g., {DEFAULT_PROXY})'
+        help='HTTP/HTTPS proxy, host:port (e.g., 127.0.0.1:8080)'
     )
 
     args = parser.parse_args()
