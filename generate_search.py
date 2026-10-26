@@ -7,6 +7,9 @@ Generates a modern HTML search engine for CVE PoC lookups
 import json
 import os
 import re
+import time
+import urllib.error
+import urllib.request
 from datetime import datetime
 
 
@@ -16,6 +19,16 @@ CVE_ID_RE = re.compile(r'^CVE-\d{4}-\d{4,}$', re.IGNORECASE)
 DATE_RE = re.compile(r'^\d{4}-\d{2}-\d{2}$')
 # The CVE program started in 1999; the year is the allocation year, never future.
 CVE_YEAR_MIN = 1999
+
+# CVE enrichment (vendor/product) endpoints for the "recently added" list.
+# CVE Services has the authoritative CNA record and is fastest for new CVEs;
+# NVD has structured CPE but usually lags on fresh entries, so it is only a fallback.
+CVE_SERVICES_API = 'https://cveawg.mitre.org/api/cve/{}'
+NVD_API = 'https://services.nvd.nist.gov/rest/json/cves/2.0?cveId={}'
+# NVD allows 5 requests / 30 s without an API key; stay well under that.
+NVD_REQUEST_INTERVAL = 6
+# Placeholder values CNAs use when vendor/product is genuinely unknown.
+INFO_PLACEHOLDERS = {'', 'n/a', 'na', 'none', 'null', 'unknown', '-', '*'}
 
 
 def is_valid_cve(cve_id):
@@ -94,8 +107,8 @@ def load_first_seen(path):
     return {k: v for k, v in data.items() if isinstance(v, str) and DATE_RE.match(v)}
 
 
-def save_first_seen(path, data):
-    """Persist the first-seen map atomically (write to .tmp then os.replace)."""
+def save_json_atomic(path, data):
+    """Persist a JSON document atomically (write to .tmp then os.replace)."""
     output_dir = os.path.dirname(path)
     if output_dir:
         os.makedirs(output_dir, exist_ok=True)
@@ -123,6 +136,145 @@ def save_shields_stats(cve_path, poc_path, total_cves, total_pocs):
         }
         with open(path, 'w', encoding='utf-8') as f:
             json.dump(badge, f, ensure_ascii=False)
+
+
+def _get_json(url, timeout=30):
+    """GET a JSON document; raises OSError/ValueError on network or parse failure."""
+    request = urllib.request.Request(url, headers={'User-Agent': 'searchpoc-cve-info/1.0'})
+    with urllib.request.urlopen(request, timeout=timeout) as response:
+        return json.loads(response.read().decode('utf-8'))
+
+
+def _clean_info_field(value):
+    """Normalize a vendor/product field: strip whitespace, drop placeholder values."""
+    if not isinstance(value, str):
+        return ''
+    value = value.strip()
+    return '' if value.lower() in INFO_PLACEHOLDERS else value
+
+
+def _info_from_affected(affected):
+    """First usable {vendor, product} from a CVE-5.x 'affected' list, else None."""
+    for entry in affected or []:
+        if not isinstance(entry, dict):
+            continue
+        vendor = _clean_info_field(entry.get('vendor'))
+        product = _clean_info_field(entry.get('product'))
+        if product:
+            return {'vendor': vendor, 'product': product}
+    return None
+
+
+def fetch_info_cve_services(cve_id):
+    """Vendor/product from CVE Services (the authoritative CNA record).
+
+    Checks the CNA container first, then any ADP container (e.g. NVD's
+    enrichment), since some CNAs publish affected data only via ADP.
+    Returns None when the record has no usable vendor/product.
+    """
+    data = _get_json(CVE_SERVICES_API.format(cve_id))
+    containers = data.get('containers') or {}
+    ordered = []
+    cna = containers.get('cna')
+    if isinstance(cna, dict):
+        ordered.append(cna)
+    for key, container in containers.items():
+        if key == 'cna':
+            continue
+        if isinstance(container, list):
+            ordered.extend(c for c in container if isinstance(c, dict))
+        elif isinstance(container, dict):
+            ordered.append(container)
+    for container in ordered:
+        info = _info_from_affected(container.get('affected'))
+        if info:
+            return info
+    return None
+
+
+def fetch_info_nvd(cve_id, state):
+    """Vendor/product from NVD 2.0 CPE configurations; None if not enriched yet.
+
+    NVD typically has no CPE for freshly-published CVEs, so this is only a
+    fallback when the CNA record gave no structured vendor/product. `state`
+    carries the last-request timestamp so callers stay under the rate limit.
+    """
+    wait = NVD_REQUEST_INTERVAL - (time.monotonic() - state['last_nvd'])
+    if wait > 0:
+        time.sleep(wait)
+    data = _get_json(NVD_API.format(cve_id))
+    state['last_nvd'] = time.monotonic()
+    vulnerabilities = data.get('vulnerabilities') or []
+    cve = (vulnerabilities[0].get('cve') if vulnerabilities else None) or {}
+    for config in cve.get('configurations') or []:
+        for node in config.get('nodes') or []:
+            for match in node.get('cpeMatch') or []:
+                # cpe:2.3:part:vendor:product:version:...
+                parts = (match.get('criteria') or '').split(':')
+                if len(parts) >= 5:
+                    vendor = _clean_info_field(parts[3])
+                    product = _clean_info_field(parts[4])
+                    if product:
+                        return {'vendor': vendor, 'product': product}
+    return None
+
+
+def load_cve_info(path):
+    """Load the CVE -> {vendor, product} | None cache. Returns {} if missing/invalid."""
+    if not os.path.exists(path):
+        return {}
+    try:
+        with open(path, 'r', encoding='utf-8') as f:
+            data = json.load(f)
+    except (OSError, json.JSONDecodeError) as e:
+        print(f"Warning: could not load CVE info cache {path}: {e}; starting fresh.")
+        return {}
+    if not isinstance(data, dict):
+        print(f"Warning: CVE info cache {path} is not a JSON object; starting fresh.")
+        return {}
+    return data
+
+
+def enrich_recent_cves(recent_list, cache_path):
+    """Attach vendor/product info to recently added CVEs, via the persistent cache.
+
+    A successful lookup with no vendor/product available is cached as None so it
+    is not retried; a network failure leaves the entry uncached so the next run
+    retries it. Returns the number of newly fetched records.
+    """
+    cache = load_cve_info(cache_path)
+    state = {'last_nvd': 0.0}
+    fetched = 0
+    for item in recent_list:
+        cve_id = item['cveId']
+        if cve_id in cache:
+            info = cache[cve_id]
+        else:
+            try:
+                info = fetch_info_cve_services(cve_id)
+                if info is None:
+                    info = fetch_info_nvd(cve_id, state)
+            except urllib.error.HTTPError as e:
+                if e.code == 404:
+                    # CVE does not exist in the registry (e.g. structurally-valid
+                    # but fake IDs scraped from repo names): no data, permanently.
+                    info = None
+                else:
+                    # Transient failure: leave uncached so the next run retries.
+                    print(f"Warning: could not fetch CVE info for {cve_id}: {e}")
+                    continue
+            except (OSError, ValueError) as e:
+                # Transient failure: leave uncached so the next run retries.
+                print(f"Warning: could not fetch CVE info for {cve_id}: {e}")
+                continue
+            cache[cve_id] = info
+            fetched += 1
+        if info:
+            item['vendor'] = info['vendor']
+            item['product'] = info['product']
+    if fetched:
+        save_json_atomic(cache_path, cache)
+    return fetched
 
 
 def compute_recent(cve_data, first_seen, count):
@@ -490,9 +642,9 @@ def generate_html(cve_data, output_path="index.html", recent_data=None):
 
         .recent-chip {
             display: flex;
-            align-items: center;
-            justify-content: space-between;
-            gap: 8px;
+            flex-direction: column;
+            align-items: stretch;
+            gap: 6px;
             padding: 8px 12px;
             background: var(--bg-card);
             border: 1px solid var(--border-card);
@@ -501,6 +653,18 @@ def generate_html(cve_data, output_path="index.html", recent_data=None):
             transition: all 0.2s ease;
             font-family: inherit;
             color: var(--text-primary);
+        }
+
+        .recent-chip__row {
+            display: flex;
+            align-items: center;
+            justify-content: space-between;
+            gap: 8px;
+        }
+
+        .recent-chip__tags {
+            justify-content: flex-start;
+            flex-wrap: wrap;
         }
 
         .recent-chip:hover {
@@ -523,6 +687,45 @@ def generate_html(cve_data, output_path="index.html", recent_data=None):
         .recent-chip__date {
             color: var(--text-muted);
             font-size: 0.75rem;
+        }
+
+        .tag-row {
+            display: flex;
+            flex-wrap: wrap;
+            align-items: center;
+            gap: 6px;
+            margin: -6px 0 10px;
+        }
+
+        /* The global .tag has margin-left: 10px; reset it inside info rows so
+           the first tag lines up with the CVE ID above it. */
+        .tag-row .tag,
+        .recent-chip__tags .tag {
+            margin-left: 0;
+        }
+
+        .tag-vendor, .tag-product {
+            max-width: 160px;
+            overflow: hidden;
+            text-overflow: ellipsis;
+            white-space: nowrap;
+        }
+
+        /* Distinct hues so info tags never read as PoC links (purple):
+           green for vendor, cyan for product. */
+        .tag-vendor {
+            background: rgba(16, 185, 129, 0.15);
+            color: #34d399;
+        }
+
+        .tag-product {
+            background: rgba(0, 212, 255, 0.12);
+            color: var(--color-highlight);
+        }
+
+        [data-theme="light"] .tag-vendor {
+            background: rgba(16, 185, 129, 0.12);
+            color: #059669;
         }
 
         .footer {
@@ -733,6 +936,29 @@ def generate_html(cve_data, output_path="index.html", recent_data=None):
         // Recently added CVEs (top N by first-seen date), shown on the landing page.
         const recentData = ''' + recent_json + ''';
 
+        // vendor/product info, currently only available for recently added CVEs.
+        const cveInfo = {};
+        for (const r of recentData) {
+            if (r.vendor || r.product) {
+                cveInfo[r.cveId] = { vendor: r.vendor || '', product: r.product || '' };
+            }
+        }
+
+        // Render vendor/product as separate tags on their own row.
+        function infoTags(info) {
+            return [
+                info.vendor ? `<span class="tag tag-vendor" title="vendor: ${esc(info.vendor)}">${esc(info.vendor)}</span>` : '',
+                info.product ? `<span class="tag tag-product" title="product: ${esc(info.product)}">${esc(info.product)}</span>` : '',
+            ].filter(Boolean).join('');
+        }
+
+        // Escape untrusted strings (vendor/product come from external CVE feeds).
+        function esc(s) {
+            return String(s).replace(/[&<>"']/g, c => (
+                {'&': '&amp;', '<': '&lt;', '>': '&gt;', '"': '&quot;', "'": '&#39;'}[c]
+            ));
+        }
+
         const searchInput = document.getElementById('searchInput');
         const searchBtn = document.getElementById('searchBtn');
         const resultsContainer = document.getElementById('resultsContainer');
@@ -859,13 +1085,18 @@ def generate_html(cve_data, output_path="index.html", recent_data=None):
 
             resultsInfo.textContent = 'Recently added CVEs';
 
-            const chips = pageItems.map(r => `
+            const chips = pageItems.map(r => {
+                const tags = infoTags(r);
+                return `
                 <button class="recent-chip" data-cve="${r.cveId}" type="button" title="${r.cveId} · added ${r.date}">
-                    <span class="recent-chip__id">${r.cveId}</span>
-                    <span class="recent-chip__date">${r.date.slice(5)}</span>
-                    <span class="tag">${r.pocCount} PoC${r.pocCount > 1 ? 's' : ''}</span>
-                </button>
-            `).join('');
+                    <div class="recent-chip__row">
+                        <span class="recent-chip__id">${r.cveId}</span>
+                        <span class="recent-chip__date">${r.date.slice(5)}</span>
+                        <span class="tag">${r.pocCount} PoC${r.pocCount > 1 ? 's' : ''}</span>
+                    </div>
+                    ${tags ? `<div class="recent-chip__row recent-chip__tags">${tags}</div>` : ''}
+                </button>`;
+            }).join('');
             resultsContainer.innerHTML = `
                 <div class="recent-section">
                     <div class="recent-grid">${chips}</div>
@@ -908,12 +1139,15 @@ def generate_html(cve_data, output_path="index.html", recent_data=None):
             let html = '';
             for (const result of pageResults) {
                 const pocCount = result.pocs.length;
+                const info = cveInfo[result.cveId];
+                const tags = info ? infoTags(info) : '';
                 html += `
                     <div class="result-card">
                         <div class="cve-id">
                             ${result.cveId}
                             <span class="tag">${pocCount} PoC${pocCount > 1 ? 's' : ''}</span>
                         </div>
+                        ${tags ? `<div class="tag-row">${tags}</div>` : ''}
                         <div class="poc-links">
                             ${result.pocs.map(poc => `
                                 <a href="${poc}" target="_blank" rel="noopener noreferrer" class="poc-link">
@@ -1081,10 +1315,23 @@ def main():
             if cve_id not in first_seen:
                 first_seen[cve_id] = today_iso
                 new_count += 1
-        save_first_seen(fs_file, first_seen)
+        save_json_atomic(fs_file, first_seen)
         print(f"First-seen map: {new_count} new CVE(s) stamped, {len(first_seen)} total.")
         recent_list = compute_recent(cve_data, first_seen, count)
         print(f"Recently added: {len(recent_list)} CVE(s) embedded.")
+
+        # Attach vendor/product info to the recently added CVEs (cached lookup
+        # against CVE Services, with NVD as fallback). Needs network access on
+        # the first run; the cache makes subsequent runs offline-friendly.
+        info_cfg = config.get('cve_info') or {}
+        if recent_list and info_cfg.get('enabled', True):
+            info_file = info_cfg.get('file', 'data/cve_info.json')
+            if not os.path.isabs(info_file):
+                info_file = os.path.join(config.get('_config_dir', ''), info_file)
+            fetched = enrich_recent_cves(recent_list, info_file)
+            enriched = sum(1 for i in recent_list if i.get('vendor') or i.get('product'))
+            print(f"CVE info: {fetched} new record(s) fetched; "
+                  f"{enriched}/{len(recent_list)} recent entries have vendor/product.")
 
     print("Generating HTML search engine...")
     generate_html(cve_data, recent_data=recent_list)

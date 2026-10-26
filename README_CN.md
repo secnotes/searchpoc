@@ -18,6 +18,7 @@
 - **现代化UI设计**：支持深色/浅色主题切换，渐变背景
 - **独立HTML文件**：无需服务器，浏览器直接打开即可使用
 - **快速搜索**：通过CVE ID即时搜索（按回车或点击搜索按钮）
+- **最近新增**：展示最新收录的CVE，附vendor/product信息（数据来自CVE Services，NVD兜底）
 - **多数据源**：合并多个JSON数据源
 - **响应式设计**：支持桌面和移动设备
 - **主题记忆**：记住用户的主题偏好
@@ -34,8 +35,9 @@ python3 generate_search.py
 
 脚本会：
 1. 从 `config.json` 定义的所有数据源加载CVE数据
-2. 生成 `index.html`（数据已嵌入）
-3. 显示统计信息（CVE条目数和PoC链接数）
+2. 为最近新增的CVE拉取vendor/product信息（缓存到 `data/cve_info.json`，需要网络；已有缓存时可离线运行）
+3. 生成 `index.html`（数据已嵌入）
+4. 显示统计信息（CVE条目数和PoC链接数）
 
 ### 打开搜索页面
 
@@ -58,7 +60,16 @@ python3 generate_search.py
   "sources": [
     "unsafe/cve_poc_unsafe.json",
     "trickest/trickest_cve.json"
-  ]
+  ],
+  "recent": {
+    "enabled": true,
+    "count": 100,
+    "first_seen_file": "data/first_seen.json"
+  },
+  "cve_info": {
+    "enabled": true,
+    "file": "data/cve_info.json"
+  }
 }
 ```
 

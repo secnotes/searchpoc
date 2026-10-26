@@ -18,6 +18,7 @@ A modern, standalone HTML-based search engine for CVE Proof of Concept (PoC) exp
 - **Modern UI Design**: Dark/Light theme toggle with gradient backgrounds
 - **Standalone HTML**: No server required, works directly in browser
 - **Fast Search**: Instant search by CVE ID (press Enter or click Search button)
+- **Recently Added**: Latest CVEs with vendor/product info (fetched from CVE Services, NVD fallback)
 - **Multiple Data Sources**: Combines data from multiple JSON sources
 - **Responsive Design**: Works on desktop and mobile devices
 - **Theme Persistence**: Remembers user's theme preference
@@ -34,8 +35,9 @@ python3 generate_search.py
 
 This will:
 1. Load CVE data from all sources defined in `config.json`
-2. Generate `index.html` with embedded data
-3. Display statistics (total CVE entries and PoC links)
+2. Fetch vendor/product info for recently added CVEs (cached in `data/cve_info.json`; requires network on first run, cached entries work offline)
+3. Generate `index.html` with embedded data
+4. Display statistics (total CVE entries and PoC links)
 
 ### Open the Search Page
 
@@ -58,7 +60,16 @@ Edit `config.json` to add/remove data sources:
   "sources": [
     "unsafe/cve_poc_unsafe.json",
     "trickest/trickest_cve.json"
-  ]
+  ],
+  "recent": {
+    "enabled": true,
+    "count": 100,
+    "first_seen_file": "data/first_seen.json"
+  },
+  "cve_info": {
+    "enabled": true,
+    "file": "data/cve_info.json"
+  }
 }
 ```
 

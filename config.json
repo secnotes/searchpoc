@@ -7,5 +7,9 @@
     "enabled": true,
     "count": 100,
     "first_seen_file": "data/first_seen.json"
+  },
+  "cve_info": {
+    "enabled": true,
+    "file": "data/cve_info.json"
   }
 }
