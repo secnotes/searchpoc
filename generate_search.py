@@ -794,31 +794,9 @@ def generate_html(cve_data, output_path="index.html", recent_data=None):
             return q ? '#' + encodeURIComponent(q) : window.location.pathname + window.location.search;
         }
 
-        // Pure view render for a query: sets the input and switches to either the
-        // search results or the recent list. Does NOT touch browser history, so it
-        // is safe to call from popstate without creating loop entries.
-        function applyQuery(query) {
-            const q = (query || '').trim().toUpperCase();
-            searchInput.value = q;
-            searchCVE(q);   // searchCVE routes empty query to renderRecent()
-        }
-
-        // User-initiated navigation: push a history entry, then render. This is what
-        // makes Back return to the previous view (recent list / prior search).
-        function navigate(query) {
-            const q = (query || '').trim().toUpperCase();
-            history.pushState({ query: q }, '', urlForQuery(q));
-            applyQuery(q);
-        }
-
-        function searchCVE(query) {
-            query = query.trim().toUpperCase();
-
-            if (!query) {
-                renderRecent();
-                return;
-            }
-
+        // Run the CVE substring search and store the full result set. Paging and
+        // rendering are handled by the caller.
+        function runSearch(query) {
             const results = [];
 
             for (const [cveId, pocs] of Object.entries(cveData)) {
@@ -831,15 +809,37 @@ def generate_html(cve_data, output_path="index.html", recent_data=None):
             results.sort((a, b) => b.cveId.localeCompare(a.cveId));
 
             currentResults = results;
-            currentPage = 1;
-            displayResults();
-            renderPagination();
         }
 
-        function renderRecent() {
-            // Entry point (page load or empty query): start at the first page.
-            recentPage = 1;
-            displayRecent();
+        // Pure view render for a history state {query, page}: sets the input and
+        // renders either the recent list or the search results, on the given page.
+        // Does NOT touch browser history, so it is safe to call from popstate
+        // without creating loop entries.
+        function applyView(query, page) {
+            const q = (query || '').trim().toUpperCase();
+            const p = page || 1;
+            searchInput.value = q;
+            if (!q) {
+                recentPage = p;
+                displayRecent();   // displayRecent clamps recentPage to the last page
+            } else {
+                runSearch(q);
+                const totalPages = Math.max(1, Math.ceil(currentResults.length / ITEMS_PER_PAGE));
+                currentPage = Math.min(p, totalPages);
+                displayResults();
+                renderPagination();
+            }
+        }
+
+        // User-initiated navigation: push a history entry carrying the full view
+        // state (query + page), then render. This is what makes Back/Forward step
+        // through both views AND pages of the recent list / search results.
+        function navigate(query, page) {
+            const q = (query || '').trim().toUpperCase();
+            const p = page || 1;
+            history.pushState({ query: q, page: p }, '', urlForQuery(q));
+            applyView(q, p);
+            window.scrollTo(0, 0);
         }
 
         function displayRecent() {
@@ -878,9 +878,7 @@ def generate_html(cve_data, output_path="index.html", recent_data=None):
             });
 
             renderPaginationControl(total, recentPage, RECENT_PER_PAGE, (page) => {
-                recentPage = page;
-                displayRecent();
-                window.scrollTo(0, 0);
+                navigate('', page);
             });
         }
 
@@ -1001,10 +999,7 @@ def generate_html(cve_data, output_path="index.html", recent_data=None):
 
         function renderPagination() {
             renderPaginationControl(currentResults.length, currentPage, ITEMS_PER_PAGE, (page) => {
-                currentPage = page;
-                displayResults();
-                renderPagination();
-                window.scrollTo(0, 0);
+                navigate(searchInput.value, page);
             });
         }
 
@@ -1023,16 +1018,18 @@ def generate_html(cve_data, output_path="index.html", recent_data=None):
         // Restore the view when the user hits Back/Forward. Only re-render; never
         // pushState here, or Back would re-add entries and loop.
         window.addEventListener('popstate', (e) => {
-            const q = (e.state && typeof e.state.query === 'string') ? e.state.query : '';
-            applyQuery(q);
+            const s = e.state || {};
+            const q = (typeof s.query === 'string') ? s.query : '';
+            const page = (Number.isInteger(s.page) && s.page > 0) ? s.page : 1;
+            applyView(q, page);
             window.scrollTo(0, 0);
         });
 
         // Seed the initial history entry from the URL hash (supports refresh and
         // opening a shareable #CVE-xxxx link), then render the matching view.
         const initialQuery = decodeURIComponent(window.location.hash.slice(1)).trim().toUpperCase();
-        history.replaceState({ query: initialQuery }, '', urlForQuery(initialQuery));
-        applyQuery(initialQuery);
+        history.replaceState({ query: initialQuery, page: 1 }, '', urlForQuery(initialQuery));
+        applyView(initialQuery, 1);
         searchInput.focus();
     </script>
 </body>
