@@ -348,6 +348,7 @@ def generate_html(cve_data, output_path="index.html", recent_data=None):
             --color-input: #fff;
             --placeholder: #666;
             --shadow-input: rgba(0, 212, 255, 0.2);
+            --bg-fab: rgba(22, 33, 62, 0.88);
         }
 
         [data-theme="light"] {
@@ -378,6 +379,7 @@ def generate_html(cve_data, output_path="index.html", recent_data=None):
             --color-input: #1a1a2e;
             --placeholder: #8a8a9e;
             --shadow-input: rgba(0, 150, 200, 0.15);
+            --bg-fab: rgba(255, 255, 255, 0.92);
         }
 
         * {
@@ -406,21 +408,27 @@ def generate_html(cve_data, output_path="index.html", recent_data=None):
             position: relative;
         }
 
+        /* Floating theme toggle: fixed bottom-right so it stays reachable while
+           scrolling, with an opaque surface so content never bleeds through. */
         .theme-toggle {
-            position: absolute;
-            top: 0;
-            right: 0;
-            padding: 8px 12px;
-            background: var(--bg-stat);
-            border: 1px solid var(--border-stat);
-            border-radius: 8px;
-            cursor: pointer;
-            transition: all 0.3s ease;
+            position: fixed;
+            right: 24px;
+            bottom: 24px;
+            z-index: 10;
+            width: 44px;
+            height: 44px;
+            padding: 0;
             display: flex;
             align-items: center;
-            gap: 6px;
+            justify-content: center;
+            background: var(--bg-fab);
+            border: 1px solid var(--border-stat);
+            border-radius: 999px;
             color: var(--text-muted);
-            font-size: 0.85rem;
+            cursor: pointer;
+            transition: all 0.3s ease;
+            box-shadow: 0 4px 16px rgba(0, 0, 0, 0.2);
+            backdrop-filter: blur(8px);
         }
 
         .theme-toggle:hover {
@@ -428,9 +436,14 @@ def generate_html(cve_data, output_path="index.html", recent_data=None):
             color: var(--color-highlight);
         }
 
+        .theme-toggle:focus-visible {
+            outline: 2px solid var(--color-highlight);
+            outline-offset: 2px;
+        }
+
         .theme-icon {
-            width: 16px;
-            height: 16px;
+            width: 18px;
+            height: 18px;
         }
 
         .header h1 {
@@ -442,9 +455,23 @@ def generate_html(cve_data, output_path="index.html", recent_data=None):
             margin-bottom: 10px;
         }
 
-        .header p {
-            color: var(--text-secondary);
-            font-size: 1.1rem;
+        /* Title doubles as the "back to home" link; the h1's gradient clip
+           covers descendant text, so the link inherits the look as-is. */
+        .home-link {
+            color: inherit;
+            text-decoration: none;
+            cursor: pointer;
+            transition: opacity 0.2s ease;
+        }
+
+        .home-link:hover {
+            opacity: 0.8;
+        }
+
+        .home-link:focus-visible {
+            outline: 2px solid var(--color-highlight);
+            outline-offset: 4px;
+            border-radius: 8px;
         }
 
         .stats {
@@ -638,14 +665,49 @@ def generate_html(cve_data, output_path="index.html", recent_data=None):
             margin-left: 10px;
         }
 
-        .recent-section {
-            margin-top: 10px;
+        /* Collapsible "Recently added CVEs" section (native details/summary,
+           so it is keyboard- and screen-reader-accessible). */
+        .recent-details {
+            margin-top: 4px;
+        }
+
+        .recent-summary {
+            display: flex;
+            align-items: center;
+            gap: 8px;
+            padding: 6px 0;
+            cursor: pointer;
+            list-style: none;
+            user-select: none;
+            color: var(--text-muted);
+            font-size: 0.9rem;
+            transition: color 0.2s ease;
+        }
+
+        .recent-summary::-webkit-details-marker {
+            display: none;
+        }
+
+        /* Trailing disclosure chevron: the label starts at the content edge,
+           and the marker reads as "more below" (rotates down when open). */
+        .recent-summary::after {
+            content: "▸";
+            transition: transform 0.2s ease;
+        }
+
+        .recent-details[open] .recent-summary::after {
+            transform: rotate(90deg);
+        }
+
+        .recent-summary:hover {
+            color: var(--color-highlight);
         }
 
         .recent-grid {
             display: grid;
             grid-template-columns: repeat(auto-fill, minmax(260px, 1fr));
             gap: 10px;
+            margin-top: 10px;
         }
 
         .recent-chip {
@@ -851,9 +913,9 @@ def generate_html(cve_data, output_path="index.html", recent_data=None):
                 font-size: 1rem;
             }
 
-            .theme-toggle {
-                position: static;
-                margin-bottom: 20px;
+            /* Keep the floating toggle clear of the last content row. */
+            .container {
+                padding-bottom: 90px;
             }
         }
     </style>
@@ -872,15 +934,13 @@ def generate_html(cve_data, output_path="index.html", recent_data=None):
 <body>
     <div class="container">
         <div class="header">
-            <button class="theme-toggle" id="themeToggle">
+            <button class="theme-toggle" id="themeToggle" type="button" title="Switch to light theme" aria-label="Switch to light theme">
                 <svg class="theme-icon" id="themeIcon" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
                     <circle cx="12" cy="12" r="5"></circle>
                     <path d="M12 1v2M12 21v2M4.22 4.22l1.42 1.42M18.36 18.36l1.42 1.42M1 12h2M21 12h2M4.22 19.78l1.42-1.42M18.36 5.64l1.42-1.42"></path>
                 </svg>
-                <span id="themeText">Light</span>
             </button>
-            <h1>CVE PoC Search Engine</h1>
-            <p>Almost every publicly available CVE PoC is included</p>
+            <h1><a class="home-link" id="homeLink" href="" aria-label="Back to home">CVE PoC Search Engine</a></h1>
             <div class="stats">
                 <div class="stat">
                     <span class="stat-number">''' + f"{total_cves:,}" + '''</span>
@@ -963,7 +1023,6 @@ def generate_html(cve_data, output_path="index.html", recent_data=None):
         const paginationContainer = document.getElementById('pagination');
         const themeToggle = document.getElementById('themeToggle');
         const themeIcon = document.getElementById('themeIcon');
-        const themeText = document.getElementById('themeText');
 
         // Pagination settings
         const ITEMS_PER_PAGE = 20;
@@ -971,38 +1030,34 @@ def generate_html(cve_data, output_path="index.html", recent_data=None):
         let currentResults = [];
         let currentPage = 1;
         let recentPage = 1;
+        // Recent section starts collapsed; the user's choice persists across
+        // reloads ('0' in storage = they expanded it and we remember that).
+        let recentCollapsed = localStorage.getItem('recentCollapsed') !== '0';
 
         // Sun icon SVG path
         const sunIcon = '<circle cx="12" cy="12" r="5"></circle><path d="M12 1v2M12 21v2M4.22 4.22l1.42 1.42M18.36 18.36l1.42 1.42M1 12h2M21 12h2M4.22 19.78l1.42-1.42M18.36 5.64l1.42-1.42"></path>';
         // Moon icon SVG path
         const moonIcon = '<path d="M21 12.79A9 9 0 1 1 11.21 3 7 7 0 0 0 21 12.79z"></path>';
 
-        // Theme handling
+        // Theme handling: the icon shows the theme you would switch TO, and the
+        // tooltip/label states it explicitly (the button has no visible text).
+        function updateThemeUI(theme) {
+            const isLight = theme === 'light';
+            themeIcon.innerHTML = isLight ? moonIcon : sunIcon;
+            const label = isLight ? 'Switch to dark theme' : 'Switch to light theme';
+            themeToggle.title = label;
+            themeToggle.setAttribute('aria-label', label);
+        }
+
         function setTheme(theme) {
             document.documentElement.setAttribute('data-theme', theme);
             localStorage.setItem('theme', theme);
-
-            if (theme === 'light') {
-                themeIcon.innerHTML = moonIcon;
-                themeText.textContent = 'Dark';
-            } else {
-                themeIcon.innerHTML = sunIcon;
-                themeText.textContent = 'Light';
-            }
+            updateThemeUI(theme);
         }
 
-        // Update theme UI based on current theme (theme is already set by inline script in <head>)
-        function updateThemeUI() {
-            const currentTheme = document.documentElement.getAttribute('data-theme') || 'dark';
-            if (currentTheme === 'light') {
-                themeIcon.innerHTML = moonIcon;
-                themeText.textContent = 'Dark';
-            } else {
-                themeIcon.innerHTML = sunIcon;
-                themeText.textContent = 'Light';
-            }
-        }
-        updateThemeUI();
+        // The theme itself is already applied by the inline <head> script;
+        // here we only sync the button's icon and label.
+        updateThemeUI(document.documentElement.getAttribute('data-theme') || 'dark');
 
         // Toggle theme on button click
         themeToggle.addEventListener('click', () => {
@@ -1080,7 +1135,7 @@ def generate_html(cve_data, output_path="index.html", recent_data=None):
             const startIndex = (recentPage - 1) * RECENT_PER_PAGE;
             const pageItems = recentData.slice(startIndex, startIndex + RECENT_PER_PAGE);
 
-            resultsInfo.textContent = 'Recently added CVEs';
+            resultsInfo.textContent = '';
 
             const chips = pageItems.map(r => {
                 const tags = infoTags(r);
@@ -1094,10 +1149,14 @@ def generate_html(cve_data, output_path="index.html", recent_data=None):
                     ${tags ? `<div class="recent-chip__row recent-chip__tags">${tags}</div>` : ''}
                 </button>`;
             }).join('');
+            // Restoring a specific page from history should show its content,
+            // so navigation to page > 1 overrides the collapsed preference.
+            const open = recentPage > 1 || !recentCollapsed;
             resultsContainer.innerHTML = `
-                <div class="recent-section">
+                <details class="recent-details"${open ? ' open' : ''}>
+                    <summary class="recent-summary">Recently added CVEs</summary>
                     <div class="recent-grid">${chips}</div>
-                </div>
+                </details>
             `;
             resultsContainer.querySelectorAll('.recent-chip').forEach(el => {
                 el.addEventListener('click', () => {
@@ -1105,8 +1164,22 @@ def generate_html(cve_data, output_path="index.html", recent_data=None):
                 });
             });
 
-            renderPaginationControl(total, recentPage, RECENT_PER_PAGE, (page) => {
-                navigate('', page);
+            // Pagination belongs to the expanded content; hide it when collapsed.
+            const details = resultsContainer.querySelector('.recent-details');
+            const drawPagination = () => {
+                if (details.open) {
+                    renderPaginationControl(total, recentPage, RECENT_PER_PAGE, (page) => {
+                        navigate('', page);
+                    });
+                } else {
+                    paginationContainer.innerHTML = '';
+                }
+            };
+            drawPagination();
+            details.addEventListener('toggle', () => {
+                recentCollapsed = !details.open;
+                localStorage.setItem('recentCollapsed', recentCollapsed ? '1' : '0');
+                drawPagination();
             });
         }
 
@@ -1237,6 +1310,17 @@ def generate_html(cve_data, output_path="index.html", recent_data=None):
         // Search on button click
         searchBtn.addEventListener('click', () => {
             navigate(searchInput.value);
+        });
+
+        // Clicking the title returns to the home (recent) view. If we are
+        // already on home page 1, don't push a duplicate history entry.
+        document.getElementById('homeLink').addEventListener('click', (e) => {
+            e.preventDefault();
+            if (!searchInput.value.trim() && recentPage === 1) {
+                window.scrollTo(0, 0);
+                return;
+            }
+            navigate('');
         });
 
         // Search on Enter key press
