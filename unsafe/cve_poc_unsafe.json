@@ -1,5 +1,193 @@
 [
   {
+    "CVE": "CVE-2026-111760",
+    "PoC": "https://github.com/piergiorgioladisa/cve-2026-111760-purple-lab"
+  },
+  {
+    "CVE": "CVE-2026-106984",
+    "PoC": "https://github.com/l00neyhacker/CVE-2026-106984"
+  },
+  {
+    "CVE": "CVE-2026-106983",
+    "PoC": "https://github.com/l00neyhacker/CVE-2026-106983"
+  },
+  {
+    "CVE": "CVE-2026-106979",
+    "PoC": "https://github.com/l00neyhacker/CVE-2026-106979"
+  },
+  {
+    "CVE": "CVE-2026-106977",
+    "PoC": "https://github.com/l00neyhacker/CVE-2026-106977"
+  },
+  {
+    "CVE": "CVE-2026-106976",
+    "PoC": "https://github.com/l00neyhacker/CVE-2026-106976"
+  },
+  {
+    "CVE": "CVE-2026-126997",
+    "PoC": "https://github.com/evenomn/CVE-2026-126997"
+  },
+  {
+    "CVE": "CVE-2026-123158",
+    "PoC": "https://github.com/Dylans7j/CVE-2026-123158-OpenSSH-Auth-Bypass"
+  },
+  {
+    "CVE": "CVE-2026-98260",
+    "PoC": "https://github.com/skyrocketingHong/CVE-2026-98260_nezha"
+  },
+  {
+    "CVE": "CVE-2026-125350",
+    "PoC": "https://github.com/al4n4n/CVE-2026-125350"
+  },
+  {
+    "CVE": "CVE-2025-67898",
+    "PoC": "https://github.com/justmumu/CVE-2025-67898"
+  },
+  {
+    "CVE": "CVE-2026-119077",
+    "PoC": "https://github.com/im0xfay/CVE-2026-119077"
+  },
+  {
+    "CVE": "CVE-2026-41651",
+    "PoC": "https://github.com/0xv01d/CVE-2026-41651"
+  },
+  {
+    "CVE": "CVE-2026-39987",
+    "PoC": "https://github.com/0xv01d/CVE-2026-39987"
+  },
+  {
+    "CVE": "CVE-2026-6460",
+    "PoC": "https://github.com/slabbdev/postgresql-type-confusion-cve-2026-6460"
+  },
+  {
+    "CVE": "CVE-2026-125350",
+    "PoC": "https://github.com/mustafasaydam/CVE-2026-125350---Google-Chrome---XML-Use-After-Free-Vulnerability---PoC"
+  },
+  {
+    "CVE": "CVE-2026-119618",
+    "PoC": "https://github.com/blkph0x/CVE-2026-119618-mod_http2-lab"
+  },
+  {
+    "CVE": "CVE-2026-34265",
+    "PoC": "https://github.com/redrays-io/SAP-DIAG-Memory-Corruption-CVE-2026-34265"
+  },
+  {
+    "CVE": "CVE-2026-119618",
+    "PoC": "https://github.com/toeyhack/cve-2026-119618-apache-lab"
+  },
+  {
+    "CVE": "CVE-2026-117465",
+    "PoC": "https://github.com/l00neyhacker/CVE-2026-117465"
+  },
+  {
+    "CVE": "CVE-2026-117464",
+    "PoC": "https://github.com/l00neyhacker/CVE-2026-117464"
+  },
+  {
+    "CVE": "CVE-2026-110697",
+    "PoC": "https://github.com/googlesky/CVE-2026-110697"
+  },
+  {
+    "CVE": "CVE-2026-117463",
+    "PoC": "https://github.com/l00neyhacker/CVE-2026-117463"
+  },
+  {
+    "CVE": "CVE-2026-117462",
+    "PoC": "https://github.com/l00neyhacker/CVE-2026-117462"
+  },
+  {
+    "CVE": "CVE-2026-117461",
+    "PoC": "https://github.com/l00neyhacker/CVE-2026-117461"
+  },
+  {
+    "CVE": "CVE-2026-117459",
+    "PoC": "https://github.com/l00neyhacker/CVE-2026-117459"
+  },
+  {
+    "CVE": "CVE-2026-117458",
+    "PoC": "https://github.com/l00neyhacker/CVE-2026-117458"
+  },
+  {
+    "CVE": "CVE-2025-53770",
+    "PoC": "https://github.com/alinaclark672377250/CVE-2025-53770"
+  },
+  {
+    "CVE": "CVE-2026-112611",
+    "PoC": "https://github.com/hkl1593246852-del/CVE-2026-112611"
+  },
+  {
+    "CVE": "CVE-2026-121529",
+    "PoC": "https://github.com/tc4dy/CVE-2026-121529-Toolkit"
+  },
+  {
+    "CVE": "CVE-2026-129254",
+    "PoC": "https://github.com/Usama-Hanif131/CVE-2026-129254"
+  },
+  {
+    "CVE": "CVE-2026-129110",
+    "PoC": "https://github.com/psylinux/CVE-2026-129110-sysPass"
+  },
+  {
+    "CVE": "CVE-2025-31131",
+    "PoC": "https://github.com/alinaclark672377250/CVE-2025-31131"
+  },
+  {
+    "CVE": "CVE-2025-29927",
+    "PoC": "https://github.com/alinaclark672377250/CVE-2025-29927-POC"
+  },
+  {
+    "CVE": "CVE-2025-24813",
+    "PoC": "https://github.com/alinaclark672377250/CVE-2025-24813"
+  },
+  {
+    "CVE": "CVE-2025-24799",
+    "PoC": "https://github.com/alinaclark672377250/CVE-2025-24799"
+  },
+  {
+    "CVE": "CVE-2025-24016",
+    "PoC": "https://github.com/alinaclark672377250/CVE-2025-24016"
+  },
+  {
+    "CVE": "CVE-2025-1661",
+    "PoC": "https://github.com/alinaclark672377250/CVE-2025-1661"
+  },
+  {
+    "CVE": "CVE-2026-53787",
+    "PoC": "https://github.com/karthi-the-hacker/CVE-2026-53787"
+  },
+  {
+    "CVE": "CVE-2026-6460",
+    "PoC": "https://github.com/chor4o/CVE-2026-6460-POC"
+  },
+  {
+    "CVE": "CVE-2020-1938",
+    "PoC": "https://github.com/Mohammad-Anon/CVE-2020-1938"
+  },
+  {
+    "CVE": "CVE-2026-67177",
+    "PoC": "https://github.com/praksokchea/CVE-2026-67177"
+  },
+  {
+    "CVE": "CVE-2025-4606",
+    "PoC": "https://github.com/0xCyp1337/CVE-2025-4606"
+  },
+  {
+    "CVE": "CVE-2026-111497",
+    "PoC": "https://github.com/alequinterok/CVE-2026-111497"
+  },
+  {
+    "CVE": "CVE-2026-21509",
+    "PoC": "https://github.com/maxprog-svg/CVE-2026-21509"
+  },
+  {
+    "CVE": "CVE-2026-113408",
+    "PoC": "https://github.com/xssdoctor/git-cve-2026-113408-poc"
+  },
+  {
+    "CVE": "CVE-2026-111497",
+    "PoC": "https://github.com/OhMyDitzzy/CVE-2026-111497"
+  },
+  {
     "CVE": "CVE-2026-98260",
     "PoC": "https://github.com/mumaosong/CVE-2026-98260-Drive"
   },
