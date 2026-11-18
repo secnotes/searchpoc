@@ -1,5 +1,145 @@
 [
   {
+    "CVE": "CVE-2021-41773",
+    "PoC": "https://github.com/xlondra/CVE-2021-41773"
+  },
+  {
+    "CVE": "CVE-2026-114938",
+    "PoC": "https://github.com/jeffschafer/BigFix-Java4Shell-CVE-2026-114938-Scanner"
+  },
+  {
+    "CVE": "CVE-2026-82025",
+    "PoC": "https://github.com/rxsklife/CVE-2026-82025"
+  },
+  {
+    "CVE": "CVE-2026-114938",
+    "PoC": "https://github.com/theori-io/java4shell-runtime-patch-CVE-2026-114938"
+  },
+  {
+    "CVE": "CVE-2026-111497",
+    "PoC": "https://github.com/proxy0x/CVE-2026-111497"
+  },
+  {
+    "CVE": "CVE-2025-057819",
+    "PoC": "https://github.com/Amoru-Bek/FreePBX-CVE-2025-057819-Remote-Code-Execution"
+  },
+  {
+    "CVE": "CVE-2026-114938",
+    "PoC": "https://github.com/ashrafzaryouh/CVE-2026-114938"
+  },
+  {
+    "CVE": "CVE-2026-63219",
+    "PoC": "https://github.com/Cyberuser-hash/CVE-2026-63219"
+  },
+  {
+    "CVE": "CVE-2026-130347",
+    "PoC": "https://github.com/googlesky/CVE-2026-130347"
+  },
+  {
+    "CVE": "CVE-2026-99288",
+    "PoC": "https://github.com/mustafasaydam/CVE-2026-99288---NoisyTCP-Exploit"
+  },
+  {
+    "CVE": "CVE-2026-121684",
+    "PoC": "https://github.com/im0xfay/CVE-2026-121684"
+  },
+  {
+    "CVE": "CVE-2026-130354",
+    "PoC": "https://github.com/googlesky/CVE-2026-130354"
+  },
+  {
+    "CVE": "CVE-2026-29013",
+    "PoC": "https://github.com/DoraYeh1519/cve-2026-29013-libcoap-oscore-repro"
+  },
+  {
+    "CVE": "CVE-2019-9193",
+    "PoC": "https://github.com/Exript/CVE-2019-9193"
+  },
+  {
+    "CVE": "CVE-2019-9193",
+    "PoC": "https://github.com/Exript/CVE-2019-9193-exploit"
+  },
+  {
+    "CVE": "CVE-2026-127048",
+    "PoC": "https://github.com/MirzaMuhammadSanaullah/CVE-2026-127048"
+  },
+  {
+    "CVE": "CVE-2026-131842",
+    "PoC": "https://github.com/googlesky/CVE-2026-131842"
+  },
+  {
+    "CVE": "CVE-2026-114938",
+    "PoC": "https://github.com/Dungsocool/CVE-2026-114938"
+  },
+  {
+    "CVE": "CVE-2026-114938",
+    "PoC": "https://github.com/klapertart/Java4Shell-CVE-2026-114938-Summary"
+  },
+  {
+    "CVE": "CVE-2026-114938",
+    "PoC": "https://github.com/arkrwn/PoC-CVE-2026-114938"
+  },
+  {
+    "CVE": "CVE-2023-33107",
+    "PoC": "https://github.com/justwezzz/CVE-2023-33107-908SH"
+  },
+  {
+    "CVE": "CVE-2025-65616",
+    "PoC": "https://github.com/redline1736/CVE-2025-65616"
+  },
+  {
+    "CVE": "CVE-2026-114938",
+    "PoC": "https://github.com/douglasmun/CVE-2026-114938_Java4Shell_lab"
+  },
+  {
+    "CVE": "CVE-2026-131850",
+    "PoC": "https://github.com/murrez/CVE-2026-131850"
+  },
+  {
+    "CVE": "CVE-2026-112611",
+    "PoC": "https://github.com/SKVLENT/CVE-2026-112611"
+  },
+  {
+    "CVE": "CVE-2026-124024",
+    "PoC": "https://github.com/D7EAD/CVE-2026-124024"
+  },
+  {
+    "CVE": "CVE-2026-114938",
+    "PoC": "https://github.com/pathcosmos/CVE-2026-114938"
+  },
+  {
+    "CVE": "CVE-2026-111825",
+    "PoC": "https://github.com/jacobbabula/CVE-2026-111825"
+  },
+  {
+    "CVE": "CVE-2025-55182",
+    "PoC": "https://github.com/alinaclark672377250/React2Shell_Rce-cve-2025-55182"
+  },
+  {
+    "CVE": "CVE-2026-114938",
+    "PoC": "https://github.com/arturo-b-cmu/CVE-2026-114938"
+  },
+  {
+    "CVE": "CVE-2026-114938",
+    "PoC": "https://github.com/jeffschafer/MANUAL-Scanner-Java4Shell-CVE-2026-114938"
+  },
+  {
+    "CVE": "CVE-2026-123158",
+    "PoC": "https://github.com/Quaerendir/cve-2026-123158-audit"
+  },
+  {
+    "CVE": "CVE-2026-114938",
+    "PoC": "https://github.com/Pwned-test/cve-2026-114938-java17-PoC"
+  },
+  {
+    "CVE": "CVE-2026-127222",
+    "PoC": "https://github.com/rahulreddykarne/CVE-2026-127222-sglang"
+  },
+  {
+    "CVE": "CVE-2026-98260",
+    "PoC": "https://github.com/yxc0915/cve-2026-98260-ppg-an00"
+  },
+  {
     "CVE": "CVE-2026-15315",
     "PoC": "https://github.com/moyaiix/Tapo-CVE-2026-15315-Poc"
   },
