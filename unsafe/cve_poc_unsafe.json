@@ -1,5 +1,809 @@
 [
   {
+    "CVE": "CVE-2026-114938",
+    "PoC": "https://github.com/googlesky/CVE-2026-114938"
+  },
+  {
+    "CVE": "CVE-2026-22816",
+    "PoC": "https://github.com/googlesky/CVE-2026-22816"
+  },
+  {
+    "CVE": "CVE-2026-135715",
+    "PoC": "https://github.com/googlesky/CVE-2026-135715"
+  },
+  {
+    "CVE": "CVE-2026-135713",
+    "PoC": "https://github.com/googlesky/CVE-2026-135713"
+  },
+  {
+    "CVE": "CVE-2026-135718",
+    "PoC": "https://github.com/googlesky/CVE-2026-135718"
+  },
+  {
+    "CVE": "CVE-2026-135706",
+    "PoC": "https://github.com/googlesky/CVE-2026-135706"
+  },
+  {
+    "CVE": "CVE-2026-135705",
+    "PoC": "https://github.com/googlesky/CVE-2026-135705"
+  },
+  {
+    "CVE": "CVE-2026-135167",
+    "PoC": "https://github.com/googlesky/CVE-2026-135167"
+  },
+  {
+    "CVE": "CVE-2026-135736",
+    "PoC": "https://github.com/googlesky/CVE-2026-135736"
+  },
+  {
+    "CVE": "CVE-2026-135712",
+    "PoC": "https://github.com/googlesky/CVE-2026-135712"
+  },
+  {
+    "CVE": "CVE-2026-129496",
+    "PoC": "https://github.com/googlesky/CVE-2026-129496"
+  },
+  {
+    "CVE": "CVE-2026-133968",
+    "PoC": "https://github.com/googlesky/CVE-2026-133968"
+  },
+  {
+    "CVE": "CVE-2026-29000",
+    "PoC": "https://github.com/0o176/CVE-2026-29000_PoC"
+  },
+  {
+    "CVE": "CVE-2026-48751",
+    "PoC": "https://github.com/googlesky/CVE-2026-48751"
+  },
+  {
+    "CVE": "CVE-2026-126714",
+    "PoC": "https://github.com/cybervidhi-192/phpAfterShell-CVE-2026-126714"
+  },
+  {
+    "CVE": "CVE-2026-133780",
+    "PoC": "https://github.com/googlesky/CVE-2026-133780"
+  },
+  {
+    "CVE": "CVE-2026-99491",
+    "PoC": "https://github.com/ChaYeWuu/Xring-CVE-2026-99491"
+  },
+  {
+    "CVE": "CVE-2026-30940",
+    "PoC": "https://github.com/googlesky/CVE-2026-30940"
+  },
+  {
+    "CVE": "CVE-2026-115375",
+    "PoC": "https://github.com/googlesky/CVE-2026-115375"
+  },
+  {
+    "CVE": "CVE-2026-129975",
+    "PoC": "https://github.com/googlesky/CVE-2026-129975"
+  },
+  {
+    "CVE": "CVE-2026-130453",
+    "PoC": "https://github.com/googlesky/CVE-2026-130453"
+  },
+  {
+    "CVE": "CVE-2026-132825",
+    "PoC": "https://github.com/googlesky/CVE-2026-132825"
+  },
+  {
+    "CVE": "CVE-2026-135744",
+    "PoC": "https://github.com/googlesky/CVE-2026-135744"
+  },
+  {
+    "CVE": "CVE-2026-134401",
+    "PoC": "https://github.com/abraxas/cve-2026-134401-chrome-variations-http-seed"
+  },
+  {
+    "CVE": "CVE-2021-44228",
+    "PoC": "https://github.com/one-zyd/Log4j2-CVE-2021-44228"
+  },
+  {
+    "CVE": "CVE-2026-135734",
+    "PoC": "https://github.com/googlesky/CVE-2026-135734"
+  },
+  {
+    "CVE": "CVE-2026-135722",
+    "PoC": "https://github.com/googlesky/CVE-2026-135722"
+  },
+  {
+    "CVE": "CVE-2026-123903",
+    "PoC": "https://github.com/dinosn/CVE-2026-123903"
+  },
+  {
+    "CVE": "CVE-2026-135173",
+    "PoC": "https://github.com/googlesky/CVE-2026-135173"
+  },
+  {
+    "CVE": "CVE-2026-135175",
+    "PoC": "https://github.com/googlesky/CVE-2026-135175"
+  },
+  {
+    "CVE": "CVE-2026-135160",
+    "PoC": "https://github.com/googlesky/CVE-2026-135160"
+  },
+  {
+    "CVE": "CVE-2026-135729",
+    "PoC": "https://github.com/googlesky/CVE-2026-135729"
+  },
+  {
+    "CVE": "CVE-2026-135731",
+    "PoC": "https://github.com/googlesky/CVE-2026-135731"
+  },
+  {
+    "CVE": "CVE-2026-135725",
+    "PoC": "https://github.com/googlesky/CVE-2026-135725"
+  },
+  {
+    "CVE": "CVE-2026-135723",
+    "PoC": "https://github.com/googlesky/CVE-2026-135723"
+  },
+  {
+    "CVE": "CVE-2026-135154",
+    "PoC": "https://github.com/googlesky/CVE-2026-135154"
+  },
+  {
+    "CVE": "CVE-2026-135207",
+    "PoC": "https://github.com/googlesky/CVE-2026-135207"
+  },
+  {
+    "CVE": "CVE-2026-135704",
+    "PoC": "https://github.com/googlesky/CVE-2026-135704"
+  },
+  {
+    "CVE": "CVE-2026-135714",
+    "PoC": "https://github.com/googlesky/CVE-2026-135714"
+  },
+  {
+    "CVE": "CVE-2026-135720",
+    "PoC": "https://github.com/googlesky/CVE-2026-135720"
+  },
+  {
+    "CVE": "CVE-2026-135711",
+    "PoC": "https://github.com/googlesky/CVE-2026-135711"
+  },
+  {
+    "CVE": "CVE-2026-135708",
+    "PoC": "https://github.com/googlesky/CVE-2026-135708"
+  },
+  {
+    "CVE": "CVE-2026-109480",
+    "PoC": "https://github.com/cveForge/CVE-2026-109480"
+  },
+  {
+    "CVE": "CVE-2026-118285",
+    "PoC": "https://github.com/cveForge/CVE-2026-118285"
+  },
+  {
+    "CVE": "CVE-2026-70305",
+    "PoC": "https://github.com/cveForge/CVE-2026-70305"
+  },
+  {
+    "CVE": "CVE-2026-135244",
+    "PoC": "https://github.com/googlesky/CVE-2026-135244"
+  },
+  {
+    "CVE": "CVE-2026-119582",
+    "PoC": "https://github.com/cveForge/CVE-2026-119582"
+  },
+  {
+    "CVE": "CVE-2026-131914",
+    "PoC": "https://github.com/Hakchandara/CVE-2026-131914-"
+  },
+  {
+    "CVE": "CVE-2026-131914",
+    "PoC": "https://github.com/Hakchandara/CVE-2026-131914"
+  },
+  {
+    "CVE": "CVE-2026-135202",
+    "PoC": "https://github.com/cveForge/CVE-2026-135202"
+  },
+  {
+    "CVE": "CVE-2026-135208",
+    "PoC": "https://github.com/cveForge/CVE-2026-135208"
+  },
+  {
+    "CVE": "CVE-2026-50691",
+    "PoC": "https://github.com/cveForge/CVE-2026-50691"
+  },
+  {
+    "CVE": "CVE-2026-135241",
+    "PoC": "https://github.com/googlesky/CVE-2026-135241"
+  },
+  {
+    "CVE": "CVE-2026-70193",
+    "PoC": "https://github.com/cveForge/CVE-2026-70193"
+  },
+  {
+    "CVE": "CVE-2026-135231",
+    "PoC": "https://github.com/googlesky/CVE-2026-135231"
+  },
+  {
+    "CVE": "CVE-2026-62841",
+    "PoC": "https://github.com/cveForge/CVE-2026-62841"
+  },
+  {
+    "CVE": "CVE-2026-135739",
+    "PoC": "https://github.com/googlesky/CVE-2026-135739"
+  },
+  {
+    "CVE": "CVE-2026-135735",
+    "PoC": "https://github.com/googlesky/CVE-2026-135735"
+  },
+  {
+    "CVE": "CVE-2026-135732",
+    "PoC": "https://github.com/googlesky/CVE-2026-135732"
+  },
+  {
+    "CVE": "CVE-2026-135745",
+    "PoC": "https://github.com/googlesky/CVE-2026-135745"
+  },
+  {
+    "CVE": "CVE-2026-135740",
+    "PoC": "https://github.com/googlesky/CVE-2026-135740"
+  },
+  {
+    "CVE": "CVE-2022-22706",
+    "PoC": "https://github.com/color88/CVE-2022-22706-CVE-2026-43499-y70t"
+  },
+  {
+    "CVE": "CVE-2026-135260",
+    "PoC": "https://github.com/googlesky/CVE-2026-135260"
+  },
+  {
+    "CVE": "CVE-2026-81962",
+    "PoC": "https://github.com/cveForge/CVE-2026-81962"
+  },
+  {
+    "CVE": "CVE-2026-134624",
+    "PoC": "https://github.com/cveForge/CVE-2026-134624"
+  },
+  {
+    "CVE": "CVE-2026-135693",
+    "PoC": "https://github.com/cveForge/CVE-2026-135693"
+  },
+  {
+    "CVE": "CVE-2026-101862",
+    "PoC": "https://github.com/cveForge/CVE-2026-101862"
+  },
+  {
+    "CVE": "CVE-2026-101863",
+    "PoC": "https://github.com/cveForge/CVE-2026-101863"
+  },
+  {
+    "CVE": "CVE-2026-119543",
+    "PoC": "https://github.com/cveForge/CVE-2026-119543"
+  },
+  {
+    "CVE": "CVE-2026-121016",
+    "PoC": "https://github.com/cveForge/CVE-2026-121016"
+  },
+  {
+    "CVE": "CVE-2026-121018",
+    "PoC": "https://github.com/cveForge/CVE-2026-121018"
+  },
+  {
+    "CVE": "CVE-2026-134337",
+    "PoC": "https://github.com/cveForge/CVE-2026-134337"
+  },
+  {
+    "CVE": "CVE-2026-135436",
+    "PoC": "https://github.com/cveForge/CVE-2026-135436"
+  },
+  {
+    "CVE": "CVE-2026-135691",
+    "PoC": "https://github.com/cveForge/CVE-2026-135691"
+  },
+  {
+    "CVE": "CVE-2026-135245",
+    "PoC": "https://github.com/googlesky/CVE-2026-135245"
+  },
+  {
+    "CVE": "CVE-2026-135248",
+    "PoC": "https://github.com/googlesky/CVE-2026-135248"
+  },
+  {
+    "CVE": "CVE-2026-135695",
+    "PoC": "https://github.com/cveForge/CVE-2026-135695"
+  },
+  {
+    "CVE": "CVE-2026-113824",
+    "PoC": "https://github.com/cveForge/CVE-2026-113824"
+  },
+  {
+    "CVE": "CVE-2026-117593",
+    "PoC": "https://github.com/cveForge/CVE-2026-117593"
+  },
+  {
+    "CVE": "CVE-2026-118286",
+    "PoC": "https://github.com/cveForge/CVE-2026-118286"
+  },
+  {
+    "CVE": "CVE-2026-69899",
+    "PoC": "https://github.com/cveForge/CVE-2026-69899"
+  },
+  {
+    "CVE": "CVE-2026-109490",
+    "PoC": "https://github.com/cveForge/CVE-2026-109490"
+  },
+  {
+    "CVE": "CVE-2026-134827",
+    "PoC": "https://github.com/cveForge/CVE-2026-134827"
+  },
+  {
+    "CVE": "CVE-2026-134250",
+    "PoC": "https://github.com/cveForge/CVE-2026-134250"
+  },
+  {
+    "CVE": "CVE-2026-101867",
+    "PoC": "https://github.com/cveForge/CVE-2026-101867"
+  },
+  {
+    "CVE": "CVE-2026-118049",
+    "PoC": "https://github.com/cveForge/CVE-2026-118049"
+  },
+  {
+    "CVE": "CVE-2026-134451",
+    "PoC": "https://github.com/cveForge/CVE-2026-134451"
+  },
+  {
+    "CVE": "CVE-2026-134814",
+    "PoC": "https://github.com/cveForge/CVE-2026-134814"
+  },
+  {
+    "CVE": "CVE-2026-134815",
+    "PoC": "https://github.com/cveForge/CVE-2026-134815"
+  },
+  {
+    "CVE": "CVE-2026-135155",
+    "PoC": "https://github.com/googlesky/CVE-2026-135155"
+  },
+  {
+    "CVE": "CVE-2026-134836",
+    "PoC": "https://github.com/cveForge/CVE-2026-134836"
+  },
+  {
+    "CVE": "CVE-2026-135157",
+    "PoC": "https://github.com/cveForge/CVE-2026-135157"
+  },
+  {
+    "CVE": "CVE-2026-135171",
+    "PoC": "https://github.com/cveForge/CVE-2026-135171"
+  },
+  {
+    "CVE": "CVE-2026-135175",
+    "PoC": "https://github.com/cveForge/CVE-2026-135175"
+  },
+  {
+    "CVE": "CVE-2026-135211",
+    "PoC": "https://github.com/cveForge/CVE-2026-135211"
+  },
+  {
+    "CVE": "CVE-2026-135689",
+    "PoC": "https://github.com/cveForge/CVE-2026-135689"
+  },
+  {
+    "CVE": "CVE-2026-135743",
+    "PoC": "https://github.com/cveForge/CVE-2026-135743"
+  },
+  {
+    "CVE": "CVE-2026-136120",
+    "PoC": "https://github.com/cveForge/CVE-2026-136120"
+  },
+  {
+    "CVE": "CVE-2026-136126",
+    "PoC": "https://github.com/cveForge/CVE-2026-136126"
+  },
+  {
+    "CVE": "CVE-2026-101866",
+    "PoC": "https://github.com/cveForge/CVE-2026-101866"
+  },
+  {
+    "CVE": "CVE-2026-65817",
+    "PoC": "https://github.com/cveForge/CVE-2026-65817"
+  },
+  {
+    "CVE": "CVE-2026-69437",
+    "PoC": "https://github.com/cveForge/CVE-2026-69437"
+  },
+  {
+    "CVE": "CVE-2026-134291",
+    "PoC": "https://github.com/cveForge/CVE-2026-134291"
+  },
+  {
+    "CVE": "CVE-2026-134325",
+    "PoC": "https://github.com/cveForge/CVE-2026-134325"
+  },
+  {
+    "CVE": "CVE-2026-134367",
+    "PoC": "https://github.com/cveForge/CVE-2026-134367"
+  },
+  {
+    "CVE": "CVE-2026-135722",
+    "PoC": "https://github.com/cveForge/CVE-2026-135722"
+  },
+  {
+    "CVE": "CVE-2026-135725",
+    "PoC": "https://github.com/cveForge/CVE-2026-135725"
+  },
+  {
+    "CVE": "CVE-2026-135734",
+    "PoC": "https://github.com/cveForge/CVE-2026-135734"
+  },
+  {
+    "CVE": "CVE-2026-135737",
+    "PoC": "https://github.com/cveForge/CVE-2026-135737"
+  },
+  {
+    "CVE": "CVE-2026-135738",
+    "PoC": "https://github.com/cveForge/CVE-2026-135738"
+  },
+  {
+    "CVE": "CVE-2026-135740",
+    "PoC": "https://github.com/cveForge/CVE-2026-135740"
+  },
+  {
+    "CVE": "CVE-2026-135742",
+    "PoC": "https://github.com/cveForge/CVE-2026-135742"
+  },
+  {
+    "CVE": "CVE-2026-136123",
+    "PoC": "https://github.com/cveForge/CVE-2026-136123"
+  },
+  {
+    "CVE": "CVE-2026-82216",
+    "PoC": "https://github.com/cveForge/CVE-2026-82216"
+  },
+  {
+    "CVE": "CVE-2026-135166",
+    "PoC": "https://github.com/googlesky/CVE-2026-135166"
+  },
+  {
+    "CVE": "CVE-2026-101864",
+    "PoC": "https://github.com/cveForge/CVE-2026-101864"
+  },
+  {
+    "CVE": "CVE-2026-134287",
+    "PoC": "https://github.com/cveForge/CVE-2026-134287"
+  },
+  {
+    "CVE": "CVE-2026-134393",
+    "PoC": "https://github.com/cveForge/CVE-2026-134393"
+  },
+  {
+    "CVE": "CVE-2026-135210",
+    "PoC": "https://github.com/googlesky/CVE-2026-135210"
+  },
+  {
+    "CVE": "CVE-2026-134404",
+    "PoC": "https://github.com/cveForge/CVE-2026-134404"
+  },
+  {
+    "CVE": "CVE-2026-134417",
+    "PoC": "https://github.com/cveForge/CVE-2026-134417"
+  },
+  {
+    "CVE": "CVE-2026-134435",
+    "PoC": "https://github.com/cveForge/CVE-2026-134435"
+  },
+  {
+    "CVE": "CVE-2026-135298",
+    "PoC": "https://github.com/cveForge/CVE-2026-135298"
+  },
+  {
+    "CVE": "CVE-2026-49965",
+    "PoC": "https://github.com/cveForge/CVE-2026-49965"
+  },
+  {
+    "CVE": "CVE-2026-120676",
+    "PoC": "https://github.com/cveForge/CVE-2026-120676"
+  },
+  {
+    "CVE": "CVE-2026-124216",
+    "PoC": "https://github.com/cveForge/CVE-2026-124216"
+  },
+  {
+    "CVE": "CVE-2026-127224",
+    "PoC": "https://github.com/cveForge/CVE-2026-127224"
+  },
+  {
+    "CVE": "CVE-2026-96991",
+    "PoC": "https://github.com/cveForge/CVE-2026-96991"
+  },
+  {
+    "CVE": "CVE-2026-135617",
+    "PoC": "https://github.com/googlesky/CVE-2026-135617"
+  },
+  {
+    "CVE": "CVE-2026-133983",
+    "PoC": "https://github.com/cveForge/CVE-2026-133983"
+  },
+  {
+    "CVE": "CVE-2026-134850",
+    "PoC": "https://github.com/cveForge/CVE-2026-134850"
+  },
+  {
+    "CVE": "CVE-2026-134891",
+    "PoC": "https://github.com/cveForge/CVE-2026-134891"
+  },
+  {
+    "CVE": "CVE-2026-135300",
+    "PoC": "https://github.com/cveForge/CVE-2026-135300"
+  },
+  {
+    "CVE": "CVE-2026-136131",
+    "PoC": "https://github.com/VulnSVNC/CVE-2026-136131"
+  },
+  {
+    "CVE": "CVE-2026-135686",
+    "PoC": "https://github.com/cveForge/CVE-2026-135686"
+  },
+  {
+    "CVE": "CVE-2026-101868",
+    "PoC": "https://github.com/cveForge/CVE-2026-101868"
+  },
+  {
+    "CVE": "CVE-2026-101869",
+    "PoC": "https://github.com/cveForge/CVE-2026-101869"
+  },
+  {
+    "CVE": "CVE-2026-101870",
+    "PoC": "https://github.com/cveForge/CVE-2026-101870"
+  },
+  {
+    "CVE": "CVE-2026-107654",
+    "PoC": "https://github.com/cveForge/CVE-2026-107654"
+  },
+  {
+    "CVE": "CVE-2026-129837",
+    "PoC": "https://github.com/cveForge/CVE-2026-129837"
+  },
+  {
+    "CVE": "CVE-2026-134246",
+    "PoC": "https://github.com/cveForge/CVE-2026-134246"
+  },
+  {
+    "CVE": "CVE-2026-135738",
+    "PoC": "https://github.com/googlesky/CVE-2026-135738"
+  },
+  {
+    "CVE": "CVE-2026-135717",
+    "PoC": "https://github.com/googlesky/CVE-2026-135717"
+  },
+  {
+    "CVE": "CVE-2026-135728",
+    "PoC": "https://github.com/googlesky/CVE-2026-135728"
+  },
+  {
+    "CVE": "CVE-2026-135233",
+    "PoC": "https://github.com/googlesky/CVE-2026-135233"
+  },
+  {
+    "CVE": "CVE-2026-135256",
+    "PoC": "https://github.com/googlesky/CVE-2026-135256"
+  },
+  {
+    "CVE": "CVE-2026-135259",
+    "PoC": "https://github.com/googlesky/CVE-2026-135259"
+  },
+  {
+    "CVE": "CVE-2026-125396",
+    "PoC": "https://github.com/mainaamos/CVE-2026-125396-Upload2Shell"
+  },
+  {
+    "CVE": "CVE-2026-135257",
+    "PoC": "https://github.com/googlesky/CVE-2026-135257"
+  },
+  {
+    "CVE": "CVE-2026-135250",
+    "PoC": "https://github.com/googlesky/CVE-2026-135250"
+  },
+  {
+    "CVE": "CVE-2026-93658",
+    "PoC": "https://github.com/mohyieddine-kamal/cve-2026-93658-analysis"
+  },
+  {
+    "CVE": "CVE-2026-135239",
+    "PoC": "https://github.com/googlesky/CVE-2026-135239"
+  },
+  {
+    "CVE": "CVE-2026-135232",
+    "PoC": "https://github.com/googlesky/CVE-2026-135232"
+  },
+  {
+    "CVE": "CVE-2026-135242",
+    "PoC": "https://github.com/googlesky/CVE-2026-135242"
+  },
+  {
+    "CVE": "CVE-2026-135249",
+    "PoC": "https://github.com/googlesky/CVE-2026-135249"
+  },
+  {
+    "CVE": "CVE-2026-135252",
+    "PoC": "https://github.com/googlesky/CVE-2026-135252"
+  },
+  {
+    "CVE": "CVE-2026-135236",
+    "PoC": "https://github.com/googlesky/CVE-2026-135236"
+  },
+  {
+    "CVE": "CVE-2026-135235",
+    "PoC": "https://github.com/googlesky/CVE-2026-135235"
+  },
+  {
+    "CVE": "CVE-2026-120787",
+    "PoC": "https://github.com/cveForge/CVE-2026-120787"
+  },
+  {
+    "CVE": "CVE-2026-134859",
+    "PoC": "https://github.com/cveForge/CVE-2026-134859"
+  },
+  {
+    "CVE": "CVE-2026-135706",
+    "PoC": "https://github.com/cveForge/CVE-2026-135706"
+  },
+  {
+    "CVE": "CVE-2026-120777",
+    "PoC": "https://github.com/cveForge/CVE-2026-120777"
+  },
+  {
+    "CVE": "CVE-2026-135243",
+    "PoC": "https://github.com/googlesky/CVE-2026-135243"
+  },
+  {
+    "CVE": "CVE-2026-135253",
+    "PoC": "https://github.com/googlesky/CVE-2026-135253"
+  },
+  {
+    "CVE": "CVE-2026-135237",
+    "PoC": "https://github.com/googlesky/CVE-2026-135237"
+  },
+  {
+    "CVE": "CVE-2026-135730",
+    "PoC": "https://github.com/googlesky/CVE-2026-135730"
+  },
+  {
+    "CVE": "CVE-2026-135247",
+    "PoC": "https://github.com/googlesky/CVE-2026-135247"
+  },
+  {
+    "CVE": "CVE-2026-135742",
+    "PoC": "https://github.com/googlesky/CVE-2026-135742"
+  },
+  {
+    "CVE": "CVE-2026-135703",
+    "PoC": "https://github.com/googlesky/CVE-2026-135703"
+  },
+  {
+    "CVE": "CVE-2026-135721",
+    "PoC": "https://github.com/googlesky/CVE-2026-135721"
+  },
+  {
+    "CVE": "CVE-2026-135709",
+    "PoC": "https://github.com/googlesky/CVE-2026-135709"
+  },
+  {
+    "CVE": "CVE-2026-135716",
+    "PoC": "https://github.com/googlesky/CVE-2026-135716"
+  },
+  {
+    "CVE": "CVE-2026-135724",
+    "PoC": "https://github.com/googlesky/CVE-2026-135724"
+  },
+  {
+    "CVE": "CVE-2026-129514",
+    "PoC": "https://github.com/hoarseprairie/CVE-2026-129514-Poc"
+  },
+  {
+    "CVE": "CVE-2026-135707",
+    "PoC": "https://github.com/googlesky/CVE-2026-135707"
+  },
+  {
+    "CVE": "CVE-2026-135737",
+    "PoC": "https://github.com/googlesky/CVE-2026-135737"
+  },
+  {
+    "CVE": "CVE-2026-135741",
+    "PoC": "https://github.com/googlesky/CVE-2026-135741"
+  },
+  {
+    "CVE": "CVE-2026-135733",
+    "PoC": "https://github.com/googlesky/CVE-2026-135733"
+  },
+  {
+    "CVE": "CVE-2026-135710",
+    "PoC": "https://github.com/googlesky/CVE-2026-135710"
+  },
+  {
+    "CVE": "CVE-2026-135719",
+    "PoC": "https://github.com/googlesky/CVE-2026-135719"
+  },
+  {
+    "CVE": "CVE-2026-135726",
+    "PoC": "https://github.com/googlesky/CVE-2026-135726"
+  },
+  {
+    "CVE": "CVE-2026-108574",
+    "PoC": "https://github.com/hakaioffsec/CVE-2026-108574-CVE-2026-108575-POC"
+  },
+  {
+    "CVE": "CVE-2026-99491",
+    "PoC": "https://github.com/ChaYeWuu/prague-CVE-2026-99491"
+  },
+  {
+    "CVE": "CVE-2024-3400",
+    "PoC": "https://github.com/khaidoan04/CVE-2024-3400-Wazuh-ML-Detection"
+  },
+  {
+    "CVE": "CVE-2026-135472",
+    "PoC": "https://github.com/googlesky/CVE-2026-135472"
+  },
+  {
+    "CVE": "CVE-2026-107784",
+    "PoC": "https://github.com/googlesky/CVE-2026-107784"
+  },
+  {
+    "CVE": "CVE-2026-129830",
+    "PoC": "https://github.com/googlesky/CVE-2026-129830"
+  },
+  {
+    "CVE": "CVE-2026-136139",
+    "PoC": "https://github.com/googlesky/CVE-2026-136139"
+  },
+  {
+    "CVE": "CVE-2026-135817",
+    "PoC": "https://github.com/googlesky/CVE-2026-135817"
+  },
+  {
+    "CVE": "CVE-2026-16668",
+    "PoC": "https://github.com/googlesky/CVE-2026-16668"
+  },
+  {
+    "CVE": "CVE-2026-136134",
+    "PoC": "https://github.com/googlesky/CVE-2026-136134"
+  },
+  {
+    "CVE": "CVE-2026-135818",
+    "PoC": "https://github.com/googlesky/CVE-2026-135818"
+  },
+  {
+    "CVE": "CVE-2026-59191",
+    "PoC": "https://github.com/googlesky/CVE-2026-59191"
+  },
+  {
+    "CVE": "CVE-2026-64855",
+    "PoC": "https://github.com/googlesky/CVE-2026-64855"
+  },
+  {
+    "CVE": "CVE-2026-124851",
+    "PoC": "https://github.com/suominen/CVE-2026-124851"
+  },
+  {
+    "CVE": "CVE-2026-16665",
+    "PoC": "https://github.com/googlesky/CVE-2026-16665"
+  },
+  {
+    "CVE": "CVE-2026-16663",
+    "PoC": "https://github.com/googlesky/CVE-2026-16663"
+  },
+  {
+    "CVE": "CVE-2026-136412",
+    "PoC": "https://github.com/googlesky/CVE-2026-136412"
+  },
+  {
+    "CVE": "CVE-2026-136404",
+    "PoC": "https://github.com/googlesky/CVE-2026-136404"
+  },
+  {
+    "CVE": "CVE-2026-59831",
+    "PoC": "https://github.com/googlesky/CVE-2026-59831"
+  },
+  {
+    "CVE": "CVE-2026-136411",
+    "PoC": "https://github.com/googlesky/CVE-2026-136411"
+  },
+  {
     "CVE": "CVE-2026-58882",
     "PoC": "https://github.com/warsecurity/-CVE-2026-58882"
   },
